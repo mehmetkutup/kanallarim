@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mehmetkutup/kanallarim/master/guide.xml"
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mehmetkutup/kanallarim/master/guide.xml"
 #EXTINF:-1 tvg-chno="149" tvg-id="TLC" tvg-name="TLC TR" tvg-logo="http://static.iptv-epg.com/tr/TLC.tr.png" group-title="BELGESEL",TR:TLC
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/976.m3u8
 #EXTINF:-1 tvg-chno="153" tvg-id="BBC Earth" tvg-name="BBC Earth TR" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" group-title="BELGESEL" audio-track="TR",TR:BBC.EARTH
@@ -33,8 +33,26 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/242.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15995.m3u8
 #EXTINF:-1 tvg-chno="168" tvg-id="YabanTV.tr" tvg-name="Yaban TV TR" tvg-logo="http://static.iptv-epg.com/tr/YabanTV.tr.png" group-title="BELGESEL",TR:YABAN.TV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2688.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TV_480p
-http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1154.m3u8
+#EXTINF:-1 tvg-chno="153" tvg-id="BBC Earth" tvg-name="BBC Earth TR" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" group-title="BELGESEL" audio-track="TR",TR:BBC.EARTH-R
+http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/bbcearth/chunks.m3u8
+#EXTINF:-1 tvg-chno="154" tvg-id="Discovery Channel HD" tvg-name="Discovery Channel TR" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryChannel.tr.png" group-title="BELGESEL",TR:DISCOVERYCHANNEL-R
+http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/discoverychannel/chunks.m3u8
+#EXTINF:-1 tvg-chno="155" tvg-id="Nat Geo People" tvg-name="Nat Geo People TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeoPeople.tr.png" group-title="BELGESEL",TR:NAT.GEO.PEOPLE.HD-R
+http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/natgeopeople/chunks.m3u8
+#EXTINF:-1 tvg-chno="157" tvg-id="Discovery Science" tvg-name="Discovery Science TR" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryScience.tr.png" group-title="BELGESEL",TR:DISCOVERY_SCIENCE-R
+http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/discoverysceince/chunks.m3u8
+#EXTINF:-1 tvg-chno="158" tvg-id="National Geographic HD" tvg-name="National Geographic TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeo.tr.png" group-title="BELGESEL",TR:NATIONALGEO-R
+http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/nationalgeographic/chunks.m3u8
+#EXTINF:-1 tvg-chno="159" tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeoWild.tr.png" group-title="BELGESEL",TR:NATIONALGEOWILD-R
+http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/natgeowild/chunks.m3u8
+#EXTINF:-1 tvg-chno="161" tvg-id="Turkmax Gurme HD" tvg-name="beIN Gurme TR" tvg-logo="http://static.iptv-epg.com/tr/beINGurme.tr.png" group-title="BELGESEL",TR:beIN.GURME-R
+http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/beingurme/chunks.m3u8
+#EXTINF:-1 tvg-chno="162" tvg-id="İZ TV" tvg-name="beIN İZ TR" tvg-logo="http://static.iptv-epg.com/tr/beINiz.tr.png" group-title="BELGESEL",TR:İZ TV-R
+http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/beiniz/chunks.m3u8
+#EXTINF:-1 tvg-chno="163" tvg-id="Animal Planet" tvg-name="Animal Planet TR" tvg-logo="http://static.iptv-epg.com/tr/AnimalPlanet.tr.png" group-title="BELGESEL",TR:ANIMALPLANETHD-R
+http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/animalplanet/chunks.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TV_Rehim
+http://yayin12.bunusanasoracagim.best:80/priv/b1111/chunks.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TV_576p
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/994.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1(Play)
