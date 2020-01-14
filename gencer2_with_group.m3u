@@ -1,0 +1,657 @@
+#EXTM3U x-tvg-url="https://www.dropbox.com/s/k4zpk9dszp7mpty/guide.xml?dl=0"
+#EXTINF:-1 tvg-chno="149" tvg-id="TLC" tvg-name="TLC TR" tvg-logo="http://static.iptv-epg.com/tr/TLC.tr.png" group-title="BELGESEL",TR:TLC
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/976.m3u8
+#EXTINF:-1 tvg-chno="153" tvg-id="BBC Earth" tvg-name="BBC Earth TR" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" group-title="BELGESEL" audio-track="TR",TR:BBC.EARTH
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/5952.m3u8
+#EXTINF:-1 tvg-chno="154" tvg-id="Discovery Channel HD" tvg-name="Discovery Channel TR" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryChannel.tr.png" group-title="BELGESEL",TR:DISCOVERYCHANNEL
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/265.m3u8
+#EXTINF:-1 tvg-chno="155" tvg-id="Nat Geo People" tvg-name="Nat Geo People TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeoPeople.tr.png" group-title="BELGESEL",TR:NAT.GEO.PEOPLE.HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/10166.m3u8
+#EXTINF:-1 tvg-chno="156" tvg-id="DiscoveryIDXtra.tr" tvg-name="ID X" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryIDXtra.tr.png" group-title="BELGESEL",TR:DISCOVERY_IDX
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/784.m3u8
+#EXTINF:-1 tvg-chno="157" tvg-id="Discovery Science" tvg-name="Discovery Science TR" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryScience.tr.png" group-title="BELGESEL",TR:DISCOVERY_SCIENCE
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/5948.m3u8
+#EXTINF:-1 tvg-chno="158" tvg-id="National Geographic HD" tvg-name="National Geographic TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeo.tr.png" group-title="BELGESEL",TR:NATIONALGEO
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/253.m3u8
+#EXTINF:-1 tvg-chno="159" tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeoWild.tr.png" group-title="BELGESEL",TR:NATIONALGEOWILD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/252.m3u8
+#EXTINF:-1 tvg-chno="160" tvg-id="24Kitchen" tvg-name="24 Kitchen TR" tvg-logo="http://static.iptv-epg.com/tr/24Kitchen.tr.png" group-title="BELGESEL",TR:24 KiTCHEN
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15993.m3u8
+#EXTINF:-1 tvg-chno="161" tvg-id="Turkmax Gurme HD" tvg-name="beIN Gurme TR" tvg-logo="http://static.iptv-epg.com/tr/beINGurme.tr.png" group-title="BELGESEL",TR:beIN.GURME
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1176.m3u8
+#EXTINF:-1 tvg-chno="162" tvg-id="İZ TV" tvg-name="beIN İZ TR" tvg-logo="http://static.iptv-epg.com/tr/beINiz.tr.png" group-title="BELGESEL",TR:İZ TV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/778.m3u8
+#EXTINF:-1 tvg-chno="163" tvg-id="Animal Planet" tvg-name="Animal Planet TR" tvg-logo="http://static.iptv-epg.com/tr/AnimalPlanet.tr.png" group-title="BELGESEL",TR:ANIMALPLANETHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/268.m3u8
+#EXTINF:-1 tvg-chno="164" tvg-id="History" tvg-name="History Channel TR" tvg-logo="http://static.iptv-epg.com/tr/HistoryChannel.tr.png" group-title="BELGESEL",TR:HISTORYCHANNEL
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/263.m3u8
+#EXTINF:-1 tvg-chno="165" tvg-id="DMAX" tvg-name="Dmax DE" tvg-logo="http://static.iptv-epg.com/de/DMax.de.png" group-title="BELGESEL",TR:DMAX
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/236.m3u8
+#EXTINF:-1 tvg-chno="166" tvg-id="TRT Belgesel" tvg-name="TRT Belgesel TR" tvg-logo="http://static.iptv-epg.com/tr/TRTBelgesel.tr.png" group-title="BELGESEL",TR:TRTBELGESELHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/242.m3u8
+#EXTINF:-1 tvg-chno="167" tvg-id="Viasat History" tvg-name="Viasat History RU" tvg-logo="http://static.iptv-epg.com/ru/ViasatHistory.ru.png" group-title="BELGESEL",TR:ViASAT HiSTORY
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15995.m3u8
+#EXTINF:-1 tvg-chno="168" tvg-id="YabanTV.tr" tvg-name="Yaban TV TR" tvg-logo="http://static.iptv-epg.com/tr/YabanTV.tr.png" group-title="BELGESEL",TR:YABAN.TV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2688.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TV_480p
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1154.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TV_576p
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/994.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1(Play)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14873.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="LaLigaTV.es" tvg-logo="http://static.iptv-epg.com/es/LaLigaTV.es.png" group-title="SPOR",TR:LIG1TVSD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/230.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TVHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/227.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TV_4K
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/5944.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="LİG TV 2" tvg-name="beIN Sports 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports2.tr.png" group-title="SPOR",TR:LIG2TVHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/228.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="LİG TV 2" tvg-name="beIN Sports 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports2.tr.png" group-title="SPOR",TR:LIG2TVHD_YEDEK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1153.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="LİG TV 2" group-title="SPOR",TR:LIG2(Play)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14872.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="LİG TV 3" group-title="SPOR",TR:LIG3TVHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/229.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="LİG TV 3" group-title="SPOR",TR:LIG3TVHD_YEDEK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1152.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="LİG TV 3" group-title="SPOR",TR:LIG3(Play)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14871.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="LİG TV 4" group-title="SPOR",TR:LIG4TVHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/993.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="LİG TV 4" group-title="SPOR",TR:LIG4TVHD_YEDEK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1151.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="LİG TV 4" group-title="SPOR",TR:LIG4(Play)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14870.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="beINMax1.qa" tvg-name="beIN Max 1 QA" tvg-logo="http://static.iptv-epg.com/qa/beINMax1.qa.png" group-title="SPOR",TR:beIN.MAX1.HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2687.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="beINMax1.qa" tvg-name="beIN Max 1 QA" tvg-logo="http://static.iptv-epg.com/qa/beINMax1.qa.png" group-title="SPOR",TR:beIN.MAX1.SD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/5194.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="beINMax1.qa" tvg-name="beIN Max 1 QA" tvg-logo="http://static.iptv-epg.com/qa/beINMax1.qa.png" group-title="SPOR",TR:beIN.MAX-1(Play)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14869.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="beINMax2.qa" tvg-name="beIN Max 2 QA" tvg-logo="http://static.iptv-epg.com/qa/beINMax2.qa.png" group-title="SPOR",TR:beIN.MAX2.HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3067.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="beINMax2.qa" tvg-name="beIN Max 2 QA" tvg-logo="http://static.iptv-epg.com/qa/beINMax2.qa.png" group-title="SPOR",TR:beIN.MAX2.SD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/5195.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="beINMax2.qa" tvg-name="beIN Max 2 QA" tvg-logo="http://static.iptv-epg.com/qa/beINMax2.qa.png" group-title="SPOR",TR:beIN.MAX-2(Play)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14868.m3u8
+#EXTINF:-1 tvg-chno="22" group-title="SPOR",TR:beIN_HABER
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3423.m3u8
+#EXTINF:-1 tvg-chno="23" group-title="SPOR",TR:TIVIBUSPOR1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/231.m3u8
+#EXTINF:-1 tvg-chno="24" group-title="SPOR",TR:TIVIBUSPOR2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/232.m3u8
+#EXTINF:-1 tvg-chno="25" group-title="SPOR",TR:TIVIBUSPOR2_YEDEK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3098.m3u8
+#EXTINF:-1 tvg-chno="26" group-title="SPOR",TR:TIVIBUSPOR3
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1065.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="SmartSme.th" tvg-name="Smart Sme TH" tvg-logo="http://static.iptv-epg.com/th/SmartSme.th.png" group-title="SPOR",TR:SMARTSPORHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/233.m3u8
+#EXTINF:-1 tvg-chno="28" group-title="SPOR",TR:SMARTSPOR_YEDEK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3084.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="OmanSport.sa" tvg-name="Oman Sport SA" tvg-logo="http://static.iptv-epg.com/sa/OmanSport.sa.png" group-title="SPOR",TR:SARANSPORT
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/234.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="SaudiSport2.sa" tvg-name="Saudi Sport 2 SA" tvg-logo="http://static.iptv-epg.com/sa/SaudiSport2.sa.png" group-title="SPOR",TR:SARANSPORT2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/16000.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="Eurosport1.tr" tvg-name="Eurosport 1 TR" tvg-logo="http://static.iptv-epg.com/tr/Eurosport1.tr.png" group-title="SPOR",TR:EUROSPORT1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/809.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="Eurosport2.tr" tvg-name="Eurosport 2 TR" tvg-logo="http://static.iptv-epg.com/tr/Eurosport2.tr.png" group-title="SPOR",TR:EUROSPORT2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/810.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="BTSport1.uk" tvg-name="BT Sport 1 UK" tvg-logo="http://static.iptv-epg.com/uk/BTSport1.uk.png" group-title="SPOR",UK:BTSport1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1193.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="BTSport2.uk" tvg-name="BT Sport 2 UK" tvg-logo="http://static.iptv-epg.com/uk/BTSport2.uk.png" group-title="SPOR",UK:BTSport2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1192.m3u8
+#EXTINF:-1 tvg-chno="35" group-title="SPOR",UK:BTSportEUROPE
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1191.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="BTSportESPN.uk" tvg-name="BT Sport/ESPN UK" tvg-logo="http://static.iptv-epg.com/uk/BTSportESPN.uk.png" group-title="SPOR",UK:BT.SPORT.ESPN
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2184.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="beINSports1.tr" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",AR:BEINSPORTS1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/902.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="beINSports2.tr" tvg-name="beIN Sports 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports2.tr.png" group-title="SPOR",AR:BEINSPORTS2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/900.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="beINSports3.tr" tvg-name="beIN Sports 3 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports3.tr.png" group-title="SPOR",AR:BEINSPORTS3
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/899.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="beINSports4.tr" tvg-name="beIN Sports 4 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports4.tr.png" group-title="SPOR",AR:BEINSPORTS4
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/898.m3u8
+#EXTINF:-1 tvg-chno="41" group-title="SPOR",AR:BEINSPORTS5
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/897.m3u8
+#EXTINF:-1 tvg-chno="42" group-title="SPOR",AR:BEINSPORTS6
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/896.m3u8
+#EXTINF:-1 tvg-chno="43" group-title="SPOR",AR:BEINSPORTS7
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/895.m3u8
+#EXTINF:-1 tvg-chno="44" group-title="SPOR",AR:BEINSPORTS8
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/894.m3u8
+#EXTINF:-1 tvg-chno="45" group-title="SPOR",AR:BEINSPORTS9
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/893.m3u8
+#EXTINF:-1 tvg-chno="46" group-title="SPOR",AR:BEINSPORTS10
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3730.m3u8
+#EXTINF:-1 tvg-chno="47" group-title="SPOR",AR:BEINSPORTS11(ENGLISH)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3729.m3u8
+#EXTINF:-1 tvg-chno="48" group-title="SPOR",AR:BEINSPORTS12(ENGLISH)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3728.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="http://static.iptv-epg.com/uk/SkySportsF1.uk.png" group-title="SPOR",UK:SKYSPORTS1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/892.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="http://static.iptv-epg.com/uk/SkySportsF1.uk.png" group-title="SPOR",UK:SKYSPORTS2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/891.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="http://static.iptv-epg.com/uk/SkySportsF1.uk.png" group-title="SPOR",UK:SKYSPORTS3
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/890.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="http://static.iptv-epg.com/uk/SkySportsF1.uk.png" group-title="SPOR",UK:SKYSPORTS4
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/889.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="http://static.iptv-epg.com/uk/SkySportsF1.uk.png" group-title="SPOR",UK:SKYSPORTS5
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/888.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-id="DAZN.br" tvg-name="DAZN BR" tvg-logo="http://static.iptv-epg.com/br/DAZN.br.png" group-title="SPOR",DE:DAZN BAR 1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/10337.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="DAZN.br" tvg-name="DAZN BR" tvg-logo="http://static.iptv-epg.com/br/DAZN.br.png" group-title="SPOR",DE:DAZN BAR 2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/10336.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 DE" tvg-logo="http://static.iptv-epg.com/de/SkyBundesliga1.de.png" group-title="SPOR",DE:SKY.BUNDESLIGA.1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/964.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 DE" tvg-logo="http://static.iptv-epg.com/de/SkyBundesliga2.de.png" group-title="SPOR",DE:SKY.BUNDESLIGA.2(ONLY.LIVE)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/962.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3 DE" tvg-logo="http://static.iptv-epg.com/de/SkyBundesliga3.de.png" group-title="SPOR",DE:SKY.BUNDESLIGA.3(ONLY.LIVE)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/961.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4 DE" tvg-logo="http://static.iptv-epg.com/de/SkyBundesliga4.de.png" group-title="SPOR",DE:SKY.BUNDESLIGA.4(ONLY.LIVE)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/960.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 DE" tvg-logo="http://static.iptv-epg.com/de/SkyBundesliga5.de.png" group-title="SPOR",DE:SKY.BUNDESLIGA.5(ONLY.LIVE)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3116.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 DE" tvg-logo="http://static.iptv-epg.com/de/SkyBundesliga6.de.png" group-title="SPOR",DE:SKY.BUNDESLIGA.6(ONLY.LIVE)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3115.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 DE" tvg-logo="http://static.iptv-epg.com/de/SkyBundesliga7.de.png" group-title="SPOR",DE:SKY.BUNDESLIGA.7(ONLY.LIVE)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3114.m3u8
+#EXTINF:-1 tvg-chno="63" tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 DE" tvg-logo="http://static.iptv-epg.com/de/SkyBundesliga8.de.png" group-title="SPOR",DE:SKY.BUNDESLIGA.8(ONLY.LIVE)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3113.m3u8
+#EXTINF:-1 tvg-chno="64" tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 DE" tvg-logo="http://static.iptv-epg.com/de/SkyBundesliga9.de.png" group-title="SPOR",DE:SKY.BUNDESLIGA.9(ONLY.LIVE)
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3112.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-id="MunchenTV.de" tvg-name="München TV DE" tvg-logo="http://static.iptv-epg.com/de/MunchenTV.de.png" group-title="SPOR",DE:MUENCHEN TV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3117.m3u8
+#EXTINF:-1 tvg-chno="66" group-title="SPOR",CRO:ArenaSport1HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1182.m3u8
+#EXTINF:-1 tvg-chno="67" group-title="SPOR",CRO:ArenaSport2HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1181.m3u8
+#EXTINF:-1 tvg-chno="68" group-title="SPOR",CRO:ArenaSport3HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1180.m3u8
+#EXTINF:-1 tvg-chno="69" group-title="SPOR",CRO:ArenaSport4HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1179.m3u8
+#EXTINF:-1 tvg-chno="70" group-title="SPOR",CRO:ArenaSport5HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1178.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="FBTV.tr" tvg-name="FB TV TR" tvg-logo="http://static.iptv-epg.com/tr/FBTV.tr.png" group-title="SPOR",TR:FBTV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/781.m3u8
+#EXTINF:-1 tvg-chno="72" tvg-id="GSTV.in" tvg-name="GSTV IN" tvg-logo="http://static.iptv-epg.com/in/GSTV.in.png" group-title="SPOR",TR:GSTV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/780.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="TRTSpor.tr" tvg-name="TRT Spor TR" tvg-logo="http://static.iptv-epg.com/tr/TRTSpor.tr.png" group-title="SPOR",TR:TRTSPORHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/235.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="ASpor.tr" tvg-name="A Spor TR" tvg-logo="http://static.iptv-epg.com/tr/ASpor.tr.png" group-title="SPOR",TR:ASPORHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/237.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="TJKTV.tr" tvg-name="TJK TV TR" tvg-logo="http://static.iptv-epg.com/tr/TJKTV.tr.png" group-title="SPOR",TR:TJKTV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/617.m3u8
+#EXTINF:-1 tvg-chno="76" tvg-id="NBATV.tr" tvg-name="NBA TV TR" tvg-logo="http://static.iptv-epg.com/tr/NBATV.tr.png" group-title="SPOR",TR:NBATV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/300.m3u8
+#EXTINF:-1 tvg-chno="150" tvg-id="FXNetwork.tr" tvg-name="FX TR" tvg-logo="http://static.iptv-epg.com/tr/FXNetwork.tr.png" group-title="SINEMA",US:FXHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/299.m3u8
+#EXTINF:-1 tvg-chno="152" tvg-id="FoxCrime.tr" tvg-name="Fox Crime TR" tvg-logo="http://static.iptv-epg.com/tr/FoxCrime.tr.png" group-title="SINEMA",TR:FOX.CRIME-HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/969.m3u8
+#EXTINF:-1 tvg-chno="78" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON 1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2397.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON 2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2391.m3u8
+#EXTINF:-1 tvg-chno="80" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON 3
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2387.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON 4
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15482.m3u8
+#EXTINF:-1 tvg-chno="82" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON 5
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15481.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON 6
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15480.m3u8
+#EXTINF:-1 tvg-chno="84" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON 7
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15479.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON 8
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15478.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON 9
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15477.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON 10
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15476.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON11
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/16436.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON12
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/16435.m3u8
+#EXTINF:-1 tvg-chno="90" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON13
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/16434.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON14
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/16433.m3u8
+#EXTINF:-1 tvg-chno="92" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON15
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/16432.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON16
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/16431.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON17
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/16430.m3u8
+#EXTINF:-1 tvg-chno="95" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON18
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/16429.m3u8
+#EXTINF:-1 tvg-chno="96" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON19
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/16428.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",TR:SINEVIZYON20
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/16427.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-id="Filmbox.tr" tvg-name="Filmbox TR" tvg-logo="http://static.iptv-epg.com/tr/Filmbox.tr.png" group-title="SINEMA",TR:FiLMBOXHD.TURK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2399.m3u8
+#EXTINF:-1 tvg-chno="99" tvg-id="FilmBoxAfrica.pl" tvg-name="FilmBox Africa PL" tvg-logo="http://static.iptv-epg.com/pl/FilmBoxAfrica.pl.png" group-title="SINEMA",TR:FiLMBOXHD.YESiLCAM
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2400.m3u8
+#EXTINF:-1 tvg-chno="100" group-title="SINEMA",TR:FiLMBOXHD.KEMALSUNAL
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/261.m3u8
+#EXTINF:-1 tvg-chno="101" group-title="SINEMA",TR:FiLMBOXHD.KOMEDi
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2395.m3u8
+#EXTINF:-1 tvg-chno="102" group-title="SINEMA",TR:FiLMBOXHD.BiLIMKURGU
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2392.m3u8
+#EXTINF:-1 tvg-chno="103" group-title="SINEMA",TR:FiLMBOXHD.AKSiYON
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2389.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="Filmbox.tr" tvg-name="Filmbox TR" tvg-logo="http://static.iptv-epg.com/tr/Filmbox.tr.png" group-title="SINEMA",TR:FiLMBOXHD.DRAM
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2393.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="FilmBoxFamily.ro" tvg-name="FilmBox Family RO" tvg-logo="http://static.iptv-epg.com/ro/FilmBoxFamily.ro.png" group-title="SINEMA",TR:FiLMBOXHD.AiLE
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2388.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-id="Filmbox.tr" tvg-name="Filmbox TR" tvg-logo="http://static.iptv-epg.com/tr/Filmbox.tr.png" group-title="SINEMA",TR:FiLMBOXHD.FANTASTiK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2394.m3u8
+#EXTINF:-1 tvg-chno="107" tvg-id="Filmbox.hu" tvg-name="Filmbox HU" tvg-logo="http://static.iptv-epg.com/hu/Filmbox.hu.png" group-title="SINEMA",TR:FiLMBOXHD.KORKU
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2396.m3u8
+#EXTINF:-1 tvg-chno="108" group-title="SINEMA",TR:Moviesmart.Turk
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/967.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="MovistarGolf.es" tvg-logo="http://static.iptv-epg.com/es/MovistarGolf.es.png" group-title="SINEMA",TR:Moviesmart.Gold
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/5197.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="FOXMoviesPremium.id" tvg-name="FOX Movies Premium ID" tvg-logo="http://static.iptv-epg.com/id/FOXMoviesPremium.id.png" group-title="SINEMA",TR:Moviesmart.Premium
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/975.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="FOXMoviesPremium.id" tvg-name="FOX Movies Premium ID" tvg-logo="http://static.iptv-epg.com/id/FOXMoviesPremium.id.png" group-title="SINEMA",TR:Moviesmart.Premium.2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/4864.m3u8
+#EXTINF:-1 tvg-chno="112" group-title="SINEMA",TR:Moviesmart.Action
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1420.m3u8
+#EXTINF:-1 tvg-chno="113" tvg-id="beINMoviesAction.tr" tvg-name="beIN Movies Action TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesAction.tr.png" group-title="SINEMA",TR:Moviesmart.Platin
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1422.m3u8
+#EXTINF:-1 tvg-chno="114" tvg-id="beINMoviesAction2.tr" tvg-name="beIN Movies Action 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesAction2.tr.png" group-title="SINEMA",TR:Moviesmart.Platin.2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1426.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="SkyMoviesClassics.nz" tvg-name="SKY Movies Classics NZ" tvg-logo="http://static.iptv-epg.com/nz/SkyMoviesClassics.nz.png" group-title="SINEMA",TR:Moviesmart.Classic
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/4905.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="MovistarGolf.es" tvg-logo="http://static.iptv-epg.com/es/MovistarGolf.es.png" group-title="SINEMA",TR:Moviesmart.Festival
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/346.m3u8
+#EXTINF:-1 tvg-chno="117" group-title="SINEMA",TR:Moviesmart.Family
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1419.m3u8
+#EXTINF:-1 tvg-chno="118" tvg-id="AmediaPremium.ru" tvg-name="Amedia Premium RU" tvg-logo="http://static.iptv-epg.com/ru/AmediaPremium.ru.png" group-title="SINEMA",TR:Dizismart.Premium
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1421.m3u8
+#EXTINF:-1 tvg-chno="119" tvg-id="beINMoviesTurk.tr" tvg-name="beIN Movies Turk TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesTurk.tr.png" group-title="SINEMA",TR:beIN.Movies.Turk
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1427.m3u8
+#EXTINF:-1 tvg-chno="120" tvg-id="beINMoviesPremier.tr" tvg-name="beIN Movies Premier TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesPremier.tr.png" group-title="SINEMA",TR:beIN.Movies.Premiere
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2405.m3u8
+#EXTINF:-1 tvg-chno="121" group-title="SINEMA",TR:beIN.Movies.Premier.2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1425.m3u8
+#EXTINF:-1 tvg-chno="122" tvg-id="beINMoviesAction.tr" tvg-name="beIN Movies Action TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesAction.tr.png" group-title="SINEMA",TR:beIN.Movies.Action
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/249.m3u8
+#EXTINF:-1 tvg-chno="123" tvg-id="beINMoviesAction2.tr" tvg-name="beIN Movies Action 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesAction2.tr.png" group-title="SINEMA",TR:beIN.Movies.Action.2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2992.m3u8
+#EXTINF:-1 tvg-chno="124" tvg-id="beINMoviesFamily.tr" tvg-name="beIN Movies Family TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesFamily.tr.png" group-title="SINEMA",TR:beIN.Movies.Family
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/247.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-id="beINMoviesStars.tr" tvg-name="beIN Movies Stars TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesStars.tr.png" group-title="SINEMA",TR:beIN.Movies.Stars
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/262.m3u8
+#EXTINF:-1 tvg-chno="126" tvg-id="beINSeriesVice.tr" tvg-name="beIN Series Vice TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesVice.tr.png" group-title="SINEMA",TR:beIN.Series.Vice
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/985.m3u8
+#EXTINF:-1 tvg-chno="127" tvg-id="beINSeriesSciFi.tr" tvg-name="beIN Series Sci Fi TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesSciFi.tr.png" group-title="SINEMA",TR:beIN.Series.Sci-Fi
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/243.m3u8
+#EXTINF:-1 tvg-chno="128" tvg-id="beINSeriesDrama.tr" tvg-name="beIN Series Drama TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesDrama.tr.png" group-title="SINEMA",TR:beIN.Series.Drama
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/244.m3u8
+#EXTINF:-1 tvg-chno="129" tvg-id="beINSeriesComedy.tr" tvg-name="beIN Series Comedy TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesComedy.tr.png" group-title="SINEMA",TR:beIN.Series.Comedy
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/770.m3u8
+#EXTINF:-1 tvg-chno="130" tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice1.tr.png" group-title="SINEMA",TR:beIN.BOXOFFİCE1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14864.m3u8
+#EXTINF:-1 tvg-chno="131" tvg-id="beINBoxOffice2.tr" tvg-name="beIN Box Office 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice2.tr.png" group-title="SINEMA",TR:beINBOXOFFİCE2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14863.m3u8
+#EXTINF:-1 tvg-chno="132" tvg-id="beINBoxOffice3.tr" tvg-name="beIN Box Office 3 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice3.tr.png" group-title="SINEMA",TR:beINBOXOFFİCE3
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14862.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-id="SinemaTV.tr" tvg-name="SinemaTV TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTV.tr.png" group-title="SINEMA",SiNEMA.TV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14640.m3u8
+#EXTINF:-1 tvg-chno="134" tvg-id="SinemaTV1001.tr" tvg-name="SinemaTV 1001 TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTV1001.tr.png" group-title="SINEMA",SiNEMA.TV.1001
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14636.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" group-title="SINEMA",SiNEMA.TV.AKSiYON
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14639.m3u8
+#EXTINF:-1 tvg-chno="136" tvg-id="SinemaTVAile.tr" tvg-name="SinemaTV Aile TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAile.tr.png" group-title="SINEMA",SiNEMA.TV.AiLE
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14638.m3u8
+#EXTINF:-1 tvg-chno="137" tvg-id="SinemaTVYerly.tr" tvg-name="Sinema TV Yerli TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVYerly.tr.png" group-title="SINEMA",TR:SINEMATV.YERLI
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1418.m3u8
+#EXTINF:-1 tvg-chno="138" tvg-id="SinemaTVComedy.tr" tvg-name="SinemaTV Comedy TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVComedy.tr.png" group-title="SINEMA",TR:SINEMATV.KOMEDI
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/248.m3u8
+#EXTINF:-1 tvg-chno="139" tvg-id="StarzCinema.us" tvg-name="Starz Cinema US" tvg-logo="http://static.iptv-epg.com/us/StarzCinema.us.png" group-title="SINEMA",TR:STAR.CINEMA.TURK.1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/12172.m3u8
+#EXTINF:-1 tvg-chno="140" tvg-id="StarzCinema.us" tvg-name="Starz Cinema US" tvg-logo="http://static.iptv-epg.com/us/StarzCinema.us.png" group-title="SINEMA",TR:STAR.CINEMA.TURK.2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/12175.m3u8
+#EXTINF:-1 tvg-chno="141" tvg-id="StarzCinema.us" tvg-name="Starz Cinema US" tvg-logo="http://static.iptv-epg.com/us/StarzCinema.us.png" group-title="SINEMA",TR:STAR.CINEMA.TURK.3
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/12176.m3u8
+#EXTINF:-1 tvg-chno="142" tvg-id="StarzCinema.us" tvg-name="Starz Cinema US" tvg-logo="http://static.iptv-epg.com/us/StarzCinema.us.png" group-title="SINEMA",TR:STAR.CINEMA.TURK.4
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/12177.m3u8
+#EXTINF:-1 tvg-chno="143" tvg-id="StarzCinema.us" tvg-name="Starz Cinema US" tvg-logo="http://static.iptv-epg.com/us/StarzCinema.us.png" group-title="SINEMA",TR:STAR.CINEMA.TURK.5
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/12178.m3u8
+#EXTINF:-1 tvg-chno="144" tvg-id="StarzCinema.us" tvg-name="Starz Cinema US" tvg-logo="http://static.iptv-epg.com/us/StarzCinema.us.png" group-title="SINEMA",TR:STAR.CINEMA.TURK.6
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/12179.m3u8
+#EXTINF:-1 tvg-chno="145" tvg-id="StarzCinema.us" tvg-name="Starz Cinema US" tvg-logo="http://static.iptv-epg.com/us/StarzCinema.us.png" group-title="SINEMA",TR:STAR.CINEMA.TURK.7
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/12180.m3u8
+#EXTINF:-1 tvg-chno="146" tvg-id="StarzCinema.us" tvg-name="Starz Cinema US" tvg-logo="http://static.iptv-epg.com/us/StarzCinema.us.png" group-title="SINEMA",TR:STAR.CINEMA.TURK.8
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/12181.m3u8
+#EXTINF:-1 tvg-chno="147" tvg-id="StarzCinema.us" tvg-name="Starz Cinema US" tvg-logo="http://static.iptv-epg.com/us/StarzCinema.us.png" group-title="SINEMA",TR:STAR.CINEMA.TURK.9
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/12182.m3u8
+#EXTINF:-1 tvg-chno="148" tvg-id="StarzCinema.us" tvg-name="Starz Cinema US" tvg-logo="http://static.iptv-epg.com/us/StarzCinema.us.png" group-title="SINEMA",TR:STAR.CINEMA.TURK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/12183.m3u8
+#EXTINF:-1 tvg-chno="151" tvg-id="FXNetwork.tr" tvg-name="FX TR" tvg-logo="http://static.iptv-epg.com/tr/FXNetwork.tr.png" group-title="SINEMA",TR:FX
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1177.m3u8
+#EXTINF:-1 tvg-chno="183" tvg-id="Fox" tvg-name="Fox TR" tvg-logo="http://static.iptv-epg.com/tr/Fox.tr.png" group-title="TURKISH",TR:FOXTVHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/216.m3u8
+#EXTINF:-1 tvg-chno="169" tvg-id="TRT 1" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" group-title="TURKISH",TR:TRT 4K
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15996.m3u8
+#EXTINF:-1 tvg-chno="171" tvg-id="TRT 1" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" group-title="TURKISH",TR:TRT1HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/206.m3u8
+#EXTINF:-1 tvg-chno="175" tvg-id="ATV" tvg-name="ATV TR" tvg-logo="http://static.iptv-epg.com/tr/ATV.tr.png" group-title="TURKISH",TR:ATVHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/208.m3u8
+#EXTINF:-1 tvg-chno="177" tvg-id="Show" tvg-name="Show TV TR" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" group-title="TURKISH",TR:SHOWTVHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/210.m3u8
+#EXTINF:-1 tvg-chno="179" tvg-id="Kanal D" tvg-name="Kanal D TR" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" group-title="TURKISH",TR:KANALDHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/209.m3u8
+#EXTINF:-1 tvg-chno="181" tvg-id="STAR TV" tvg-name="Star TV TR" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" group-title="TURKISH",TR:STARTVHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/213.m3u8
+#EXTINF:-1 tvg-chno="187" tvg-id="TV8" tvg-name="TV8 TR" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" group-title="TURKISH",TR:TV8HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/214.m3u8
+#EXTINF:-1 tvg-chno="172" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" group-title="TURKISH",TR:TRT2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14874.m3u8
+#EXTINF:-1 tvg-chno="180" tvg-id="Star TV" tvg-name="Star TV TR" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" group-title="TURKISH",TR:STARTV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6018.m3u8
+#EXTINF:-1 tvg-chno="173" tvg-name="TRT Okul TR" tvg-logo="http://static.iptv-epg.com/tr/TRTOkul.tr.png" group-title="TURKISH",TR:TRT2HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14875.m3u8
+#EXTINF:-1 tvg-chno="174" tvg-id="ATV" tvg-name="ATV TR" tvg-logo="http://static.iptv-epg.com/tr/ATV.tr.png" group-title="TURKISH",TR:ATV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6015.m3u8
+#EXTINF:-1 tvg-chno="176" tvg-id="Show" tvg-name="Show TV TR" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" group-title="TURKISH",TR:SHOWTV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6013.m3u8
+#EXTINF:-1 tvg-chno="178" tvg-id="Kanal D" tvg-name="Kanal D TR" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" group-title="TURKISH",TR:KANALD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6011.m3u8
+#EXTINF:-1 tvg-chno="170" tvg-id="TRT 1" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" group-title="TURKISH",TR:TRT1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6016.m3u8
+#EXTINF:-1 tvg-chno="182" tvg-id="Fox" tvg-name="Fox TR" tvg-logo="http://static.iptv-epg.com/tr/Fox.tr.png" group-title="TURKISH",TR:FOXTV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6012.m3u8
+#EXTINF:-1 tvg-chno="186" tvg-id="TV8" tvg-name="TV8 TR" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" group-title="TURKISH",TR:TV8
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6014.m3u8
+#EXTINF:-1 tvg-chno="184" tvg-id="Kanal7.tr" tvg-name="Kanal 7 TR" tvg-logo="http://static.iptv-epg.com/tr/Kanal7.tr.png" group-title="TURKISH",TR:KANAL7
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6017.m3u8
+#EXTINF:-1 tvg-chno="185" tvg-id="Kanal7.tr" tvg-name="Kanal 7 TR" tvg-logo="http://static.iptv-epg.com/tr/Kanal7.tr.png" group-title="TURKISH",TR:KANAL7HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/217.m3u8
+#EXTINF:-1 tvg-chno="188" tvg-id="TV85.tr" tvg-name="TV 8,5 TR" tvg-logo="http://static.iptv-epg.com/tr/TV85.tr.png" group-title="TURKISH",TR:TV8.5HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/996.m3u8
+#EXTINF:-1 tvg-chno="189" group-title="TURKISH",TR:A2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1023.m3u8
+#EXTINF:-1 tvg-chno="190" group-title="TURKISH",TR:TEVE2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/223.m3u8
+#EXTINF:-1 tvg-chno="191" group-title="TURKISH",TR:360
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/624.m3u8
+#EXTINF:-1 tvg-chno="192" group-title="TURKISH",TR:TELE1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/10335.m3u8
+#EXTINF:-1 tvg-chno="193" group-title="TURKISH",TR:TV100
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15999.m3u8
+#EXTINF:-1 tvg-chno="194" tvg-id="KRT" tvg-logo="https://pbs.twimg.com/media/DhVqWDDWAAE3Dzd.png" group-title="TURKISH",TR:KRT TV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15998.m3u8
+#EXTINF:-1 tvg-chno="195" tvg-id="Ekoturk.tr" tvg-name="Ekotürk TR" tvg-logo="http://static.iptv-epg.com/tr/Ekoturk.tr.png" group-title="TURKISH",TR:EKOTURK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15997.m3u8
+#EXTINF:-1 tvg-chno="196" tvg-id="TV85.tr" tvg-name="TV 8,5 TR" tvg-logo="http://static.iptv-epg.com/tr/TV85.tr.png" group-title="TURKISH",TR:TV8.5
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6019.m3u8
+#EXTINF:-1 tvg-chno="197" tvg-id="SportsTV.tr" tvg-name="Sports TV TR" tvg-logo="http://static.iptv-epg.com/tr/SportsTV.tr.png" group-title="TURKISH",TR:SPORTS.TV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3627.m3u8
+#EXTINF:-1 tvg-chno="198" tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik TR" tvg-logo="http://static.iptv-epg.com/tr/TRTMuzik.tr.png" group-title="TURKISH",TR:TRT.MUZIK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6856.m3u8
+#EXTINF:-1 tvg-chno="199" group-title="TURKISH",TR:KRALTV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1063.m3u8
+#EXTINF:-1 tvg-chno="200" group-title="TURKISH",TR:KRALPOP
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1064.m3u8
+#EXTINF:-1 tvg-chno="201" group-title="TURKISH",TR:NUMBER_ONE
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/773.m3u8
+#EXTINF:-1 tvg-chno="202" group-title="TURKISH",TR:NUMBER_ONE_TURK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3621.m3u8
+#EXTINF:-1 tvg-chno="203" group-title="TURKISH",TR:POWERTV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1089.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-id="Powerturk.tr" tvg-name="Power Turk TR" tvg-logo="http://static.iptv-epg.com/tr/Powerturk.tr.png" group-title="TURKISH",TR:POWERTURK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/623.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-id="DreamTV.tr" tvg-name="Dream TV TR" tvg-logo="http://static.iptv-epg.com/tr/DreamTV.tr.png" group-title="TURKISH",TR:DREAM.TV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3633.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-id="DreamTV.tr" tvg-name="Dream TV TR" tvg-logo="http://static.iptv-epg.com/tr/DreamTV.tr.png" group-title="TURKISH",TR:DREAMTURK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/264.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-id="TRTHaber.tr" tvg-name="TRT Haber TR" tvg-logo="http://static.iptv-epg.com/tr/TRTHaber.tr.png" group-title="NEWS",TR:TRTHABERHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/226.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="http://static.iptv-epg.com/tr/NTV.tr.png" group-title="NEWS",TR:NTV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/251.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-id="CNNTurk.tr" tvg-name="CNN Turk TR" tvg-logo="http://static.iptv-epg.com/tr/CNNTurk.tr.png" group-title="NEWS",TR:CNNTURK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/266.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="24.tr" tvg-name="24 TR" tvg-logo="http://static.iptv-epg.com/tr/24.tr.png" group-title="NEWS",TR:24
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/607.m3u8
+#EXTINF:-1 tvg-chno="211" tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="http://static.iptv-epg.com/tr/AHaber.tr.png" group-title="NEWS",TR:AHABERHD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/225.m3u8
+#EXTINF:-1 tvg-chno="212" group-title="NEWS",TR:HABERGLOBAL
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14865.m3u8
+#EXTINF:-1 tvg-chno="213" group-title="NEWS",TR:ANEWS
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14866.m3u8
+#EXTINF:-1 tvg-chno="214" group-title="NEWS",TR:APARA
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14867.m3u8
+#EXTINF:-1 tvg-chno="215" group-title="NEWS",TR:BLOOMBERGHT
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/269.m3u8
+#EXTINF:-1 tvg-chno="216" tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="http://static.iptv-epg.com/tr/UlusalKanal.tr.png" group-title="NEWS",TR:ULUSALKANAL
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1088.m3u8
+#EXTINF:-1 tvg-chno="217" group-title="NEWS",TR:HALK.TV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1779.m3u8
+#EXTINF:-1 tvg-chno="218" tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTTurk.tr.png" group-title="NEWS",TR:TRTTURK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/207.m3u8
+#EXTINF:-1 tvg-chno="219" tvg-id="TRTWorld.tr" tvg-name="TRT World TR" tvg-logo="http://static.iptv-epg.com/tr/TRTWorld.tr.png" group-title="NEWS",TR:TRTWORLD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/611.m3u8
+#EXTINF:-1 tvg-chno="220" tvg-id="Haberturk.tr" tvg-name="Haber Turk TR" tvg-logo="http://static.iptv-epg.com/tr/Haberturk.tr.png" group-title="KIDS",TR:HABERTURK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/608.m3u8
+#EXTINF:-1 tvg-chno="221" tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTCocuk.tr.png" group-title="KIDS",TR:TRTCOCUK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/992.m3u8
+#EXTINF:-1 tvg-chno="222" tvg-id="Nickelodeon.dk" tvg-name="Nickelodeon DK" tvg-logo="http://static.iptv-epg.com/dk/Nickelodeon.dk.png" group-title="KIDS",TR:NICKELODEON
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14861.m3u8
+#EXTINF:-1 tvg-chno="223" tvg-id="NickJr.br" tvg-name="Nick Jr BR" tvg-logo="http://static.iptv-epg.com/br/NickJr.br.png" group-title="KIDS",TR:NICKJR
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14860.m3u8
+#EXTINF:-1 tvg-chno="224" tvg-id="Boomerang.br" tvg-name="Boomerang BR" tvg-logo="http://static.iptv-epg.com/br/Boomerang.br.png" group-title="KIDS",TR:BOOMERANG
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14856.m3u8
+#EXTINF:-1 tvg-chno="225" tvg-id="Cbeebies.au" tvg-name="Cbeebies AU" tvg-logo="http://static.iptv-epg.com/au/Cbeebies.au.png" group-title="KIDS",TR:CBEEBiES
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14858.m3u8
+#EXTINF:-1 tvg-chno="226" tvg-id="minikaCocuk.tr" tvg-name="minika Cocuk TR" tvg-logo="http://static.iptv-epg.com/tr/minikaCocuk.tr.png" group-title="KIDS",TR:MINIKACOCUK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/260.m3u8
+#EXTINF:-1 tvg-chno="227" tvg-id="minikaGO.tr" tvg-name="minikaGO TR" tvg-logo="http://static.iptv-epg.com/tr/minikaGO.tr.png" group-title="KIDS",TR:MINIKA.GO
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3624.m3u8
+#EXTINF:-1 tvg-chno="228" tvg-id="BabyTV.tr" tvg-name="Baby TV TR" tvg-logo="http://static.iptv-epg.com/tr/BabyTV.tr.png" group-title="KIDS",TR:BABY_TV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1062.m3u8
+#EXTINF:-1 tvg-chno="229" tvg-id="BabyFirstTV.pl" tvg-name="Baby First TV PL" tvg-logo="http://static.iptv-epg.com/pl/BabyFirstTV.pl.png" group-title="KIDS",TR:BABYFİRSTTV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14857.m3u8
+#EXTINF:-1 tvg-chno="230" tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="http://static.iptv-epg.com/uk/ITV4.uk.png" group-title="KIDS",TR:TV4COCUK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/613.m3u8
+#EXTINF:-1 tvg-chno="231" tvg-id="DisneyXD.nz" tvg-name="Disney XD NZ" tvg-logo="http://static.iptv-epg.com/nz/DisneyXD.nz.png" group-title="KIDS",TR:DiSNEYXD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14859.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-id="DisneyJunior.br" tvg-name="Disney Junior BR" tvg-logo="http://static.iptv-epg.com/br/DisneyJunior.br.png" group-title="KIDS",TR:DISNEY_JUNIOR
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3623.m3u8
+#EXTINF:-1 tvg-chno="233" tvg-id="DisneyChannel.tr" tvg-name="Disney Channel TR" tvg-logo="http://static.iptv-epg.com/tr/DisneyChannel.tr.png" group-title="KIDS",TR:DISNEY.CHANNEL
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/614.m3u8
+#EXTINF:-1 tvg-chno="234" tvg-id="CartoonNetwork.tr" tvg-name="Cartoon Network TR" tvg-logo="http://static.iptv-epg.com/tr/CartoonNetwork.tr.png" group-title="KIDS",TR:CARTOON_NETWORK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1060.m3u8
+#EXTINF:-1 tvg-chno="235" tvg-id="BBCOneWales.uk" tvg-name="BBC One Wales UK" tvg-logo="http://static.iptv-epg.com/uk/BBCOneWales.uk.png" group-title="UK",UK:BBC.ONE
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1807.m3u8
+#EXTINF:-1 tvg-chno="236" tvg-id="BBCTwoWales.uk" tvg-name="BBC Two Wales UK" tvg-logo="http://static.iptv-epg.com/uk/BBCTwoWales.uk.png" group-title="UK",UK:BBC.TWO
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1806.m3u8
+#EXTINF:-1 tvg-chno="237" group-title="UK",UK:BBC.THERE
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1809.m3u8
+#EXTINF:-1 tvg-chno="238" tvg-id="BBC4.uk" tvg-name="BBC4 UK" tvg-logo="http://static.iptv-epg.com/uk/BBC4.uk.png" group-title="UK",UK:BBC.FOUR
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1805.m3u8
+#EXTINF:-1 tvg-chno="239" group-title="UK",UK:SKY.CINEMA.PREMIER
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3914.m3u8
+#EXTINF:-1 tvg-chno="240" group-title="UK",UK:SKY.CINEMA.HITS
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3913.m3u8
+#EXTINF:-1 tvg-chno="241" group-title="UK",UK:SKY.CINEMA.SELECT
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3915.m3u8
+#EXTINF:-1 tvg-chno="242" tvg-id="SkyCinemaAction.it" tvg-name="Sky Cinema Action IT" tvg-logo="http://static.iptv-epg.com/it/SkyCinemaAction.it.png" group-title="UK",UK:SKY.CINEMA.ACTION
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3916.m3u8
+#EXTINF:-1 tvg-chno="243" tvg-id="SkySciFiHorror.uk" tvg-name="Sky Sci-Fi & Horror UK" tvg-logo="http://static.iptv-epg.com/uk/SkySciFiHorror.uk.png" group-title="UK",UK:SKY.CINEMA.SCI-FI&HORROR
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3912.m3u8
+#EXTINF:-1 tvg-chno="244" group-title="UK",UK:SKY.CINEMA.COMEDY
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3911.m3u8
+#EXTINF:-1 tvg-chno="245" tvg-id="ITV1.uk" tvg-name="ITV 1 UK" tvg-logo="http://static.iptv-epg.com/uk/ITV1.uk.png" group-title="UK",UK:ITV1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3043.m3u8
+#EXTINF:-1 tvg-chno="246" tvg-id="ITV2.uk" tvg-name="ITV2 UK" tvg-logo="http://static.iptv-epg.com/uk/ITV2.uk.png" group-title="UK",UK:ITV2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3044.m3u8
+#EXTINF:-1 tvg-chno="247" tvg-id="ITV3.uk" tvg-name="ITV3 UK" tvg-logo="http://static.iptv-epg.com/uk/ITV3.uk.png" group-title="UK",UK:ITV3
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3045.m3u8
+#EXTINF:-1 tvg-chno="248" tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="http://static.iptv-epg.com/uk/ITV4.uk.png" group-title="UK",UK:ITV4
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3046.m3u8
+#EXTINF:-1 tvg-chno="249" tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="http://static.iptv-epg.com/uk/Channel4.uk.png" group-title="UK",UK:CHANNEL.4
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1799.m3u8
+#EXTINF:-1 tvg-chno="250" tvg-id="Channel5.uk" tvg-name="Channel 5 UK" tvg-logo="http://static.iptv-epg.com/uk/Channel5.uk.png" group-title="UK",UK:CHANNEL.5
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1798.m3u8
+#EXTINF:-1 tvg-chno="251" tvg-id="Alibi.uk" tvg-name="Alibi UK" tvg-logo="http://static.iptv-epg.com/uk/Alibi.uk.png" group-title="UK",UK:Alibi
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3041.m3u8
+#EXTINF:-1 tvg-chno="252" tvg-id="CBSAction.uk" tvg-name="CBS Action UK" tvg-logo="http://static.iptv-epg.com/uk/CBSAction.uk.png" group-title="UK",UK:CBSAction
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3047.m3u8
+#EXTINF:-1 tvg-chno="253" tvg-id="MTVHits.uk" tvg-name="MTV Hits UK" tvg-logo="http://static.iptv-epg.com/uk/MTVHits.uk.png" group-title="UK",UK:MTVHits
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3048.m3u8
+#EXTINF:-1 tvg-chno="254" tvg-id="Dave.uk" tvg-name="Dave UK" tvg-logo="http://static.iptv-epg.com/uk/Dave.uk.png" group-title="UK",UK:DAVE
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3040.m3u8
+#EXTINF:-1 tvg-chno="255" tvg-id="GOLD.uk" tvg-name="GOLD UK" tvg-logo="http://static.iptv-epg.com/uk/GOLD.uk.png" group-title="UK",UK:GOLD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3038.m3u8
+#EXTINF:-1 tvg-chno="256" tvg-id="ITVBe.uk" tvg-name="ITVBe UK" tvg-logo="http://static.iptv-epg.com/uk/ITVBe.uk.png" group-title="UK",UK:ITVBe
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3042.m3u8
+#EXTINF:-1 tvg-chno="257" tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="http://static.iptv-epg.com/uk/More4.uk.png" group-title="UK",UK:More4
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3051.m3u8
+#EXTINF:-1 tvg-chno="258" group-title="UK",UK:RTEONE
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3037.m3u8
+#EXTINF:-1 tvg-chno="259" group-title="UK",UK:RTETWO
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3036.m3u8
+#EXTINF:-1 tvg-chno="260" group-title="UK",UK:SkyOne
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3050.m3u8
+#EXTINF:-1 tvg-chno="261" group-title="UK",UK:SKYTWO
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3049.m3u8
+#EXTINF:-1 tvg-chno="262" group-title="UK",UK:UTV.Ireland
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3035.m3u8
+#EXTINF:-1 tvg-chno="263" tvg-id="Yesterday.uk" tvg-name="Yesterday UK" tvg-logo="http://static.iptv-epg.com/uk/Yesterday.uk.png" group-title="UK",UK:Yesterday
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3039.m3u8
+#EXTINF:-1 tvg-chno="264" tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premiere League UK" tvg-logo="http://static.iptv-epg.com/uk/SkySportsPremiereLeague.uk.png" group-title="UK",UK:SkySports.Premier.League
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3052.m3u8
+#EXTINF:-1 tvg-chno="265" tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="http://static.iptv-epg.com/uk/SkySportsF1.uk.png" group-title="UK",UK:SkySportsF1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3053.m3u8
+#EXTINF:-1 tvg-chno="266" tvg-id="3sat.at" tvg-name="3sat AT" tvg-logo="http://static.iptv-epg.com/at/3sat.at.png" group-title="GERMANY",DE:3SAT
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8202.m3u8
+#EXTINF:-1 tvg-chno="267" tvg-id="AXN.de" tvg-name="AXN DE" tvg-logo="http://static.iptv-epg.com/de/AXN.de.png" group-title="GERMANY",DE:AXN
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8201.m3u8
+#EXTINF:-1 tvg-chno="268" tvg-id="Boomerang.de" tvg-name="Boomerang DE" tvg-logo="http://static.iptv-epg.com/de/Boomerang.de.png" group-title="GERMANY",DE:BOOMERANG
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8197.m3u8
+#EXTINF:-1 tvg-chno="269" tvg-id="Fox.de" tvg-name="FOX DE" tvg-logo="http://static.iptv-epg.com/de/Fox.de.png" group-title="GERMANY",DE:FOX
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8193.m3u8
+#EXTINF:-1 tvg-chno="270" tvg-id="MotorVision.de" tvg-name="Motorvision TV DE" tvg-logo="http://static.iptv-epg.com/de/MotorVision.de.png" group-title="GERMANY",DE:Motorvision TV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8187.m3u8
+#EXTINF:-1 tvg-chno="271" tvg-id="RTLPassion.de" tvg-name="RTL Passion DE" tvg-logo="http://static.iptv-epg.com/de/RTLPassion.de.png" group-title="GERMANY",DE:RTL PASSION
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8198.m3u8
+#EXTINF:-1 tvg-chno="272" tvg-id="One.de" tvg-name="One DE" tvg-logo="http://static.iptv-epg.com/de/One.de.png" group-title="GERMANY",DE:ONE
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8191.m3u8
+#EXTINF:-1 tvg-chno="273" tvg-id="ORF1.at" tvg-name="ORF 1 AT" tvg-logo="http://static.iptv-epg.com/at/ORF1.at.png" group-title="GERMANY",DE:ORF1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8199.m3u8
+#EXTINF:-1 tvg-chno="274" tvg-id="RTLCrime.de" tvg-name="RTL Crime DE" tvg-logo="http://static.iptv-epg.com/de/RTLCrime.de.png" group-title="GERMANY",DE:RTL CRIME
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8200.m3u8
+#EXTINF:-1 tvg-chno="275" tvg-id="ProSiebenMaxx.de" tvg-name="Pro 7 Maxx DE" tvg-logo="http://static.iptv-epg.com/de/ProSiebenMaxx.de.png" group-title="GERMANY",DE:PRO 7 MAXX
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8189.m3u8
+#EXTINF:-1 tvg-chno="276" tvg-id="Romance.de" tvg-name="Romance TV DE" tvg-logo="http://static.iptv-epg.com/de/Romance.de.png" group-title="GERMANY",DE:ROMANCE TV
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8190.m3u8
+#EXTINF:-1 tvg-chno="277" tvg-id="RTLLiving.de" tvg-name="RTL Living DE" tvg-logo="http://static.iptv-epg.com/de/RTLLiving.de.png" group-title="GERMANY",DE:RTL Living HD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8186.m3u8
+#EXTINF:-1 tvg-chno="278" tvg-id="Sat1Gold.de" tvg-name="Sat 1 Gold DE" tvg-logo="http://static.iptv-epg.com/de/Sat1Gold.de.png" group-title="GERMANY",DE:SAT 1 GOLD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8192.m3u8
+#EXTINF:-1 tvg-chno="279" group-title="GERMANY",DE:SKY 13TH STREET
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8194.m3u8
+#EXTINF:-1 tvg-chno="280" tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="http://static.iptv-epg.com/de/Tele5.de.png" group-title="GERMANY",DE:TELE5
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8195.m3u8
+#EXTINF:-1 tvg-chno="281" tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24 DE" tvg-logo="http://static.iptv-epg.com/de/Tagesschau24.de.png" group-title="GERMANY",DE:Tagesschau24
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/8185.m3u8
+#EXTINF:-1 tvg-chno="282" tvg-id="RTLNitro.de" tvg-name="RTL Nitro DE" tvg-logo="http://static.iptv-epg.com/de/RTLNitro.de.png" group-title="GERMANY",DE:RTL.Nitro
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2175.m3u8
+#EXTINF:-1 tvg-chno="283" tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="http://static.iptv-epg.com/de/ZDF.de.png" group-title="GERMANY",DE:ZDF
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1778.m3u8
+#EXTINF:-1 tvg-chno="284" tvg-id="ARTE.de" tvg-name="Arte DE" tvg-logo="http://static.iptv-epg.com/de/ARTE.de.png" group-title="GERMANY",DE:ARD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1550.m3u8
+#EXTINF:-1 tvg-chno="285" tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="http://static.iptv-epg.com/de/Vox.de.png" group-title="GERMANY",DE:VOX
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1563.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-id="History.de" tvg-name="History DE" tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="GERMANY",DE:HISTORY
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1552.m3u8
+#EXTINF:-1 tvg-chno="287" tvg-id="Kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="http://static.iptv-epg.com/de/Kabel1.de.png" group-title="GERMANY",DE:KABEL1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1557.m3u8
+#EXTINF:-1 tvg-chno="288" group-title="GERMANY",DE:PLUS 4
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1558.m3u8
+#EXTINF:-1 tvg-chno="289" tvg-id="NatGeoWild.de" tvg-name="Nat Geo Wild DE" tvg-logo="http://static.iptv-epg.com/de/NatGeoWild.de.png" group-title="GERMANY",DE:NATGEOWILD
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1554.m3u8
+#EXTINF:-1 tvg-chno="290" group-title="GERMANY",DE:NATIONALGEOGRAPHIC
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1555.m3u8
+#EXTINF:-1 tvg-chno="291" tvg-id="Pro7.de" tvg-name="Pro 7 DE" tvg-logo="http://static.iptv-epg.com/de/Pro7.de.png" group-title="GERMANY",DE:PRO7
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1560.m3u8
+#EXTINF:-1 tvg-chno="292" tvg-id="RTL.de" tvg-name="RTL DE" tvg-logo="http://static.iptv-epg.com/de/RTL.de.png" group-title="GERMANY",DE:RTL
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1562.m3u8
+#EXTINF:-1 tvg-chno="293" tvg-id="RTL2.de" tvg-name="RTL 2 DE" tvg-logo="http://static.iptv-epg.com/de/RTL2.de.png" group-title="GERMANY",DE:RTL.2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1561.m3u8
+#EXTINF:-1 tvg-chno="294" tvg-id="Sat1.de" tvg-name="Sat 1 DE" tvg-logo="http://static.iptv-epg.com/de/Sat1.de.png" group-title="GERMANY",DE:SAT1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1556.m3u8
+#EXTINF:-1 tvg-chno="295" tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="http://static.iptv-epg.com/de/DisneyChannel.de.png" group-title="GERMANY",DE:Disney.Channel
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1770.m3u8
+#EXTINF:-1 tvg-chno="296" tvg-id="DisneyJunior.de" tvg-name="Disney Junior DE" tvg-logo="http://static.iptv-epg.com/de/DisneyJunior.de.png" group-title="GERMANY",DE:Disney.Junior
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1768.m3u8
+#EXTINF:-1 tvg-chno="297" tvg-id="DisneyXD.de" tvg-name="Disney XD DE" tvg-logo="http://static.iptv-epg.com/de/DisneyXD.de.png" group-title="GERMANY",DE:Disney.Xd
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1769.m3u8
+#EXTINF:-1 tvg-chno="298" tvg-id="Kika.de" tvg-name="KiKA DE" tvg-logo="http://static.iptv-epg.com/de/Kika.de.png" group-title="GERMANY",DE:Kika
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1767.m3u8
+#EXTINF:-1 tvg-chno="299" group-title="GERMANY",DE:SKY.Disney.Cinematic
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1725.m3u8
+#EXTINF:-1 tvg-chno="300" tvg-id="Syfy.de" tvg-name="Syfy DE" tvg-logo="http://static.iptv-epg.com/de/Syfy.de.png" group-title="GERMANY",DE:SYFY
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1771.m3u8
+#EXTINF:-1 tvg-chno="301" tvg-id="SonyEntertainmentTV.de" tvg-name="Sony DE" tvg-logo="http://static.iptv-epg.com/de/SonyEntertainmentTV.de.png" group-title="GERMANY",DE:Sony
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1773.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="http://static.iptv-epg.com/de/SuperRTL.de.png" group-title="GERMANY",DE:Super_RTL
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1774.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="http://static.iptv-epg.com/de/TLC.de.png" group-title="GERMANY",DE:TLC
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1775.m3u8
+#EXTINF:-1 tvg-chno="304" tvg-id="TNTComedy.de" tvg-name="TNT Comedy DE" tvg-logo="http://static.iptv-epg.com/de/TNTComedy.de.png" group-title="GERMANY",DE:TNT.Comedy
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1776.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-id="TNTFilm.de" tvg-name="TNT Film DE" tvg-logo="http://static.iptv-epg.com/de/TNTFilm.de.png" group-title="GERMANY",DE:TNT.Film
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1763.m3u8
+#EXTINF:-1 tvg-chno="306" tvg-id="TNTSerie.de" tvg-name="TNT Serie DE" tvg-logo="http://static.iptv-epg.com/de/TNTSerie.de.png" group-title="GERMANY",DE:TNT.Serie
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1764.m3u8
+#EXTINF:-1 tvg-chno="307" tvg-id="Anixe.de" tvg-name="Anixe DE" tvg-logo="http://static.iptv-epg.com/de/Anixe.de.png" group-title="GERMANY",DE:ANIXE
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1777.m3u8
+#EXTINF:-1 tvg-chno="308" tvg-id="SkySelect1.de" tvg-name="Sky Select 1 DE" tvg-logo="http://static.iptv-epg.com/de/SkySelect1.de.png" group-title="GERMANY",DE:Sky.Select.1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1704.m3u8
+#EXTINF:-1 tvg-chno="309" tvg-id="SkySelect2.de" tvg-name="Sky Select 2 DE" tvg-logo="http://static.iptv-epg.com/de/SkySelect2.de.png" group-title="GERMANY",DE:Sky.Select.2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1705.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-id="SkySelect3.de" tvg-name="Sky Select 3 DE" tvg-logo="http://static.iptv-epg.com/de/SkySelect3.de.png" group-title="GERMANY",DE:Sky.Select.3
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1706.m3u8
+#EXTINF:-1 tvg-chno="311" tvg-id="SkySelect4.de" tvg-name="Sky Select 4 DE" tvg-logo="http://static.iptv-epg.com/de/SkySelect4.de.png" group-title="GERMANY",DE:Sky.Select.4
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1707.m3u8
+#EXTINF:-1 tvg-chno="312" tvg-id="SkySelect5.de" tvg-name="Sky Select 5 DE" tvg-logo="http://static.iptv-epg.com/de/SkySelect5.de.png" group-title="GERMANY",DE:Sky.Select.5
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1708.m3u8
+#EXTINF:-1 tvg-chno="313" tvg-id="SkySelect6.de" tvg-name="Sky Select 6 DE" tvg-logo="http://static.iptv-epg.com/de/SkySelect6.de.png" group-title="GERMANY",DE:Sky.Select.6
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1709.m3u8
+#EXTINF:-1 tvg-chno="314" tvg-id="SkySelect7.de" tvg-name="Sky Select 7 DE" tvg-logo="http://static.iptv-epg.com/de/SkySelect7.de.png" group-title="GERMANY",DE:Sky.Select.7
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1710.m3u8
+#EXTINF:-1 tvg-chno="315" tvg-id="SkySelect8.de" tvg-name="Sky Select 8 DE" tvg-logo="http://static.iptv-epg.com/de/SkySelect8.de.png" group-title="GERMANY",DE:Sky.Select.8
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1711.m3u8
+#EXTINF:-1 tvg-chno="316" tvg-id="SkyAction.uk" tvg-name="Sky Action UK" tvg-logo="http://static.iptv-epg.com/uk/SkyAction.uk.png" group-title="GERMANY",DE:SKY.Action
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1723.m3u8
+#EXTINF:-1 tvg-chno="317" tvg-id="SkyAtlantic.de" tvg-name="Sky Atlantic DE" tvg-logo="http://static.iptv-epg.com/de/SkyAtlantic.de.png" group-title="GERMANY",DE:Sky.Atlantic
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1724.m3u8
+#EXTINF:-1 tvg-chno="318" tvg-id="SkyCinema.de" tvg-name="Sky Cinema DE" tvg-logo="http://static.iptv-epg.com/de/SkyCinema.de.png" group-title="GERMANY",DE:Sky.Cinema
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1721.m3u8
+#EXTINF:-1 tvg-chno="319" tvg-id="SkyCinemaPlus24.de" tvg-name="Sky Cinema +24 DE" tvg-logo="http://static.iptv-epg.com/de/SkyCinemaPlus24.de.png" group-title="GERMANY",DE:Sky.Cinema.24
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1719.m3u8
+#EXTINF:-1 tvg-chno="320" tvg-id="SkyComedy.uk" tvg-name="Sky Comedy UK" tvg-logo="http://static.iptv-epg.com/uk/SkyComedy.uk.png" group-title="GERMANY",DE:Sky.Comedy
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1722.m3u8
+#EXTINF:-1 tvg-chno="321" tvg-id="SkyEmotion.de" tvg-name="Sky Emotion DE" tvg-logo="http://static.iptv-epg.com/de/SkyEmotion.de.png" group-title="GERMANY",DE:SKY.Emotion
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1726.m3u8
+#EXTINF:-1 tvg-chno="322" tvg-id="SkyHits.de" tvg-name="Sky Hits DE" tvg-logo="http://static.iptv-epg.com/de/SkyHits.de.png" group-title="GERMANY",DE:Sky.Hits
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1727.m3u8
+#EXTINF:-1 tvg-chno="323" tvg-id="SkyKrimi.de" tvg-name="Sky Krimi DE" tvg-logo="http://static.iptv-epg.com/de/SkyKrimi.de.png" group-title="GERMANY",DE:Sky.Krimi
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1728.m3u8
+#EXTINF:-1 tvg-chno="324" tvg-id="SkyNostalgie.de" tvg-name="Sky Nostalgie DE" tvg-logo="http://static.iptv-epg.com/de/SkyNostalgie.de.png" group-title="GERMANY",DE:Sky.Nostalgie
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1729.m3u8
+#EXTINF:-1 tvg-chno="325" tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE" tvg-logo="http://static.iptv-epg.com/de/SkySport1.de.png" group-title="GERMANY",DE:Sky.Sport.1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1702.m3u8
+#EXTINF:-1 tvg-chno="326" tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="http://static.iptv-epg.com/de/SkySport2.de.png" group-title="GERMANY",DE:Sky.Sport.2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1703.m3u8
+#EXTINF:-1 tvg-chno="327" tvg-id="SkySportNews.de" tvg-name="Sky Sport News DE" tvg-logo="http://static.iptv-epg.com/de/SkySportNews.de.png" group-title="GERMANY",DE:Sky.Sport.News
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1701.m3u8
+#EXTINF:-1 tvg-chno="328" tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="http://static.iptv-epg.com/de/Eurosport1.de.png" group-title="GERMANY",DE:Eurosport.1
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1765.m3u8
+#EXTINF:-1 tvg-chno="329" tvg-id="Eurosport2.de" tvg-name="Eurosport 2 DE" tvg-logo="http://static.iptv-epg.com/de/Eurosport2.de.png" group-title="GERMANY",DE:Eurosport.2
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1766.m3u8
