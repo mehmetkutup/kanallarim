@@ -369,7 +369,7 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/213.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/214.m3u8
 #EXTINF:-1 tvg-chno="172" tvg-name="TRT 1" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" group-title="TURKISH",TR:TRT2
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14874.m3u8
-#EXTINF:-1 tvg-chno="180" tvg-id="Star TV" tvg-name="Star TV" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" group-title="TURKISH",TR:STARTV
+#EXTINF:-1 tvg-chno="180" tvg-id="STAR TV" tvg-name="STAR TV" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" group-title="TURKISH",TR:STARTV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6018.m3u8
 #EXTINF:-1 tvg-chno="173" tvg-name="TRT Okul TR" tvg-logo="http://static.iptv-epg.com/tr/TRTOkul.tr.png" group-title="TURKISH",TR:TRT2HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14875.m3u8
