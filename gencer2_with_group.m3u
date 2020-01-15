@@ -1,61 +1,61 @@
 ﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mehmetkutup/kanallarim/master/guide.xml"
 #EXTINF:-1 tvg-chno="149" tvg-id="TLC" tvg-name="TLC TR" tvg-logo="http://static.iptv-epg.com/tr/TLC.tr.png" group-title="BELGESEL",TR:TLC
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/976.m3u8
-#EXTINF:-1 tvg-chno="153" tvg-id="BBC Earth" tvg-name="BBC Earth TR" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" group-title="BELGESEL" audio-track="TR",TR:BBC.EARTH
+#EXTINF:-1 tvg-chno="153" tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" group-title="BELGESEL" audio-track="TR",TR:BBC.EARTH
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/5952.m3u8
-#EXTINF:-1 tvg-chno="154" tvg-id="Discovery Channel HD" tvg-name="Discovery Channel TR" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryChannel.tr.png" group-title="BELGESEL",TR:DISCOVERYCHANNEL
+#EXTINF:-1 tvg-chno="154" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryChannel.tr.png" group-title="BELGESEL",TR:DISCOVERYCHANNEL
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/265.m3u8
-#EXTINF:-1 tvg-chno="155" tvg-id="Nat Geo People" tvg-name="Nat Geo People TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeoPeople.tr.png" group-title="BELGESEL",TR:NAT.GEO.PEOPLE.HD
+#EXTINF:-1 tvg-chno="155" tvg-id="Nat Geo People" tvg-name="Nat Geo People" tvg-logo="http://static.iptv-epg.com/tr/NatGeoPeople.tr.png" group-title="BELGESEL",TR:NAT.GEO.PEOPLE.HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/10166.m3u8
-#EXTINF:-1 tvg-chno="156" tvg-id="DiscoveryIDXtra.tr" tvg-name="ID X" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryIDXtra.tr.png" group-title="BELGESEL",TR:DISCOVERY_IDX
+#EXTINF:-1 tvg-chno="156" tvg-id="ID X" tvg-name="ID X" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryIDXtra.tr.png" group-title="BELGESEL",TR:DISCOVERY_IDX
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/784.m3u8
-#EXTINF:-1 tvg-chno="157" tvg-id="Discovery Science" tvg-name="Discovery Science TR" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryScience.tr.png" group-title="BELGESEL",TR:DISCOVERY_SCIENCE
+#EXTINF:-1 tvg-chno="157" tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryScience.tr.png" group-title="BELGESEL",TR:DISCOVERY_SCIENCE
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/5948.m3u8
-#EXTINF:-1 tvg-chno="158" tvg-id="National Geographic HD" tvg-name="National Geographic TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeo.tr.png" group-title="BELGESEL",TR:NATIONALGEO
+#EXTINF:-1 tvg-chno="158" tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://static.iptv-epg.com/tr/NatGeo.tr.png" group-title="BELGESEL",TR:NATIONALGEO
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/253.m3u8
-#EXTINF:-1 tvg-chno="159" tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeoWild.tr.png" group-title="BELGESEL",TR:NATIONALGEOWILD
+#EXTINF:-1 tvg-chno="159" tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://static.iptv-epg.com/tr/NatGeoWild.tr.png" group-title="BELGESEL",TR:NATIONALGEOWILD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/252.m3u8
-#EXTINF:-1 tvg-chno="160" tvg-id="24Kitchen" tvg-name="24 Kitchen TR" tvg-logo="http://static.iptv-epg.com/tr/24Kitchen.tr.png" group-title="BELGESEL",TR:24 KiTCHEN
+#EXTINF:-1 tvg-chno="160" tvg-id="24Kitchen" tvg-name="24Kitchen" tvg-logo="http://static.iptv-epg.com/tr/24Kitchen.tr.png" group-title="BELGESEL",TR:24 KiTCHEN
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15993.m3u8
-#EXTINF:-1 tvg-chno="161" tvg-id="Turkmax Gurme HD" tvg-name="beIN Gurme TR" tvg-logo="http://static.iptv-epg.com/tr/beINGurme.tr.png" group-title="BELGESEL",TR:beIN.GURME
+#EXTINF:-1 tvg-chno="161" tvg-id="Turkmax Gurme" tvg-name="Turkmax Gurme" tvg-logo="http://static.iptv-epg.com/tr/beINGurme.tr.png" group-title="BELGESEL",TR:beIN.GURME
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1176.m3u8
-#EXTINF:-1 tvg-chno="162" tvg-id="İZ TV" tvg-name="beIN İZ TR" tvg-logo="http://static.iptv-epg.com/tr/beINiz.tr.png" group-title="BELGESEL",TR:İZ TV
+#EXTINF:-1 tvg-chno="162" tvg-id="İZ TV" tvg-name="İZ TV" tvg-logo="http://static.iptv-epg.com/tr/beINiz.tr.png" group-title="BELGESEL",TR:İZ TV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/778.m3u8
-#EXTINF:-1 tvg-chno="163" tvg-id="Animal Planet" tvg-name="Animal Planet TR" tvg-logo="http://static.iptv-epg.com/tr/AnimalPlanet.tr.png" group-title="BELGESEL",TR:ANIMALPLANETHD
+#EXTINF:-1 tvg-chno="163" tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://static.iptv-epg.com/tr/AnimalPlanet.tr.png" group-title="BELGESEL",TR:ANIMALPLANETHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/268.m3u8
-#EXTINF:-1 tvg-chno="164" tvg-id="History" tvg-name="History Channel TR" tvg-logo="http://static.iptv-epg.com/tr/HistoryChannel.tr.png" group-title="BELGESEL",TR:HISTORYCHANNEL
+#EXTINF:-1 tvg-chno="164" tvg-id="History" tvg-name="History" tvg-logo="http://static.iptv-epg.com/tr/HistoryChannel.tr.png" group-title="BELGESEL",TR:HISTORYCHANNEL
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/263.m3u8
-#EXTINF:-1 tvg-chno="165" tvg-id="DMAX" tvg-name="Dmax DE" tvg-logo="http://static.iptv-epg.com/de/DMax.de.png" group-title="BELGESEL",TR:DMAX
+#EXTINF:-1 tvg-chno="165" tvg-id="DMAX" tvg-name="DMAX" tvg-logo="http://static.iptv-epg.com/de/DMax.de.png" group-title="BELGESEL",TR:DMAX
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/236.m3u8
-#EXTINF:-1 tvg-chno="166" tvg-id="TRT Belgesel" tvg-name="TRT Belgesel TR" tvg-logo="http://static.iptv-epg.com/tr/TRTBelgesel.tr.png" group-title="BELGESEL",TR:TRTBELGESELHD
+#EXTINF:-1 tvg-chno="166" tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-logo="http://static.iptv-epg.com/tr/TRTBelgesel.tr.png" group-title="BELGESEL",TR:TRTBELGESELHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/242.m3u8
-#EXTINF:-1 tvg-chno="167" tvg-id="Viasat History" tvg-name="Viasat History RU" tvg-logo="http://static.iptv-epg.com/ru/ViasatHistory.ru.png" group-title="BELGESEL",TR:ViASAT HiSTORY
+#EXTINF:-1 tvg-chno="167" tvg-id="Viasat History" tvg-name="Viasat History" tvg-logo="http://static.iptv-epg.com/ru/ViasatHistory.ru.png" group-title="BELGESEL",TR:ViASAT HiSTORY
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15995.m3u8
 #EXTINF:-1 tvg-chno="168" tvg-id="YabanTV.tr" tvg-name="Yaban TV TR" tvg-logo="http://static.iptv-epg.com/tr/YabanTV.tr.png" group-title="BELGESEL",TR:YABAN.TV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2688.m3u8
-#EXTINF:-1 tvg-chno="153" tvg-id="BBC Earth" tvg-name="BBC Earth TR" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" group-title="BELGESEL" audio-track="TR",TR:BBC.EARTH-R
+#EXTINF:-1 tvg-chno="153" tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" group-title="BELGESEL" audio-track="TR",TR:BBC.EARTH-R
 http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/bbcearth/chunks.m3u8
-#EXTINF:-1 tvg-chno="154" tvg-id="Discovery Channel HD" tvg-name="Discovery Channel TR" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryChannel.tr.png" group-title="BELGESEL",TR:DISCOVERYCHANNEL-R
+#EXTINF:-1 tvg-chno="154" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryChannel.tr.png" group-title="BELGESEL",TR:DISCOVERYCHANNEL-R
 http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/discoverychannel/chunks.m3u8
-#EXTINF:-1 tvg-chno="155" tvg-id="Nat Geo People" tvg-name="Nat Geo People TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeoPeople.tr.png" group-title="BELGESEL",TR:NAT.GEO.PEOPLE.HD-R
+#EXTINF:-1 tvg-chno="155" tvg-id="Nat Geo People" tvg-name="Nat Geo People" tvg-logo="http://static.iptv-epg.com/tr/NatGeoPeople.tr.png" group-title="BELGESEL",TR:NAT.GEO.PEOPLE.HD-R
 http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/natgeopeople/chunks.m3u8
-#EXTINF:-1 tvg-chno="157" tvg-id="Discovery Science" tvg-name="Discovery Science TR" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryScience.tr.png" group-title="BELGESEL",TR:DISCOVERY_SCIENCE-R
+#EXTINF:-1 tvg-chno="157" tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryScience.tr.png" group-title="BELGESEL",TR:DISCOVERY_SCIENCE-R
 http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/discoverysceince/chunks.m3u8
-#EXTINF:-1 tvg-chno="158" tvg-id="National Geographic HD" tvg-name="National Geographic TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeo.tr.png" group-title="BELGESEL",TR:NATIONALGEO-R
+#EXTINF:-1 tvg-chno="158" tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://static.iptv-epg.com/tr/NatGeo.tr.png" group-title="BELGESEL",TR:NATIONALGEO-R
 http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/nationalgeographic/chunks.m3u8
-#EXTINF:-1 tvg-chno="159" tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeoWild.tr.png" group-title="BELGESEL",TR:NATIONALGEOWILD-R
+#EXTINF:-1 tvg-chno="159" tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://static.iptv-epg.com/tr/NatGeoWild.tr.png" group-title="BELGESEL",TR:NATIONALGEOWILD-R
 http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/natgeowild/chunks.m3u8
-#EXTINF:-1 tvg-chno="161" tvg-id="Turkmax Gurme HD" tvg-name="beIN Gurme TR" tvg-logo="http://static.iptv-epg.com/tr/beINGurme.tr.png" group-title="BELGESEL",TR:beIN.GURME-R
+#EXTINF:-1 tvg-chno="161" tvg-id="Turkmax Gurme" tvg-name="Turkmax Gurme" tvg-logo="http://static.iptv-epg.com/tr/beINGurme.tr.png" group-title="BELGESEL",TR:beIN.GURME-R
 http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/beingurme/chunks.m3u8
-#EXTINF:-1 tvg-chno="162" tvg-id="İZ TV" tvg-name="beIN İZ TR" tvg-logo="http://static.iptv-epg.com/tr/beINiz.tr.png" group-title="BELGESEL",TR:İZ TV-R
+#EXTINF:-1 tvg-chno="162" tvg-id="İZ TV" tvg-name="İZ TV" tvg-logo="http://static.iptv-epg.com/tr/beINiz.tr.png" group-title="BELGESEL",TR:İZ TV-R
 http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/beiniz/chunks.m3u8
-#EXTINF:-1 tvg-chno="163" tvg-id="Animal Planet" tvg-name="Animal Planet TR" tvg-logo="http://static.iptv-epg.com/tr/AnimalPlanet.tr.png" group-title="BELGESEL",TR:ANIMALPLANETHD-R
+#EXTINF:-1 tvg-chno="163" tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://static.iptv-epg.com/tr/AnimalPlanet.tr.png" group-title="BELGESEL",TR:ANIMALPLANETHD-R
 http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/animalplanet/chunks.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TV_Rehim
+#EXTINF:-1 tvg-chno="1" tvg-id="beIN SPORTS HD 1" tvg-name="beIN SPORTS HD 1" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TV_Rehim
 http://yayin12.bunusanasoracagim.best:80/priv/b1111/chunks.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TV_576p
+#EXTINF:-1 tvg-chno="2" tvg-id="beIN SPORTS HD 1" tvg-name="beIN SPORTS HD 1" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TV_576p
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/994.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1(Play)
+#EXTINF:-1 tvg-chno="3" tvg-id="beIN SPORTS HD 1" tvg-name="beIN SPORTS HD 1" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1(Play)
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14873.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="LaLigaTV.es" tvg-logo="http://static.iptv-epg.com/es/LaLigaTV.es.png" group-title="SPOR",TR:LIG1TVSD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/230.m3u8
@@ -433,28 +433,28 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/226.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/251.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-id="CNN TÜRK HD" tvg-name="CNN TÜRK HD" tvg-logo="http://static.iptv-epg.com/tr/CNNTurk.tr.png" group-title="NEWS",TR:CNNTURK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/266.m3u8
+#EXTINF:-1 tvg-chno="220" tvg-id="HABERTÜRK" tvg-name="HABERTÜRK" tvg-logo="http://static.iptv-epg.com/tr/Haberturk.tr.png" group-title="NEWS",TR:HABERTURK
+http://ip50.dyndns.tv:8000/live/mehmet78/celik78/608.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-id="24.tr" tvg-name="24 TR" tvg-logo="http://static.iptv-epg.com/tr/24.tr.png" group-title="NEWS",TR:24
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/607.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="http://static.iptv-epg.com/tr/AHaber.tr.png" group-title="NEWS",TR:AHABERHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/225.m3u8
-#EXTINF:-1 tvg-chno="212" group-title="NEWS",TR:HABERGLOBAL
+#EXTINF:-1 tvg-chno="212" tvg-logo="http://www.hdtvler.tv/media/images/tvlogo/haberglobaltv-hdtvler-tugm.png" group-title="NEWS",TR:HABERGLOBAL
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14865.m3u8
-#EXTINF:-1 tvg-chno="213" group-title="NEWS",TR:ANEWS
+#EXTINF:-1 tvg-chno="213" tvg-logo="https://i2.haber7.net//haber/haber7/photos/2017/14/anews_yayin_hayatina_basliyor_1491223959_6194.jpg" group-title="NEWS",TR:ANEWS
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14866.m3u8
-#EXTINF:-1 tvg-chno="214" group-title="NEWS",TR:APARA
+#EXTINF:-1 tvg-chno="214" tvg-logo="https://isbh.tmgrup.com.tr/sbh/site/v3/apara/i/favicon.png" group-title="NEWS",TR:APARA
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14867.m3u8
 #EXTINF:-1 tvg-chno="215" tvg-id="BLOOMBERG HT HD" tvg-name="BLOOMBERG HT HD" tvg-logo="https://www.blackberrys.ru/upload/2014/12/BLOOMBERG-tv-LOGO.png" group-title="NEWS",TR:BLOOMBERGHT
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/269.m3u8
 #EXTINF:-1 tvg-chno="216" tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="http://static.iptv-epg.com/tr/UlusalKanal.tr.png" group-title="NEWS",TR:ULUSALKANAL
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1088.m3u8
-#EXTINF:-1 tvg-chno="217" group-title="NEWS",TR:HALK.TV
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://halktv.com.tr/s/i/facebook-default-share.png" group-title="NEWS",TR:HALK.TV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1779.m3u8
 #EXTINF:-1 tvg-chno="218" tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTTurk.tr.png" group-title="NEWS",TR:TRTTURK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/207.m3u8
-#EXTINF:-1 tvg-chno="219" tvg-id="TRTWorld.tr" tvg-name="TRT World TR" tvg-logo="http://static.iptv-epg.com/tr/TRTWorld.tr.png" group-title="NEWS",TR:TRTWORLD
+#EXTINF:-1 tvg-chno="219" tvg-id="TRT WORLD HD" tvg-name="TRT WORLD HD" tvg-logo="http://static.iptv-epg.com/tr/TRTWorld.tr.png" group-title="NEWS",TR:TRTWORLD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/611.m3u8
-#EXTINF:-1 tvg-chno="220" tvg-id="HABERTÜRK" tvg-name="HABERTÜRK" tvg-logo="http://static.iptv-epg.com/tr/Haberturk.tr.png" group-title="NEWS",TR:HABERTURK
-http://ip50.dyndns.tv:8000/live/mehmet78/celik78/608.m3u8
 #EXTINF:-1 tvg-chno="221" tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTCocuk.tr.png" group-title="KIDS",TR:TRTCOCUK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/992.m3u8
 #EXTINF:-1 tvg-chno="222" tvg-id="Nickelodeon.dk" tvg-name="Nickelodeon DK" tvg-logo="http://static.iptv-epg.com/dk/Nickelodeon.dk.png" group-title="KIDS",TR:NICKELODEON
