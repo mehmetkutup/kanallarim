@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="beIN SPORTS HD 1">
+    <display-name lang="tr">beIN SPORTS HD 1</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
   <channel id="BBC Earth">
     <display-name lang="tr">BBC HD</display-name>
     <url>http://www.digiturk.com.tr</url>
@@ -25,8 +29,8 @@
     <url>http://www.digiturk.com.tr</url>
   </channel>
   <channel id="Nat Geo People">
-    <display-name lang="tr">Nat Geo People</display-name>
-    <url>http://www.digiturk.com.tr</url>
+    <display-name lang="tr">NAT GEO PEOPLE HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
   </channel>
   <channel id="ID X">
     <display-name lang="tr">DISCOVERY ID</display-name>
@@ -53,8 +57,8 @@
     <url>http://www.digiturk.com.tr</url>
   </channel>
   <channel id="Animal Planet">
-    <display-name lang="tr">Animal Planet</display-name>
-    <url>http://www.digiturk.com.tr</url>
+    <display-name lang="tr">ANIMAL PLANET HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
   </channel>
   <channel id="History">
     <display-name lang="tr">History</display-name>
@@ -63,10 +67,6 @@
   <channel id="TRT Belgesel">
     <display-name lang="tr">TRT BELGESEL</display-name>
     <url>http://www.turksatkablo.com.tr</url>
-  </channel>
-  <channel id="LİG TV">
-    <display-name lang="tr">LİG TV</display-name>
-    <url>http://www.digiturk.com.tr</url>
   </channel>
   <channel id="LİG TV 2">
     <display-name lang="tr">LİG TV 2</display-name>
@@ -3095,667 +3095,293 @@
     <desc lang="tr">Oklahoma cıty'nin yasadışı sokak yarışçıları yine ekranda. İlk on dereceye girebilmek için kıyasıya bir rekabet var. Bakalım kimler sinirlerine hakim olacak ve ödülleri kazanacak(n)</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20200115000000 +0300" stop="20200115004500 +0300" channel="Nat Geo People">
-    <title lang="tr">Yetenekli dr. Pol</title>
-    <desc lang="tr">Yetenekli dr. Pol'ün 9. Sezonunda doktorları kritik klinik ziyaretlerinden acil çiftlik çağrılarına yetişmek için zamanlar yarışıyorlar! Pol veterinerlik servisi haftada yedi gün boyunca michigan'ın zor durumdaki sakinlerini tedavi ederken onlarla birlikte vahşi bir gezintiye çıkın(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200115000500 +0300" stop="20200115005000 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
   </programme>
-  <programme start="20200115004500 +0300" stop="20200115013000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott ve çaylak veterineri riaz'ın iki yaramaz sincabı tedavi etmesi için çağrılıyor. Çok sevilen 11 yaşındaki bir aile kedisi kanser olabilir. Sevimli bir köpek yavrusu hayat kurtaran bir burun operasyonu geçiriyor(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200115005000 +0300" stop="20200115011500 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
   </programme>
-  <programme start="20200115013000 +0300" stop="20200115021500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Bu bölümde ingiliz modacı televizyon sunucusu ve çin mutfağı yazarı gok wan latin amerika ve güney doğu asya'daki hollanda kolonializminin kendine özgü hibrit bir çin mutfağı yarattığı amsterdam'ı geziyor(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200115011500 +0300" stop="20200115020500 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
   </programme>
-  <programme start="20200115021500 +0300" stop="20200115030000 +0300" channel="Nat Geo People">
+  <programme start="20200115020500 +0300" stop="20200115025000 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
+  </programme>
+  <programme start="20200115025000 +0300" stop="20200115034000 +0300" channel="Nat Geo People">
     <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Hemşire julıe swınburne yaşlı bir hastanın rutin kıyafet değişikliğini yaparken bir şeylerin ters gittiğini farkeder ve hemen destek çağırır. Hastası colin birkaç hafta önce kafasının tepesini bir kapı çerçevesiyle hafifçe yaralamış ancak şimdi kafasının neredeyse tamamı bir kabukla kaplanmıştı(n)</desc>
-    <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20200115030000 +0300" stop="20200115032500 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
+  <programme start="20200115034000 +0300" stop="20200115042500 +0300" channel="Nat Geo People">
+    <title lang="tr">Yetenekli Dr. Pol</title>
   </programme>
-  <programme start="20200115032500 +0300" stop="20200115034500 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200115034500 +0300" stop="20200115043000 +0300" channel="Nat Geo People">
-    <title lang="tr">Maradona özel</title>
-    <desc lang="tr">Diego armando maradona tüm zamanların en iyi futbolcusudur. Bu belgeselde sadece futbolculuğuyla değil hayat tarzıyla da dikkat çeken maradona'yı daha yakından tanıyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115043000 +0300" stop="20200115051500 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott ve çaylak veterineri riaz'ın iki yaramaz sincabı tedavi etmesi için çağrılıyor. Çok sevilen 11 yaşındaki bir aile kedisi kanser olabilir. Sevimli bir köpek yavrusu hayat kurtaran bir burun operasyonu geçiriyor(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200115042500 +0300" stop="20200115051500 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
   </programme>
   <programme start="20200115051500 +0300" stop="20200115060000 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
+  </programme>
+  <programme start="20200115060000 +0300" stop="20200115065000 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
+  </programme>
+  <programme start="20200115065000 +0300" stop="20200115071500 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200115071500 +0300" stop="20200115080000 +0300" channel="Nat Geo People">
+    <title lang="tr">Pati Magazin</title>
+  </programme>
+  <programme start="20200115080000 +0300" stop="20200115085000 +0300" channel="Nat Geo People">
+    <title lang="tr">Rocky Mountain Hayvan Kurtarma Ekibi</title>
+  </programme>
+  <programme start="20200115085000 +0300" stop="20200115094000 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
+  </programme>
+  <programme start="20200115094000 +0300" stop="20200115103000 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
+  </programme>
+  <programme start="20200115103000 +0300" stop="20200115105200 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200115105200 +0300" stop="20200115112000 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200115112000 +0300" stop="20200115121000 +0300" channel="Nat Geo People">
+    <title lang="tr">Özgür Yaşa Derleme Bölümler</title>
+  </programme>
+  <programme start="20200115121000 +0300" stop="20200115130000 +0300" channel="Nat Geo People">
+    <title lang="tr">Bartholomew'un Veterinerlik Macerası Derleme Bölümler</title>
+  </programme>
+  <programme start="20200115130000 +0300" stop="20200115135000 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
+  </programme>
+  <programme start="20200115135000 +0300" stop="20200115144500 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
+  </programme>
+  <programme start="20200115144500 +0300" stop="20200115150700 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200115150700 +0300" stop="20200115153500 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200115153500 +0300" stop="20200115162500 +0300" channel="Nat Geo People">
+    <title lang="tr">Rocky Mountain Hayvan Kurtarma Ekibi</title>
+  </programme>
+  <programme start="20200115162500 +0300" stop="20200115171500 +0300" channel="Nat Geo People">
     <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Hemşire julıe swınburne yaşlı bir hastanın rutin kıyafet değişikliğini yaparken bir şeylerin ters gittiğini farkeder ve hemen destek çağırır. Hastası colin birkaç hafta önce kafasının tepesini bir kapı çerçevesiyle hafifçe yaralamış ancak şimdi kafasının neredeyse tamamı bir kabukla kaplanmıştı(n)</desc>
-    <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20200115060000 +0300" stop="20200115064500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Bu bölümde ingiliz modacı televizyon sunucusu ve çin mutfağı yazarı gok wan malezya'nın füzyon mutfağını ve bölgeye 500 sene önce yerleşen peranakanlar olarak bilinen bir grup çin göçmenin yaşam tarzını ve yemeklerini inceliyor(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200115171500 +0300" stop="20200115180500 +0300" channel="Nat Geo People">
+    <title lang="tr">Pati Magazin</title>
   </programme>
-  <programme start="20200115064500 +0300" stop="20200115073000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott agresif bir rottweiler'i tedavi etmek için kendini ateş hattına atıyor; marion'un çok sevdiği arkadaşının tedavi edilemez bir hastalığı olabilir. Miller ailesine katılan yeni bir bebek var(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200115180500 +0300" stop="20200115185500 +0300" channel="Nat Geo People">
+    <title lang="tr">Zorlu Seyahatler için Güvenlik Rehberi</title>
   </programme>
-  <programme start="20200115073000 +0300" stop="20200115081500 +0300" channel="Nat Geo People">
+  <programme start="20200115185500 +0300" stop="20200115194500 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
+  </programme>
+  <programme start="20200115194500 +0300" stop="20200115204000 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
+  </programme>
+  <programme start="20200115204000 +0300" stop="20200115210200 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200115210200 +0300" stop="20200115213000 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200115213000 +0300" stop="20200115222500 +0300" channel="Nat Geo People">
+    <title lang="tr">İçimizdeki Veteriner</title>
+  </programme>
+  <programme start="20200115222500 +0300" stop="20200115231500 +0300" channel="Nat Geo People">
+    <title lang="tr">Zorlu Seyahatler için Güvenlik Rehberi</title>
+  </programme>
+  <programme start="20200115231500 +0300" stop="20200116000500 +0300" channel="Nat Geo People">
+    <title lang="tr">İçimizdeki Veteriner</title>
+  </programme>
+  <programme start="20200116000500 +0300" stop="20200116005500 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
+  </programme>
+  <programme start="20200116005500 +0300" stop="20200116012000 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200116012000 +0300" stop="20200116021000 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
+  </programme>
+  <programme start="20200116021000 +0300" stop="20200116025500 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
+  </programme>
+  <programme start="20200116025500 +0300" stop="20200116034000 +0300" channel="Nat Geo People">
+    <title lang="tr">Pati Magazin</title>
+  </programme>
+  <programme start="20200116034000 +0300" stop="20200116042500 +0300" channel="Nat Geo People">
     <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Geçirdiği trafik kazası yüzünden tekerlekli sandalye kullanan eski polis shahid'e kazadan beri eşi bakıyordu. Ancak eşinin felç geçirmesi her şeyi tersine çeviriyor.(n)</desc>
-    <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20200115081500 +0300" stop="20200115090000 +0300" channel="Nat Geo People">
-    <title lang="tr">Egzotik hayvanlara ilk yardım</title>
-    <desc lang="tr">Susan kelleher güney florıda'daki en işlek egzotik hayvan bakım evlerinden birine sahip ve işletmekte kangurulardan maymunlara kuşlara tavşanlara domuzlara balıklara ve aralarında akla gelebilecek her hayvana kadar değişen dinamik bir hasta grubunu tedavi etme maceralarına katılın(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115090000 +0300" stop="20200115094500 +0300" channel="Nat Geo People">
-    <title lang="tr">Hayvan istifçileri</title>
-    <desc lang="tr">Evcil hayvan biriktirenler ile tanışın; sadece bir tanesine hayır diyemeyen ve hayatları şimdi hayvanlarla dolup taşan insanlar. Şimdi onları nasıl topladıklarını hayvan sevgilerini keşfetmeyi ve evcil hayvanlarıyla sahip oldukları olağanüstü bağları araştırırken izliyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115094500 +0300" stop="20200115103000 +0300" channel="Nat Geo People">
-    <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Hemşire julıe swınburne yaşlı bir hastanın rutin kıyafet değişikliğini yaparken bir şeylerin ters gittiğini farkeder ve hemen destek çağırır. Hastası colin birkaç hafta önce kafasının tepesini bir kapı çerçevesiyle hafifçe yaralamış ancak şimdi kafasının neredeyse tamamı bir kabukla kaplanmıştı(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115103000 +0300" stop="20200115111500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Bu bölümde ingiliz modacı televizyon sunucusu ve çin mutfağı yazarı gok wan malezya'nın füzyon mutfağını ve bölgeye 500 sene önce yerleşen peranakanlar olarak bilinen bir grup çin göçmenin yaşam tarzını ve yemeklerini inceliyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115111500 +0300" stop="20200115120000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott agresif bir rottweiler'i tedavi etmek için kendini ateş hattına atıyor; marion'un çok sevdiği arkadaşının tedavi edilemez bir hastalığı olabilir. Miller ailesine katılan yeni bir bebek var(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115120000 +0300" stop="20200115124500 +0300" channel="Nat Geo People">
-    <title lang="tr">Yetenekli dr. Pol</title>
-    <desc lang="tr">Yetenekli dr. Pol'ün 9. Sezonunda doktorları kritik klinik ziyaretlerinden acil çiftlik çağrılarına yetişmek için zamanlar yarışıyorlar! Pol veterinerlik servisi haftada yedi gün boyunca michigan'ın zor durumdaki sakinlerini tedavi ederken onlarla birlikte vahşi bir gezintiye çıkın(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115124500 +0300" stop="20200115133000 +0300" channel="Nat Geo People">
-    <title lang="tr">Bondı veterineri</title>
-    <desc lang="tr">Acil servis uzmanı dr. Alex hynes vahşi yaşam uzmanı dr. Peter rıccı bondı yerlisi dr. Kate adams yeni mezun dr. Danni dusek özel klinik sahibi dr. Lewıs hunt ve mobil veteriner kız kardeşler dr(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115133000 +0300" stop="20200115141500 +0300" channel="Nat Geo People">
-    <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Hemşire julıe swınburne yaşlı bir hastanın rutin kıyafet değişikliğini yaparken bir şeylerin ters gittiğini farkeder ve hemen destek çağırır. Hastası colin birkaç hafta önce kafasının tepesini bir kapı çerçevesiyle hafifçe yaralamış ancak şimdi kafasının neredeyse tamamı bir kabukla kaplanmıştı(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115141500 +0300" stop="20200115150000 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Bu bölümde ingiliz modacı televizyon sunucusu ve çin mutfağı yazarı gok wan latin amerika ve güney doğu asya'daki hollanda kolonializminin kendine özgü hibrit bir çin mutfağı yarattığı amsterdam'ı geziyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115150000 +0300" stop="20200115154500 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott ve çaylak veterineri riaz'ın iki yaramaz sincabı tedavi etmesi için çağrılıyor. Çok sevilen 11 yaşındaki bir aile kedisi kanser olabilir. Sevimli bir köpek yavrusu hayat kurtaran bir burun operasyonu geçiriyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115154500 +0300" stop="20200115163000 +0300" channel="Nat Geo People">
-    <title lang="tr">Maradona özel</title>
-    <desc lang="tr">Diego armando maradona tüm zamanların en iyi futbolcusudur. Bu belgeselde sadece futbolculuğuyla değil hayat tarzıyla da dikkat çeken maradona'yı daha yakından tanıyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115163000 +0300" stop="20200115172000 +0300" channel="Nat Geo People">
-    <title lang="tr">Egzotik hayvanlara ilk yardım</title>
-    <desc lang="tr">Susan kelleher güney florıda'daki en işlek egzotik hayvan bakım evlerinden birine sahip ve işletmekte kangurulardan maymunlara kuşlara tavşanlara domuzlara balıklara ve aralarında akla gelebilecek her hayvana kadar değişen dinamik bir hasta grubunu tedavi etme maceralarına katılın(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115172000 +0300" stop="20200115181000 +0300" channel="Nat Geo People">
-    <title lang="tr">Hayvan istifçileri</title>
-    <desc lang="tr">Evcil hayvan biriktirenler ile tanışın; sadece bir tanesine hayır diyemeyen ve hayatları şimdi hayvanlarla dolup taşan insanlar. Şimdi onları nasıl topladıklarını hayvan sevgilerini keşfetmeyi ve evcil hayvanlarıyla sahip oldukları olağanüstü bağları araştırırken izliyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115181000 +0300" stop="20200115183500 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200115183500 +0300" stop="20200115190000 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200115190000 +0300" stop="20200115195000 +0300" channel="Nat Geo People">
-    <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Davıd öksürürken ağzından kan geldiği şikayetiyle dr. Mustafa jiwanji'ye muayene olmaya gelen 20'li yaşlarında bir hastadır. Pratisyen hekim davıd'in bir göğüs enfeksiyonu olduğundan şüphelenir ve sebebini araştırır ve bu şekilde davıd'in düzenli bir esrar içicisi olduğu ortaya çıkar(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115195000 +0300" stop="20200115204000 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Gok wan bu bölümde fransa'nın güney doğu asya'daki kolonicilik geçmişinin paris'in yemeklerine nasıl etkilediğini keşfediyor ve pho eriştesi bahn mi gibi etnik vietnam yemeklerindeki çin-fransız esintisini ortaya çıkartıyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115204000 +0300" stop="20200115213000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott korkunç bir geçmişi olan egzotik bir köpeğe yardım edebilir mi? Bakıcı wendy terrier bella'nın güzelliğine yenik düşecek. Yeni veteriner riaz vahşi kedi yavrularıyla mücadele edecek(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115213000 +0300" stop="20200115222000 +0300" channel="Nat Geo People">
-    <title lang="tr">Bondı veterineri</title>
-    <desc lang="tr">Acil servis uzmanı dr. Alex hynes vahşi yaşam uzmanı dr. Peter rıccı bondı yerlisi dr. Kate adams yeni mezun dr. Danni dusek özel klinik sahibi dr. Lewıs hunt ve mobil veteriner kız kardeşler dr(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115222000 +0300" stop="20200115231000 +0300" channel="Nat Geo People">
-    <title lang="tr">Perde arkası</title>
-    <desc lang="tr">Bir hastane günün 24 saati nasıl çalışıyor? İngiltere'nin en büyük bir hastanelerinden biri için 'tüm alanlara erişim' kartı ile neler görülebilir(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115231000 +0300" stop="20200115235500 +0300" channel="Nat Geo People">
-    <title lang="tr">Maradona özel</title>
-    <desc lang="tr">Diego armando maradona tüm zamanların en iyi futbolcusudur. Bu belgeselde sadece futbolculuğuyla değil hayat tarzıyla da dikkat çeken maradona'yı daha yakından tanıyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200115235500 +0300" stop="20200116004500 +0300" channel="Nat Geo People">
-    <title lang="tr">Hayvan istifçileri</title>
-    <desc lang="tr">Evcil hayvan biriktirenler ile tanışın; sadece bir tanesine hayır diyemeyen ve hayatları şimdi hayvanlarla dolup taşan insanlar. Şimdi onları nasıl topladıklarını hayvan sevgilerini keşfetmeyi ve evcil hayvanlarıyla sahip oldukları olağanüstü bağları araştırırken izliyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116004500 +0300" stop="20200116013000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott korkunç bir geçmişi olan egzotik bir köpeğe yardım edebilir mi? Bakıcı wendy terrier bella'nın güzelliğine yenik düşecek. Yeni veteriner riaz vahşi kedi yavrularıyla mücadele edecek(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116013000 +0300" stop="20200116021500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Gok wan bu bölümde fransa'nın güney doğu asya'daki kolonicilik geçmişinin paris'in yemeklerine nasıl etkilediğini keşfediyor ve pho eriştesi bahn mi gibi etnik vietnam yemeklerindeki çin-fransız esintisini ortaya çıkartıyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116021500 +0300" stop="20200116030000 +0300" channel="Nat Geo People">
-    <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Davıd öksürürken ağzından kan geldiği şikayetiyle dr. Mustafa jiwanji'ye muayene olmaya gelen 20'li yaşlarında bir hastadır. Pratisyen hekim davıd'in bir göğüs enfeksiyonu olduğundan şüphelenir ve sebebini araştırır ve bu şekilde davıd'in düzenli bir esrar içicisi olduğu ortaya çıkar(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116030000 +0300" stop="20200116034500 +0300" channel="Nat Geo People">
-    <title lang="tr">Yetenekli dr. Pol</title>
-    <desc lang="tr">Yetenekli dr. Pol'ün 9. Sezonunda doktorları kritik klinik ziyaretlerinden acil çiftlik çağrılarına yetişmek için zamanlar yarışıyorlar! Pol veterinerlik servisi haftada yedi gün boyunca michigan'ın zor durumdaki sakinlerini tedavi ederken onlarla birlikte vahşi bir gezintiye çıkın(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116034500 +0300" stop="20200116043000 +0300" channel="Nat Geo People">
-    <title lang="tr">Bondı veterineri</title>
-    <desc lang="tr">Acil servis uzmanı dr. Alex hynes vahşi yaşam uzmanı dr. Peter rıccı bondı yerlisi dr. Kate adams yeni mezun dr. Danni dusek özel klinik sahibi dr. Lewıs hunt ve mobil veteriner kız kardeşler dr(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116043000 +0300" stop="20200116051500 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott korkunç bir geçmişi olan egzotik bir köpeğe yardım edebilir mi? Bakıcı wendy terrier bella'nın güzelliğine yenik düşecek. Yeni veteriner riaz vahşi kedi yavrularıyla mücadele edecek(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200116042500 +0300" stop="20200116051500 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
   </programme>
   <programme start="20200116051500 +0300" stop="20200116060000 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
+  </programme>
+  <programme start="20200116060000 +0300" stop="20200116065000 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
+  </programme>
+  <programme start="20200116065000 +0300" stop="20200116071200 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200116071200 +0300" stop="20200116075700 +0300" channel="Nat Geo People">
+    <title lang="tr">Zorlu Seyahatler için Güvenlik Rehberi</title>
+  </programme>
+  <programme start="20200116075700 +0300" stop="20200116084500 +0300" channel="Nat Geo People">
     <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Davıd öksürürken ağzından kan geldiği şikayetiyle dr. Mustafa jiwanji'ye muayene olmaya gelen 20'li yaşlarında bir hastadır. Pratisyen hekim davıd'in bir göğüs enfeksiyonu olduğundan şüphelenir ve sebebini araştırır ve bu şekilde davıd'in düzenli bir esrar içicisi olduğu ortaya çıkar(n)</desc>
-    <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20200116060000 +0300" stop="20200116064500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Bu bölümde ingiliz modacı televizyon sunucusu ve çin mutfağı yazarı gok wan latin amerika ve güney doğu asya'daki hollanda kolonializminin kendine özgü hibrit bir çin mutfağı yarattığı amsterdam'ı geziyor(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200116084500 +0300" stop="20200116093500 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
   </programme>
-  <programme start="20200116064500 +0300" stop="20200116073000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott ve çaylak veterineri riaz'ın iki yaramaz sincabı tedavi etmesi için çağrılıyor. Çok sevilen 11 yaşındaki bir aile kedisi kanser olabilir. Sevimli bir köpek yavrusu hayat kurtaran bir burun operasyonu geçiriyor(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200116093500 +0300" stop="20200116103000 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
   </programme>
-  <programme start="20200116073000 +0300" stop="20200116081500 +0300" channel="Nat Geo People">
+  <programme start="20200116103000 +0300" stop="20200116105200 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200116105200 +0300" stop="20200116112000 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200116112000 +0300" stop="20200116121000 +0300" channel="Nat Geo People">
+    <title lang="tr">İçimizdeki Veteriner</title>
+  </programme>
+  <programme start="20200116121000 +0300" stop="20200116130000 +0300" channel="Nat Geo People">
+    <title lang="tr">Pati Magazin</title>
+  </programme>
+  <programme start="20200116130000 +0300" stop="20200116135000 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
+  </programme>
+  <programme start="20200116135000 +0300" stop="20200116144500 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
+  </programme>
+  <programme start="20200116144500 +0300" stop="20200116150700 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200116150700 +0300" stop="20200116153500 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200116153500 +0300" stop="20200116162500 +0300" channel="Nat Geo People">
+    <title lang="tr">Yetenekli Dr. Pol</title>
+  </programme>
+  <programme start="20200116162500 +0300" stop="20200116171500 +0300" channel="Nat Geo People">
+    <title lang="tr">Zorlu Seyahatler için Güvenlik Rehberi</title>
+  </programme>
+  <programme start="20200116171500 +0300" stop="20200116180500 +0300" channel="Nat Geo People">
+    <title lang="tr">Bartholomew'un Veterinerlik Macerası Derleme Bölümler</title>
+  </programme>
+  <programme start="20200116180500 +0300" stop="20200116185500 +0300" channel="Nat Geo People">
     <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Hemşire julıe swınburne yaşlı bir hastanın rutin kıyafet değişikliğini yaparken bir şeylerin ters gittiğini farkeder ve hemen destek çağırır. Hastası colin birkaç hafta önce kafasının tepesini bir kapı çerçevesiyle hafifçe yaralamış ancak şimdi kafasının neredeyse tamamı bir kabukla kaplanmıştı(n)</desc>
-    <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20200116081500 +0300" stop="20200116090000 +0300" channel="Nat Geo People">
-    <title lang="tr">Perde arkası</title>
-    <desc lang="tr">Bir hastane günün 24 saati nasıl çalışıyor? İngiltere'nin en büyük bir hastanelerinden biri için 'tüm alanlara erişim' kartı ile neler görülebilir(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200116185500 +0300" stop="20200116194500 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
   </programme>
-  <programme start="20200116090000 +0300" stop="20200116094500 +0300" channel="Nat Geo People">
-    <title lang="tr">Egzotik hayvanlara ilk yardım</title>
-    <desc lang="tr">Susan kelleher güney florıda'daki en işlek egzotik hayvan bakım evlerinden birine sahip ve işletmekte kangurulardan maymunlara kuşlara tavşanlara domuzlara balıklara ve aralarında akla gelebilecek her hayvana kadar değişen dinamik bir hasta grubunu tedavi etme maceralarına katılın(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116094500 +0300" stop="20200116103000 +0300" channel="Nat Geo People">
-    <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Davıd öksürürken ağzından kan geldiği şikayetiyle dr. Mustafa jiwanji'ye muayene olmaya gelen 20'li yaşlarında bir hastadır. Pratisyen hekim davıd'in bir göğüs enfeksiyonu olduğundan şüphelenir ve sebebini araştırır ve bu şekilde davıd'in düzenli bir esrar içicisi olduğu ortaya çıkar(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116103000 +0300" stop="20200116111500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Bu bölümde ingiliz modacı televizyon sunucusu ve çin mutfağı yazarı gok wan latin amerika ve güney doğu asya'daki hollanda kolonializminin kendine özgü hibrit bir çin mutfağı yarattığı amsterdam'ı geziyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116111500 +0300" stop="20200116120000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott ve çaylak veterineri riaz'ın iki yaramaz sincabı tedavi etmesi için çağrılıyor. Çok sevilen 11 yaşındaki bir aile kedisi kanser olabilir. Sevimli bir köpek yavrusu hayat kurtaran bir burun operasyonu geçiriyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116120000 +0300" stop="20200116122500 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200116122500 +0300" stop="20200116124500 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200116124500 +0300" stop="20200116133000 +0300" channel="Nat Geo People">
-    <title lang="tr">Yetenekli dr. Pol</title>
-    <desc lang="tr">Yetenekli dr. Pol'ün 9. Sezonunda doktorları kritik klinik ziyaretlerinden acil çiftlik çağrılarına yetişmek için zamanlar yarışıyorlar! Pol veterinerlik servisi haftada yedi gün boyunca michigan'ın zor durumdaki sakinlerini tedavi ederken onlarla birlikte vahşi bir gezintiye çıkın(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116133000 +0300" stop="20200116141500 +0300" channel="Nat Geo People">
-    <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Davıd öksürürken ağzından kan geldiği şikayetiyle dr. Mustafa jiwanji'ye muayene olmaya gelen 20'li yaşlarında bir hastadır. Pratisyen hekim davıd'in bir göğüs enfeksiyonu olduğundan şüphelenir ve sebebini araştırır ve bu şekilde davıd'in düzenli bir esrar içicisi olduğu ortaya çıkar(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116141500 +0300" stop="20200116150000 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Gok wan bu bölümde fransa'nın güney doğu asya'daki kolonicilik geçmişinin paris'in yemeklerine nasıl etkilediğini keşfediyor ve pho eriştesi bahn mi gibi etnik vietnam yemeklerindeki çin-fransız esintisini ortaya çıkartıyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116150000 +0300" stop="20200116154500 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott korkunç bir geçmişi olan egzotik bir köpeğe yardım edebilir mi? Bakıcı wendy terrier bella'nın güzelliğine yenik düşecek. Yeni veteriner riaz vahşi kedi yavrularıyla mücadele edecek(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116154500 +0300" stop="20200116163000 +0300" channel="Nat Geo People">
-    <title lang="tr">Bondı veterineri</title>
-    <desc lang="tr">Acil servis uzmanı dr. Alex hynes vahşi yaşam uzmanı dr. Peter rıccı bondı yerlisi dr. Kate adams yeni mezun dr. Danni dusek özel klinik sahibi dr. Lewıs hunt ve mobil veteriner kız kardeşler dr(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116163000 +0300" stop="20200116172000 +0300" channel="Nat Geo People">
-    <title lang="tr">Perde arkası</title>
-    <desc lang="tr">Bir hastane günün 24 saati nasıl çalışıyor? İngiltere'nin en büyük bir hastanelerinden biri için 'tüm alanlara erişim' kartı ile neler görülebilir(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116172000 +0300" stop="20200116181000 +0300" channel="Nat Geo People">
-    <title lang="tr">Maradona özel</title>
-    <desc lang="tr">Diego armando maradona tüm zamanların en iyi futbolcusudur. Bu belgeselde sadece futbolculuğuyla değil hayat tarzıyla da dikkat çeken maradona'yı daha yakından tanıyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116181000 +0300" stop="20200116190000 +0300" channel="Nat Geo People">
-    <title lang="tr">Hayvan istifçileri</title>
-    <desc lang="tr">Evcil hayvan biriktirenler ile tanışın; sadece bir tanesine hayır diyemeyen ve hayatları şimdi hayvanlarla dolup taşan insanlar. Şimdi onları nasıl topladıklarını hayvan sevgilerini keşfetmeyi ve evcil hayvanlarıyla sahip oldukları olağanüstü bağları araştırırken izliyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116190000 +0300" stop="20200116195000 +0300" channel="Nat Geo People">
-    <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Dr. Jas deooray'in hastası chelsea yakın zamanda iş yerinde merdivenlerden düşmüştür ancak olayı hatırlamamaktadır. Parçalar bir araya gelince chelsea'nin merdivenin en tepesindeyken bilincini kaybetmesine sebep olan bir epilepsi nöbeti geçirdiği ortaya çıkar(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200116195000 +0300" stop="20200116204000 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Gok'un uzak doğu mutfagˆı'nın son bölümünde gok wan avrupa asya ve avustralya'daki seyahatlerinden kazandığı ilhamla londra'ya dönerek dünyanın her yerinden çin mutfağının lezzetlerini tadıyor(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200116194500 +0300" stop="20200116204000 +0300" channel="Nat Geo People">
+    <title lang="tr">Çin'de Kaybolmak</title>
   </programme>
   <programme start="20200116204000 +0300" stop="20200116213000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Staffordshıre terrieri olan aşırı üreme için kullanılan ve daha sonra sokağa atılan rosa'yı ve bahçıvan kırılmış bir bacağına sahip bir muhabbet kuşunu kurtarmıştır ve scott'ın yeni köpek yavrusu sahip olmaması gereken bir şeyi yuttuktan sonra başı derttedir(n)</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">Yüzen Hastane</title>
   </programme>
   <programme start="20200116213000 +0300" stop="20200116222000 +0300" channel="Nat Geo People">
-    <title lang="tr">Yetenekli dr. Pol</title>
-    <desc lang="tr">Yetenekli dr. Pol'ün 9. Sezonunda doktorları kritik klinik ziyaretlerinden acil çiftlik çağrılarına yetişmek için zamanlar yarışıyorlar! Pol veterinerlik servisi haftada yedi gün boyunca michigan'ın zor durumdaki sakinlerini tedavi ederken onlarla birlikte vahşi bir gezintiye çıkın(n)</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">Yetenekli Dr. Pol</title>
   </programme>
-  <programme start="20200116222000 +0300" stop="20200116230500 +0300" channel="Nat Geo People">
-    <title lang="tr">Bondı veterineri</title>
-    <desc lang="tr">Acil servis uzmanı dr. Alex hynes vahşi yaşam uzmanı dr. Peter rıccı bondı yerlisi dr. Kate adams yeni mezun dr. Danni dusek özel klinik sahibi dr. Lewıs hunt ve mobil veteriner kız kardeşler dr(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200116222000 +0300" stop="20200116231000 +0300" channel="Nat Geo People">
+    <title lang="tr">İçimizdeki Veteriner</title>
   </programme>
-  <programme start="20200116230500 +0300" stop="20200116233000 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200116233000 +0300" stop="20200117000000 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
+  <programme start="20200116231000 +0300" stop="20200117000000 +0300" channel="Nat Geo People">
+    <title lang="tr">Yetenekli Dr. Pol</title>
   </programme>
   <programme start="20200117000000 +0300" stop="20200117004500 +0300" channel="Nat Geo People">
-    <title lang="tr">Egzotik hayvanlara ilk yardım</title>
-    <desc lang="tr">Susan kelleher güney florıda'daki en işlek egzotik hayvan bakım evlerinden birine sahip ve işletmekte kangurulardan maymunlara kuşlara tavşanlara domuzlara balıklara ve aralarında akla gelebilecek her hayvana kadar değişen dinamik bir hasta grubunu tedavi etme maceralarına katılın(n)</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
   </programme>
-  <programme start="20200117004500 +0300" stop="20200117013000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Staffordshıre terrieri olan aşırı üreme için kullanılan ve daha sonra sokağa atılan rosa'yı ve bahçıvan kırılmış bir bacağına sahip bir muhabbet kuşunu kurtarmıştır ve scott'ın yeni köpek yavrusu sahip olmaması gereken bir şeyi yuttuktan sonra başı derttedir(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200117004500 +0300" stop="20200117013500 +0300" channel="Nat Geo People">
+    <title lang="tr">Yüzen Hastane</title>
   </programme>
-  <programme start="20200117013000 +0300" stop="20200117021500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Gok'un uzak doğu mutfagˆı'nın son bölümünde gok wan avrupa asya ve avustralya'daki seyahatlerinden kazandığı ilhamla londra'ya dönerek dünyanın her yerinden çin mutfağının lezzetlerini tadıyor(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200117013500 +0300" stop="20200117022500 +0300" channel="Nat Geo People">
+    <title lang="tr">Çin'de Kaybolmak</title>
   </programme>
-  <programme start="20200117021500 +0300" stop="20200117030000 +0300" channel="Nat Geo People">
+  <programme start="20200117022500 +0300" stop="20200117031000 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
+  </programme>
+  <programme start="20200117031000 +0300" stop="20200117035500 +0300" channel="Nat Geo People">
+    <title lang="tr">Zorlu Seyahatler için Güvenlik Rehberi</title>
+  </programme>
+  <programme start="20200117035500 +0300" stop="20200117044500 +0300" channel="Nat Geo People">
+    <title lang="tr">Pati Magazin</title>
+  </programme>
+  <programme start="20200117044500 +0300" stop="20200117053700 +0300" channel="Nat Geo People">
+    <title lang="tr">Çin'de Kaybolmak</title>
+  </programme>
+  <programme start="20200117053700 +0300" stop="20200117060000 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200117060000 +0300" stop="20200117064700 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
+  </programme>
+  <programme start="20200117064700 +0300" stop="20200117071000 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200117071000 +0300" stop="20200117075500 +0300" channel="Nat Geo People">
+    <title lang="tr">İçimizdeki Veteriner</title>
+  </programme>
+  <programme start="20200117075500 +0300" stop="20200117084500 +0300" channel="Nat Geo People">
+    <title lang="tr">Pati Magazin</title>
+  </programme>
+  <programme start="20200117084500 +0300" stop="20200117093500 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
+  </programme>
+  <programme start="20200117093500 +0300" stop="20200117103000 +0300" channel="Nat Geo People">
+    <title lang="tr">Dalgıç Dedektifler</title>
+  </programme>
+  <programme start="20200117103000 +0300" stop="20200117105200 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200117105200 +0300" stop="20200117112000 +0300" channel="Nat Geo People">
+    <title lang="tr">Mucizeler Hastanesi</title>
+  </programme>
+  <programme start="20200117112000 +0300" stop="20200117121000 +0300" channel="Nat Geo People">
+    <title lang="tr">Yetenekli Dr. Pol</title>
+  </programme>
+  <programme start="20200117121000 +0300" stop="20200117130000 +0300" channel="Nat Geo People">
+    <title lang="tr">Özgür Yaşa Derleme Bölümler</title>
+  </programme>
+  <programme start="20200117130000 +0300" stop="20200117135000 +0300" channel="Nat Geo People">
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
+  </programme>
+  <programme start="20200117135000 +0300" stop="20200117144500 +0300" channel="Nat Geo People">
+    <title lang="tr">Çin'de Kaybolmak</title>
+  </programme>
+  <programme start="20200117144500 +0300" stop="20200117153500 +0300" channel="Nat Geo People">
+    <title lang="tr">Yüzen Hastane</title>
+  </programme>
+  <programme start="20200117153500 +0300" stop="20200117162500 +0300" channel="Nat Geo People">
     <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Dr. Jas deooray'in hastası chelsea yakın zamanda iş yerinde merdivenlerden düşmüştür ancak olayı hatırlamamaktadır. Parçalar bir araya gelince chelsea'nin merdivenin en tepesindeyken bilincini kaybetmesine sebep olan bir epilepsi nöbeti geçirdiği ortaya çıkar(n)</desc>
-    <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20200117030000 +0300" stop="20200117034500 +0300" channel="Nat Geo People">
-    <title lang="tr">Maradona özel</title>
-    <desc lang="tr">Diego armando maradona tüm zamanların en iyi futbolcusudur. Bu belgeselde sadece futbolculuğuyla değil hayat tarzıyla da dikkat çeken maradona'yı daha yakından tanıyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200117162500 +0300" stop="20200117171500 +0300" channel="Nat Geo People">
+    <title lang="tr">Özgür Yaşa Derleme Bölümler</title>
   </programme>
-  <programme start="20200117034500 +0300" stop="20200117043000 +0300" channel="Nat Geo People">
-    <title lang="tr">Yetenekli dr. Pol</title>
-    <desc lang="tr">Yetenekli dr. Pol'ün 9. Sezonunda doktorları kritik klinik ziyaretlerinden acil çiftlik çağrılarına yetişmek için zamanlar yarışıyorlar! Pol veterinerlik servisi haftada yedi gün boyunca michigan'ın zor durumdaki sakinlerini tedavi ederken onlarla birlikte vahşi bir gezintiye çıkın(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200117171500 +0300" stop="20200117180500 +0300" channel="Nat Geo People">
+    <title lang="tr">Yetenekli Dr. Pol</title>
   </programme>
-  <programme start="20200117043000 +0300" stop="20200117051500 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Staffordshıre terrieri olan aşırı üreme için kullanılan ve daha sonra sokağa atılan rosa'yı ve bahçıvan kırılmış bir bacağına sahip bir muhabbet kuşunu kurtarmıştır ve scott'ın yeni köpek yavrusu sahip olmaması gereken bir şeyi yuttuktan sonra başı derttedir(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117051500 +0300" stop="20200117060000 +0300" channel="Nat Geo People">
-    <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Dr. Jas deooray'in hastası chelsea yakın zamanda iş yerinde merdivenlerden düşmüştür ancak olayı hatırlamamaktadır. Parçalar bir araya gelince chelsea'nin merdivenin en tepesindeyken bilincini kaybetmesine sebep olan bir epilepsi nöbeti geçirdiği ortaya çıkar(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117060000 +0300" stop="20200117064500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Gok wan bu bölümde fransa'nın güney doğu asya'daki kolonicilik geçmişinin paris'in yemeklerine nasıl etkilediğini keşfediyor ve pho eriştesi bahn mi gibi etnik vietnam yemeklerindeki çin-fransız esintisini ortaya çıkartıyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117064500 +0300" stop="20200117073000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott korkunç bir geçmişi olan egzotik bir köpeğe yardım edebilir mi? Bakıcı wendy terrier bella'nın güzelliğine yenik düşecek. Yeni veteriner riaz vahşi kedi yavrularıyla mücadele edecek(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117073000 +0300" stop="20200117081500 +0300" channel="Nat Geo People">
-    <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Davıd öksürürken ağzından kan geldiği şikayetiyle dr. Mustafa jiwanji'ye muayene olmaya gelen 20'li yaşlarında bir hastadır. Pratisyen hekim davıd'in bir göğüs enfeksiyonu olduğundan şüphelenir ve sebebini araştırır ve bu şekilde davıd'in düzenli bir esrar içicisi olduğu ortaya çıkar(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117081500 +0300" stop="20200117090000 +0300" channel="Nat Geo People">
-    <title lang="tr">Bondı veterineri</title>
-    <desc lang="tr">Acil servis uzmanı dr. Alex hynes vahşi yaşam uzmanı dr. Peter rıccı bondı yerlisi dr. Kate adams yeni mezun dr. Danni dusek özel klinik sahibi dr. Lewıs hunt ve mobil veteriner kız kardeşler dr(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117090000 +0300" stop="20200117092500 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200117092500 +0300" stop="20200117094500 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200117094500 +0300" stop="20200117103000 +0300" channel="Nat Geo People">
-    <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Dr. Jas deooray'in hastası chelsea yakın zamanda iş yerinde merdivenlerden düşmüştür ancak olayı hatırlamamaktadır. Parçalar bir araya gelince chelsea'nin merdivenin en tepesindeyken bilincini kaybetmesine sebep olan bir epilepsi nöbeti geçirdiği ortaya çıkar(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117103000 +0300" stop="20200117111500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Gok wan bu bölümde fransa'nın güney doğu asya'daki kolonicilik geçmişinin paris'in yemeklerine nasıl etkilediğini keşfediyor ve pho eriştesi bahn mi gibi etnik vietnam yemeklerindeki çin-fransız esintisini ortaya çıkartıyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117111500 +0300" stop="20200117120000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott korkunç bir geçmişi olan egzotik bir köpeğe yardım edebilir mi? Bakıcı wendy terrier bella'nın güzelliğine yenik düşecek. Yeni veteriner riaz vahşi kedi yavrularıyla mücadele edecek(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117120000 +0300" stop="20200117124500 +0300" channel="Nat Geo People">
-    <title lang="tr">Maradona özel</title>
-    <desc lang="tr">Diego armando maradona tüm zamanların en iyi futbolcusudur. Bu belgeselde sadece futbolculuğuyla değil hayat tarzıyla da dikkat çeken maradona'yı daha yakından tanıyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117124500 +0300" stop="20200117133000 +0300" channel="Nat Geo People">
-    <title lang="tr">Hayvan istifçileri</title>
-    <desc lang="tr">Evcil hayvan biriktirenler ile tanışın; sadece bir tanesine hayır diyemeyen ve hayatları şimdi hayvanlarla dolup taşan insanlar. Şimdi onları nasıl topladıklarını hayvan sevgilerini keşfetmeyi ve evcil hayvanlarıyla sahip oldukları olağanüstü bağları araştırırken izliyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117133000 +0300" stop="20200117141500 +0300" channel="Nat Geo People">
-    <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Dr. Jas deooray'in hastası chelsea yakın zamanda iş yerinde merdivenlerden düşmüştür ancak olayı hatırlamamaktadır. Parçalar bir araya gelince chelsea'nin merdivenin en tepesindeyken bilincini kaybetmesine sebep olan bir epilepsi nöbeti geçirdiği ortaya çıkar(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117141500 +0300" stop="20200117150000 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Gok'un uzak doğu mutfagˆı'nın son bölümünde gok wan avrupa asya ve avustralya'daki seyahatlerinden kazandığı ilhamla londra'ya dönerek dünyanın her yerinden çin mutfağının lezzetlerini tadıyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117150000 +0300" stop="20200117154500 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Staffordshıre terrieri olan aşırı üreme için kullanılan ve daha sonra sokağa atılan rosa'yı ve bahçıvan kırılmış bir bacağına sahip bir muhabbet kuşunu kurtarmıştır ve scott'ın yeni köpek yavrusu sahip olmaması gereken bir şeyi yuttuktan sonra başı derttedir(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117154500 +0300" stop="20200117161000 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200117161000 +0300" stop="20200117163000 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200117163000 +0300" stop="20200117172000 +0300" channel="Nat Geo People">
-    <title lang="tr">Bondı veterineri</title>
-    <desc lang="tr">Acil servis uzmanı dr. Alex hynes vahşi yaşam uzmanı dr. Peter rıccı bondı yerlisi dr. Kate adams yeni mezun dr. Danni dusek özel klinik sahibi dr. Lewıs hunt ve mobil veteriner kız kardeşler dr(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117172000 +0300" stop="20200117181000 +0300" channel="Nat Geo People">
-    <title lang="tr">Perde arkası</title>
-    <desc lang="tr">Bir hastane günün 24 saati nasıl çalışıyor? İngiltere'nin en büyük bir hastanelerinden biri için 'tüm alanlara erişim' kartı ile neler görülebilir(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117181000 +0300" stop="20200117185500 +0300" channel="Nat Geo People">
-    <title lang="tr">Egzotik hayvanlara ilk yardım</title>
-    <desc lang="tr">Susan kelleher güney florıda'daki en işlek egzotik hayvan bakım evlerinden birine sahip ve işletmekte kangurulardan maymunlara kuşlara tavşanlara domuzlara balıklara ve aralarında akla gelebilecek her hayvana kadar değişen dinamik bir hasta grubunu tedavi etme maceralarına katılın(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200117180500 +0300" stop="20200117185500 +0300" channel="Nat Geo People">
+    <title lang="tr">İçimizdeki Veteriner</title>
   </programme>
   <programme start="20200117185500 +0300" stop="20200117194500 +0300" channel="Nat Geo People">
-    <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Dr. Shazıa javed'in hastası caroline sesi ile ilgili sorun yaşamaktadır. Artık şarkı söyleyememekte ve bu durum onu sürekli olarak aşağıçekmektedir(n)</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">Cesar Millan: Acil Yardım</title>
   </programme>
-  <programme start="20200117194500 +0300" stop="20200117201000 +0300" channel="Nat Geo People">
-    <title lang="tr">Gıdanın geleceği</title>
-    <desc lang="tr">Gıdanın geleceği 21. Yüzyılda insanlığın nasıl besleneceği üzerine kafa yoran bir belgesel. 2050 yılında dünya popülasyonu 9.5 milyar kişiye ulaşacak ve yemek ihtiyacı günümüze kıyasla %70 artacak(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117201000 +0300" stop="20200117204000 +0300" channel="Nat Geo People">
-    <title lang="tr">Gıdanın geleceği</title>
-    <desc lang="tr">Gıdanın geleceği 21. Yüzyılda insanlığın nasıl besleneceği üzerine kafa yoran bir belgesel. 2050 yılında dünya popülasyonu 9.5 milyar kişiye ulaşacak ve yemek ihtiyacı günümüze kıyasla %70 artacak(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200117194500 +0300" stop="20200117204000 +0300" channel="Nat Geo People">
+    <title lang="tr">Çin'de Kaybolmak</title>
   </programme>
   <programme start="20200117204000 +0300" stop="20200117213000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Büyüleyici bir sfenks kedisi azgın hormonları tarafından çılgına döndü. Scott olağanüstü bir genç hayvan aktivisti ile tanışmak için sheffield'e gider ve kötü davranılmış bir çöl faresini tedavi etmek için işe koyulur(n)</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">Yüzen Hastane</title>
   </programme>
-  <programme start="20200117213000 +0300" stop="20200117221500 +0300" channel="Nat Geo People">
-    <title lang="tr">Evimdeki 41 köpek</title>
-    <desc lang="tr">Bu kayda değer belgeselde ingiltere'nin en şaşırtıcı hayvan takıntısı vakasını açığa çıkarıyor ve hayvan saplantıları kontrolden çıktığında neler olacağına tanık oluyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117221500 +0300" stop="20200117230500 +0300" channel="Nat Geo People">
-    <title lang="tr">Maradona özel</title>
-    <desc lang="tr">Diego armando maradona tüm zamanların en iyi futbolcusudur. Bu belgeselde sadece futbolculuğuyla değil hayat tarzıyla da dikkat çeken maradona'yı daha yakından tanıyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117230500 +0300" stop="20200117235500 +0300" channel="Nat Geo People">
-    <title lang="tr">Bondı veterineri</title>
-    <desc lang="tr">Acil servis uzmanı dr. Alex hynes vahşi yaşam uzmanı dr. Peter rıccı bondı yerlisi dr. Kate adams yeni mezun dr. Danni dusek özel klinik sahibi dr. Lewıs hunt ve mobil veteriner kız kardeşler dr(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200117235500 +0300" stop="20200118004000 +0300" channel="Nat Geo People">
-    <title lang="tr">Perde arkası</title>
-    <desc lang="tr">Bir hastane günün 24 saati nasıl çalışıyor? İngiltere'nin en büyük bir hastanelerinden biri için 'tüm alanlara erişim' kartı ile neler görülebilir(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118004000 +0300" stop="20200118012500 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Büyüleyici bir sfenks kedisi azgın hormonları tarafından çılgına döndü. Scott olağanüstü bir genç hayvan aktivisti ile tanışmak için sheffield'e gider ve kötü davranılmış bir çöl faresini tedavi etmek için işe koyulur(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118012500 +0300" stop="20200118015000 +0300" channel="Nat Geo People">
-    <title lang="tr">Gıdanın geleceği</title>
-    <desc lang="tr">Gıdanın geleceği 21. Yüzyılda insanlığın nasıl besleneceği üzerine kafa yoran bir belgesel. 2050 yılında dünya popülasyonu 9.5 milyar kişiye ulaşacak ve yemek ihtiyacı günümüze kıyasla %70 artacak(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118015000 +0300" stop="20200118021500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gıdanın geleceği</title>
-    <desc lang="tr">Gıdanın geleceği 21. Yüzyılda insanlığın nasıl besleneceği üzerine kafa yoran bir belgesel. 2050 yılında dünya popülasyonu 9.5 milyar kişiye ulaşacak ve yemek ihtiyacı günümüze kıyasla %70 artacak(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118021500 +0300" stop="20200118030000 +0300" channel="Nat Geo People">
+  <programme start="20200117213000 +0300" stop="20200117222500 +0300" channel="Nat Geo People">
     <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Dr. Shazıa javed'in hastası caroline sesi ile ilgili sorun yaşamaktadır. Artık şarkı söyleyememekte ve bu durum onu sürekli olarak aşağıçekmektedir(n)</desc>
-    <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20200118030000 +0300" stop="20200118034500 +0300" channel="Nat Geo People">
-    <title lang="tr">Egzotik hayvanlara ilk yardım</title>
-    <desc lang="tr">Susan kelleher güney florıda'daki en işlek egzotik hayvan bakım evlerinden birine sahip ve işletmekte kangurulardan maymunlara kuşlara tavşanlara domuzlara balıklara ve aralarında akla gelebilecek her hayvana kadar değişen dinamik bir hasta grubunu tedavi etme maceralarına katılın(n)</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20200117222500 +0300" stop="20200117231500 +0300" channel="Nat Geo People">
+    <title lang="tr">Özgür Yaşa Derleme Bölümler</title>
   </programme>
-  <programme start="20200118034500 +0300" stop="20200118041000 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200118041000 +0300" stop="20200118043000 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200118043000 +0300" stop="20200118051500 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Büyüleyici bir sfenks kedisi azgın hormonları tarafından çılgına döndü. Scott olağanüstü bir genç hayvan aktivisti ile tanışmak için sheffield'e gider ve kötü davranılmış bir çöl faresini tedavi etmek için işe koyulur(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118051500 +0300" stop="20200118060000 +0300" channel="Nat Geo People">
+  <programme start="20200117231500 +0300" stop="20200118000500 +0300" channel="Nat Geo People">
     <title lang="tr">Poliklinik</title>
-    <desc lang="tr">Dr. Shazıa javed'in hastası caroline sesi ile ilgili sorun yaşamaktadır. Artık şarkı söyleyememekte ve bu durum onu sürekli olarak aşağıçekmektedir(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118060000 +0300" stop="20200118064500 +0300" channel="Nat Geo People">
-    <title lang="tr">Evimdeki 41 köpek</title>
-    <desc lang="tr">Bu kayda değer belgeselde ingiltere'nin en şaşırtıcı hayvan takıntısı vakasını açığa çıkarıyor ve hayvan saplantıları kontrolden çıktığında neler olacağına tanık oluyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118064500 +0300" stop="20200118073000 +0300" channel="Nat Geo People">
-    <title lang="tr">Egzotik hayvanlara ilk yardım</title>
-    <desc lang="tr">Susan kelleher güney florıda'daki en işlek egzotik hayvan bakım evlerinden birine sahip ve işletmekte kangurulardan maymunlara kuşlara tavşanlara domuzlara balıklara ve aralarında akla gelebilecek her hayvana kadar değişen dinamik bir hasta grubunu tedavi etme maceralarına katılın(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118073000 +0300" stop="20200118081500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Bu bölümde ingiliz modacı televizyon sunucusu ve çin mutfağı yazarı gok wan malezya'nın füzyon mutfağını ve bölgeye 500 sene önce yerleşen peranakanlar olarak bilinen bir grup çin göçmenin yaşam tarzını ve yemeklerini inceliyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118081500 +0300" stop="20200118090000 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Bu bölümde ingiliz modacı televizyon sunucusu ve çin mutfağı yazarı gok wan latin amerika ve güney doğu asya'daki hollanda kolonializminin kendine özgü hibrit bir çin mutfağı yarattığı amsterdam'ı geziyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118090000 +0300" stop="20200118094500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Gok wan bu bölümde fransa'nın güney doğu asya'daki kolonicilik geçmişinin paris'in yemeklerine nasıl etkilediğini keşfediyor ve pho eriştesi bahn mi gibi etnik vietnam yemeklerindeki çin-fransız esintisini ortaya çıkartıyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118094500 +0300" stop="20200118103000 +0300" channel="Nat Geo People">
-    <title lang="tr">Gok'un uzak doğu mutfağı</title>
-    <desc lang="tr">Gok'un uzak doğu mutfagˆı'nın son bölümünde gok wan avrupa asya ve avustralya'daki seyahatlerinden kazandığı ilhamla londra'ya dönerek dünyanın her yerinden çin mutfağının lezzetlerini tadıyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118103000 +0300" stop="20200118105500 +0300" channel="Nat Geo People">
-    <title lang="tr">Gıdanın geleceği</title>
-    <desc lang="tr">Gıdanın geleceği 21. Yüzyılda insanlığın nasıl besleneceği üzerine kafa yoran bir belgesel. 2050 yılında dünya popülasyonu 9.5 milyar kişiye ulaşacak ve yemek ihtiyacı günümüze kıyasla %70 artacak(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118105500 +0300" stop="20200118112000 +0300" channel="Nat Geo People">
-    <title lang="tr">Gıdanın geleceği</title>
-    <desc lang="tr">Gıdanın geleceği 21. Yüzyılda insanlığın nasıl besleneceği üzerine kafa yoran bir belgesel. 2050 yılında dünya popülasyonu 9.5 milyar kişiye ulaşacak ve yemek ihtiyacı günümüze kıyasla %70 artacak(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118112000 +0300" stop="20200118120500 +0300" channel="Nat Geo People">
-    <title lang="tr">Maradona özel</title>
-    <desc lang="tr">Diego armando maradona tüm zamanların en iyi futbolcusudur. Bu belgeselde sadece futbolculuğuyla değil hayat tarzıyla da dikkat çeken maradona'yı daha yakından tanıyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118120500 +0300" stop="20200118124500 +0300" channel="Nat Geo People">
-    <title lang="tr">Perde arkası</title>
-    <desc lang="tr">Bir hastane günün 24 saati nasıl çalışıyor? İngiltere'nin en büyük bir hastanelerinden biri için 'tüm alanlara erişim' kartı ile neler görülebilir(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118124500 +0300" stop="20200118131000 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200118131000 +0300" stop="20200118133500 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200118133500 +0300" stop="20200118142000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott agresif bir rottweiler'i tedavi etmek için kendini ateş hattına atıyor; marion'un çok sevdiği arkadaşının tedavi edilemez bir hastalığı olabilir. Miller ailesine katılan yeni bir bebek var(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118142000 +0300" stop="20200118150500 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott ve çaylak veterineri riaz'ın iki yaramaz sincabı tedavi etmesi için çağrılıyor. Çok sevilen 11 yaşındaki bir aile kedisi kanser olabilir. Sevimli bir köpek yavrusu hayat kurtaran bir burun operasyonu geçiriyor(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118150500 +0300" stop="20200118155000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Scott korkunç bir geçmişi olan egzotik bir köpeğe yardım edebilir mi? Bakıcı wendy terrier bella'nın güzelliğine yenik düşecek. Yeni veteriner riaz vahşi kedi yavrularıyla mücadele edecek(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118155000 +0300" stop="20200118163500 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Staffordshıre terrieri olan aşırı üreme için kullanılan ve daha sonra sokağa atılan rosa'yı ve bahçıvan kırılmış bir bacağına sahip bir muhabbet kuşunu kurtarmıştır ve scott'ın yeni köpek yavrusu sahip olmaması gereken bir şeyi yuttuktan sonra başı derttedir(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118163500 +0300" stop="20200118172000 +0300" channel="Nat Geo People">
-    <title lang="tr">İçimizdeki veteriner</title>
-    <desc lang="tr">Büyüleyici bir sfenks kedisi azgın hormonları tarafından çılgına döndü. Scott olağanüstü bir genç hayvan aktivisti ile tanışmak için sheffield'e gider ve kötü davranılmış bir çöl faresini tedavi etmek için işe koyulur(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118172000 +0300" stop="20200118181000 +0300" channel="Nat Geo People">
-    <title lang="tr">Yetenekli dr. Pol</title>
-    <desc lang="tr">Yetenekli dr. Pol'ün 9. Sezonunda doktorları kritik klinik ziyaretlerinden acil çiftlik çağrılarına yetişmek için zamanlar yarışıyorlar! Pol veterinerlik servisi haftada yedi gün boyunca michigan'ın zor durumdaki sakinlerini tedavi ederken onlarla birlikte vahşi bir gezintiye çıkın(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118181000 +0300" stop="20200118190000 +0300" channel="Nat Geo People">
-    <title lang="tr">Perde arkası</title>
-    <desc lang="tr">Bir hastane günün 24 saati nasıl çalışıyor? İngiltere'nin en büyük bir hastanelerinden biri için 'tüm alanlara erişim' kartı ile neler görülebilir(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118190000 +0300" stop="20200118195000 +0300" channel="Nat Geo People">
-    <title lang="tr">Bondı veterineri</title>
-    <desc lang="tr">Acil servis uzmanı dr. Alex hynes vahşi yaşam uzmanı dr. Peter rıccı bondı yerlisi dr. Kate adams yeni mezun dr. Danni dusek özel klinik sahibi dr. Lewıs hunt ve mobil veteriner kız kardeşler dr(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118195000 +0300" stop="20200118204000 +0300" channel="Nat Geo People">
-    <title lang="tr">Evimdeki 41 köpek</title>
-    <desc lang="tr">Bu kayda değer belgeselde ingiltere'nin en şaşırtıcı hayvan takıntısı vakasını açığa çıkarıyor ve hayvan saplantıları kontrolden çıktığında neler olacağına tanık oluyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118204000 +0300" stop="20200118213000 +0300" channel="Nat Geo People">
-    <title lang="tr">Maradona özel</title>
-    <desc lang="tr">Diego armando maradona tüm zamanların en iyi futbolcusudur. Bu belgeselde sadece futbolculuğuyla değil hayat tarzıyla da dikkat çeken maradona'yı daha yakından tanıyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118213000 +0300" stop="20200118215500 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200118215500 +0300" stop="20200118222000 +0300" channel="Nat Geo People">
-    <title lang="tr">Büyük ziyafet</title>
-    <desc lang="tr">Greta georges acıkmış kitlelere bir şölen hazırlamak için harcanılan olağanüstü beceri tutku ve enerjiyi keşfetmek için dünyanın en büyük yemek etkinliklerinin sahne arkasını gözler önüne seriyor(n)</desc>
-  </programme>
-  <programme start="20200118222000 +0300" stop="20200118230500 +0300" channel="Nat Geo People">
-    <title lang="tr">Evimdeki 41 köpek</title>
-    <desc lang="tr">Bu kayda değer belgeselde ingiltere'nin en şaşırtıcı hayvan takıntısı vakasını açığa çıkarıyor ve hayvan saplantıları kontrolden çıktığında neler olacağına tanık oluyoruz(n)</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20200118230500 +0300" stop="20200118235500 +0300" channel="Nat Geo People">
-    <title lang="tr">Perde arkası</title>
-    <desc lang="tr">Bir hastane günün 24 saati nasıl çalışıyor? İngiltere'nin en büyük bir hastanelerinden biri için 'tüm alanlara erişim' kartı ile neler görülebilir(n)</desc>
-    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20200115005000 +0300" stop="20200115014500 +0300" channel="ID X">
     <title lang="tr">Sarsılmak</title>
@@ -7527,11 +7153,27 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200115212100 +0300" stop="20200115224600 +0300" channel="Turkmax Gurme">
+  <programme start="20200115212100 +0300" stop="20200115215300 +0300" channel="Turkmax Gurme">
     <title lang="tr">Tadı baska s.2 ep: 55</title>
     <desc lang="tr">Şefimiz bu bölümde balık ragu ile kakuleli ve karanfilli basmati pilavı yapıyor(n)</desc>
     <date>2019</date>
     <category lang="tr">Diğer</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200115215300 +0300" stop="20200115222000 +0300" channel="Turkmax Gurme">
+    <title lang="tr">İdil'den</title>
+    <title lang="xx">Idılden s.3 ep: 234</title>
+    <desc lang="tr">Şefimiz bu bölümde zeytinyağlı enginar, teriyaki soslu bonfile ve trüf yağlı esmer pilav yapıyor(n)</desc>
+    <date>2020</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200115222000 +0300" stop="20200115224600 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Sofralarımız</title>
+    <title lang="xx">s.3 ep: 278</title>
+    <desc lang="tr">Şefimiz bu bölümde köz patlıcanlı çıtır mantı, mantarlı ıspanak kökü ve nar peltesi yapıyor(n)</desc>
+    <date>2020</date>
+    <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
   <programme start="20200115224600 +0300" stop="20200115225600 +0300" channel="Turkmax Gurme">
@@ -7542,11 +7184,19 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200115225600 +0300" stop="20200115233600 +0300" channel="Turkmax Gurme">
+  <programme start="20200115225600 +0300" stop="20200115232700 +0300" channel="Turkmax Gurme">
     <title lang="tr">Görevimiz yemek</title>
     <title lang="xx">Gorevımız yemek s.2 ep: 128</title>
     <desc lang="tr">Gurmelerimiz mehmet yaşin ve teoman hünal’ın en iyi, en lezzetli, en özel yemekleri yediği nişantaşı gezisinin lezzet noktaları arasında; petunya pastaneleri, tatbak, the grungy, frankıe istanbul ve hiref cafe yer alıyor(n)</desc>
     <date>2020</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200115232700 +0300" stop="20200115233600 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Bi' tarif</title>
+    <title lang="xx">Bı tarıf s.2 ep: 83</title>
+    <desc lang="tr">Bu bölümde, şefimiz savaş ergen, pastırmalı pankek yapıyor(n)</desc>
+    <date>2018</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7573,11 +7223,19 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200116015600 +0300" stop="20200116025200 +0300" channel="Turkmax Gurme">
+  <programme start="20200116015600 +0300" stop="20200116023000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Bıçağın iki yüzü</title>
     <title lang="xx">Bıcagın ıkı yuzu s.1 ep: 7</title>
     <desc lang="tr">Bu bölümde, şefimiz tavuk kullanarak, asma yaprağında humus dolgulu tavuk baget ve mantar dolgulu tavuk mousse yapıyor(n)</desc>
     <date>2016</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116023000 +0300" stop="20200116025200 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Gaziantep mutfağı</title>
+    <title lang="xx">Gazıantep mutfagı s.1 ep: 13</title>
+    <desc lang="tr">Gaziantep sofralarının vazgeçilmez lezzeti ciğer kebabı, şef doğa çitçi’nin tarifiyle ekranlara geliyor(n)</desc>
+    <date>2019</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7589,10 +7247,17 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200116030500 +0300" stop="20200116035100 +0300" channel="Turkmax Gurme">
+  <programme start="20200116030500 +0300" stop="20200116033100 +0300" channel="Turkmax Gurme">
     <title lang="tr">Şefin dünyası</title>
     <title lang="xx">Sefın dunyası s.1 ep: 9</title>
     <desc lang="tr">Bu bölümde, şefimiz avusturya viyana bölgesinden, schnitzel yapıyor(n)</desc>
+    <date>2016</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116033100 +0300" stop="20200116035100 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Kolay mutfak</title>
+    <title lang="xx">s.1 ep: 161</title>
     <date>2016</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
@@ -7613,11 +7278,18 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200116044500 +0300" stop="20200116052500 +0300" channel="Turkmax Gurme">
+  <programme start="20200116044500 +0300" stop="20200116050400 +0300" channel="Turkmax Gurme">
     <title lang="tr">İdil'den</title>
     <title lang="xx">Idılden s.2 ep: 214</title>
     <desc lang="tr">Şefimiz bu bölümde cibes salatası, ayvalı et ve zerdeçallı firik bulguru yapıyor(n)</desc>
     <date>2019</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116050400 +0300" stop="20200116052500 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Kolay mutfak</title>
+    <title lang="xx">s.1 ep: 47</title>
+    <date>2015</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7645,7 +7317,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200116070000 +0300" stop="20200116080000 +0300" channel="Turkmax Gurme">
+  <programme start="20200116070000 +0300" stop="20200116072100 +0300" channel="Turkmax Gurme">
     <title lang="tr">Hep fit</title>
     <title lang="xx">Hep fıt s.1 ep: 50</title>
     <desc lang="tr">Esneme hareketleri, yağ yakma egzersizleri, bölgesel incelme tüyoları, beden kitle indeksini düşürmeye yönelik önemli tavsiyeler, kişiye özel antrenmanlar, diyet yemekler ve detoks içecek tariflerinin yer aldığı hep fit, sağlıklı yaşamak isteyen herkese alternatif bir yaşam tarzı sunuyor(n)</desc>
@@ -7653,11 +7325,35 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200116080000 +0300" stop="20200116083500 +0300" channel="Turkmax Gurme">
+  <programme start="20200116072100 +0300" stop="20200116075000 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Şefin dünyası</title>
+    <title lang="xx">Sefın dunyası s.1 ep: 5</title>
+    <desc lang="tr">Bu bölümde, şefimiz, egg’s benedict, english muffin ve kavurmalı sucuklu scrambled egg yapıyor(n)</desc>
+    <date>2016</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116075000 +0300" stop="20200116080000 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Bi' tarif</title>
+    <title lang="xx">Bı tarıf s.2 ep: 81</title>
+    <desc lang="tr">Bu bölümde, şefimiz savaş ergen, ekmek üstü acılı tavuk yapıyor(n)</desc>
+    <date>2018</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116080000 +0300" stop="20200116082500 +0300" channel="Turkmax Gurme">
     <title lang="tr">Sofralarımız</title>
     <title lang="xx">s.3 ep: 278</title>
     <desc lang="tr">Şefimiz bu bölümde köz patlıcanlı çıtır mantı, mantarlı ıspanak kökü ve nar peltesi yapıyor(n)</desc>
     <date>2020</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116082500 +0300" stop="20200116083500 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Pratik lezzet</title>
+    <title lang="xx">Pratık lezzet s.1 ep:61</title>
+    <desc lang="tr">"Günün koşuşturmacası içinde hiçbir şeye zaman kalmıyor"Diyenler için hazırlanacak 7-10 dakikalık videolarla yemek yapmak çocuk oyuncağı olacak(n)</desc>
+    <date>2014</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7676,11 +7372,19 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200116094000 +0300" stop="20200116101000 +0300" channel="Turkmax Gurme">
+  <programme start="20200116094000 +0300" stop="20200116100000 +0300" channel="Turkmax Gurme">
     <title lang="tr">İdil'den</title>
     <title lang="xx">Idılden s.3 ep: 234</title>
     <desc lang="tr">Şefimiz bu bölümde zeytinyağlı enginar, teriyaki soslu bonfile ve trüf yağlı esmer pilav yapıyor(n)</desc>
     <date>2020</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116100000 +0300" stop="20200116101000 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Bi' tarif</title>
+    <title lang="xx">Bı tarıf s.2 ep: 70</title>
+    <desc lang="tr">Bu bölümde, şefimiz savaş ergen, fırında patlıcanlı falafel yapıyor(n)</desc>
+    <date>2018</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7700,7 +7404,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200116120000 +0300" stop="20200116123500 +0300" channel="Turkmax Gurme">
+  <programme start="20200116120000 +0300" stop="20200116122500 +0300" channel="Turkmax Gurme">
     <title lang="tr">Tadı başka</title>
     <title lang="xx">Tadı baska s.2 ep: 56</title>
     <desc lang="tr">Şefimiz bu bölümde bouıllabaısse yapıyor(n)</desc>
@@ -7708,11 +7412,27 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200116123500 +0300" stop="20200116130500 +0300" channel="Turkmax Gurme">
+  <programme start="20200116122500 +0300" stop="20200116123500 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Pratik lezzet</title>
+    <title lang="xx">Pratık lezzet s.1 ep:62</title>
+    <desc lang="tr">"Günün koşuşturmacası içinde hiçbir şeye zaman kalmıyor"Diyenler için hazırlanacak 7-10 dakikalık videolarla yemek yapmak çocuk oyuncağı olacak(n)</desc>
+    <date>2014</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116123500 +0300" stop="20200116125500 +0300" channel="Turkmax Gurme">
     <title lang="tr">İdil'den</title>
     <title lang="xx">Idılden s.2 ep: 215</title>
     <desc lang="tr">Şefimiz bu bölümde yumurtalı tatlı patates, yumurtalı kahvaltı salatası ve pırasa ve zahterli yumurta yapıyor(n)</desc>
     <date>2019</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116125500 +0300" stop="20200116130500 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Bi' tarif</title>
+    <title lang="xx">Bı tarıf s.2 ep: 49</title>
+    <desc lang="tr">Bu bölümde, şefimiz savaş ergen, bezelye ve füme tavuklu lazanya yapıyor(n)</desc>
+    <date>2018</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7802,11 +7522,19 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200116184000 +0300" stop="20200116192000 +0300" channel="Turkmax Gurme">
+  <programme start="20200116184000 +0300" stop="20200116191000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Şefin dünyası</title>
     <title lang="xx">Sefın dunyası s.1 ep: 6</title>
     <desc lang="tr">Bu bölümde, şefimiz iran bölgesinden, dereotlu baklalı perde pilavı ve roka pestolu minekop yapıyor(n)</desc>
     <date>2016</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116191000 +0300" stop="20200116192000 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Pratik lezzet</title>
+    <title lang="xx">Pratık lezzet s.1 ep:63</title>
+    <desc lang="tr">"Günün koşuşturmacası içinde hiçbir şeye zaman kalmıyor"Diyenler için hazırlanacak 7-10 dakikalık videolarla yemek yapmak çocuk oyuncağı olacak(n)</desc>
+    <date>2014</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7818,11 +7546,19 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200116195500 +0300" stop="20200116202000 +0300" channel="Turkmax Gurme">
+  <programme start="20200116195500 +0300" stop="20200116201300 +0300" channel="Turkmax Gurme">
     <title lang="tr">İdil'den</title>
     <title lang="xx">Idılden s.2 ep: 213</title>
     <desc lang="tr">Şefimiz bu bölümde limon soslu sebze ve parmesanlı köfte topları yapıyor(n)</desc>
     <date>2019</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116201300 +0300" stop="20200116202000 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Bi' tarif</title>
+    <title lang="xx">Bı tarıf s.1 ep: 37</title>
+    <desc lang="tr">Bu bölümde, şefimiz savaş ergen, çikolatalı kurabiye yapıyor(n)</desc>
+    <date>2018</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7834,11 +7570,27 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200116205000 +0300" stop="20200116220500 +0300" channel="Turkmax Gurme">
+  <programme start="20200116205000 +0300" stop="20200116212500 +0300" channel="Turkmax Gurme">
     <title lang="tr">Şerife ile yaşam</title>
     <title lang="xx">Serıfe ıle yasam s.1 ep: 8</title>
     <desc lang="tr">Ekolojik şef şerife aksoy, bu bölümde ramazan’a özel bir menü hazırlıyor. Hem iftar, hem sahurda sunulabilecek olan menüde peynirli-ıspanaklı ve sucuklu-pastırmalı pide, demirhindi şerbeti ve bahçe çilekleriyle süslenmiş güllaç var(n)</desc>
     <date>2017</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116212500 +0300" stop="20200116213500 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Pratik lezzet</title>
+    <title lang="xx">Pratık lezzet s.1 ep:63</title>
+    <desc lang="tr">"Günün koşuşturmacası içinde hiçbir şeye zaman kalmıyor"Diyenler için hazırlanacak 7-10 dakikalık videolarla yemek yapmak çocuk oyuncağı olacak(n)</desc>
+    <date>2014</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200116213500 +0300" stop="20200116220500 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Tadı başka</title>
+    <title lang="xx">Tadı baska s.2 ep: 56</title>
+    <desc lang="tr">Şefimiz bu bölümde bouıllabaısse yapıyor(n)</desc>
+    <date>2019</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7889,10 +7641,17 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117020000 +0300" stop="20200117025500 +0300" channel="Turkmax Gurme">
+  <programme start="20200117020000 +0300" stop="20200117023500 +0300" channel="Turkmax Gurme">
     <title lang="tr">Bıçağın iki yüzü</title>
     <title lang="xx">Bıcagın ıkı yuzu s.1 ep: 8</title>
     <desc lang="tr">Bu bölümde, şefimiz deniz tarağı kullanarak, karnabahar velute yeşil elma ile sote deniz tarağı ve domates tartar ile deniz tarağı ceviche yapıyor(n)</desc>
+    <date>2016</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200117023500 +0300" stop="20200117025500 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Kolay mutfak</title>
+    <title lang="xx">s.1 ep: 168</title>
     <date>2016</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
@@ -7935,7 +7694,7 @@
     <category lang="tr">Diğer</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117051500 +0300" stop="20200117054500 +0300" channel="Turkmax Gurme">
+  <programme start="20200117051500 +0300" stop="20200117053500 +0300" channel="Turkmax Gurme">
     <title lang="tr">İdil'den</title>
     <title lang="xx">Idılden s.3 ep: 234</title>
     <desc lang="tr">Şefimiz bu bölümde zeytinyağlı enginar, teriyaki soslu bonfile ve trüf yağlı esmer pilav yapıyor(n)</desc>
@@ -7943,11 +7702,27 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117054500 +0300" stop="20200117062100 +0300" channel="Turkmax Gurme">
+  <programme start="20200117053500 +0300" stop="20200117054500 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Bi' tarif</title>
+    <title lang="xx">Bı tarıf s.2 ep: 62</title>
+    <desc lang="tr">Bu bölümde, şefimiz savaş ergen, kavun – peynirli kuskus ve kuzu şiş yapıyor(n)</desc>
+    <date>2018</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200117054500 +0300" stop="20200117061100 +0300" channel="Turkmax Gurme">
     <title lang="tr">Sofralarımız</title>
     <title lang="xx">s.3 ep: 278</title>
     <desc lang="tr">Şefimiz bu bölümde köz patlıcanlı çıtır mantı, mantarlı ıspanak kökü ve nar peltesi yapıyor(n)</desc>
     <date>2020</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200117061100 +0300" stop="20200117062100 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Pratik lezzet</title>
+    <title lang="xx">Pratık lezzet s.1 ep:64</title>
+    <desc lang="tr">"Günün koşuşturmacası içinde hiçbir şeye zaman kalmıyor"Diyenler için hazırlanacak 7-10 dakikalık videolarla yemek yapmak çocuk oyuncağı olacak(n)</desc>
+    <date>2014</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7959,10 +7734,18 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117065500 +0300" stop="20200117072000 +0300" channel="Turkmax Gurme">
+  <programme start="20200117065500 +0300" stop="20200117071300 +0300" channel="Turkmax Gurme">
     <title lang="tr">Hep fit</title>
     <title lang="xx">Hep fıt s.1 ep: 51</title>
     <desc lang="tr">Esneme hareketleri, yağ yakma egzersizleri, bölgesel incelme tüyoları, beden kitle indeksini düşürmeye yönelik önemli tavsiyeler, kişiye özel antrenmanlar, diyet yemekler ve detoks içecek tariflerinin yer aldığı hep fit, sağlıklı yaşamak isteyen herkese alternatif bir yaşam tarzı sunuyor(n)</desc>
+    <date>2018</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200117071300 +0300" stop="20200117072000 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Bi' tarif</title>
+    <title lang="xx">Bı tarıf s.2 ep: 82</title>
+    <desc lang="tr">Bu bölümde, şefimiz savaş ergen, domatesli semizotu salatası yapıyor(n)</desc>
     <date>2018</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
@@ -8460,11 +8243,19 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118190000 +0300" stop="20200118202000 +0300" channel="Turkmax Gurme">
+  <programme start="20200118190000 +0300" stop="20200118194000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Elif ile lezzet yolculuğu</title>
     <title lang="xx">Elıf ıle lezzet yolculugu s.2 ep: 31</title>
     <desc lang="tr">Saint gustan limanında 6 saatlike gel-gitlere şahit olmak, michelin yıldızlı şef anthony ile atlantik balıkları almak için pazarda gezmek ve harika tarifleri öğrenmek için sizi ekran başına bekliyoruz(n)</desc>
     <date>2018</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200118194000 +0300" stop="20200118202000 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Gastronomi maceraları</title>
+    <title lang="xx">Gastronomı maceraları 97</title>
+    <desc lang="tr">Meson portaletas’ta pintxos tadımı yaptıktan sonra üç michelin yıldızlı “restaurante arzak” a gidiyor ve şef elena arzak’ın masasında onun yaptığı muhteşem ızgara istiridyeleri yiyoruz(n)</desc>
+    <date>2019</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -8507,6 +8298,258 @@
     <date>2020</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
+  </programme>
+  <programme start="20200115005000 +0300" stop="20200115014500 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200115014500 +0300" stop="20200115024000 +0300" channel="Animal Planet">
+    <title lang="tr">Kurtarma Ekibi</title>
+  </programme>
+  <programme start="20200115024000 +0300" stop="20200115033500 +0300" channel="Animal Planet">
+    <title lang="tr">İçimdeki Canavarlar</title>
+  </programme>
+  <programme start="20200115033500 +0300" stop="20200115042500 +0300" channel="Animal Planet">
+    <title lang="tr">Dev Denizanasının Saldırısı</title>
+  </programme>
+  <programme start="20200115042500 +0300" stop="20200115051500 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200115051500 +0300" stop="20200115060200 +0300" channel="Animal Planet">
+    <title lang="tr">Kurtarma Ekibi</title>
+  </programme>
+  <programme start="20200115060200 +0300" stop="20200115064900 +0300" channel="Animal Planet">
+    <title lang="tr">En Vahşi Latin Amerika</title>
+  </programme>
+  <programme start="20200115064900 +0300" stop="20200115073600 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200115073600 +0300" stop="20200115080000 +0300" channel="Animal Planet">
+    <title lang="tr">Maymunlar Cennetine Kaçış</title>
+  </programme>
+  <programme start="20200115080000 +0300" stop="20200115082500 +0300" channel="Animal Planet">
+    <title lang="tr">Maymunlar Cennetine Kaçış</title>
+  </programme>
+  <programme start="20200115082500 +0300" stop="20200115091500 +0300" channel="Animal Planet">
+    <title lang="tr">İçimdeki Canavarlar</title>
+  </programme>
+  <programme start="20200115091500 +0300" stop="20200115101000 +0300" channel="Animal Planet">
+    <title lang="tr">İçimdeki Canavarlar</title>
+  </programme>
+  <programme start="20200115101000 +0300" stop="20200115110500 +0300" channel="Animal Planet">
+    <title lang="tr">Ölümden Dönenler</title>
+  </programme>
+  <programme start="20200115110500 +0300" stop="20200115120000 +0300" channel="Animal Planet">
+    <title lang="tr">Ölümden Dönenler</title>
+  </programme>
+  <programme start="20200115120000 +0300" stop="20200115125500 +0300" channel="Animal Planet">
+    <title lang="tr">Ölümden Dönenler</title>
+  </programme>
+  <programme start="20200115125500 +0300" stop="20200115135000 +0300" channel="Animal Planet">
+    <title lang="tr">Ölümden Dönenler</title>
+  </programme>
+  <programme start="20200115135000 +0300" stop="20200115144500 +0300" channel="Animal Planet">
+    <title lang="tr">Dev Denizanasının Saldırısı</title>
+  </programme>
+  <programme start="20200115144500 +0300" stop="20200115154000 +0300" channel="Animal Planet">
+    <title lang="tr">Dr. Jeff: Rocky Dağı Veterineri</title>
+  </programme>
+  <programme start="20200115154000 +0300" stop="20200115163500 +0300" channel="Animal Planet">
+    <title lang="tr">Kurtarma Ekibi</title>
+  </programme>
+  <programme start="20200115163500 +0300" stop="20200115173000 +0300" channel="Animal Planet">
+    <title lang="tr">İçimdeki Canavarlar</title>
+  </programme>
+  <programme start="20200115173000 +0300" stop="20200115182500 +0300" channel="Animal Planet">
+    <title lang="tr">Balina Savaşları</title>
+  </programme>
+  <programme start="20200115182500 +0300" stop="20200115192000 +0300" channel="Animal Planet">
+    <title lang="tr">Houston Hayvan Koruma Polisi</title>
+  </programme>
+  <programme start="20200115192000 +0300" stop="20200115201500 +0300" channel="Animal Planet">
+    <title lang="tr">Köpekbaliklarinin Şehri</title>
+  </programme>
+  <programme start="20200115201500 +0300" stop="20200115211000 +0300" channel="Animal Planet">
+    <title lang="tr">Özel Akvaryumlar</title>
+  </programme>
+  <programme start="20200115211000 +0300" stop="20200115220500 +0300" channel="Animal Planet">
+    <title lang="tr">Çılgın Havuzlar</title>
+  </programme>
+  <programme start="20200115220500 +0300" stop="20200115230000 +0300" channel="Animal Planet">
+    <title lang="tr">En Vahşi Latin Amerika</title>
+  </programme>
+  <programme start="20200115230000 +0300" stop="20200115235500 +0300" channel="Animal Planet">
+    <title lang="tr">İstilacılar</title>
+  </programme>
+  <programme start="20200115235500 +0300" stop="20200116005000 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200116005000 +0300" stop="20200116014500 +0300" channel="Animal Planet">
+    <title lang="tr">Özel Akvaryumlar</title>
+  </programme>
+  <programme start="20200116014500 +0300" stop="20200116024000 +0300" channel="Animal Planet">
+    <title lang="tr">Çılgın Havuzlar</title>
+  </programme>
+  <programme start="20200116024000 +0300" stop="20200116033500 +0300" channel="Animal Planet">
+    <title lang="tr">İstilacılar</title>
+  </programme>
+  <programme start="20200116033500 +0300" stop="20200116042500 +0300" channel="Animal Planet">
+    <title lang="tr">Köpekbaliklarinin Şehri</title>
+  </programme>
+  <programme start="20200116042500 +0300" stop="20200116051500 +0300" channel="Animal Planet">
+    <title lang="tr">Özel Akvaryumlar</title>
+  </programme>
+  <programme start="20200116051500 +0300" stop="20200116060200 +0300" channel="Animal Planet">
+    <title lang="tr">Çılgın Havuzlar</title>
+  </programme>
+  <programme start="20200116060200 +0300" stop="20200116064900 +0300" channel="Animal Planet">
+    <title lang="tr">En Vahşi Latin Amerika</title>
+  </programme>
+  <programme start="20200116064900 +0300" stop="20200116073600 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200116073600 +0300" stop="20200116080000 +0300" channel="Animal Planet">
+    <title lang="tr">Maymunlar Cennetine Kaçış</title>
+  </programme>
+  <programme start="20200116080000 +0300" stop="20200116082500 +0300" channel="Animal Planet">
+    <title lang="tr">Maymunlar Cennetine Kaçış</title>
+  </programme>
+  <programme start="20200116082500 +0300" stop="20200116091500 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200116091500 +0300" stop="20200116101000 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200116101000 +0300" stop="20200116110500 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200116110500 +0300" stop="20200116120000 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200116120000 +0300" stop="20200116125500 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200116125500 +0300" stop="20200116135000 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200116135000 +0300" stop="20200116144500 +0300" channel="Animal Planet">
+    <title lang="tr">Köpekbaliklarinin Şehri</title>
+  </programme>
+  <programme start="20200116144500 +0300" stop="20200116154000 +0300" channel="Animal Planet">
+    <title lang="tr">Dr. Jeff: Rocky Dağı Veterineri</title>
+  </programme>
+  <programme start="20200116154000 +0300" stop="20200116163500 +0300" channel="Animal Planet">
+    <title lang="tr">Alaska'ya Yolculuk</title>
+  </programme>
+  <programme start="20200116163500 +0300" stop="20200116173000 +0300" channel="Animal Planet">
+    <title lang="tr">İstilacılar</title>
+  </programme>
+  <programme start="20200116173000 +0300" stop="20200116182500 +0300" channel="Animal Planet">
+    <title lang="tr">Balina Savaşları</title>
+  </programme>
+  <programme start="20200116182500 +0300" stop="20200116192000 +0300" channel="Animal Planet">
+    <title lang="tr">Houston Hayvan Koruma Polisi</title>
+  </programme>
+  <programme start="20200116192000 +0300" stop="20200116201500 +0300" channel="Animal Planet">
+    <title lang="tr">Büyük Beyazlarin Istilasi</title>
+  </programme>
+  <programme start="20200116201500 +0300" stop="20200116211000 +0300" channel="Animal Planet">
+    <title lang="tr">Alaska'ya Yolculuk</title>
+  </programme>
+  <programme start="20200116211000 +0300" stop="20200116220500 +0300" channel="Animal Planet">
+    <title lang="tr">North Woods Kanunları</title>
+  </programme>
+  <programme start="20200116220500 +0300" stop="20200116230000 +0300" channel="Animal Planet">
+    <title lang="tr">En Vahşi Latin Amerika</title>
+  </programme>
+  <programme start="20200116230000 +0300" stop="20200116235500 +0300" channel="Animal Planet">
+    <title lang="tr">İstilacılar</title>
+  </programme>
+  <programme start="20200116235500 +0300" stop="20200117005000 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200117005000 +0300" stop="20200117014500 +0300" channel="Animal Planet">
+    <title lang="tr">Alaska'ya Yolculuk</title>
+  </programme>
+  <programme start="20200117014500 +0300" stop="20200117024000 +0300" channel="Animal Planet">
+    <title lang="tr">North Woods Kanunları</title>
+  </programme>
+  <programme start="20200117024000 +0300" stop="20200117033500 +0300" channel="Animal Planet">
+    <title lang="tr">İstilacılar</title>
+  </programme>
+  <programme start="20200117033500 +0300" stop="20200117042500 +0300" channel="Animal Planet">
+    <title lang="tr">Büyük Beyazlarin Istilasi</title>
+  </programme>
+  <programme start="20200117042500 +0300" stop="20200117051500 +0300" channel="Animal Planet">
+    <title lang="tr">Alaska'ya Yolculuk</title>
+  </programme>
+  <programme start="20200117051500 +0300" stop="20200117060200 +0300" channel="Animal Planet">
+    <title lang="tr">North Woods Kanunları</title>
+  </programme>
+  <programme start="20200117060200 +0300" stop="20200117064900 +0300" channel="Animal Planet">
+    <title lang="tr">En Vahşi Latin Amerika</title>
+  </programme>
+  <programme start="20200117064900 +0300" stop="20200117073600 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
+  </programme>
+  <programme start="20200117073600 +0300" stop="20200117080000 +0300" channel="Animal Planet">
+    <title lang="tr">Maymunlar Cennetine Kaçış</title>
+  </programme>
+  <programme start="20200117080000 +0300" stop="20200117082500 +0300" channel="Animal Planet">
+    <title lang="tr">Maymunlar Cennetine Kaçış</title>
+  </programme>
+  <programme start="20200117082500 +0300" stop="20200117091500 +0300" channel="Animal Planet">
+    <title lang="tr">Orta Doğu'nun Bilinmeyen Köşeleri</title>
+  </programme>
+  <programme start="20200117091500 +0300" stop="20200117101000 +0300" channel="Animal Planet">
+    <title lang="tr">Orta Doğu'nun Bilinmeyen Köşeleri</title>
+  </programme>
+  <programme start="20200117101000 +0300" stop="20200117110500 +0300" channel="Animal Planet">
+    <title lang="tr">Orta Doğu'nun Bilinmeyen Köşeleri</title>
+  </programme>
+  <programme start="20200117110500 +0300" stop="20200117120000 +0300" channel="Animal Planet">
+    <title lang="tr">Orta Doğu'nun Bilinmeyen Köşeleri</title>
+  </programme>
+  <programme start="20200117120000 +0300" stop="20200117125500 +0300" channel="Animal Planet">
+    <title lang="tr">Nigel Marven,</title>
+  </programme>
+  <programme start="20200117125500 +0300" stop="20200117135000 +0300" channel="Animal Planet">
+    <title lang="tr">Nigel Marven,</title>
+  </programme>
+  <programme start="20200117135000 +0300" stop="20200117144500 +0300" channel="Animal Planet">
+    <title lang="tr">Köpekbalığı Saldırıları</title>
+  </programme>
+  <programme start="20200117144500 +0300" stop="20200117154000 +0300" channel="Animal Planet">
+    <title lang="tr">Dr. Jeff: Rocky Dağı Veterineri</title>
+  </programme>
+  <programme start="20200117154000 +0300" stop="20200117163500 +0300" channel="Animal Planet">
+    <title lang="tr">Soyu Tükenmiş mi Yaşıyor mu?</title>
+  </programme>
+  <programme start="20200117163500 +0300" stop="20200117173000 +0300" channel="Animal Planet">
+    <title lang="tr">İstilacılar</title>
+  </programme>
+  <programme start="20200117173000 +0300" stop="20200117182500 +0300" channel="Animal Planet">
+    <title lang="tr">Balina Savaşları</title>
+  </programme>
+  <programme start="20200117182500 +0300" stop="20200117192000 +0300" channel="Animal Planet">
+    <title lang="tr">Houston Hayvan Koruma Polisi</title>
+  </programme>
+  <programme start="20200117192000 +0300" stop="20200117201500 +0300" channel="Animal Planet">
+    <title lang="tr">Uçan Köpekbalıkları: Büyük Beyaz'ın Yaşamı</title>
+  </programme>
+  <programme start="20200117201500 +0300" stop="20200117211000 +0300" channel="Animal Planet">
+    <title lang="tr">Henderson Ailesi</title>
+  </programme>
+  <programme start="20200117211000 +0300" stop="20200117220500 +0300" channel="Animal Planet">
+    <title lang="tr">Amanda'dan  Kurtarma Ekibine</title>
+  </programme>
+  <programme start="20200117220500 +0300" stop="20200117230000 +0300" channel="Animal Planet">
+    <title lang="tr">En Vahşi Latin Amerika</title>
+  </programme>
+  <programme start="20200117230000 +0300" stop="20200117235500 +0300" channel="Animal Planet">
+    <title lang="tr">İstilacılar</title>
+  </programme>
+  <programme start="20200117235500 +0300" stop="20200118005000 +0300" channel="Animal Planet">
+    <title lang="tr">Pitbullar ve Sabıkalı Bakıcıları</title>
   </programme>
   <programme start="20200115000000 +0300" stop="20200115010000 +0300" channel="History">
     <title lang="tr">Wıllıam shatner'la...</title>
