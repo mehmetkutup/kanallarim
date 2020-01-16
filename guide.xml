@@ -92,9 +92,9 @@
     <display-name lang="tr">TRT 2 HD</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="Kanal D HD">
-    <display-name lang="tr">Kanal D HD</display-name>
-    <url>http://www.digiturk.com.tr</url>
+  <channel id="KANAL D HD">
+    <display-name lang="tr">KANAL D HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
   </channel>
   <channel id="ATV HD">
     <display-name lang="tr">ATV HD</display-name>
@@ -6162,14 +6162,14 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117083000 +0300" stop="20200117090600 +0300" channel="İZ TV">
+  <programme start="20200117083000 +0300" stop="20200117090500 +0300" channel="İZ TV">
     <title lang="tr">Suyun seferı</title>
     <title lang="xx">1</title>
     <date>2011</date>
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117090600 +0300" stop="20200117094000 +0300" channel="İZ TV">
+  <programme start="20200117090500 +0300" stop="20200117094000 +0300" channel="İZ TV">
     <title lang="tr">Yolda</title>
     <title lang="xx">13</title>
     <desc lang="tr">Savaşın izleri saraybosna ve çevresindeki etkisini sürdürürken, boşnak müziği ve yemekleriyle dolup taşan tavernalar ülkenin asık yüzünü yeniden güldürüyor(n)</desc>
@@ -6200,7 +6200,7 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117110500 +0300" stop="20200117113500 +0300" channel="İZ TV">
+  <programme start="20200117110500 +0300" stop="20200117113600 +0300" channel="İZ TV">
     <title lang="tr">Elif ile lezzet yolculuğu</title>
     <title lang="xx">Elıf ıle lezzet yolculugu s.1 ep: 15</title>
     <desc lang="tr">Swarovski kristal müzesindeki farklı sanatçıların eserleri ve kristalle harikalar yaratan butik tasarımcıların ürünleriyle ışıl ışıl bir bölüm. Ayrıca elif ve tasarımcı arkadaşı karo nefis tirol lezzetleri için birlikte mutfağa giriyor. Kristal ışıltısındaki bu bölümü kaçırmayın(n)</desc>
@@ -6208,7 +6208,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117113500 +0300" stop="20200117120600 +0300" channel="İZ TV">
+  <programme start="20200117113600 +0300" stop="20200117120600 +0300" channel="İZ TV">
     <title lang="tr">Iz sırt cantam</title>
     <title lang="xx">Sırt cantam 54</title>
     <desc lang="tr">Türkiye'nin en büyük blok ormanlarından biri olan ve uçsuz bucaksız bir orman denizini andıran yenice ormanları, bu sefer yeni endeksli, yeni bir turizm hareketi ile vücut buluyor(n)</desc>
@@ -6216,14 +6216,14 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117120600 +0300" stop="20200117124500 +0300" channel="İZ TV">
+  <programme start="20200117120600 +0300" stop="20200117124600 +0300" channel="İZ TV">
     <title lang="tr">Ayak izleri</title>
     <title lang="xx">Ayak ızlerı 21</title>
     <date>2013</date>
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117124500 +0300" stop="20200117132500 +0300" channel="İZ TV">
+  <programme start="20200117124600 +0300" stop="20200117132500 +0300" channel="İZ TV">
     <title lang="tr">Limonata</title>
     <title lang="xx">Lımonata 70</title>
     <desc lang="tr">Ayhan sicimoğlu ile limonata’nın bu bölümünde doha’dayız. Sicimoğlu’nun keyifli sunumu ile national museum of qatar’ı geziyoruz(n)</desc>
@@ -6285,7 +6285,7 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117183500 +0300" stop="20200117191100 +0300" channel="İZ TV">
+  <programme start="20200117183500 +0300" stop="20200117191000 +0300" channel="İZ TV">
     <title lang="tr">Iz sırt cantam</title>
     <title lang="xx">Sırt cantam 44</title>
     <desc lang="tr">Ağva'nın gizli koylarından kilimli ve yol üzerinde yer alan yemyeşil yürüyüş rotaları, istanbul'da karadeniz'in keyfini yaşatıyor(n)</desc>
@@ -6293,14 +6293,14 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117191100 +0300" stop="20200117200000 +0300" channel="İZ TV">
+  <programme start="20200117191000 +0300" stop="20200117200100 +0300" channel="İZ TV">
     <title lang="tr">Beyaz cam</title>
     <title lang="xx">1</title>
     <date>2012</date>
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117200000 +0300" stop="20200117205000 +0300" channel="İZ TV">
+  <programme start="20200117200100 +0300" stop="20200117205100 +0300" channel="İZ TV">
     <title lang="tr">Beyaz cam</title>
     <title lang="xx">2</title>
     <desc lang="tr">Siyah-beyaz yayınlardan üçüncü boyuta, tek kanallı zamanlardan digital yayıncılığa...Türk televizyonunun renkli öyküsü ikinci bölümüyle ekranlara geliyor(n)</desc>
@@ -6308,7 +6308,7 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117205000 +0300" stop="20200117213500 +0300" channel="İZ TV">
+  <programme start="20200117205100 +0300" stop="20200117213700 +0300" channel="İZ TV">
     <title lang="tr">Ayak izleri</title>
     <title lang="xx">Ayak ızlerı 25</title>
     <desc lang="tr">Sarıyer'e bağlı köylerde nesli hızla tükenmekte olan kum zambaklarını koruma altına almak için yapılan festivalde, kum zambakları ve karadeniz kumsalındaki ekolojik düzenin izini sürüyoruz(n)</desc>
@@ -6316,7 +6316,7 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117213500 +0300" stop="20200117221500 +0300" channel="İZ TV">
+  <programme start="20200117213700 +0300" stop="20200117221600 +0300" channel="İZ TV">
     <title lang="tr">Ne halin varsa gez</title>
     <title lang="xx">Ne halın varsa gez 4</title>
     <desc lang="tr">Yeşillikler içinde vadiler, o vadilerde tek katlı, her yerinden çiçekler sarkan şirin mi şirin evler… alplerde sizler için doğanın izini sürüyor, bülent saraloğlu rehberliğinde heıdı'nin ülkesini keşfe çıkıyoruz(n)</desc>
@@ -6324,7 +6324,7 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117221500 +0300" stop="20200117225000 +0300" channel="İZ TV">
+  <programme start="20200117221600 +0300" stop="20200117225000 +0300" channel="İZ TV">
     <title lang="tr">Gidiş dönüş / sadece türkçe</title>
     <title lang="xx">Gıdıs donus sadece turkce 4</title>
     <date>2011</date>
@@ -6339,7 +6339,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117232500 +0300" stop="20200118000600 +0300" channel="İZ TV">
+  <programme start="20200117232500 +0300" stop="20200118000500 +0300" channel="İZ TV">
     <title lang="tr">Batıya yolculuk</title>
     <title lang="xx">21</title>
     <desc lang="tr">İtalyan operasında güzel söyleyiş sanatının en büyük temsilcilerinden biri sayılan gioacchino rossini’yi dünyaya geldiği ve sevil berberi, külkedisi gibi ölümsüz operalarının her yıl sahnelendiği italya’nın pesaro kentindeki opera festivalini ziyaret ederek yakından tanıyoruz(n)</desc>
@@ -6347,7 +6347,7 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118000600 +0300" stop="20200118004500 +0300" channel="İZ TV">
+  <programme start="20200118000500 +0300" stop="20200118004500 +0300" channel="İZ TV">
     <title lang="tr">Baba oğul çelebiler</title>
     <title lang="xx">Baba ogul celebıler 9</title>
     <desc lang="tr">Dolmabahçe sarayı'nda başlayan yolculuk, deniz müzesi'nde devam ediyor..# Şairler parkı'ndan cıvıl cıvıl çarşısına, beşiktaş tüm renkleriyle ekranlara geliyor(n)</desc>
@@ -6386,14 +6386,14 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118030500 +0300" stop="20200118034000 +0300" channel="İZ TV">
+  <programme start="20200118030500 +0300" stop="20200118034100 +0300" channel="İZ TV">
     <title lang="tr">Iz ozel gosterım</title>
     <title lang="xx">Ozel gosterım 235</title>
     <date>2011</date>
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118034000 +0300" stop="20200118042500 +0300" channel="İZ TV">
+  <programme start="20200118034100 +0300" stop="20200118042500 +0300" channel="İZ TV">
     <title lang="tr">Iz sudakı ızler</title>
     <title lang="xx">Sudakı ızler 139</title>
     <desc lang="tr">Oysa, insanların inanç ve alışkanlıklarındaki küçük bir değişimle köpekbalıkları turist ve gelir sağlayan bir cazibe yaratabilir. Savaş karakaş, bu örneklerden birini maldivler’de yerinde inceliyor ve sualtında kaplan köpekbalıklarıyla buluşuyor(n)</desc>
@@ -6432,18 +6432,10 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118065000 +0300" stop="20200118073000 +0300" channel="İZ TV">
+  <programme start="20200118065000 +0300" stop="20200118081000 +0300" channel="İZ TV">
     <title lang="tr">Taş gaste</title>
     <title lang="xx">Tas gaste 4</title>
     <date>2011</date>
-    <category lang="tr">Belgesel</category>
-    <country>TUR</country>
-  </programme>
-  <programme start="20200118073000 +0300" stop="20200118081000 +0300" channel="İZ TV">
-    <title lang="tr">Iz bagımsız</title>
-    <title lang="xx">Bagımsız fılmler 215</title>
-    <desc lang="tr">Atacama tuz çölü'nün masalsı dünyasına tanık olmanın, bölgeye özgü vikunyaları keşfe çıkmanın ve yolda olmanın keyfini yaşayın(n)</desc>
-    <date>2015</date>
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
@@ -7435,7 +7427,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117072100 +0300" stop="20200117075600 +0300" channel="Turkmax Gurme">
+  <programme start="20200117072100 +0300" stop="20200117075500 +0300" channel="Turkmax Gurme">
     <title lang="tr">Şefin dünyası</title>
     <title lang="xx">Sefın dunyası s.1 ep: 6</title>
     <desc lang="tr">Bu bölümde, şefimiz iran bölgesinden, dereotlu baklalı perde pilavı ve roka pestolu minekop yapıyor(n)</desc>
@@ -7443,7 +7435,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117075600 +0300" stop="20200117083100 +0300" channel="Turkmax Gurme">
+  <programme start="20200117075500 +0300" stop="20200117083100 +0300" channel="Turkmax Gurme">
     <title lang="tr">Sofralarımız</title>
     <title lang="xx">s.2 ep: 200</title>
     <desc lang="tr">Şefimiz bu bölümde soslu somon ve lime'lı pilav, baton peynir ve yaz içeceği yapıyor(n)</desc>
@@ -7483,7 +7475,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117103000 +0300" stop="20200117120100 +0300" channel="Turkmax Gurme">
+  <programme start="20200117103000 +0300" stop="20200117120000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Bizim buralar</title>
     <title lang="xx">Bızım buralar s.1 ep: 26</title>
     <desc lang="tr">Bizim buralar'ın bu bölüm konuğu oyuncu yosi mizrahi. Menüde ise mutancana ile kalbuni pilavı var(n)</desc>
@@ -7491,7 +7483,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117120100 +0300" stop="20200117123600 +0300" channel="Turkmax Gurme">
+  <programme start="20200117120000 +0300" stop="20200117123500 +0300" channel="Turkmax Gurme">
     <title lang="tr">Tadı başka</title>
     <title lang="xx">Tadı baska s.2 ep: 57</title>
     <desc lang="tr">Şefimiz bu bölümde spaetzle’li mantar ve mercimek çorbası yapıyor(n)</desc>
@@ -7499,7 +7491,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117123600 +0300" stop="20200117130500 +0300" channel="Turkmax Gurme">
+  <programme start="20200117123500 +0300" stop="20200117130600 +0300" channel="Turkmax Gurme">
     <title lang="tr">İdil'den</title>
     <title lang="xx">Idılden s.3 ep: 235</title>
     <desc lang="tr">Şefimiz, uzman estetisyen nur bilen yavuzer'i ağırladığı bu bölümde ıspanaklı pazılı börek ve un helvası yapıyor(n)</desc>
@@ -7507,7 +7499,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117130500 +0300" stop="20200117134000 +0300" channel="Turkmax Gurme">
+  <programme start="20200117130600 +0300" stop="20200117134000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Sofralarımız</title>
     <title lang="xx">s.3 ep: 279</title>
     <desc lang="tr">Şefimiz bu bölümde fettuş, kıymalı humus ve muhallebili fırın kadayıf yapıyor(n)</desc>
@@ -7523,14 +7515,14 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117141500 +0300" stop="20200117144600 +0300" channel="Turkmax Gurme">
+  <programme start="20200117141500 +0300" stop="20200117144500 +0300" channel="Turkmax Gurme">
     <title lang="tr">Gastronomi maceraları</title>
     <title lang="xx">Gastronomı maceraları 96</title>
     <desc lang="tr">AYHAN SİCİMOĞLU İLE GASTRONOMİ MACERALARI’NIN BU BÖLÜMÜNDE FRANSA’NIN BASK BÖLGESİNDE BULUNAN BİARRİTZ KASABASINDAYIZ.nBALIK PAZARINDA DENİZ KABUKLULULARI ALIŞVERİŞİNDEN SONRA LE BAR JEAN’DA KUM MİDYESİ VE SÜLÜNEZ YAPIYORUZ(n)</desc>
     <date>2019</date>
     <category lang="tr">Life Style</category>
   </programme>
-  <programme start="20200117144600 +0300" stop="20200117151500 +0300" channel="Turkmax Gurme">
+  <programme start="20200117144500 +0300" stop="20200117151500 +0300" channel="Turkmax Gurme">
     <title lang="tr">Patısserıe</title>
     <title lang="xx">s.2 ep: 137</title>
     <desc lang="tr">Bu programda, natali gökyay her evin mutfağını adeta bir pastaneye dönüştürüyor. Bakmaya da yemeye de kıyamayacağınız en özel tarifler ekranlarınıza geliyor(n)</desc>
@@ -7538,7 +7530,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117151500 +0300" stop="20200117155100 +0300" channel="Turkmax Gurme">
+  <programme start="20200117151500 +0300" stop="20200117155000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Bıçağın iki yüzü</title>
     <title lang="xx">Bıcagın ıkı yuzu s.1 ep: 9</title>
     <desc lang="tr">Bu bölümde, şefimiz patates kullanarak, gnochi ve patates püre ve fileminyon yapıyor(n)</desc>
@@ -7546,7 +7538,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117155100 +0300" stop="20200117162000 +0300" channel="Turkmax Gurme">
+  <programme start="20200117155000 +0300" stop="20200117162000 +0300" channel="Turkmax Gurme">
     <title lang="tr">İştahlı çocuklar</title>
     <title lang="xx">Istahlı cocuklar s.1 ep: 100</title>
     <desc lang="tr">Bu bölümde şefimiz, ıspanaklı kek yapıyor(n)</desc>
@@ -7586,7 +7578,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117184000 +0300" stop="20200117191100 +0300" channel="Turkmax Gurme">
+  <programme start="20200117184000 +0300" stop="20200117191000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Tadı başka</title>
     <title lang="xx">Tadı baska s.2 ep: 52</title>
     <desc lang="tr">Şefimiz bu bölümde melanzane yapıyor(n)</desc>
@@ -7594,7 +7586,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117191100 +0300" stop="20200117195600 +0300" channel="Turkmax Gurme">
+  <programme start="20200117191000 +0300" stop="20200117195000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Şefin dünyası</title>
     <title lang="xx">Sefın dunyası s.1 ep: 7</title>
     <desc lang="tr">Bu bölümde, şefimiz ispanya bölgesinden, paella ve churros con chocolate yapıyor(n)</desc>
@@ -7602,7 +7594,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117195600 +0300" stop="20200117203500 +0300" channel="Turkmax Gurme">
+  <programme start="20200117195000 +0300" stop="20200117202600 +0300" channel="Turkmax Gurme">
     <title lang="tr">Sofralarımız</title>
     <title lang="xx">s.3 ep: 276</title>
     <desc lang="tr">Şefimiz bu bölümde pastırmalı patates çorbası, karnabahar mücveri ve baharatlı cheesecake yapıyor(n)</desc>
@@ -7610,7 +7602,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117203500 +0300" stop="20200117210000 +0300" channel="Turkmax Gurme">
+  <programme start="20200117202600 +0300" stop="20200117205000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Gaziantep mutfağı</title>
     <title lang="xx">Gazıantep mutfagı s.1 ep: 15</title>
     <desc lang="tr">Gaziantep sofralarının vazgeçilmez lezzeti soğan kebabı, şef doğa çitçi’nin tarifiyle ekranlara geliyor(n)</desc>
@@ -7618,7 +7610,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117210000 +0300" stop="20200117213700 +0300" channel="Turkmax Gurme">
+  <programme start="20200117205000 +0300" stop="20200117212500 +0300" channel="Turkmax Gurme">
     <title lang="tr">Kahve?</title>
     <title lang="xx">Kahve s.1 ep: 3</title>
     <desc lang="tr">Başarılı oyuncu ipek tuzcuoğlu'nun konuk olduğu bölümde sam, kahve tutkunu konuğuna sphon (Sifon) Demleme yöntemini anlatıyor. Genç barista ebru jess karaman, kahvelerin özelliklerine ve tatlarına göre sunum şekilleri hakkında bilgi veriyor. Programın bir diğer konusu ise spor ve sporcu içecekler(n)</desc>
@@ -7626,7 +7618,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117213700 +0300" stop="20200117220700 +0300" channel="Turkmax Gurme">
+  <programme start="20200117212500 +0300" stop="20200117215500 +0300" channel="Turkmax Gurme">
     <title lang="tr">Tadı başka</title>
     <title lang="xx">Tadı baska s.2 ep: 57</title>
     <desc lang="tr">Şefimiz bu bölümde spaetzle’li mantar ve mercimek çorbası yapıyor(n)</desc>
@@ -7634,7 +7626,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117220700 +0300" stop="20200117224000 +0300" channel="Turkmax Gurme">
+  <programme start="20200117215500 +0300" stop="20200117222600 +0300" channel="Turkmax Gurme">
     <title lang="tr">İdil'den</title>
     <title lang="xx">Idılden s.3 ep: 235</title>
     <desc lang="tr">Şefimiz, uzman estetisyen nur bilen yavuzer'i ağırladığı bu bölümde ıspanaklı pazılı börek ve un helvası yapıyor(n)</desc>
@@ -7642,7 +7634,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117224000 +0300" stop="20200117231500 +0300" channel="Turkmax Gurme">
+  <programme start="20200117222600 +0300" stop="20200117230000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Sofralarımız</title>
     <title lang="xx">s.3 ep: 279</title>
     <desc lang="tr">Şefimiz bu bölümde fettuş, kıymalı humus ve muhallebili fırın kadayıf yapıyor(n)</desc>
@@ -7650,7 +7642,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117231500 +0300" stop="20200117234500 +0300" channel="Turkmax Gurme">
+  <programme start="20200117230000 +0300" stop="20200117233000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Çocuklar açık mutfakta</title>
     <title lang="xx">Cocuklar acık mutfakta 1</title>
     <desc lang="tr">Şef didem doğru, bu bölümde minik dostlarını eğitmen ilker erçman eşliğinde kamp ateşiyle tanıştırıyor ve onlara kamp yapmanın püf noktalarını anlatarak çadır kurmanın ve çadırda konaklamanın unutulmaz zevkini, kampta kurulan dostlukları ve kamp yemeklerinin müthiş lezzetini tattırıyor(n)</desc>
@@ -7658,7 +7650,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200117234500 +0300" stop="20200118011100 +0300" channel="Turkmax Gurme">
+  <programme start="20200117233000 +0300" stop="20200118013600 +0300" channel="Turkmax Gurme">
     <title lang="tr">Bizim buralar</title>
     <title lang="xx">Bızım buralar s.1 ep: 26</title>
     <desc lang="tr">Bizim buralar'ın bu bölüm konuğu oyuncu yosi mizrahi. Menüde ise mutancana ile kalbuni pilavı var(n)</desc>
@@ -7666,15 +7658,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118011100 +0300" stop="20200118014500 +0300" channel="Turkmax Gurme">
-    <title lang="tr">Şefin dünyası</title>
-    <title lang="xx">Sefın dunyası s.1 ep: 12</title>
-    <desc lang="tr">Bu bölümde, şefimiz italya bölgesinden, focaccia rolls ve fırınlanmış domatesli biber çorbası yapıyor(n)</desc>
-    <date>2016</date>
-    <category lang="tr">Life Style</category>
-    <country>TUR</country>
-  </programme>
-  <programme start="20200118014500 +0300" stop="20200118021000 +0300" channel="Turkmax Gurme">
+  <programme start="20200118013600 +0300" stop="20200118023600 +0300" channel="Turkmax Gurme">
     <title lang="tr">İştahlı çocuklar</title>
     <title lang="xx">Istahlı cocuklar s.1 ep: 100</title>
     <desc lang="tr">Bu bölümde şefimiz, ıspanaklı kek yapıyor(n)</desc>
@@ -7682,15 +7666,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118021000 +0300" stop="20200118024500 +0300" channel="Turkmax Gurme">
-    <title lang="tr">Bıçağın iki yüzü</title>
-    <title lang="xx">Bıcagın ıkı yuzu s.1 ep: 9</title>
-    <desc lang="tr">Bu bölümde, şefimiz patates kullanarak, gnochi ve patates püre ve fileminyon yapıyor(n)</desc>
-    <date>2016</date>
-    <category lang="tr">Life Style</category>
-    <country>TUR</country>
-  </programme>
-  <programme start="20200118024500 +0300" stop="20200118031000 +0300" channel="Turkmax Gurme">
+  <programme start="20200118023600 +0300" stop="20200118030000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Gaziantep mutfağı</title>
     <title lang="xx">Gazıantep mutfagı s.1 ep: 15</title>
     <desc lang="tr">Gaziantep sofralarının vazgeçilmez lezzeti soğan kebabı, şef doğa çitçi’nin tarifiyle ekranlara geliyor(n)</desc>
@@ -7698,74 +7674,11 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118031000 +0300" stop="20200118035100 +0300" channel="Turkmax Gurme">
+  <programme start="20200118030000 +0300" stop="20200118072000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Bıçağın iki yüzü</title>
     <title lang="xx">Bıcagın ıkı yuzu s.1 ep: 8</title>
     <desc lang="tr">Bu bölümde, şefimiz deniz tarağı kullanarak, karnabahar velute yeşil elma ile sote deniz tarağı ve domates tartar ile deniz tarağı ceviche yapıyor(n)</desc>
     <date>2016</date>
-    <category lang="tr">Life Style</category>
-    <country>TUR</country>
-  </programme>
-  <programme start="20200118035100 +0300" stop="20200118042000 +0300" channel="Turkmax Gurme">
-    <title lang="tr">Patısserıe</title>
-    <title lang="xx">s.2 ep: 134</title>
-    <desc lang="tr">Bu programda, natali gökyay her evin mutfağını adeta bir pastaneye dönüştürüyor. Bakmaya da yemeye de kıyamayacağınız en özel tarifler ekranlarınıza geliyor(n)</desc>
-    <date>2015</date>
-    <category lang="tr">Life Style</category>
-    <country>TUR</country>
-  </programme>
-  <programme start="20200118042000 +0300" stop="20200118045500 +0300" channel="Turkmax Gurme">
-    <title lang="tr">Şefin dünyası</title>
-    <title lang="xx">Sefın dunyası s.1 ep: 11</title>
-    <desc lang="tr">Bu bölümde, şefimiz meksika bölgesinden, guacomole sos ve tacos con carne yapıyor(n)</desc>
-    <date>2016</date>
-    <category lang="tr">Life Style</category>
-    <country>TUR</country>
-  </programme>
-  <programme start="20200118045500 +0300" stop="20200118052100 +0300" channel="Turkmax Gurme">
-    <title lang="tr">İştahlı çocuklar</title>
-    <title lang="xx">Istahlı cocuklar s.1 ep: 99</title>
-    <date>2017</date>
-    <category lang="tr">Life Style</category>
-    <country>TUR</country>
-  </programme>
-  <programme start="20200118052100 +0300" stop="20200118054600 +0300" channel="Turkmax Gurme">
-    <title lang="tr">Tadı başka</title>
-    <title lang="xx">Tadı baska s.2 ep: 56</title>
-    <desc lang="tr">Şefimiz bu bölümde bouıllabaısse yapıyor(n)</desc>
-    <date>2019</date>
-    <category lang="tr">Life Style</category>
-    <country>TUR</country>
-  </programme>
-  <programme start="20200118054600 +0300" stop="20200118055600 +0300" channel="Turkmax Gurme">
-    <title lang="tr">Bi' tarif</title>
-    <title lang="xx">Bı tarıf s.2 ep: 49</title>
-    <desc lang="tr">Bu bölümde, şefimiz savaş ergen, bezelye ve füme tavuklu lazanya yapıyor(n)</desc>
-    <date>2018</date>
-    <category lang="tr">Life Style</category>
-    <country>TUR</country>
-  </programme>
-  <programme start="20200118055600 +0300" stop="20200118062100 +0300" channel="Turkmax Gurme">
-    <title lang="tr">İdil'den</title>
-    <title lang="xx">Idılden s.2 ep: 215</title>
-    <desc lang="tr">Şefimiz bu bölümde yumurtalı tatlı patates, yumurtalı kahvaltı salatası ve pırasa ve zahterli yumurta yapıyor(n)</desc>
-    <date>2019</date>
-    <category lang="tr">Life Style</category>
-    <country>TUR</country>
-  </programme>
-  <programme start="20200118062100 +0300" stop="20200118065500 +0300" channel="Turkmax Gurme">
-    <title lang="tr">Sofralarımız</title>
-    <title lang="xx">s.2 ep: 200</title>
-    <desc lang="tr">Şefimiz bu bölümde soslu somon ve lime'lı pilav, baton peynir ve yaz içeceği yapıyor(n)</desc>
-    <date>2019</date>
-    <category lang="tr">Life Style</category>
-    <country>TUR</country>
-  </programme>
-  <programme start="20200118065500 +0300" stop="20200118072000 +0300" channel="Turkmax Gurme">
-    <title lang="tr">Hep fit</title>
-    <title lang="xx">Hep fıt s.1 ep: 52</title>
-    <desc lang="tr">Esneme hareketleri, yağ yakma egzersizleri, bölgesel incelme tüyoları, beden kitle indeksini düşürmeye yönelik önemli tavsiyeler, kişiye özel antrenmanlar, diyet yemekler ve detoks içecek tariflerinin yer aldığı hep fit, sağlıklı yaşamak isteyen herkese alternatif bir yaşam tarzı sunuyor(n)</desc>
-    <date>2018</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7777,7 +7690,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118080000 +0300" stop="20200118081700 +0300" channel="Turkmax Gurme">
+  <programme start="20200118080000 +0300" stop="20200118083500 +0300" channel="Turkmax Gurme">
     <title lang="tr">İdil'den</title>
     <title lang="xx">Idılden s.2 ep: 214</title>
     <desc lang="tr">Şefimiz bu bölümde cibes salatası, ayvalı et ve zerdeçallı firik bulguru yapıyor(n)</desc>
@@ -7785,7 +7698,7 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118081700 +0300" stop="20200118091000 +0300" channel="Turkmax Gurme">
+  <programme start="20200118083500 +0300" stop="20200118091000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Sofralarımız</title>
     <title lang="xx">s.3 ep: 277</title>
     <desc lang="tr">Şefimiz bu bölümde sebzeli tarhana çorbası, terbiyeli kabak dolması ve kakaolu muzlu kek yapıyor(n)</desc>
@@ -9508,7 +9421,7 @@
   </programme>
   <programme start="20200117084000 +0300" stop="20200117091000 +0300" channel="TRT Belgesel HD">
     <title lang="tr">Rikki'nin türkiye rotası</title>
-    <desc lang="tr">Fraya doğal ürün ve üretimlerin izinden gittiği lezzet rotasını ve bu tarifleri..# Gaziantep'teki keşfi hayatın ta kendisi gibi(n)</desc>
+    <desc lang="tr">Tep'teki keşif hayatın ta kendisi gibi(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200117091000 +0300" stop="20200117100000 +0300" channel="TRT Belgesel HD">
@@ -10769,14 +10682,14 @@
     <date>2019</date>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200117040000 +0300" stop="20200117043000 +0300" channel="TRT 2 HD">
+  <programme start="20200117040000 +0300" stop="20200117045800 +0300" channel="TRT 2 HD">
     <title lang="tr">Tarihin ruhu</title>
     <desc lang="tr">An mensubu ve harbiye nazırı, nisan 1918'de, batum'da; varlıklarıyla kimlere; ne gibi mesajlar vermek istemişti? Osmanlı'nın son ileri harekatının bir parçası olan film ve çok özel öyküsü; tarihin ruhu'nda(n)</desc>
     <date>2019</date>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200117043000 +0300" stop="20200117050000 +0300" channel="TRT 2 HD">
-    <title lang="tr">Konsere davet</title>
+  <programme start="20200117045800 +0300" stop="20200117050000 +0300" channel="TRT 2 HD">
+    <title lang="tr">İstiklal marşı</title>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200117050000 +0300" stop="20200117053000 +0300" channel="TRT 2 HD">
@@ -10786,7 +10699,7 @@
   </programme>
   <programme start="20200117053000 +0300" stop="20200117060000 +0300" channel="TRT 2 HD">
     <title lang="tr">Bizim resmimiz</title>
-    <desc lang="tr">Şık 100 yıllık geçmişi, gelişim süreci, sanatçıları, sanat eserleri ve sanat kurumları yorumlanarak anlatılıyor(n)</desc>
+    <desc lang="tr">El müdürü veysel uğurlu ile türk resim sanatında, "Portre" konu ediliyor(n)</desc>
     <date>2019</date>
     <category lang="tr">Diğer</category>
   </programme>
@@ -10819,7 +10732,7 @@
   </programme>
   <programme start="20200117083000 +0300" stop="20200117093000 +0300" channel="TRT 2 HD">
     <title lang="tr">Sinema +</title>
-    <desc lang="tr">Etip hem rol aldığı kurtlarla dans filminin detaylı incelemesi, "Oscar ödüllerinde en çok adaylık kazanan filmler listesi" ve daha fazlası sinemaseverlerle buluşuyor.(n)</desc>
+    <desc lang="tr">Bilsel safkan konuk oluyor. Vizyona giren filmler, haftanın öne çıkan sinema haberleri, kevin costner ve hem yönetip hem başrolünü oynadığı kurtlarla dans filmi hakkında her şey, oscar ödüllerinde en çok adaylık kazanan filmler listesi sinemaseverlerle buluşuyor(n)</desc>
     <credits>
       <director>Trt2</director>
     </credits>
@@ -10832,7 +10745,7 @@
   </programme>
   <programme start="20200117100000 +0300" stop="20200117103000 +0300" channel="TRT 2 HD">
     <title lang="tr">Anjelika akbar ile sesler</title>
-    <desc lang="tr">Sanata ve müziğe dair gerçekleştirdiği söyleşileri izleyici ile buluşturuyor(n)</desc>
+    <desc lang="tr">La hayata, sanata ve müziğe dair gerçekleştirdiği söyleşileri izleyici ile buluşturuyor(n)</desc>
     <date>2019</date>
     <category lang="tr">Diğer</category>
   </programme>
@@ -10913,6 +10826,7 @@
   </programme>
   <programme start="20200117183000 +0300" stop="20200117190000 +0300" channel="TRT 2 HD">
     <title lang="tr">Sarayın lezzetleri</title>
+    <desc lang="tr">Hazırlıyor(n)</desc>
     <date>2019</date>
     <category lang="tr">Diğer</category>
   </programme>
@@ -10999,13 +10913,15 @@
     <date>2019</date>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200118040000 +0300" stop="20200118052800 +0300" channel="TRT 2 HD">
+  <programme start="20200118040000 +0300" stop="20200118043000 +0300" channel="TRT 2 HD">
     <title lang="tr">Murat boncuk'la atölye</title>
     <desc lang="tr">Anatın ve zanaatin bugünkü durumunu ve geleceğini birinci ağızdan anlatıyor(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200118052800 +0300" stop="20200118053000 +0300" channel="TRT 2 HD">
-    <title lang="tr">İstiklal marşı</title>
+  <programme start="20200118043000 +0300" stop="20200118053000 +0300" channel="TRT 2 HD">
+    <title lang="tr">Kelimeler ve şeyler</title>
+    <desc lang="tr">Hi" bölümünde halide edib adıvar, vefat ettiği 9 ocak 1964 vesilesiyle anılıyor(n)</desc>
+    <date>2019</date>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200118053000 +0300" stop="20200118060000 +0300" channel="TRT 2 HD">
@@ -11370,270 +11286,71 @@
     <date>1976</date>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200116001500 +0300" stop="20200116020000 +0300" channel="Kanal D HD">
-    <title lang="tr">Hayaletin intikamı</title>
+  <programme start="20200116014500 +0300" stop="20200116043000 +0300" channel="KANAL D HD">
+    <title lang="tr">Gelinim Mutfakta</title>
   </programme>
-  <programme start="20200116020000 +0300" stop="20200116034500 +0300" channel="Kanal D HD">
-    <title lang="tr">Hayaletin intikamı</title>
+  <programme start="20200116043000 +0300" stop="20200116051500 +0300" channel="KANAL D HD">
+    <title lang="tr">Ayhan Sicimoğlu ile Renkler</title>
   </programme>
-  <programme start="20200116034500 +0300" stop="20200116061500 +0300" channel="Kanal D HD">
-    <title lang="tr">Gelinim mutfakta</title>
-    <category lang="tr">Yarışma</category>
+  <programme start="20200116051500 +0300" stop="20200116071500 +0300" channel="KANAL D HD">
+    <title lang="tr">Yabancı Damat</title>
   </programme>
-  <programme start="20200116061500 +0300" stop="20200116073000 +0300" channel="Kanal D HD">
-    <title lang="tr">Hayat sağlıklı güzel</title>
-    <category lang="tr">Life Style</category>
+  <programme start="20200116071500 +0300" stop="20200116083000 +0300" channel="KANAL D HD">
+    <title lang="tr">Hayat Sağlıklı Güzel</title>
   </programme>
-  <programme start="20200116073000 +0300" stop="20200116090000 +0300" channel="Kanal D HD">
-    <title lang="tr">Akasya durağı</title>
+  <programme start="20200116083000 +0300" stop="20200116093000 +0300" channel="KANAL D HD">
+    <title lang="tr">Arda ile Omuz Omuza</title>
   </programme>
-  <programme start="20200116090000 +0300" stop="20200116110000 +0300" channel="Kanal D HD">
-    <title lang="tr">Neler oluyor hayatta</title>
+  <programme start="20200116093000 +0300" stop="20200116121500 +0300" channel="KANAL D HD">
+    <title lang="tr">Müge ve Gülşen’le 2.Sayfa</title>
   </programme>
-  <programme start="20200116110000 +0300" stop="20200116123000 +0300" channel="Kanal D HD">
-    <title lang="tr">Müge ve gülşen'le 2.Sayfa</title>
-    <category lang="tr">Life Style</category>
+  <programme start="20200116121500 +0300" stop="20200116160000 +0300" channel="KANAL D HD">
+    <title lang="tr">Gelinim Mutfakta</title>
   </programme>
-  <programme start="20200116123000 +0300" stop="20200116161500 +0300" channel="Kanal D HD">
-    <title lang="tr">Gelinim mutfakta</title>
-    <category lang="tr">Yarışma</category>
+  <programme start="20200116160000 +0300" stop="20200116184500 +0300" channel="KANAL D HD">
+    <title lang="tr">Arka Sokaklar</title>
   </programme>
-  <programme start="20200116161500 +0300" stop="20200116190000 +0300" channel="Kanal D HD">
-    <title lang="tr">Arka sokaklar</title>
-    <credits>
-      <director>Orhan Oğuz</director>
-      <actor>Şevket Çoruh</actor>
-      <actor>Özgür Ozan</actor>
-    </credits>
-    <category lang="tr">Polisiye</category>
+  <programme start="20200116184500 +0300" stop="20200116194500 +0300" channel="KANAL D HD">
+    <title lang="tr">Buket Aydın'la Kanal D Haber</title>
   </programme>
-  <programme start="20200116190000 +0300" stop="20200116200000 +0300" channel="Kanal D HD">
-    <title lang="tr">Buket aydın'la kanal d haber</title>
-    <category lang="tr">Haberler</category>
+  <programme start="20200116194500 +0300" stop="20200116214500 +0300" channel="KANAL D HD">
+    <title lang="tr">Kaçış Planı 2</title>
   </programme>
-  <programme start="20200116200000 +0300" stop="20200116221500 +0300" channel="Kanal D HD">
-    <title lang="tr">Recep ivedik 3</title>
-    <desc lang="tr">Her gece gördüğü bir kabus da sinirlerini iyice bozmuştur. Bu kabustan kurtulmaya çalışan recep, mahallenin ev kadınlarından, en yakın dostu bakkal salih'ten psikologlardan ve hatta cinci hocalardan medet umar ancak hiç birisi içindeki sıkıntıya çare bulamaz(n)</desc>
-    <credits>
-      <director>Togan Gökbakar</director>
-      <actor>Şahan Gökbakar</actor>
-      <actor>Zeynep Çamcı</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="tr">Komedi</category>
+  <programme start="20200116214500 +0300" stop="20200117001500 +0300" channel="KANAL D HD">
+    <title lang="tr">Çok Güzel Hareketler 2</title>
   </programme>
-  <programme start="20200116221500 +0300" stop="20200117011500 +0300" channel="Kanal D HD">
-    <title lang="tr">Zalim istanbul</title>
-    <credits>
-      <director>Cevdet Mercan</director>
-      <actor>Fikret Kuşkan</actor>
-      <actor>Deniz Uğur</actor>
-      <actor>Mine Tugay</actor>
-    </credits>
-    <category lang="tr">Dram</category>
+  <programme start="20200117001500 +0300" stop="20200117014000 +0300" channel="KANAL D HD">
+    <title lang="tr">Abbas Güçlü ile Büyük Oyun</title>
   </programme>
-  <programme start="20200117011500 +0300" stop="20200117022000 +0300" channel="Kanal D HD">
-    <title lang="tr">M.Fatih çıtlak ile...</title>
-    <category lang="tr">F8</category>
+  <programme start="20200117014000 +0300" stop="20200117031500 +0300" channel="KANAL D HD">
+    <title lang="tr">Kaçış Planı 2</title>
   </programme>
-  <programme start="20200117022000 +0300" stop="20200117040000 +0300" channel="Kanal D HD">
-    <title lang="tr">Recep ivedik 3</title>
-    <desc lang="tr">Her gece gördüğü bir kabus da sinirlerini iyice bozmuştur. Bu kabustan kurtulmaya çalışan recep, mahallenin ev kadınlarından, en yakın dostu bakkal salih'ten psikologlardan ve hatta cinci hocalardan medet umar ancak hiç birisi içindeki sıkıntıya çare bulamaz(n)</desc>
-    <credits>
-      <director>Togan Gökbakar</director>
-      <actor>Şahan Gökbakar</actor>
-      <actor>Zeynep Çamcı</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="tr">Komedi</category>
+  <programme start="20200117031500 +0300" stop="20200117053000 +0300" channel="KANAL D HD">
+    <title lang="tr">Gelinim Mutfakta</title>
   </programme>
-  <programme start="20200117040000 +0300" stop="20200117061500 +0300" channel="Kanal D HD">
-    <title lang="tr">İkizler memo-can</title>
-    <title lang="xx">İkizler memocan</title>
+  <programme start="20200117053000 +0300" stop="20200117071500 +0300" channel="KANAL D HD">
+    <title lang="tr">Yabancı Damat</title>
   </programme>
-  <programme start="20200117061500 +0300" stop="20200117073000 +0300" channel="Kanal D HD">
-    <title lang="tr">Hayat sağlıklı güzel</title>
-    <category lang="tr">Life Style</category>
+  <programme start="20200117194500 +0300" stop="20200118001500 +0300" channel="KANAL D HD">
+    <title lang="tr">Çocuklar Duymasın</title>
   </programme>
-  <programme start="20200117073000 +0300" stop="20200117090000 +0300" channel="Kanal D HD">
-    <title lang="tr">Akasya durağı</title>
+  <programme start="20200118001500 +0300" stop="20200118024500 +0300" channel="KANAL D HD">
+    <title lang="tr">İkizler Memo-Can</title>
   </programme>
-  <programme start="20200117090000 +0300" stop="20200117110000 +0300" channel="Kanal D HD">
-    <title lang="tr">Neler oluyor hayatta</title>
+  <programme start="20200118024500 +0300" stop="20200118044500 +0300" channel="KANAL D HD">
+    <title lang="tr">Bu İşte Bir Yalnızlık Var</title>
   </programme>
-  <programme start="20200117110000 +0300" stop="20200117123000 +0300" channel="Kanal D HD">
-    <title lang="tr">Müge ve gülşen'le 2.Sayfa</title>
-    <category lang="tr">Life Style</category>
+  <programme start="20200118044500 +0300" stop="20200118053000 +0300" channel="KANAL D HD">
+    <title lang="tr">Arda'nın Mutfağı</title>
   </programme>
-  <programme start="20200117123000 +0300" stop="20200117161500 +0300" channel="Kanal D HD">
-    <title lang="tr">Gelinim mutfakta</title>
-    <category lang="tr">Yarışma</category>
+  <programme start="20200118071500 +0300" stop="20200118081500 +0300" channel="KANAL D HD">
+    <title lang="tr">Hayat Sağlıklı Güzel</title>
   </programme>
-  <programme start="20200117161500 +0300" stop="20200117190000 +0300" channel="Kanal D HD">
-    <title lang="tr">Arka sokaklar</title>
-    <credits>
-      <director>Orhan Oğuz</director>
-      <actor>Şevket Çoruh</actor>
-      <actor>Özgür Ozan</actor>
-    </credits>
-    <category lang="tr">Polisiye</category>
+  <programme start="20200118081500 +0300" stop="20200118093000 +0300" channel="KANAL D HD">
+    <title lang="tr">M.Fatih Çıtlak ile Huzur Vakti</title>
   </programme>
-  <programme start="20200117190000 +0300" stop="20200117200000 +0300" channel="Kanal D HD">
-    <title lang="tr">Buket aydın'la kanal d haber</title>
-    <category lang="tr">Haberler</category>
-  </programme>
-  <programme start="20200117200000 +0300" stop="20200118001500 +0300" channel="Kanal D HD">
-    <title lang="tr">Arka sokaklar</title>
-    <desc lang="tr">Herman'ın çalışanı olduğunu söyler. Ancak onun radikal bir örgüt için çalıştığını ve aralarının bozuk olduğunu anlatır. Tarık ile herman'ın bağlantısının ne olduğu sorulduğunda ise; "Tarık'ın örgüt listesini ele geçirmek istediği" için görüştüklerini söyler(n)</desc>
-    <credits>
-      <director>Orhan Oğuz</director>
-      <actor>Şevket Çoruh</actor>
-      <actor>Özgür Ozan</actor>
-    </credits>
-    <category lang="tr">Polisiye</category>
-  </programme>
-  <programme start="20200118001500 +0300" stop="20200118024500 +0300" channel="Kanal D HD">
-    <title lang="tr">Hekimoğlu</title>
-    <credits>
-      <director>Hülya Gezer</director>
-      <actor>Timuçin Esen</actor>
-      <actor>Ebru Özkan Saban</actor>
-      <actor>Okan Yalabık</actor>
-      <actor>Kaan Yıldırım</actor>
-      <actor>Aytaç Şaşmaz</actor>
-      <actor>Damla Colbay</actor>
-    </credits>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20200118024500 +0300" stop="20200118044500 +0300" channel="Kanal D HD">
-    <title lang="tr">Gelibolu</title>
-  </programme>
-  <programme start="20200118044500 +0300" stop="20200118070000 +0300" channel="Kanal D HD">
-    <title lang="tr">İkizler memo-can</title>
-    <title lang="xx">İkizler memocan</title>
-  </programme>
-  <programme start="20200118070000 +0300" stop="20200118094500 +0300" channel="Kanal D HD">
-    <title lang="tr">Akasya durağı</title>
-  </programme>
-  <programme start="20200118094500 +0300" stop="20200118130000 +0300" channel="Kanal D HD">
-    <title lang="tr">Magazin d cumartesi</title>
-    <category lang="tr">Macera</category>
-  </programme>
-  <programme start="20200118130000 +0300" stop="20200118140000 +0300" channel="Kanal D HD">
-    <title lang="tr">Arda'nın mutfağı</title>
-    <category lang="tr">Life Style</category>
-  </programme>
-  <programme start="20200118140000 +0300" stop="20200118150000 +0300" channel="Kanal D HD">
-    <title lang="tr">Son moda</title>
-    <category lang="tr">Life Style</category>
-  </programme>
-  <programme start="20200118150000 +0300" stop="20200118190000 +0300" channel="Kanal D HD">
-    <title lang="tr">Zalim istanbul</title>
-    <credits>
-      <director>Cevdet Mercan</director>
-      <actor>Fikret Kuşkan</actor>
-      <actor>Deniz Uğur</actor>
-      <actor>Mine Tugay</actor>
-    </credits>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20200118190000 +0300" stop="20200118200000 +0300" channel="Kanal D HD">
-    <title lang="tr">Kanal d haber hafta sonu</title>
-    <category lang="tr">Haberler</category>
-  </programme>
-  <programme start="20200118200000 +0300" stop="20200118223000 +0300" channel="Kanal D HD">
-    <title lang="tr">Star trek sonsuzluk</title>
-    <desc lang="tr">Sonsuzluk'ta, atılgan gemisinin ve cesur mürettebatının epik yolculuğu devam ederken, mürettebat uzayın bilinmeyen derinliklerinde kendilerini ve federasyonun temsil ettiği her şeyi sınayan gizemli, yeni bir düşmanla karşılaşır(n)</desc>
-    <credits>
-      <director>Justın Lın</director>
-      <actor>Chrıs Pıne</actor>
-      <actor>Zachary Quınto</actor>
-      <actor>Karl Urban</actor>
-      <actor>Zoe Saldana</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="tr">E3;Aksiyon</category>
-  </programme>
-  <programme start="20200118223000 +0300" stop="20200119013000 +0300" channel="Kanal D HD">
-    <title lang="tr">Hekimoğlu</title>
-    <credits>
-      <director>Hülya Gezer</director>
-      <actor>Timuçin Esen</actor>
-      <actor>Ebru Özkan Saban</actor>
-      <actor>Okan Yalabık</actor>
-      <actor>Kaan Yıldırım</actor>
-      <actor>Aytaç Şaşmaz</actor>
-      <actor>Damla Colbay</actor>
-    </credits>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20200119013000 +0300" stop="20200119033000 +0300" channel="Kanal D HD">
-    <title lang="tr">Star trek sonsuzluk</title>
-    <desc lang="tr">Sonsuzluk'ta, atılgan gemisinin ve cesur mürettebatının epik yolculuğu devam ederken, mürettebat uzayın bilinmeyen derinliklerinde kendilerini ve federasyonun temsil ettiği her şeyi sınayan gizemli, yeni bir düşmanla karşılaşır(n)</desc>
-    <credits>
-      <director>Justın Lın</director>
-      <actor>Chrıs Pıne</actor>
-      <actor>Zachary Quınto</actor>
-      <actor>Karl Urban</actor>
-      <actor>Zoe Saldana</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="tr">E3;Aksiyon</category>
-  </programme>
-  <programme start="20200119033000 +0300" stop="20200119053000 +0300" channel="Kanal D HD">
-    <title lang="tr">Kuzey güney</title>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20200119053000 +0300" stop="20200119063000 +0300" channel="Kanal D HD">
-    <title lang="tr">Müzik</title>
-  </programme>
-  <programme start="20200119063000 +0300" stop="20200119073000 +0300" channel="Kanal D HD">
-    <title lang="tr">Arda'nın mutfağı</title>
-    <category lang="tr">Life Style</category>
-  </programme>
-  <programme start="20200119073000 +0300" stop="20200119094500 +0300" channel="Kanal D HD">
-    <title lang="tr">Akasya durağı</title>
-  </programme>
-  <programme start="20200119094500 +0300" stop="20200119130000 +0300" channel="Kanal D HD">
-    <title lang="tr">Magazin d pazar</title>
-    <category lang="tr">Macera</category>
-  </programme>
-  <programme start="20200119130000 +0300" stop="20200119140000 +0300" channel="Kanal D HD">
-    <title lang="tr">Arda ile omuz omuza</title>
-    <category lang="tr">Life Style</category>
-  </programme>
-  <programme start="20200119140000 +0300" stop="20200119161500 +0300" channel="Kanal D HD">
-    <title lang="tr">Afili aşk</title>
-    <desc lang="tr">Bundan sonra iki aile arasında düşmanlık başlar. Buna bir de kerem'in bu gerçekleri ayşe'den saklaması eklenince olaylar kontrol edilemez bir hal alır. Rıza yiğiterlere karşı sıkıyönetim ilan ederken yiğiterlerin tarafta da sular durulmaz(n)</desc>
-    <credits>
-      <director>Serdar Gözelekli</director>
-      <actor>Çağlar Ertuğrul</actor>
-      <actor>Burcu Özberk</actor>
-      <actor>Altan Erkekli</actor>
-    </credits>
-    <category lang="tr">Romantik Komedi</category>
-  </programme>
-  <programme start="20200119161500 +0300" stop="20200119190000 +0300" channel="Kanal D HD">
-    <title lang="tr">Hekimoğlu</title>
-    <desc lang="tr">Bebeklerin ikisi de kusma ve ateş şikâyetleriyle müşahede altına alınmıştır. Bunu öğrenen hekimoğlu orhan ve ipek'i hastanede bir salgın olabileceğini konusunda uyarır. İpek ve orhan yalnızca iki bebeğin hastalanmasına salgın denemeyeceği fikrindelerdir(n)</desc>
-    <credits>
-      <director>Hülya Gezer</director>
-      <actor>Timuçin Esen</actor>
-      <actor>Ebru Özkan Saban</actor>
-      <actor>Okan Yalabık</actor>
-      <actor>Kaan Yıldırım</actor>
-      <actor>Aytaç Şaşmaz</actor>
-      <actor>Damla Colbay</actor>
-    </credits>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20200119190000 +0300" stop="20200119200000 +0300" channel="Kanal D HD">
-    <title lang="tr">Kanal d haber hafta sonu</title>
-    <category lang="tr">Haberler</category>
-  </programme>
-  <programme start="20200119200000 +0300" stop="20200119233000 +0300" channel="Kanal D HD">
-    <title lang="tr">Çok güzel hareketler 2</title>
-    <category lang="tr">Eğlence</category>
+  <programme start="20200118194500 +0300" stop="20200119053000 +0300" channel="KANAL D HD">
+    <title lang="tr">Arka Sokaklar</title>
   </programme>
   <programme start="20200116003000 +0300" stop="20200116013000 +0300" channel="ATV HD">
     <title lang="tr">Son durak</title>
@@ -11701,7 +11418,7 @@
     <title lang="tr">Atv ana haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200116200000 +0300" stop="20200117011000 +0300" channel="ATV HD">
+  <programme start="20200116200000 +0300" stop="20200117002000 +0300" channel="ATV HD">
     <title lang="tr">Bir zamanlar çukurova</title>
     <desc lang="tr">50 hafta boyunca aşkın sınırsız, kavganın ölümüne, umudun inadına yaşandığı coğrafyadaki birbirine bağlı hayatlar bu hafta evlat sınavından geçecek! Züleyha, müjgan'ın davranışları için konuşmaya yılmaz ile buluştuğu sırada sancısı tutunca, hastaneye giderler(n)</desc>
     <credits>
@@ -11723,11 +11440,12 @@
     <date>2018</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20200117011000 +0300" stop="20200117022000 +0300" channel="ATV HD">
-    <title lang="tr">Nihat hatipoğlu ile...</title>
-    <category lang="tr">F8</category>
+  <programme start="20200117002000 +0300" stop="20200117013000 +0300" channel="ATV HD">
+    <title lang="tr">Nihat hatipoğlu ile</title>
+    <desc lang="tr">Sorular sizden gelenler ve hayatın içinden çok özel görüntüler hepsi ve daha fazlası ayet ve hadislerin ışığında prof. Dr. Nihat hatipoğlu ile kuran ve sünnette.(n)</desc>
+    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200117022000 +0300" stop="20200117045000 +0300" channel="ATV HD">
+  <programme start="20200117013000 +0300" stop="20200117041500 +0300" channel="ATV HD">
     <title lang="tr">Aşk ve mavi</title>
     <credits>
       <director>Hakan Arslan</director>
@@ -11742,8 +11460,9 @@
     <date>2018</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20200117045000 +0300" stop="20200117070000 +0300" channel="ATV HD">
+  <programme start="20200117041500 +0300" stop="20200117070000 +0300" channel="ATV HD">
     <title lang="tr">Seviyor sevmiyor</title>
+    <desc lang="tr">Çocukluk aşkı olan bir çift, yıllar sonra bir araya gelirse ne olur(n)</desc>
     <credits>
       <director>Yusuf Pirhasan</director>
       <actor>Zeynep Çamcı [deniz]</actor>
@@ -11760,6 +11479,7 @@
   </programme>
   <programme start="20200117083000 +0300" stop="20200117100000 +0300" channel="ATV HD">
     <title lang="tr">Nihat hatipoğlu</title>
+    <desc lang="tr">Prof. Dr. Nihat hatipoğlu merak edilen soruları yanıtlıyor(n)</desc>
     <category lang="tr">F8</category>
   </programme>
   <programme start="20200117100000 +0300" stop="20200117130000 +0300" channel="ATV HD">
@@ -11768,6 +11488,7 @@
   </programme>
   <programme start="20200117130000 +0300" stop="20200117140000 +0300" channel="ATV HD">
     <title lang="tr">Atv gün ortası bülteni</title>
+    <desc lang="tr">Son dakika gelişmeleri, siyaset ve ekonomi haberleri, anne - bebek ve sağlık konularında özel dosyalar, hepsi saat 13:00'te atv gün ortası bülteninde yer alıyor(n)</desc>
     <date>2018</date>
     <category lang="tr">Haberler</category>
   </programme>
@@ -11787,12 +11508,15 @@
     <date>2018</date>
     <category lang="tr">Life Style</category>
   </programme>
-  <programme start="20200117190000 +0300" stop="20200117223000 +0300" channel="ATV HD">
-    <title lang="tr">Atv ana haber bülteni</title>
+  <programme start="20200117190000 +0300" stop="20200117200000 +0300" channel="ATV HD">
+    <title lang="tr">Atv gün ortası bülteni</title>
+    <desc lang="tr">Son dakika gelişmeleri, siyaset ve ekonomi haberleri, anne - bebek ve sağlık konularında özel dosyalar, hepsi saat 13:00'te atv gün ortası bülteninde yer alıyor(n)</desc>
+    <date>2018</date>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200117223000 +0300" stop="20200118015000 +0300" channel="ATV HD">
+  <programme start="20200117200000 +0300" stop="20200118015000 +0300" channel="ATV HD">
     <title lang="tr">Hercai</title>
+    <desc lang="tr">Elif'in, azat'la evlenmesi aslanbey ailesinde deprem etkisi yaratırken, şadoğlu ailesinde bayram havası yaşanmaktadır. Azize aslanbey'le girdiği savaşta sonunda büyük bir zafer elde eden nasuh, azize'nin artık intikam oyununda sona geldiğine emindir(n)</desc>
     <credits>
       <director>Cem Karcı</director>
       <director>Benal Tairi</director>
@@ -12367,7 +12091,7 @@
     <date>2017</date>
     <category lang="tr">Fantastik</category>
   </programme>
-  <programme start="20200116221500 +0300" stop="20200117031000 +0300" channel="Star TV HD">
+  <programme start="20200116221500 +0300" stop="20200117001500 +0300" channel="Star TV HD">
     <title lang="tr">Mumya</title>
     <desc lang="tr">Ancak askeri bir operasyon sonucu keşfedilir ve açılır. Zamansız bir şekilde hayatı elinden alınan antik kraliçenin ruhu da uyanmış olur. Yüzyıllar boyunca büyüyen öfkesiyle günümüze uyanan kraliçe insanlığa boyun eğdirmeye ve kendisine yapılanları ödetmeye kararlıdır(n)</desc>
     <credits>
@@ -12379,16 +12103,23 @@
     <date>2017</date>
     <category lang="tr">Fantastik</category>
   </programme>
-  <programme start="20200117031000 +0300" stop="20200117041000 +0300" channel="Star TV HD">
-    <title lang="tr">Sevdim seni bir kere / tkr</title>
+  <programme start="20200117001500 +0300" stop="20200117020000 +0300" channel="Star TV HD">
+    <title lang="tr">Çember: aleyna'nın son günü</title>
+    <desc lang="tr">Aleyna'nın ölümü intihar mı yoksa cinayet midir? Aleyna'ya şantaj yaparak para sızdıran kimdir? En yakın arkadaşı melis mi yoksa aleyna'ya platonik aşık olan hidayet mi? Aleyna'nın dul annesinin sevgilisi barlas ile yasak bir aşk yaşadığı anlaşılınca işler daha da karmaşık bir hal alır(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200117041000 +0300" stop="20200117052000 +0300" channel="Star TV HD">
+  <programme start="20200117020000 +0300" stop="20200117030000 +0300" channel="Star TV HD">
+    <title lang="tr">Sevdim seni bir kere / tkr</title>
+    <desc lang="tr">Tarık'ın aklında; hediyenin yoğun bakımdayken söylediği o cümle geçmektedir. Ozan ve yağız cengiz'den kol düğmelerini almıştır. Berçin ve sibel aslım'dan tamamen kurtulmak için yaptıkları plan üzerinden hareket ederken ozan berçin'den yardım isteyecektir(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200117030000 +0300" stop="20200117045000 +0300" channel="Star TV HD">
     <title lang="tr">Cesur ve güzel /  tkr</title>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200117052000 +0300" stop="20200117070000 +0300" channel="Star TV HD">
+  <programme start="20200117045000 +0300" stop="20200117070000 +0300" channel="Star TV HD">
     <title lang="tr">Benim tatlı yalanım / tkr</title>
+    <desc lang="tr">Yeni yıl yaklaşıyorken suna ve nejat en güzel yılbaşı hediyelerini almıştır bile; suna hamiledir. Nejat bebek müjdesiyle çok mutludur ve bu haberi herkese söylemek için sabırsızlanmaktadır(n)</desc>
     <credits>
       <director>Barış Erçetin</director>
       <director>Cihan Vural</director>
@@ -12403,41 +12134,60 @@
   </programme>
   <programme start="20200117070000 +0300" stop="20200117093000 +0300" channel="Star TV HD">
     <title lang="tr">Mesut yar ile bugün</title>
+    <desc lang="tr">Televizyon ekranlarının en deneyimli ve güler yüzlü sunucularından mesut yar bugün ile habere ve hayata tebessüm dolu bir bakış açısı getirecek(n)</desc>
     <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200117093000 +0300" stop="20200117104500 +0300" channel="Star TV HD">
     <title lang="tr">Sevdim seni bir kere / tkr</title>
+    <desc lang="tr">Tarık'ın aklında; hediyenin yoğun bakımdayken söylediği o cümle geçmektedir. Ozan ve yağız cengiz'den kol düğmelerini almıştır. Berçin ve sibel aslım'dan tamamen kurtulmak için yaptıkları plan üzerinden hareket ederken ozan berçin'den yardım isteyecektir(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200117104500 +0300" stop="20200117133000 +0300" channel="Star TV HD">
-    <title lang="tr">Çocuk / tkr</title>
+    <title lang="tr">Güvercin / tkr</title>
+    <desc lang="tr">Bedir kavvi, on beş yıl sonra yakın arkadaşı ahmet cibranoğlu'nun cinayetiyle suçlanarak girdiği cezaevinden çıkar. Amacı kızı zülüf, oğlu müslüm ve karısıyla beraber hayatına kaldığı yerden devam etmektir(n)</desc>
     <credits>
-      <director>Serkan Birinci</director>
-      <actor>Nazan Kesal</actor>
-      <actor>İsmail Hacıoğlu</actor>
-      <actor>Serhat Teoman</actor>
-      <actor>Merve Çağıran</actor>
-      <actor>Ceyda Ateş Toplusoy</actor>
+      <director>Altan Dönmez</director>
+      <actor>Mehmet Ali Nuroğlu</actor>
+      <actor>Almila Ada</actor>
+      <actor>Menderes Samancılar</actor>
+      <actor>Nursel Köse</actor>
     </credits>
     <date>2019</date>
     <category lang="tr">Dram</category>
   </programme>
   <programme start="20200117133000 +0300" stop="20200117163000 +0300" channel="Star TV HD">
     <title lang="tr">Gerçeğin peşinde</title>
+    <desc lang="tr">Hafta içi her gün ekrana gelecek inci ertuğrul'un sunacağı programa; uzman görüşleriyle adli tıp uzmanı taner güven ve avukat hasan kocabey de katkı sağlayacak(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200117163000 +0300" stop="20200117164500 +0300" channel="Star TV HD">
-    <title lang="tr">En güzel bölüm</title>
+    <title lang="tr">En güzel bölüm-318</title>
+    <title lang="xx">En güzel bölüm318</title>
     <date>2015</date>
     <category lang="tr">Macera</category>
   </programme>
   <programme start="20200117164500 +0300" stop="20200117184500 +0300" channel="Star TV HD">
-    <title lang="tr">Sevdim seni bir kere</title>
+    <title lang="tr">Sevdim seni bir kere / 94</title>
+    <desc lang="tr">Raziye eylül'e eziyet etmektedir. Zor işlere koşmakta azarlamaktadır. Ailesinin yanında iki yüzlüce davranır. Yağız dna laboratuarına gider. Görevli sonucun değiştirilmiş olabileceğine dair bir şüphenin varlığından bahseder. Yağız tekrar dikkatini koray'a verir(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200117184500 +0300" stop="20200118004500 +0300" channel="Star TV HD">
+  <programme start="20200117184500 +0300" stop="20200117200000 +0300" channel="Star TV HD">
     <title lang="tr">Star haber</title>
     <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200117200000 +0300" stop="20200118004500 +0300" channel="Star TV HD">
+    <title lang="tr">Babil / 1</title>
+    <desc lang="tr">Kapılar birer birer yüzüne kapanırken, karısı eda'nın çocukluk arkadaşları egemen'den yardım istemesiyle irfan kendisini hayal bile edemeyeceği karanlık bir maceranın içinde bulur(n)</desc>
+    <credits>
+      <director>Uluç Bayraktar</director>
+      <actor>Halit Ergenç</actor>
+      <actor>Ozan Güven</actor>
+      <actor>Aslı Enver</actor>
+      <actor>Birce Akalay</actor>
+      <actor>Nur Fettahoğlu</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="tr">Dram</category>
   </programme>
   <programme start="20200118004500 +0300" stop="20200118033000 +0300" channel="Star TV HD">
     <title lang="tr">Çocuk / tkr</title>
@@ -13633,6 +13383,7 @@
   </programme>
   <programme start="20200117045000 +0300" stop="20200117045500 +0300" channel="NTV HD">
     <title lang="tr">Laf aramızda</title>
+    <desc lang="tr">Konuşma insanın aklını kullanma sanatıdır. Oyuncu diksiyon eğitmeni seslendirme sanatçısı ve spiker levent dönmez ne söylediğimizden çok nasıl söylememiz gerektiğini "Laf aramızda" programında anlatıyor.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200117045500 +0300" stop="20200117050000 +0300" channel="NTV HD">
@@ -13713,6 +13464,7 @@
   </programme>
   <programme start="20200117092500 +0300" stop="20200117095500 +0300" channel="NTV HD">
     <title lang="tr">Ntv ekonomi geri sayım</title>
+    <desc lang="tr">Berfu güven güne damgasını vuracak gelişmelere mercek tutuyor manşetleri ve ekonomi basınını analiz ediyor dünya piyasalarına yakından bakıyor(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200117095500 +0300" stop="20200117100000 +0300" channel="NTV HD">
@@ -13753,6 +13505,7 @@
   </programme>
   <programme start="20200117115000 +0300" stop="20200117115500 +0300" channel="NTV HD">
     <title lang="tr">Laf aramızda</title>
+    <desc lang="tr">Konuşma insanın aklını kullanma sanatıdır. Oyuncu diksiyon eğitmeni seslendirme sanatçısı ve spiker levent dönmez ne söylediğimizden çok nasıl söylememiz gerektiğini "Laf aramızda" programında anlatıyor.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200117115500 +0300" stop="20200117120000 +0300" channel="NTV HD">
@@ -13809,6 +13562,7 @@
   </programme>
   <programme start="20200117143500 +0300" stop="20200117145500 +0300" channel="NTV HD">
     <title lang="tr">Ntv ekonomi finans kafe</title>
+    <desc lang="tr">Günün ikinci yarısında ne olacak? Melda yücel kocaalp uzman konukları ve telefon bağlantıları ile piyasaları ikinci yarıya hazırlıyor(n)</desc>
     <category lang="tr">F3</category>
   </programme>
   <programme start="20200117145500 +0300" stop="20200117150000 +0300" channel="NTV HD">
@@ -13829,10 +13583,12 @@
   </programme>
   <programme start="20200117153000 +0300" stop="20200117155000 +0300" channel="NTV HD">
     <title lang="tr">Hızlı karar</title>
+    <desc lang="tr">BİR YANDAN ZAMANLA YARIŞ DİĞER YANDAN DOĞRU BİLGİYE ULAŞMAK... VE BUNLARI HARMANLAYIP DOĞRU KARARI VEREBİLMEK...nBERFU GÜVEN ARTUNÇ KOCABALKAN VE KONUKLARIYLA EKONOMİ GÜNDEMİNİ MASAYA YATIRIYOR.n"HIZLI KARAR DOĞRU YATIRIM" HER PAZARTESİ 15:30'DA NTV'DE.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200117155000 +0300" stop="20200117155500 +0300" channel="NTV HD">
     <title lang="tr">Laf aramızda</title>
+    <desc lang="tr">Konuşma insanın aklını kullanma sanatıdır. Oyuncu diksiyon eğitmeni seslendirme sanatçısı ve spiker levent dönmez ne söylediğimizden çok nasıl söylememiz gerektiğini "Laf aramızda" programında anlatıyor.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200117155500 +0300" stop="20200117160000 +0300" channel="NTV HD">
@@ -13849,6 +13605,7 @@
   </programme>
   <programme start="20200117162000 +0300" stop="20200117164500 +0300" channel="NTV HD">
     <title lang="tr">Hafta biterken</title>
+    <desc lang="tr">Haftanın geride bıraktıklarını deniz kilislioğlu ekrana taşıyor(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200117164500 +0300" stop="20200117165500 +0300" channel="NTV HD">
@@ -13869,6 +13626,7 @@
   </programme>
   <programme start="20200117173500 +0300" stop="20200117175000 +0300" channel="NTV HD">
     <title lang="tr">Gece gündüz</title>
+    <desc lang="tr">Gece gündüz türkiye'nin kültür sanat gündemini mercek altına alıyor. Şehirde kültür sanata dair yaşanan ve yaşanacak her konuyu gündeme alıyor(n)</desc>
     <category lang="tr">Sanat ve Kültür</category>
   </programme>
   <programme start="20200117175000 +0300" stop="20200117175500 +0300" channel="NTV HD">
@@ -13932,9 +13690,13 @@
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200117210000 +0300" stop="20200117215500 +0300" channel="NTV HD">
+  <programme start="20200117210000 +0300" stop="20200117211500 +0300" channel="NTV HD">
     <title lang="tr">Yakın plan</title>
     <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200117211500 +0300" stop="20200117215500 +0300" channel="NTV HD">
+    <title lang="tr">İyi hikayeler</title>
+    <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200117215500 +0300" stop="20200117220000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
