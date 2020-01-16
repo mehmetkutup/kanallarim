@@ -361,7 +361,7 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/206.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/208.m3u8
 #EXTINF:-1 tvg-chno="177" tvg-id="Show TV HD" tvg-name="Show TV HD" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" group-title="TURKISH",TR:SHOWTVHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/210.m3u8
-#EXTINF:-1 tvg-chno="179" tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" group-title="TURKISH",TR:KANALDHD
+#EXTINF:-1 tvg-chno="179" tvg-id="KANAL D HD" tvg-name="KANAL D HD" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" group-title="TURKISH",TR:KANALDHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/209.m3u8
 #EXTINF:-1 tvg-chno="181" tvg-id="Star TV HD" tvg-name="Star TV HD" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" group-title="TURKISH",TR:STARTVHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/213.m3u8
@@ -377,7 +377,7 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14875.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6015.m3u8
 #EXTINF:-1 tvg-chno="176" tvg-id="Show TV HD" tvg-name="Show TV HD" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" group-title="TURKISH",TR:SHOWTV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6013.m3u8
-#EXTINF:-1 tvg-chno="178" tvg-id="Kanal D" tvg-name="Kanal D TR" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" group-title="TURKISH",TR:KANALD
+#EXTINF:-1 tvg-chno="178" tvg-id="KANAL D HD" tvg-name="KANAL D HD" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" group-title="TURKISH",TR:KANALD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6011.m3u8
 #EXTINF:-1 tvg-chno="170" tvg-id="TRT 1" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" group-title="TURKISH",TR:TRT1
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6016.m3u8
@@ -391,19 +391,19 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6017.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/217.m3u8
 #EXTINF:-1 tvg-chno="188" tvg-id="TV85.tr" tvg-name="TV 8,5 TR" tvg-logo="http://static.iptv-epg.com/tr/TV85.tr.png" group-title="TURKISH",TR:TV8.5HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/996.m3u8
-#EXTINF:-1 tvg-chno="189" group-title="TURKISH",TR:A2
+#EXTINF:-1 tvg-chno="189" tvg-logo="http://turkvod.com/wp-content/uploads/2019/05/246x0w.jpg" group-title="TURKISH",TR:A2
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1023.m3u8
-#EXTINF:-1 tvg-chno="190" group-title="TURKISH",TR:TEVE2
+#EXTINF:-1 tvg-chno="190" tvg-logo="https://www.digiturkburada.com/kanal/kanal-buyuk/teve-2-hd-buyuk.png" group-title="TURKISH",TR:TEVE2
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/223.m3u8
-#EXTINF:-1 tvg-chno="191" group-title="TURKISH",TR:360
+#EXTINF:-1 tvg-chno="191" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/png/360tv.png" group-title="TURKISH",TR:360
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/624.m3u8
-#EXTINF:-1 tvg-chno="192" group-title="TURKISH",TR:TELE1
+#EXTINF:-1 tvg-chno="192" tvg-logo="https://tele1.com.tr/wp-content/uploads/2019/01/tele1.jpg" group-title="TURKISH",TR:TELE1
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/10335.m3u8
-#EXTINF:-1 tvg-chno="193" group-title="TURKISH",TR:TV100
+#EXTINF:-1 tvg-chno="193" tvg-logo="https://s.tv100.com/assets/web/images/default.jpg" group-title="TURKISH",TR:TV100
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15999.m3u8
 #EXTINF:-1 tvg-chno="194" tvg-id="KRT TV HD" tvg-name="KRT TV HD" tvg-logo="https://pbs.twimg.com/media/DhVqWDDWAAE3Dzd.png" group-title="TURKISH",TR:KRT TV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15998.m3u8
-#EXTINF:-1 tvg-chno="195" tvg-id="Ekoturk.tr" tvg-name="Ekotürk TR" tvg-logo="http://static.iptv-epg.com/tr/Ekoturk.tr.png" group-title="TURKISH",TR:EKOTURK
+#EXTINF:-1 tvg-chno="195" tvg-id="Ekoturk.tr" tvg-name="Ekotürk TR" tvg-logo="https://www.digiturkburada.com/kanal/kanal-buyuk/ekoturk-buyuk.png" group-title="TURKISH",TR:EKOTURK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15997.m3u8
 #EXTINF:-1 tvg-chno="196" tvg-id="TV85.tr" tvg-name="TV 8,5 TR" tvg-logo="http://static.iptv-epg.com/tr/TV85.tr.png" group-title="TURKISH",TR:TV8.5
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6019.m3u8
@@ -411,15 +411,15 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6019.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3627.m3u8
 #EXTINF:-1 tvg-chno="198" tvg-id="TRTMuzik.tr" tvg-name="TRT Müzik TR" tvg-logo="http://static.iptv-epg.com/tr/TRTMuzik.tr.png" group-title="TURKISH",TR:TRT.MUZIK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6856.m3u8
-#EXTINF:-1 tvg-chno="199" group-title="TURKISH",TR:KRALTV
+#EXTINF:-1 tvg-chno="199" tvg-logo="https://pbs.twimg.com/profile_images/468716486438043649/FOoMDR47_400x400.png" group-title="TURKISH",TR:KRALTV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1063.m3u8
-#EXTINF:-1 tvg-chno="200" group-title="TURKISH",TR:KRALPOP
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://i.superhaber.tv/2/480/360/storage/files/images/2019/05/22/lonk-vfku.png" group-title="TURKISH",TR:KRALPOP
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1064.m3u8
-#EXTINF:-1 tvg-chno="201" group-title="TURKISH",TR:NUMBER_ONE
+#EXTINF:-1 tvg-chno="201" tvg-logo="http://www.hdtvler.tv/media/images/tvlogo/nr1tv-hdtvler-fqmn.png" group-title="TURKISH",TR:NUMBER_ONE
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/773.m3u8
-#EXTINF:-1 tvg-chno="202" group-title="TURKISH",TR:NUMBER_ONE_TURK
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://radyozon.com/wp-content/uploads/2019/05/Number-One-T%C3%BCrk.png" group-title="TURKISH",TR:NUMBER_ONE_TURK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3621.m3u8
-#EXTINF:-1 tvg-chno="203" group-title="TURKISH",TR:POWERTV
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://canlitv.rocks/uploads/kanal/29850powertv.png" group-title="TURKISH",TR:POWERTV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1089.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-id="Powerturk.tr" tvg-name="Power Turk TR" tvg-logo="http://static.iptv-epg.com/tr/Powerturk.tr.png" group-title="TURKISH",TR:POWERTURK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/623.m3u8
