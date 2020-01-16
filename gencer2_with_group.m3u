@@ -1,7 +1,7 @@
 ﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mehmetkutup/kanallarim/master/guide.xml"
 #EXTINF:-1 tvg-chno="149" tvg-id="TLC" tvg-name="TLC TR" tvg-logo="http://static.iptv-epg.com/tr/TLC.tr.png" group-title="BELGESEL",TR:TLC
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/976.m3u8
-#EXTINF:-1 tvg-chno="153" tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" group-title="BELGESEL" audio-track="TR",TR:BBC.EARTH
+#EXTINF:-1 tvg-chno="153" tvg-id="BBC EARTH HD" tvg-name="BBC EARTH HD" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" group-title="BELGESEL" audio-track="TR",TR:BBC.EARTH
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/5952.m3u8
 #EXTINF:-1 tvg-chno="154" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryChannel.tr.png" group-title="BELGESEL",TR:DISCOVERYCHANNEL
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/265.m3u8
@@ -27,13 +27,13 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/268.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/263.m3u8
 #EXTINF:-1 tvg-chno="165" tvg-id="DMAX" tvg-name="DMAX" tvg-logo="http://static.iptv-epg.com/de/DMax.de.png" group-title="BELGESEL",TR:DMAX
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/236.m3u8
-#EXTINF:-1 tvg-chno="166" tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-logo="http://static.iptv-epg.com/tr/TRTBelgesel.tr.png" group-title="BELGESEL",TR:TRTBELGESELHD
+#EXTINF:-1 tvg-chno="166" tvg-id="TRT Belgesel HD" tvg-name="TRT Belgesel HD" tvg-logo="http://static.iptv-epg.com/tr/TRTBelgesel.tr.png" group-title="BELGESEL",TR:TRTBELGESELHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/242.m3u8
 #EXTINF:-1 tvg-chno="167" tvg-id="Viasat History" tvg-name="Viasat History" tvg-logo="http://static.iptv-epg.com/ru/ViasatHistory.ru.png" group-title="BELGESEL",TR:ViASAT HiSTORY
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15995.m3u8
 #EXTINF:-1 tvg-chno="168" tvg-id="YabanTV.tr" tvg-name="Yaban TV TR" tvg-logo="http://static.iptv-epg.com/tr/YabanTV.tr.png" group-title="BELGESEL",TR:YABAN.TV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2688.m3u8
-#EXTINF:-1 tvg-chno="153" tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" group-title="BELGESEL" audio-track="TR",TR:BBC.EARTH-R
+#EXTINF:-1 tvg-chno="153" tvg-id="BBC EARTH HD" tvg-name="BBC EARTH HD" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" group-title="BELGESEL" audio-track="TR",TR:BBC.EARTH-R
 http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/bbcearth/chunks.m3u8
 #EXTINF:-1 tvg-chno="154" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="http://static.iptv-epg.com/tr/DiscoveryChannel.tr.png" group-title="BELGESEL",TR:DISCOVERYCHANNEL-R
 http://yayin22.bunusanasoracagim.best:80/selcuksportsbelgesel/discoverychannel/chunks.m3u8
@@ -359,31 +359,31 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15996.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/206.m3u8
 #EXTINF:-1 tvg-chno="175" tvg-id="ATV" tvg-name="ATV" tvg-logo="http://static.iptv-epg.com/tr/ATV.tr.png" group-title="TURKISH",TR:ATVHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/208.m3u8
-#EXTINF:-1 tvg-chno="177" tvg-id="Show" tvg-name="Show" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" group-title="TURKISH",TR:SHOWTVHD
+#EXTINF:-1 tvg-chno="177" tvg-id="Show TV HD" tvg-name="Show TV HD" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" group-title="TURKISH",TR:SHOWTVHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/210.m3u8
 #EXTINF:-1 tvg-chno="179" tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" group-title="TURKISH",TR:KANALDHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/209.m3u8
-#EXTINF:-1 tvg-chno="181" tvg-id="STAR TV" tvg-name="STAR TV" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" group-title="TURKISH",TR:STARTVHD
+#EXTINF:-1 tvg-chno="181" tvg-id="Star TV HD" tvg-name="Star TV HD" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" group-title="TURKISH",TR:STARTVHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/213.m3u8
-#EXTINF:-1 tvg-chno="187" tvg-id="TV8" tvg-name="TV8" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" group-title="TURKISH",TR:TV8HD
+#EXTINF:-1 tvg-chno="187" tvg-id="TV8 HD" tvg-name="TV8 HD" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" group-title="TURKISH",TR:TV8HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/214.m3u8
-#EXTINF:-1 tvg-chno="172" tvg-name="TRT 1" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" group-title="TURKISH",TR:TRT2
+#EXTINF:-1 tvg-chno="172" tvg-id="TRT 2 HD" tvg-name="TRT 2 HD" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" group-title="TURKISH",TR:TRT2
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14874.m3u8
-#EXTINF:-1 tvg-chno="180" tvg-id="STAR TV" tvg-name="STAR TV" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" group-title="TURKISH",TR:STARTV
+#EXTINF:-1 tvg-chno="180" tvg-id="Star TV HD" tvg-name="Star TV HD" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" group-title="TURKISH",TR:STARTV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6018.m3u8
 #EXTINF:-1 tvg-chno="173" tvg-name="TRT Okul TR" tvg-logo="http://static.iptv-epg.com/tr/TRTOkul.tr.png" group-title="TURKISH",TR:TRT2HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14875.m3u8
 #EXTINF:-1 tvg-chno="174" tvg-id="ATV" tvg-name="ATV TR" tvg-logo="http://static.iptv-epg.com/tr/ATV.tr.png" group-title="TURKISH",TR:ATV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6015.m3u8
-#EXTINF:-1 tvg-chno="176" tvg-id="Show" tvg-name="Show TV TR" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" group-title="TURKISH",TR:SHOWTV
+#EXTINF:-1 tvg-chno="176" tvg-id="Show TV HD" tvg-name="Show TV HD" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" group-title="TURKISH",TR:SHOWTV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6013.m3u8
 #EXTINF:-1 tvg-chno="178" tvg-id="Kanal D" tvg-name="Kanal D TR" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" group-title="TURKISH",TR:KANALD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6011.m3u8
 #EXTINF:-1 tvg-chno="170" tvg-id="TRT 1" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" group-title="TURKISH",TR:TRT1
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6016.m3u8
-#EXTINF:-1 tvg-chno="182" tvg-id="Fox" tvg-name="Fox TR" tvg-logo="http://static.iptv-epg.com/tr/Fox.tr.png" group-title="TURKISH",TR:FOXTV
+#EXTINF:-1 tvg-chno="182" tvg-id="Fox" tvg-name="Fox" tvg-logo="http://static.iptv-epg.com/tr/Fox.tr.png" group-title="TURKISH",TR:FOXTV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6012.m3u8
-#EXTINF:-1 tvg-chno="186" tvg-id="TV8" tvg-name="TV8 TR" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" group-title="TURKISH",TR:TV8
+#EXTINF:-1 tvg-chno="186" tvg-id="TV8 HD" tvg-name="TV8 HD" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" group-title="TURKISH",TR:TV8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6014.m3u8
 #EXTINF:-1 tvg-chno="184" tvg-id="KANAL 7 HD" tvg-name="KANAL 7 HD" tvg-logo="http://static.iptv-epg.com/tr/Kanal7.tr.png" group-title="TURKISH",TR:KANAL7
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6017.m3u8
@@ -401,7 +401,7 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/624.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/10335.m3u8
 #EXTINF:-1 tvg-chno="193" group-title="TURKISH",TR:TV100
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15999.m3u8
-#EXTINF:-1 tvg-chno="194" tvg-id="KRT" tvg-logo="https://pbs.twimg.com/media/DhVqWDDWAAE3Dzd.png" group-title="TURKISH",TR:KRT TV
+#EXTINF:-1 tvg-chno="194" tvg-id="KRT TV HD" tvg-name="KRT TV HD" tvg-logo="https://pbs.twimg.com/media/DhVqWDDWAAE3Dzd.png" group-title="TURKISH",TR:KRT TV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15998.m3u8
 #EXTINF:-1 tvg-chno="195" tvg-id="Ekoturk.tr" tvg-name="Ekotürk TR" tvg-logo="http://static.iptv-epg.com/tr/Ekoturk.tr.png" group-title="TURKISH",TR:EKOTURK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15997.m3u8
@@ -429,11 +429,11 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/3633.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/264.m3u8
 #EXTINF:-1 tvg-chno="207" tvg-id="TRT HABER HD" tvg-name="TRT HABER HD" tvg-logo="http://static.iptv-epg.com/tr/TRTHaber.tr.png" group-title="NEWS",TR:TRTHABERHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/226.m3u8
-#EXTINF:-1 tvg-chno="208" tvg-id="NTV" tvg-name="NTV" tvg-logo="http://static.iptv-epg.com/tr/NTV.tr.png" group-title="NEWS",TR:NTV
+#EXTINF:-1 tvg-chno="208" tvg-id="NTV HD" tvg-name="NTV HD" tvg-logo="http://static.iptv-epg.com/tr/NTV.tr.png" group-title="NEWS",TR:NTV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/251.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-id="CNN TÜRK HD" tvg-name="CNN TÜRK HD" tvg-logo="http://static.iptv-epg.com/tr/CNNTurk.tr.png" group-title="NEWS",TR:CNNTURK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/266.m3u8
-#EXTINF:-1 tvg-chno="220" tvg-id="HABERTÜRK" tvg-name="HABERTÜRK" tvg-logo="http://static.iptv-epg.com/tr/Haberturk.tr.png" group-title="NEWS",TR:HABERTURK
+#EXTINF:-1 tvg-chno="220" tvg-id="HABERTURK HD" tvg-name="HABERTURK HD" tvg-logo="http://static.iptv-epg.com/tr/Haberturk.tr.png" group-title="NEWS",TR:HABERTURK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/608.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-id="24.tr" tvg-name="24 TR" tvg-logo="http://static.iptv-epg.com/tr/24.tr.png" group-title="NEWS",TR:24
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/607.m3u8
