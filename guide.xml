@@ -144,6 +144,14 @@
     <display-name lang="tr">KRT TV HD</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
+  <channel id="Discovery Showcase HD">
+    <display-name lang="tr">Discovery Showcase HD</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="DA VINCI LEARNING HD">
+    <display-name lang="tr">DA VINCI LEARNING HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
   <programme start="20200117060000 +0200" stop="20200117083500 +0200" channel="TRT 4K">
     <title lang="tr">Tek Yürek</title>
   </programme>
@@ -6491,14 +6499,14 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118012500 +0300" stop="20200118015500 +0300" channel="İZ TV">
+  <programme start="20200118012500 +0300" stop="20200118015600 +0300" channel="İZ TV">
     <title lang="tr">Iz ozel gosterım</title>
     <title lang="xx">Ozel gosterım 253</title>
     <date>2011</date>
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118015500 +0300" stop="20200118022600 +0300" channel="İZ TV">
+  <programme start="20200118015600 +0300" stop="20200118022600 +0300" channel="İZ TV">
     <title lang="tr">Bir kent bir efsane</title>
     <title lang="xx">Bır kent bır efsane 3</title>
     <desc lang="tr">Küçük bir kent olarak aka kavimlerinden roma’ya, erken hıristiyanlık döneminden günümüze kadar, salamis kendisini “bir kent bir efsane” programında ifade ediyor. Troya savaşından başlayan, aziz barnabas’ın kaderini çizen ve şimdiki mağusa kentine uzanan bir öykü dizisi.(n)</desc>
@@ -6506,7 +6514,7 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118022600 +0300" stop="20200118030500 +0300" channel="İZ TV">
+  <programme start="20200118022600 +0300" stop="20200118030600 +0300" channel="İZ TV">
     <title lang="tr">Tohum</title>
     <title lang="xx">1</title>
     <desc lang="tr">Dünyada buğday tarımının yarattığı küresel modelin diyarbakır'da başlayan hikayesini ve neolitik kültürün yaklaşık altı bin yıl sonra avrupa'ya ulaşan yolculuğu anlatılıyor(n)</desc>
@@ -6514,14 +6522,14 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118030500 +0300" stop="20200118034100 +0300" channel="İZ TV">
+  <programme start="20200118030600 +0300" stop="20200118034000 +0300" channel="İZ TV">
     <title lang="tr">Iz ozel gosterım</title>
     <title lang="xx">Ozel gosterım 235</title>
     <date>2011</date>
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118034100 +0300" stop="20200118042500 +0300" channel="İZ TV">
+  <programme start="20200118034000 +0300" stop="20200118042500 +0300" channel="İZ TV">
     <title lang="tr">Iz sudakı ızler</title>
     <title lang="xx">Sudakı ızler 139</title>
     <desc lang="tr">Oysa, insanların inanç ve alışkanlıklarındaki küçük bir değişimle köpekbalıkları turist ve gelir sağlayan bir cazibe yaratabilir. Savaş karakaş, bu örneklerden birini maldivler’de yerinde inceliyor ve sualtında kaplan köpekbalıklarıyla buluşuyor(n)</desc>
@@ -6560,14 +6568,14 @@
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118065000 +0300" stop="20200118073000 +0300" channel="İZ TV">
+  <programme start="20200118065000 +0300" stop="20200118073100 +0300" channel="İZ TV">
     <title lang="tr">Taş gaste</title>
     <title lang="xx">Tas gaste 4</title>
     <date>2011</date>
     <category lang="tr">Belgesel</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118073000 +0300" stop="20200118081000 +0300" channel="İZ TV">
+  <programme start="20200118073100 +0300" stop="20200118081000 +0300" channel="İZ TV">
     <title lang="tr">Iz bagımsız</title>
     <title lang="xx">Bagımsız fılmler 215</title>
     <desc lang="tr">Atacama tuz çölü'nün masalsı dünyasına tanık olmanın, bölgeye özgü vikunyaları keşfe çıkmanın ve yolda olmanın keyfini yaşayın(n)</desc>
@@ -7698,11 +7706,19 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118014500 +0300" stop="20200118024500 +0300" channel="Turkmax Gurme">
+  <programme start="20200118014500 +0300" stop="20200118021000 +0300" channel="Turkmax Gurme">
     <title lang="tr">İştahlı çocuklar</title>
     <title lang="xx">Istahlı cocuklar s.1 ep: 100</title>
     <desc lang="tr">Bu bölümde şefimiz, ıspanaklı kek yapıyor(n)</desc>
     <date>2017</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200118021000 +0300" stop="20200118024500 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Bıçağın iki yüzü</title>
+    <title lang="xx">Bıcagın ıkı yuzu s.1 ep: 9</title>
+    <desc lang="tr">Bu bölümde, şefimiz patates kullanarak, gnochi ve patates püre ve fileminyon yapıyor(n)</desc>
+    <date>2016</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7714,11 +7730,19 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118031000 +0300" stop="20200118042000 +0300" channel="Turkmax Gurme">
+  <programme start="20200118031000 +0300" stop="20200118035100 +0300" channel="Turkmax Gurme">
     <title lang="tr">Bıçağın iki yüzü</title>
     <title lang="xx">Bıcagın ıkı yuzu s.1 ep: 8</title>
     <desc lang="tr">Bu bölümde, şefimiz deniz tarağı kullanarak, karnabahar velute yeşil elma ile sote deniz tarağı ve domates tartar ile deniz tarağı ceviche yapıyor(n)</desc>
     <date>2016</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200118035100 +0300" stop="20200118042000 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Patısserıe</title>
+    <title lang="xx">s.2 ep: 134</title>
+    <desc lang="tr">Bu programda, natali gökyay her evin mutfağını adeta bir pastaneye dönüştürüyor. Bakmaya da yemeye de kıyamayacağınız en özel tarifler ekranlarınıza geliyor(n)</desc>
+    <date>2015</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7737,11 +7761,19 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118052100 +0300" stop="20200118055600 +0300" channel="Turkmax Gurme">
+  <programme start="20200118052100 +0300" stop="20200118054600 +0300" channel="Turkmax Gurme">
     <title lang="tr">Tadı başka</title>
     <title lang="xx">Tadı baska s.2 ep: 56</title>
     <desc lang="tr">Şefimiz bu bölümde bouıllabaısse yapıyor(n)</desc>
     <date>2019</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200118054600 +0300" stop="20200118055600 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Bi' tarif</title>
+    <title lang="xx">Bı tarıf s.2 ep: 49</title>
+    <desc lang="tr">Bu bölümde, şefimiz savaş ergen, bezelye ve füme tavuklu lazanya yapıyor(n)</desc>
+    <date>2018</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -7936,11 +7968,19 @@
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
-  <programme start="20200118190000 +0300" stop="20200118202100 +0300" channel="Turkmax Gurme">
+  <programme start="20200118190000 +0300" stop="20200118194000 +0300" channel="Turkmax Gurme">
     <title lang="tr">Elif ile lezzet yolculuğu</title>
     <title lang="xx">Elıf ıle lezzet yolculugu s.2 ep: 31</title>
     <desc lang="tr">Saint gustan limanında 6 saatlike gel-gitlere şahit olmak, michelin yıldızlı şef anthony ile atlantik balıkları almak için pazarda gezmek ve harika tarifleri öğrenmek için sizi ekran başına bekliyoruz(n)</desc>
     <date>2018</date>
+    <category lang="tr">Life Style</category>
+    <country>TUR</country>
+  </programme>
+  <programme start="20200118194000 +0300" stop="20200118202100 +0300" channel="Turkmax Gurme">
+    <title lang="tr">Gastronomi maceraları</title>
+    <title lang="xx">Gastronomı maceraları 97</title>
+    <desc lang="tr">Meson portaletas’ta pintxos tadımı yaptıktan sonra üç michelin yıldızlı “restaurante arzak” a gidiyor ve şef elena arzak’ın masasında onun yaptığı muhteşem ızgara istiridyeleri yiyoruz(n)</desc>
+    <date>2019</date>
     <category lang="tr">Life Style</category>
     <country>TUR</country>
   </programme>
@@ -10393,7 +10433,13 @@
   </programme>
   <programme start="20200118200000 +0300" stop="20200119001500 +0300" channel="Show TV HD">
     <title lang="tr">Kuzey yıldızı ''ilk aşk''</title>
-    <desc lang="tr">Kuzey ve yıldız'ın aşk hikayesini romantik, komik ve macera dolu bir anlatımla seyirciyle buluşturacak olan dizide; toygan avanoğlu, cezmi baskın, zeynep kankonde, hüseyin soysalan, uğur demirpehlivan gibi birçok başarılı isim de rol alıyor(n)</desc>
+    <desc lang="tr">Onun için önemli olan tek şey kuzey'in şule'den kurtulmasıdır. Bunun için elinden gelen her şeyi yapmıştır artık yapılacak tek şey, beklemektir. Fakat bu bekleme süreci, yıldız'ı fazlasıyla huzursuz eder. Bir türlü çetin’den beklediği hamle gelmemektedir(n)</desc>
+    <credits>
+      <director>Ersoy Güler</director>
+      <actor>Aslıhan Güner</actor>
+      <actor>İsmail Demirci</actor>
+      <actor>Cezmi Baskın</actor>
+    </credits>
     <date>2019</date>
     <category lang="tr">Komedi</category>
   </programme>
@@ -10512,23 +10558,25 @@
     </credits>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200120023000 +0300" stop="20200120060000 +0300" channel="Show TV HD">
+  <programme start="20200120023000 +0300" stop="20200120051500 +0300" channel="Show TV HD">
     <title lang="tr">Kuzey yıldızı ''ilk aşk''</title>
     <desc lang="tr">Kuzey ve yıldız'ın aşk hikayesini romantik, komik ve macera dolu bir anlatımla seyirciyle buluşturacak olan dizide; toygan avanoğlu, cezmi baskın, zeynep kankonde, hüseyin soysalan, uğur demirpehlivan gibi birçok başarılı isim de rol alıyor(n)</desc>
     <date>2019</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20200120060000 +0300" stop="20200120080000 +0300" channel="Show TV HD">
+  <programme start="20200120051500 +0300" stop="20200120080000 +0300" channel="Show TV HD">
     <title lang="tr">Kuaförüm sensin</title>
     <date>2019</date>
     <category lang="tr">Yarışma</category>
   </programme>
   <programme start="20200120080000 +0300" stop="20200120093000 +0300" channel="Show TV HD">
     <title lang="tr">Kendine iyi bak</title>
+    <desc lang="tr">Etrafındaki güzelliklerin farkına varmak sağlığına özen göstermek yenilikleri keşfetmek bilmenin mutluluğunu yaşamak değişimin tam kalbinde yer almak için kendine iyi bak hafta içi her gün sizlerle(n)</desc>
     <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200120093000 +0300" stop="20200120123000 +0300" channel="Show TV HD">
     <title lang="tr">Zahide yetiş'le</title>
+    <desc lang="tr">Zahide yetiş'le dopdolu içeriği, faydalı bilgileri, yüreğinize dokunacak hikayeleri ile show tv'de izleyicileriyle buluşuyor(n)</desc>
     <date>2019</date>
     <category lang="tr">Life Style</category>
   </programme>
@@ -10539,11 +10587,13 @@
   </programme>
   <programme start="20200120160000 +0300" stop="20200120184500 +0300" channel="Show TV HD">
     <title lang="tr">Kuzey yıldızı ''ilk aşk''</title>
+    <desc lang="tr">Kuzey ve yıldız'ın aşk hikayesini romantik, komik ve macera dolu bir anlatımla seyirciyle buluşturacak olan dizide; toygan avanoğlu, cezmi baskın, zeynep kankonde, hüseyin soysalan, uğur demirpehlivan gibi birçok başarılı isim de rol alıyor(n)</desc>
     <date>2019</date>
     <category lang="tr">Komedi</category>
   </programme>
   <programme start="20200120184500 +0300" stop="20200120200000 +0300" channel="Show TV HD">
     <title lang="tr">Show ana haber</title>
+    <desc lang="tr">Canlı(n)</desc>
     <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200117004000 +0300" stop="20200117034000 +0300" channel="TRT 1">
@@ -11817,7 +11867,6 @@
   </programme>
   <programme start="20200119140000 +0300" stop="20200119161500 +0300" channel="KANAL D HD">
     <title lang="tr">Afili aşk</title>
-    <desc lang="tr">Bundan sonra iki aile arasında düşmanlık başlar. Buna bir de kerem'in bu gerçekleri ayşe'den saklaması eklenince olaylar kontrol edilemez bir hal alır. Rıza yiğiterlere karşı sıkıyönetim ilan ederken yiğiterlerin tarafta da sular durulmaz(n)</desc>
     <credits>
       <director>Serdar Gözelekli</director>
       <actor>Çağlar Ertuğrul</actor>
@@ -11828,7 +11877,6 @@
   </programme>
   <programme start="20200119161500 +0300" stop="20200119190000 +0300" channel="KANAL D HD">
     <title lang="tr">Hekimoğlu</title>
-    <desc lang="tr">Bebeklerin ikisi de kusma ve ateş şikâyetleriyle müşahede altına alınmıştır. Bunu öğrenen hekimoğlu orhan ve ipek'i hastanede bir salgın olabileceğini konusunda uyarır. İpek ve orhan yalnızca iki bebeğin hastalanmasına salgın denemeyeceği fikrindelerdir(n)</desc>
     <credits>
       <director>Hülya Gezer</director>
       <actor>Timuçin Esen</actor>
@@ -11870,11 +11918,11 @@
     <title lang="xx">İkizler memocan</title>
   </programme>
   <programme start="20200120061500 +0300" stop="20200120073000 +0300" channel="KANAL D HD">
-    <title lang="tr">Hayat sağlıklı güzel</title>
-    <category lang="tr">Life Style</category>
+    <title lang="tr">Akasya durağı</title>
   </programme>
   <programme start="20200120073000 +0300" stop="20200120090000 +0300" channel="KANAL D HD">
-    <title lang="tr">Akasya durağı</title>
+    <title lang="tr">Balçiçek ile dr. Cankurtaran</title>
+    <desc lang="tr">Alanında uzman doktorların ve hastalıkla mücadele eden hasta ya da hasta yakınlarının da katılacağı programa zaman zaman ünlü isimler de renk katacak. Programa konuk olacak hasta ve hasta yakınlarının hikayelerine sağlık sorunlarına alanında uzman doktorların deneyimiyle çözüm aranacak(n)</desc>
   </programme>
   <programme start="20200120090000 +0300" stop="20200120110000 +0300" channel="KANAL D HD">
     <title lang="tr">Neler oluyor hayatta</title>
@@ -11974,7 +12022,7 @@
     <date>2018</date>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200117200000 +0300" stop="20200118015000 +0300" channel="ATV HD">
+  <programme start="20200117200000 +0300" stop="20200118002000 +0300" channel="ATV HD">
     <title lang="tr">Hercai</title>
     <desc lang="tr">Elif'in, azat'la evlenmesi aslanbey ailesinde deprem etkisi yaratırken, şadoğlu ailesinde bayram havası yaşanmaktadır. Azize aslanbey'le girdiği savaşta sonunda büyük bir zafer elde eden nasuh, azize'nin artık intikam oyununda sona geldiğine emindir(n)</desc>
     <credits>
@@ -11987,7 +12035,11 @@
     <date>2019</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20200118015000 +0300" stop="20200118045000 +0300" channel="ATV HD">
+  <programme start="20200118002000 +0300" stop="20200118012000 +0300" channel="ATV HD">
+    <title lang="tr">Son durak</title>
+    <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200118012000 +0300" stop="20200118042000 +0300" channel="ATV HD">
     <title lang="tr">Aşk ve mavi</title>
     <credits>
       <director>Hakan Arslan</director>
@@ -12002,8 +12054,9 @@
     <date>2018</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20200118045000 +0300" stop="20200118073000 +0300" channel="ATV HD">
+  <programme start="20200118042000 +0300" stop="20200118073000 +0300" channel="ATV HD">
     <title lang="tr">Seviyor sevmiyor</title>
+    <desc lang="tr">Çocukluk aşkı olan bir çift, yıllar sonra bir araya gelirse ne olur(n)</desc>
     <credits>
       <director>Yusuf Pirhasan</director>
       <actor>Zeynep Çamcı [deniz]</actor>
@@ -12014,13 +12067,14 @@
     <date>2016</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20200118073000 +0300" stop="20200118121500 +0300" channel="ATV HD">
+  <programme start="20200118073000 +0300" stop="20200118100000 +0300" channel="ATV HD">
     <title lang="tr">Atv' de hafta sonu</title>
     <date>2016</date>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118121500 +0300" stop="20200118154000 +0300" channel="ATV HD">
+  <programme start="20200118100000 +0300" stop="20200118131500 +0300" channel="ATV HD">
     <title lang="tr">Bir zamanlar çukurova</title>
+    <desc lang="tr">50 hafta boyunca aşkın sınırsız, kavganın ölümüne, umudun inadına yaşandığı coğrafyadaki birbirine bağlı hayatlar bu hafta evlat sınavından geçecek! Züleyha, müjgan'ın davranışları için konuşmaya yılmaz ile buluştuğu sırada sancısı tutunca, hastaneye giderler(n)</desc>
     <credits>
       <director>Murat Saraçoğlu</director>
       <actor>Vahide Perçin</actor>
@@ -12040,37 +12094,43 @@
     <date>2018</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20200118154000 +0300" stop="20200118190000 +0300" channel="ATV HD">
-    <title lang="tr">Bir zamanlar çukurova</title>
+  <programme start="20200118131500 +0300" stop="20200118150500 +0300" channel="ATV HD">
+    <title lang="tr">İyi bir dinozor</title>
+    <desc lang="tr">Peki ya, dünyaya yeni bir denge getiren bu felaket hiç yaşanmasaydı, dinozorların yok olmasına yol açan meteor dünyayı ıskalamış olsaydı ve biz hala dinozorlarla birlikte yaşıyor olsaydık. O zaman ne olurdu(n)</desc>
     <credits>
-      <director>Murat Saraçoğlu</director>
-      <actor>Vahide Perçin</actor>
-      <actor>Murat Ünalmış</actor>
-      <actor>Uğur Güneş</actor>
-      <actor>Hilal Altınbilek</actor>
-      <actor>Kerem Alışık</actor>
-      <actor>Bülent Polat</actor>
-      <actor>Melike İpek Yalova</actor>
-      <actor>Kadim Yaşar</actor>
-      <actor>Sibel Taşçıoğlu</actor>
-      <actor>Turgay Aydın</actor>
-      <actor>Selin Yeninci</actor>
-      <actor>Selin Genç</actor>
-      <actor>S</actor>
+      <director>Peter Sohn</director>
     </credits>
-    <date>2018</date>
+    <date>2016</date>
+    <category lang="tr">E2</category>
+  </programme>
+  <programme start="20200118150500 +0300" stop="20200118190000 +0300" channel="ATV HD">
+    <title lang="tr">Hercai</title>
+    <desc lang="tr">Elif'in, azat'la evlenmesi aslanbey ailesinde deprem etkisi yaratırken, şadoğlu ailesinde bayram havası yaşanmaktadır. Azize aslanbey'le girdiği savaşta sonunda büyük bir zafer elde eden nasuh, azize'nin artık intikam oyununda sona geldiğine emindir(n)</desc>
+    <credits>
+      <director>Cem Karcı</director>
+      <director>Benal Tairi</director>
+      <actor>Akın Akınözü [miran Aslanbey]</actor>
+      <actor>Ebru Şahin [reyyan Şadoğlu]</actor>
+      <actor>Ayda Aksel [azize Aslanbey]</actor>
+    </credits>
+    <date>2019</date>
     <category lang="tr">Dram</category>
   </programme>
   <programme start="20200118190000 +0300" stop="20200118200000 +0300" channel="ATV HD">
     <title lang="tr">Atv ana haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118200000 +0300" stop="20200119024000 +0300" channel="ATV HD">
+  <programme start="20200118200000 +0300" stop="20200119002000 +0300" channel="ATV HD">
     <title lang="tr">Kim milyoner olmak ister</title>
+    <desc lang="tr">Kim milyoner olmak ister'de toplam 12 soru yer alıyor. 12 soruyu da doğru yanıtlarsanız kazanacağınız ödül tam 1 milyon tl(n)</desc>
     <date>2019</date>
     <category lang="tr">Yarışma</category>
   </programme>
-  <programme start="20200119024000 +0300" stop="20200119051000 +0300" channel="ATV HD">
+  <programme start="20200119002000 +0300" stop="20200119024500 +0300" channel="ATV HD">
+    <title lang="tr">Deli yürek: bumerang cehennemi</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119024500 +0300" stop="20200119052000 +0300" channel="ATV HD">
     <title lang="tr">Aşk ve mavi</title>
     <credits>
       <director>Hakan Arslan</director>
@@ -12085,17 +12145,9 @@
     <date>2018</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20200119051000 +0300" stop="20200119073000 +0300" channel="ATV HD">
-    <title lang="tr">Seviyor sevmiyor</title>
-    <credits>
-      <director>Yusuf Pirhasan</director>
-      <actor>Zeynep Çamcı [deniz]</actor>
-      <actor>Gökhan Alkan [yiğit]</actor>
-      <actor>Gonca Sarıyıldız [irem]</actor>
-      <actor>Yiğit Kirazcı [tuna]</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="tr">Komedi</category>
+  <programme start="20200119052000 +0300" stop="20200119073000 +0300" channel="ATV HD">
+    <title lang="tr">Beyaz gelincik</title>
+    <category lang="tr">Dram</category>
   </programme>
   <programme start="20200119073000 +0300" stop="20200119100000 +0300" channel="ATV HD">
     <title lang="tr">Atv' de hafta sonu</title>
@@ -12103,43 +12155,42 @@
     <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200119100000 +0300" stop="20200119111500 +0300" channel="ATV HD">
-    <title lang="tr">Nihat hatipoğlu ile</title>
+    <title lang="tr">Nihat hatipoğlu ile...</title>
+    <desc lang="tr">Sorular sizden gelenler ve hayatın içinden çok özel görüntüler hepsi ve daha fazlası ayet ve hadislerin ışığında prof. Dr. Nihat hatipoğlu ile kuran ve sünnette.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200119111500 +0300" stop="20200119122500 +0300" channel="ATV HD">
+  <programme start="20200119111500 +0300" stop="20200119123000 +0300" channel="ATV HD">
     <title lang="tr">Dizi tv</title>
+    <desc lang="tr">Dizilerle ilgili merak edilenler ilgi çeken kareler.(n)</desc>
     <category lang="tr">Macera</category>
   </programme>
-  <programme start="20200119122500 +0300" stop="20200119154500 +0300" channel="ATV HD">
-    <title lang="tr">Hercai</title>
+  <programme start="20200119123000 +0300" stop="20200119124000 +0300" channel="ATV HD">
+    <title lang="tr">Maceracı yüzgeçler</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119124000 +0300" stop="20200119125500 +0300" channel="ATV HD">
+    <title lang="tr">Maceracı yüzgeçler</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119125500 +0300" stop="20200119130500 +0300" channel="ATV HD">
+    <title lang="tr">Maceracı yüzgeçler</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119130500 +0300" stop="20200119152000 +0300" channel="ATV HD">
+    <title lang="tr">Kutup macerası</title>
+    <desc lang="tr">Antarktika'da bölge rehberi ve kızak köpeği eğitmeni olan jerry, bir bilim adamı olan davis ile yaptıkları keşifin ardından kutupları terk etmek zorunda kalır çünkü ciddi bir kar fırtınası yaklaşmaktadır. Fakat giderken yeterli yer olmadığı için köpekler arkada kalır(n)</desc>
     <credits>
-      <director>Cem Karcı</director>
-      <director>Benal Tairi</director>
-      <actor>Akın Akınözü [miran Aslanbey]</actor>
-      <actor>Ebru Şahin [reyyan Şadoğlu]</actor>
-      <actor>Ayda Aksel [azize Aslanbey]</actor>
+      <director>Frank Marshall</director>
+      <actor>Paul Walker</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Moon Bloodgood</actor>
     </credits>
-    <date>2019</date>
-    <category lang="tr">Dram</category>
+    <date>2006</date>
+    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200119154500 +0300" stop="20200119190000 +0300" channel="ATV HD">
-    <title lang="tr">Hercai</title>
-    <credits>
-      <director>Cem Karcı</director>
-      <director>Benal Tairi</director>
-      <actor>Akın Akınözü [miran Aslanbey]</actor>
-      <actor>Ebru Şahin [reyyan Şadoğlu]</actor>
-      <actor>Ayda Aksel [azize Aslanbey]</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20200119190000 +0300" stop="20200120003000 +0300" channel="ATV HD">
-    <title lang="tr">Atv ana haber bülteni</title>
-    <category lang="tr">Haberler</category>
-  </programme>
-  <programme start="20200120003000 +0300" stop="20200120031000 +0300" channel="ATV HD">
+  <programme start="20200119152000 +0300" stop="20200119190000 +0300" channel="ATV HD">
     <title lang="tr">Bir zamanlar çukurova</title>
+    <desc lang="tr">50 hafta boyunca aşkın sınırsız, kavganın ölümüne, umudun inadına yaşandığı coğrafyadaki birbirine bağlı hayatlar bu hafta evlat sınavından geçecek! Züleyha, müjgan'ın davranışları için konuşmaya yılmaz ile buluştuğu sırada sancısı tutunca, hastaneye giderler(n)</desc>
     <credits>
       <director>Murat Saraçoğlu</director>
       <actor>Vahide Perçin</actor>
@@ -12159,7 +12210,36 @@
     <date>2018</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20200120031000 +0300" stop="20200120053000 +0300" channel="ATV HD">
+  <programme start="20200119190000 +0300" stop="20200119200000 +0300" channel="ATV HD">
+    <title lang="tr">Atv ana haber bülteni</title>
+    <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200119200000 +0300" stop="20200119220000 +0300" channel="ATV HD">
+    <title lang="tr">Kayıp balık dori</title>
+    <desc lang="tr">10 saniyede bir hafızası sıfırlanan dori'nin hatırladığı tek şey bir zamanlar bir ailesi olduğu ve onlardan bir şekilde ayrılmak zorunda kaldığıdır. Arkadaşlarıyla birlikte ailesini bulabilmek için uzun bir yolculuğa çıkan dori, yol boyunca hayatla ilgili çok daha başka dersler de alacaktır(n)</desc>
+    <credits>
+      <director>Andrew Stanton</director>
+      <director>Angus Maclane</director>
+      <actor>Aysun Topar</actor>
+      <actor>Özdemir Çiftçioğlu</actor>
+      <actor>Erkan Taşdöğen</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="tr">E2</category>
+  </programme>
+  <programme start="20200119220000 +0300" stop="20200120015000 +0300" channel="ATV HD">
+    <title lang="tr">Bozayı</title>
+    <desc lang="tr">Bir alaska kasabasında peş peşe vahşi bir ayının saldırıları gerçekleşir. Kasabanın şeriflerinden beckett bu olayları çözmeye çalışırken, çocukken ayrı düştüğü kardeşi rowan kasabaya geri döner. Beckett'in vahşi yaşam fotoğrafçısı eşi michelle'in hala ormanda olduğunu öğrenirler(n)</desc>
+    <credits>
+      <director>David Hackl</director>
+      <actor>James Marsden</actor>
+      <actor>Thomas Jane</actor>
+      <actor>Piper Perabo</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="tr">Aksiyon</category>
+  </programme>
+  <programme start="20200120015000 +0300" stop="20200120050000 +0300" channel="ATV HD">
     <title lang="tr">Aşk ve mavi</title>
     <credits>
       <director>Hakan Arslan</director>
@@ -12174,17 +12254,9 @@
     <date>2018</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20200120053000 +0300" stop="20200120080000 +0300" channel="ATV HD">
-    <title lang="tr">Seviyor sevmiyor</title>
-    <credits>
-      <director>Yusuf Pirhasan</director>
-      <actor>Zeynep Çamcı [deniz]</actor>
-      <actor>Gökhan Alkan [yiğit]</actor>
-      <actor>Gonca Sarıyıldız [irem]</actor>
-      <actor>Yiğit Kirazcı [tuna]</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="tr">Komedi</category>
+  <programme start="20200120050000 +0300" stop="20200120080000 +0300" channel="ATV HD">
+    <title lang="tr">Beyaz gelincik</title>
+    <category lang="tr">Dram</category>
   </programme>
   <programme start="20200120080000 +0300" stop="20200120100000 +0300" channel="ATV HD">
     <title lang="tr">Kahvaltı haberleri</title>
@@ -12196,6 +12268,7 @@
   </programme>
   <programme start="20200120130000 +0300" stop="20200120140000 +0300" channel="ATV HD">
     <title lang="tr">Atv gün ortası bülteni</title>
+    <desc lang="tr">Son dakika gelişmeleri, siyaset ve ekonomi haberleri, anne - bebek ve sağlık konularında özel dosyalar, hepsi saat 13:00'te atv gün ortası bülteninde yer alıyor(n)</desc>
     <date>2018</date>
     <category lang="tr">Haberler</category>
   </programme>
@@ -12647,28 +12720,21 @@
     <date>2020</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20200118004500 +0300" stop="20200118033000 +0300" channel="Star TV HD">
-    <title lang="tr">Çocuk / tkr</title>
-    <credits>
-      <director>Serkan Birinci</director>
-      <actor>Nazan Kesal</actor>
-      <actor>İsmail Hacıoğlu</actor>
-      <actor>Serhat Teoman</actor>
-      <actor>Merve Çağıran</actor>
-      <actor>Ceyda Ateş Toplusoy</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="tr">Dram</category>
+  <programme start="20200118004500 +0300" stop="20200118030000 +0300" channel="Star TV HD">
+    <title lang="tr">Çember: araf</title>
+    <desc lang="tr">Cumali en yakın dostu ekrem'in öldüğünü öğrenince yıkılır. Olayın şokunu atlatan cumali katili bulmadan rahat edemeyecektir. Ekibimizle birlikte davayı incelemeye başlayan cumali ekrem'in en son bir dizi intihar vakasını el altından araştırdığını öğrenir(n)</desc>
+    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200118033000 +0300" stop="20200118043000 +0300" channel="Star TV HD">
+  <programme start="20200118030000 +0300" stop="20200118040000 +0300" channel="Star TV HD">
     <title lang="tr">Sevdim seni bir kere / tkr</title>
+    <desc lang="tr">Tarık'ın aklında; hediyenin yoğun bakımdayken söylediği o cümle geçmektedir. Ozan ve yağız cengiz'den kol düğmelerini almıştır. Berçin ve sibel aslım'dan tamamen kurtulmak için yaptıkları plan üzerinden hareket ederken ozan berçin'den yardım isteyecektir(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200118043000 +0300" stop="20200118054000 +0300" channel="Star TV HD">
-    <title lang="tr">Cesur ve güzel /  tkr</title>
+  <programme start="20200118040000 +0300" stop="20200118053000 +0300" channel="Star TV HD">
+    <title lang="tr">Cesur ve güzel / tkr</title>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200118054000 +0300" stop="20200118070000 +0300" channel="Star TV HD">
+  <programme start="20200118053000 +0300" stop="20200118070000 +0300" channel="Star TV HD">
     <title lang="tr">Benim tatlı yalanım / tkr</title>
     <credits>
       <director>Barış Erçetin</director>
@@ -12683,34 +12749,68 @@
     <category lang="tr">Romantik Komedi</category>
   </programme>
   <programme start="20200118070000 +0300" stop="20200118100000 +0300" channel="Star TV HD">
-    <title lang="tr">Sevgili geçmiş / tkr</title>
+    <title lang="tr">Çocuk / tkr</title>
     <credits>
-      <director>Aydın Bulut</director>
-      <actor>Ece Uslu</actor>
-      <actor>Emre Kınay</actor>
-      <actor>Sevda Erginci</actor>
+      <director>Serkan Birinci</director>
+      <actor>Nazan Kesal</actor>
+      <actor>İsmail Hacıoğlu</actor>
+      <actor>Serhat Teoman</actor>
+      <actor>Merve Çağıran</actor>
+      <actor>Ceyda Ateş Toplusoy</actor>
     </credits>
     <date>2019</date>
-    <category lang="tr">Diğer</category>
+    <category lang="tr">Dram</category>
   </programme>
   <programme start="20200118100000 +0300" stop="20200118120000 +0300" channel="Star TV HD">
-    <title lang="tr">Burcu ile hafta sonu</title>
+    <title lang="tr">Burcu ile hafta sonu / 29</title>
+    <desc lang="tr">Güzel sunucu dopdolu bir içerikle ekrana geri dönüyor. Makyajdan spora çok özel tariflerden en son yeniliklere uzanan geniş yelpazesiyle hafta içi yorgunluğunu herkese unutturacak olan burcu esmersoy hafta sonu enerjinize enerji katacak(n)</desc>
     <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200118120000 +0300" stop="20200118130000 +0300" channel="Star TV HD">
-    <title lang="tr">Tülin şahin ile moda</title>
+    <title lang="tr">Tülin şahin ile moda / 271</title>
     <date>2014</date>
     <category lang="tr">Life Style</category>
   </programme>
-  <programme start="20200118130000 +0300" stop="20200118184500 +0300" channel="Star TV HD">
+  <programme start="20200118130000 +0300" stop="20200118140000 +0300" channel="Star TV HD">
     <title lang="tr">Sevdim seni bir kere / tkr</title>
+    <desc lang="tr">Tarık'ın aklında; hediyenin yoğun bakımdayken söylediği o cümle geçmektedir. Ozan ve yağız cengiz'den kol düğmelerini almıştır. Berçin ve sibel aslım'dan tamamen kurtulmak için yaptıkları plan üzerinden hareket ederken ozan berçin'den yardım isteyecektir(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200118184500 +0300" stop="20200119004500 +0300" channel="Star TV HD">
+  <programme start="20200118140000 +0300" stop="20200118154500 +0300" channel="Star TV HD">
+    <title lang="tr">Yakışıklı prens</title>
+    <desc lang="tr">Prens philippe'in bu büyüyü bozması gerekmektedir. Üstelik babası kral charming kendisine ültimatom verir. Philippe ya 21 yaşında girmeden önce gerçek aşkı bulacak ya da tahttaki tüm haklarını yitirecektir(n)</desc>
+    <credits>
+      <director>Ross Venokur</director>
+      <actor>Demi Lovato</actor>
+      <actor>Avril Lavigne</actor>
+      <actor>Ashley Tisdale</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="tr">E2</category>
+  </programme>
+  <programme start="20200118154500 +0300" stop="20200118184500 +0300" channel="Star TV HD">
+    <title lang="tr">Güvercin / tkr</title>
+    <desc lang="tr">Bedir kavvi, on beş yıl sonra yakın arkadaşı ahmet cibranoğlu'nun cinayetiyle suçlanarak girdiği cezaevinden çıkar. Amacı kızı zülüf, oğlu müslüm ve karısıyla beraber hayatına kaldığı yerden devam etmektir(n)</desc>
+    <credits>
+      <director>Altan Dönmez</director>
+      <actor>Mehmet Ali Nuroğlu</actor>
+      <actor>Almila Ada</actor>
+      <actor>Menderes Samancılar</actor>
+      <actor>Nursel Köse</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="tr">Dram</category>
+  </programme>
+  <programme start="20200118184500 +0300" stop="20200118200000 +0300" channel="Star TV HD">
     <title lang="tr">Star haber</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119004500 +0300" stop="20200119033000 +0300" channel="Star TV HD">
+  <programme start="20200118200000 +0300" stop="20200118224500 +0300" channel="Star TV HD">
+    <title lang="tr">Babil / tkr</title>
+    <desc lang="tr">Kapılar birer birer yüzüne kapanırken karısı eda'nın çocukluk arkadaşları egemen'den yardım istemesiyle irfan kendisini hayal bile edemeyeceği karanlık bir maceranın içinde bulur(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200118224500 +0300" stop="20200119020000 +0300" channel="Star TV HD">
     <title lang="tr">Sefirin kızı / tkr</title>
     <credits>
       <director>Emre Kabakuşak</director>
@@ -12722,7 +12822,19 @@
     <date>2019</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20200119033000 +0300" stop="20200119051000 +0300" channel="Star TV HD">
+  <programme start="20200119020000 +0300" stop="20200119034000 +0300" channel="Star TV HD">
+    <title lang="tr">Rus'un oyunu</title>
+    <desc lang="tr">Ancak bu tuzakta kim haklı, kim kazanıyor, kim kaybediyor ilk bakışta hepsi belirsiz. Hikayenin katmanları açıldıkça hakkını aramanın ve intikamın en çarpıcı öyküsü de karakterleri ve seyirciyi bekliyor..(n)</desc>
+    <credits>
+      <director>Levent Özdemir</director>
+      <actor>Fırat Tanış</actor>
+      <actor>Leonid Kulagin</actor>
+      <actor>Anastasiya Klyeva</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119034000 +0300" stop="20200119051000 +0300" channel="Star TV HD">
     <title lang="tr">Cesur ve güzel /  tkr</title>
     <category lang="tr">Diğer</category>
   </programme>
@@ -12741,22 +12853,18 @@
     <category lang="tr">Romantik Komedi</category>
   </programme>
   <programme start="20200119070000 +0300" stop="20200119100000 +0300" channel="Star TV HD">
-    <title lang="tr">Sevgili geçmiş / tkr</title>
-    <credits>
-      <director>Aydın Bulut</director>
-      <actor>Ece Uslu</actor>
-      <actor>Emre Kınay</actor>
-      <actor>Sevda Erginci</actor>
-    </credits>
-    <date>2019</date>
+    <title lang="tr">Babil / tkr</title>
+    <desc lang="tr">Kapılar birer birer yüzüne kapanırken karısı eda'nın çocukluk arkadaşları egemen'den yardım istemesiyle irfan kendisini hayal bile edemeyeceği karanlık bir maceranın içinde bulur(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200119100000 +0300" stop="20200119110000 +0300" channel="Star TV HD">
-    <title lang="tr">Burcu ile hafta sonu</title>
+    <title lang="tr">Burcu ile hafta sonu / 30</title>
+    <desc lang="tr">Güzel sunucu dopdolu bir içerikle ekrana geri dönüyor. Makyajdan spora çok özel tariflerden en son yeniliklere uzanan geniş yelpazesiyle hafta içi yorgunluğunu herkese unutturacak olan burcu esmersoy hafta sonu enerjinize enerji katacak(n)</desc>
     <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200119110000 +0300" stop="20200119124500 +0300" channel="Star TV HD">
-    <title lang="tr">Vahe ile evdeki mutluluk</title>
+    <title lang="tr">Vahe ile evdeki mutluluk / 196</title>
+    <desc lang="tr">15 yıldır, 81 ilde 1150 dar gelirli evi ücretsiz yenileyen vahe kılıçarslan, her hafta, ülkemizin farklı bir iline gidip, şehrin tarihi kültürel özeliklerini, yöresel lezzetlerini tanıtacak ve o ilde bir ailenin evini baştan aşağı yeniliyecek(n)</desc>
     <date>2014</date>
     <category lang="tr">Diğer</category>
   </programme>
@@ -12773,7 +12881,17 @@
     <category lang="tr">Dram</category>
   </programme>
   <programme start="20200119160000 +0300" stop="20200119184500 +0300" channel="Star TV HD">
-    <title lang="tr">Güvercin / tkr</title>
+    <title lang="tr">Babil / tkr</title>
+    <desc lang="tr">Kapılar birer birer yüzüne kapanırken karısı eda'nın çocukluk arkadaşları egemen'den yardım istemesiyle irfan kendisini hayal bile edemeyeceği karanlık bir maceranın içinde bulur(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119184500 +0300" stop="20200119200000 +0300" channel="Star TV HD">
+    <title lang="tr">Star haber</title>
+    <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200119200000 +0300" stop="20200120001500 +0300" channel="Star TV HD">
+    <title lang="tr">Güvercin / 7</title>
+    <desc lang="tr">Kasım, yaşadığı vicdan azabıyla zülüf'e gerçekleri söylemeye kararlıdır. Kenan'sa peşine düştüğü adamdan, bu işin içinde kimin olduğu bilgisini öğrenir ve zülüf'e bunu söyleyip söylememenin ikileminde kalır. Celil ve kevsa arasındaki ittifak bunca yıl sonra ilk defa sarsılır(n)</desc>
     <credits>
       <director>Altan Dönmez</director>
       <actor>Mehmet Ali Nuroğlu</actor>
@@ -12784,15 +12902,20 @@
     <date>2019</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20200119184500 +0300" stop="20200120050000 +0300" channel="Star TV HD">
-    <title lang="tr">Star haber</title>
-    <category lang="tr">Haberler</category>
+  <programme start="20200120001500 +0300" stop="20200120020000 +0300" channel="Star TV HD">
+    <title lang="tr">Çember: aleyna'nın son günü</title>
+    <desc lang="tr">Aleyna'nın ölümü intihar mı yoksa cinayet midir? Aleyna'ya şantaj yaparak para sızdıran kimdir? En yakın arkadaşı melis mi yoksa aleyna'ya platonik aşık olan hidayet mi? Aleyna'nın dul annesinin sevgilisi barlas ile yasak bir aşk yaşadığı anlaşılınca işler daha da karmaşık bir hal alır(n)</desc>
+    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200120050000 +0300" stop="20200120060000 +0300" channel="Star TV HD">
+  <programme start="20200120020000 +0300" stop="20200120040000 +0300" channel="Star TV HD">
+    <title lang="tr">Cesur ve güzel / tkr</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200120040000 +0300" stop="20200120050000 +0300" channel="Star TV HD">
     <title lang="tr">Türk müziği</title>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200120060000 +0300" stop="20200120070000 +0300" channel="Star TV HD">
+  <programme start="20200120050000 +0300" stop="20200120070000 +0300" channel="Star TV HD">
     <title lang="tr">Benim tatlı yalanım / tkr</title>
     <credits>
       <director>Barış Erçetin</director>
@@ -12808,40 +12931,45 @@
   </programme>
   <programme start="20200120070000 +0300" stop="20200120093000 +0300" channel="Star TV HD">
     <title lang="tr">Mesut yar ile bugün</title>
+    <desc lang="tr">Televizyon ekranlarının en deneyimli ve güler yüzlü sunucularından mesut yar bugün ile habere ve hayata tebessüm dolu bir bakış açısı getirecek(n)</desc>
     <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200120093000 +0300" stop="20200120104500 +0300" channel="Star TV HD">
     <title lang="tr">Sevdim seni bir kere / tkr</title>
+    <desc lang="tr">Tarık'ın aklında; hediyenin yoğun bakımdayken söylediği o cümle geçmektedir. Ozan ve yağız cengiz'den kol düğmelerini almıştır. Berçin ve sibel aslım'dan tamamen kurtulmak için yaptıkları plan üzerinden hareket ederken ozan berçin'den yardım isteyecektir(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120104500 +0300" stop="20200120133000 +0300" channel="Star TV HD">
-    <title lang="tr">Çocuk / tkr</title>
+    <title lang="tr">Güvercin / tkr</title>
+    <desc lang="tr">Bedir kavvi, on beş yıl sonra yakın arkadaşı ahmet cibranoğlu'nun cinayetiyle suçlanarak girdiği cezaevinden çıkar. Amacı kızı zülüf, oğlu müslüm ve karısıyla beraber hayatına kaldığı yerden devam etmektir(n)</desc>
     <credits>
-      <director>Serkan Birinci</director>
-      <actor>Nazan Kesal</actor>
-      <actor>İsmail Hacıoğlu</actor>
-      <actor>Serhat Teoman</actor>
-      <actor>Merve Çağıran</actor>
-      <actor>Ceyda Ateş Toplusoy</actor>
+      <director>Altan Dönmez</director>
+      <actor>Mehmet Ali Nuroğlu</actor>
+      <actor>Almila Ada</actor>
+      <actor>Menderes Samancılar</actor>
+      <actor>Nursel Köse</actor>
     </credits>
     <date>2019</date>
     <category lang="tr">Dram</category>
   </programme>
   <programme start="20200120133000 +0300" stop="20200120163000 +0300" channel="Star TV HD">
     <title lang="tr">Gerçeğin peşinde</title>
+    <desc lang="tr">Hafta içi her gün ekrana gelecek inci ertuğrul'un sunacağı programa; uzman görüşleriyle adli tıp uzmanı taner güven ve avukat hasan kocabey de katkı sağlayacak(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120163000 +0300" stop="20200120164500 +0300" channel="Star TV HD">
-    <title lang="tr">En güzel bölüm</title>
+    <title lang="tr">En güzel bölüm - 319</title>
+    <title lang="xx">En güzel bölüm  319</title>
     <date>2015</date>
     <category lang="tr">Macera</category>
   </programme>
   <programme start="20200120164500 +0300" stop="20200120184500 +0300" channel="Star TV HD">
-    <title lang="tr">Sevdim seni bir kere</title>
+    <title lang="tr">Sevdim seni bir kere / 95</title>
+    <desc lang="tr">Eylül melek ile samimi halde gördüğü yağız'ın çoktan yeni bir sayfa açtığını düşünür. Nermin öz kızına kavuşmanın sevincini yaşasa da içinde bir takım şüpheler vardır(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120184500 +0300" stop="20200120200000 +0300" channel="Star TV HD">
-    <title lang="tr">Star haber</title>
+    <title lang="tr">Star ana haber</title>
     <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200117011500 +0300" stop="20200117033000 +0300" channel="TV8 HD">
@@ -12920,100 +13048,171 @@
   </programme>
   <programme start="20200118070000 +0300" stop="20200118083000 +0300" channel="TV8 HD">
     <title lang="tr">Oynat bakalım</title>
+    <desc lang="tr">En eğlenceli videolar en komik olaylar oynat bakalım'da ekranlarınıza geliyor(n)</desc>
     <category lang="tr">Komedi</category>
   </programme>
   <programme start="20200118083000 +0300" stop="20200118094500 +0300" channel="TV8 HD">
     <title lang="tr">Çook yaşa</title>
+    <desc lang="tr">Sağlık estetik ve iyi yaşamla ilgili bilinmesi gereken her şey suzan ugan'ın sunumu ve dr. Evrim pınar güzel'in moderatörlüğünde sizlerle(n)</desc>
     <category lang="tr">Life Style</category>
   </programme>
-  <programme start="20200118094500 +0300" stop="20200118200000 +0300" channel="TV8 HD">
+  <programme start="20200118094500 +0300" stop="20200118100000 +0300" channel="TV8 HD">
     <title lang="tr">Oynat bakalım</title>
+    <desc lang="tr">En eğlenceli videolar en komik olaylar oynat bakalım'da ekranlarınıza geliyor(n)</desc>
     <category lang="tr">Komedi</category>
+  </programme>
+  <programme start="20200118100000 +0300" stop="20200118133000 +0300" channel="TV8 HD">
+    <title lang="tr">Doğduğun ev kaderindir</title>
+    <desc lang="tr">Travmatik acılarla dolu geçmişlerinin yükünü kalbinden atamamış başkalarının mutluluğu için yaşayan hayatlarının dümenini elinde tutamayan iki yaralı insan; zeynep ve mehdi. İkisi de sevgiye aç ikisi de daha önce hiç sevilmemiştir(n)</desc>
+    <credits>
+      <actor>Demet Özdemir</actor>
+      <actor>İbrahim Çelikkol</actor>
+    </credits>
+    <category lang="tr">Dram</category>
+  </programme>
+  <programme start="20200118133000 +0300" stop="20200118163000 +0300" channel="TV8 HD">
+    <title lang="tr">O ses türkiye</title>
+    <desc lang="tr">Murat boz hadise seda sayan ve beyazıt öztürk bu senenin şampiyonu olabilmek için kıyasıya yarışıyor(n)</desc>
+    <category lang="tr">Yarışma</category>
+  </programme>
+  <programme start="20200118163000 +0300" stop="20200118200000 +0300" channel="TV8 HD">
+    <title lang="tr">Eser yenenler show</title>
+    <desc lang="tr">Birbirinden özel konukları ve eğlenceli sohbetiyle eser yenenler show tv8'de sizlerle(n)</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20200118200000 +0300" stop="20200119001500 +0300" channel="TV8 HD">
     <title lang="tr">O ses türkiye</title>
+    <desc lang="tr">Murat boz hadise seda sayan ve beyazıt öztürk bu senenin şampiyonu olabilmek için kıyasıya yarışıyor(n)</desc>
     <category lang="tr">Yarışma</category>
   </programme>
   <programme start="20200119001500 +0300" stop="20200119021500 +0300" channel="TV8 HD">
-    <title lang="tr">Eser yenenler show</title>
-    <category lang="tr">Eğlence</category>
+    <title lang="tr">Doğduğun ev kaderindir</title>
+    <desc lang="tr">Travmatik acılarla dolu geçmişlerinin yükünü kalbinden atamamış başkalarının mutluluğu için yaşayan hayatlarının dümenini elinde tutamayan iki yaralı insan; zeynep ve mehdi. İkisi de sevgiye aç ikisi de daha önce hiç sevilmemiştir(n)</desc>
+    <credits>
+      <actor>Demet Özdemir</actor>
+      <actor>İbrahim Çelikkol</actor>
+    </credits>
+    <category lang="tr">Dram</category>
   </programme>
   <programme start="20200119021500 +0300" stop="20200119040000 +0300" channel="TV8 HD">
     <title lang="tr">Komedi türkiye</title>
+    <desc lang="tr">Amatör komedyenlerin profesyonel oyuncular eşliğinde hünerlerini sergilediği komedi türkiye şimdi tv8'de(n)</desc>
     <category lang="tr">Yarışma</category>
   </programme>
   <programme start="20200119040000 +0300" stop="20200119051500 +0300" channel="TV8 HD">
-    <title lang="tr">8x8</title>
+    <title lang="tr">8*8</title>
+    <desc lang="tr">Birbirinden ilginç birbirinden eğlenceli listeler yeşilçam müzik magazin ve spora dair en özel ve unutulmaz görüntüler 8x8 programında sizlerle.(n)</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20200119051500 +0300" stop="20200119060000 +0300" channel="TV8 HD">
     <title lang="tr">Bilginiz olsun</title>
+    <desc lang="tr">Sunuculuğunu yavuz igret'in yaptığı programın her bölümü birbirinden ilginç konularla dolu. "Bilginiz olsun"# izleyiciyi kimi zaman vahşi doğanın ortasına götürüyor kimi zaman da tarihte bilinmeyen bir yolculuğa çıkarıyor(n)</desc>
     <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200119060000 +0300" stop="20200119070000 +0300" channel="TV8 HD">
     <title lang="tr">Oynat bakalım</title>
+    <desc lang="tr">En eğlenceli videolar en komik olaylar oynat bakalım'da ekranlarınıza geliyor(n)</desc>
     <category lang="tr">Komedi</category>
   </programme>
   <programme start="20200119070000 +0300" stop="20200119083000 +0300" channel="TV8 HD">
     <title lang="tr">Oynat bakalım</title>
+    <desc lang="tr">En eğlenceli videolar en komik olaylar oynat bakalım'da ekranlarınıza geliyor(n)</desc>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20200119083000 +0300" stop="20200119100000 +0300" channel="TV8 HD">
+  <programme start="20200119083000 +0300" stop="20200119094500 +0300" channel="TV8 HD">
     <title lang="tr">Çook yaşa</title>
+    <desc lang="tr">Sağlık estetik ve iyi yaşamla ilgili bilinmesi gereken her şey suzan ugan'ın sunumu ve dr. Evrim pınar güzel'in moderatörlüğünde sizlerle(n)</desc>
     <category lang="tr">Life Style</category>
   </programme>
-  <programme start="20200119100000 +0300" stop="20200119154500 +0300" channel="TV8 HD">
+  <programme start="20200119094500 +0300" stop="20200119100000 +0300" channel="TV8 HD">
+    <title lang="tr">Oynat bakalım</title>
+    <desc lang="tr">En eğlenceli videolar en komik olaylar oynat bakalım'da ekranlarınıza geliyor(n)</desc>
+    <category lang="tr">Komedi</category>
+  </programme>
+  <programme start="20200119100000 +0300" stop="20200119110000 +0300" channel="TV8 HD">
     <title lang="tr">Sağlam geziyoruz</title>
+    <desc lang="tr">Türev uludağ; her hafta ülkemizi karış karış gezecek. Doğada kamp yapacak yeni yerler yeni lezzetler ve yeni insanlar keşfedip kamp mutfağında birbirinden özel yemekler hazırlayacak(n)</desc>
     <category lang="tr">Life Style</category>
   </programme>
-  <programme start="20200119154500 +0300" stop="20200119200000 +0300" channel="TV8 HD">
+  <programme start="20200119110000 +0300" stop="20200119151500 +0300" channel="TV8 HD">
+    <title lang="tr">O ses türkiye</title>
+    <desc lang="tr">Murat boz hadise seda sayan ve beyazıt öztürk bu senenin şampiyonu olabilmek için kıyasıya yarışıyor(n)</desc>
+    <category lang="tr">Yarışma</category>
+  </programme>
+  <programme start="20200119151500 +0300" stop="20200119200000 +0300" channel="TV8 HD">
     <title lang="tr">Doğduğun ev kaderindir</title>
+    <desc lang="tr">Travmatik acılarla dolu geçmişlerinin yükünü kalbinden atamamış başkalarının mutluluğu için yaşayan hayatlarının dümenini elinde tutamayan iki yaralı insan; zeynep ve mehdi. İkisi de sevgiye aç ikisi de daha önce hiç sevilmemiştir(n)</desc>
     <credits>
-      <actor>İbrahim Çelikkol</actor>
       <actor>Demet Özdemir</actor>
+      <actor>İbrahim Çelikkol</actor>
     </credits>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20200119200000 +0300" stop="20200120021500 +0300" channel="TV8 HD">
+  <programme start="20200119200000 +0300" stop="20200120001500 +0300" channel="TV8 HD">
     <title lang="tr">O ses türkiye</title>
+    <desc lang="tr">Murat boz hadise seda sayan ve beyazıt öztürk bu senenin şampiyonu olabilmek için kıyasıya yarışıyor(n)</desc>
     <category lang="tr">Yarışma</category>
+  </programme>
+  <programme start="20200120001500 +0300" stop="20200120021500 +0300" channel="TV8 HD">
+    <title lang="tr">Kick boks</title>
+    <category lang="tr">F1</category>
   </programme>
   <programme start="20200120021500 +0300" stop="20200120040000 +0300" channel="TV8 HD">
     <title lang="tr">Komedi türkiye</title>
+    <desc lang="tr">Amatör komedyenlerin profesyonel oyuncular eşliğinde hünerlerini sergilediği komedi türkiye şimdi tv8'de(n)</desc>
     <category lang="tr">Yarışma</category>
   </programme>
   <programme start="20200120040000 +0300" stop="20200120051500 +0300" channel="TV8 HD">
-    <title lang="tr">8x8</title>
+    <title lang="tr">8*8</title>
+    <desc lang="tr">Birbirinden ilginç birbirinden eğlenceli listeler yeşilçam müzik magazin ve spora dair en özel ve unutulmaz görüntüler 8x8 programında sizlerle.(n)</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20200120051500 +0300" stop="20200120060000 +0300" channel="TV8 HD">
     <title lang="tr">Bilginiz olsun</title>
+    <desc lang="tr">Sunuculuğunu yavuz igret'in yaptığı programın her bölümü birbirinden ilginç konularla dolu. "Bilginiz olsun"# izleyiciyi kimi zaman vahşi doğanın ortasına götürüyor kimi zaman da tarihte bilinmeyen bir yolculuğa çıkarıyor(n)</desc>
     <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200120060000 +0300" stop="20200120070000 +0300" channel="TV8 HD">
     <title lang="tr">Oynat bakalım</title>
+    <desc lang="tr">En eğlenceli videolar en komik olaylar oynat bakalım'da ekranlarınıza geliyor(n)</desc>
     <category lang="tr">Komedi</category>
   </programme>
   <programme start="20200120070000 +0300" stop="20200120080000 +0300" channel="TV8 HD">
     <title lang="tr">8'de sağlık</title>
+    <desc lang="tr">Sağlık hakkında doğru bilinen yanlışlar önemli püf noktaları ve daha fazlası ümit erdim ve aylin çetinkaya ile ekranlarınıza geliyor(n)</desc>
     <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200120080000 +0300" stop="20200120093000 +0300" channel="TV8 HD">
     <title lang="tr">8'de bugün</title>
+    <desc lang="tr">Gündeme dair ne varsa hepsi 8'de bugün ile ekranlarınıza geliyor(n)</desc>
     <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200120093000 +0300" stop="20200120120000 +0300" channel="TV8 HD">
     <title lang="tr">Gel konuşalım</title>
+    <desc lang="tr">Bu programda yok yok! En sıcak haberler en ilginç olaylar, modadan estetiğe, spordan ilişkiye, ünlülerin özel hayatlarından sokaktaki yaşama dair ne varsa kadın ve erkek gözünden gel konuşalım'da yorumlanıp, tartışılıyor(n)</desc>
     <date>2019</date>
     <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200120120000 +0300" stop="20200120124500 +0300" channel="TV8 HD">
     <title lang="tr">Doya doya moda</title>
+    <desc lang="tr">"Doya doya moda'" da büyük bedene sahip 7 kadın moda alanında kendini en iyi ifade eden yarışmacı olabilmek için yarışacak(n)</desc>
     <category lang="tr">Yarışma</category>
   </programme>
   <programme start="20200120124500 +0300" stop="20200120160000 +0300" channel="TV8 HD">
     <title lang="tr">Doya doya moda</title>
+    <desc lang="tr">"Doya doya moda'" da büyük bedene sahip 7 kadın moda alanında kendini en iyi ifade eden yarışmacı olabilmek için yarışacak(n)</desc>
     <category lang="tr">Yarışma</category>
+  </programme>
+  <programme start="20200120160000 +0300" stop="20200120191500 +0300" channel="TV8 HD">
+    <title lang="tr">Seda sayan ile yemekteyiz</title>
+    <desc lang="tr">Birbirinden renkli ve iddialı kişilerin mutfaktaki hünerlerini sergileyeceği "Seda sayan ile yemekteyiz"De yine rekabet dolu bir yarış yaşanacak(n)</desc>
+    <date>2019</date>
+    <category lang="tr">Yarışma</category>
+  </programme>
+  <programme start="20200120191500 +0300" stop="20200120200000 +0300" channel="TV8 HD">
+    <title lang="tr">Oynat bakalım</title>
+    <desc lang="tr">En eğlenceli videolar en komik olaylar oynat bakalım'da ekranlarınıza geliyor(n)</desc>
+    <category lang="tr">Komedi</category>
   </programme>
   <programme start="20200117003500 +0300" stop="20200117012500 +0300" channel="BLOOMBERG HT HD">
     <title lang="tr">Bloomberg HT Magazin</title>
@@ -13847,40 +14046,45 @@
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118020000 +0300" stop="20200118021000 +0300" channel="NTV HD">
+  <programme start="20200118020000 +0300" stop="20200118021500 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118021000 +0300" stop="20200118021500 +0300" channel="NTV HD">
+  <programme start="20200118021500 +0300" stop="20200118022000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118021500 +0300" stop="20200118025500 +0300" channel="NTV HD">
-    <title lang="tr">Yakın plan</title>
-    <category lang="tr">Haberler</category>
+  <programme start="20200118022000 +0300" stop="20200118025500 +0300" channel="NTV HD">
+    <title lang="tr">Hafta biterken</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200118025500 +0300" stop="20200118030000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118030000 +0300" stop="20200118031000 +0300" channel="NTV HD">
+  <programme start="20200118030000 +0300" stop="20200118034500 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118031000 +0300" stop="20200118035500 +0300" channel="NTV HD">
-    <title lang="tr">Yakın plan</title>
-    <category lang="tr">Haberler</category>
+  <programme start="20200118034500 +0300" stop="20200118035000 +0300" channel="NTV HD">
+    <title lang="tr">Lıfestyle</title>
+    <category lang="tr">Sanat ve Kültür</category>
+  </programme>
+  <programme start="20200118035000 +0300" stop="20200118035500 +0300" channel="NTV HD">
+    <title lang="tr">Laf aramızda</title>
+    <desc lang="tr">Konuşma insanın aklını kullanma sanatıdır. Oyuncu diksiyon eğitmeni seslendirme sanatçısı ve spiker levent dönmez ne söylediğimizden çok nasıl söylememiz gerektiğini "Laf aramızda" programında anlatıyor.(n)</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200118035500 +0300" stop="20200118040000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118040000 +0300" stop="20200118045000 +0300" channel="NTV HD">
+  <programme start="20200118040000 +0300" stop="20200118041500 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118045000 +0300" stop="20200118045500 +0300" channel="NTV HD">
-    <title lang="tr">Laf aramızda</title>
+  <programme start="20200118041500 +0300" stop="20200118045500 +0300" channel="NTV HD">
+    <title lang="tr">Farklı bir konu</title>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200118045500 +0300" stop="20200118050000 +0300" channel="NTV HD">
@@ -13938,6 +14142,7 @@
   </programme>
   <programme start="20200118075000 +0300" stop="20200118075500 +0300" channel="NTV HD">
     <title lang="tr">Laf aramızda</title>
+    <desc lang="tr">Konuşma insanın aklını kullanma sanatıdır. Oyuncu diksiyon eğitmeni seslendirme sanatçısı ve spiker levent dönmez ne söylediğimizden çok nasıl söylememiz gerektiğini "Laf aramızda" programında anlatıyor.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200118075500 +0300" stop="20200118080000 +0300" channel="NTV HD">
@@ -13966,23 +14171,25 @@
   </programme>
   <programme start="20200118091500 +0300" stop="20200118095500 +0300" channel="NTV HD">
     <title lang="tr">Macerasever</title>
+    <desc lang="tr">Macerasever 16 mart cumartesi 09.15'te ntv'de başlıyor(n)</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20200118095500 +0300" stop="20200118100000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118100000 +0300" stop="20200118104000 +0300" channel="NTV HD">
+  <programme start="20200118100000 +0300" stop="20200118102500 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118104000 +0300" stop="20200118105000 +0300" channel="NTV HD">
+  <programme start="20200118102500 +0300" stop="20200118103500 +0300" channel="NTV HD">
     <title lang="tr">Spor</title>
     <category lang="tr">F1</category>
   </programme>
-  <programme start="20200118105000 +0300" stop="20200118105500 +0300" channel="NTV HD">
-    <title lang="tr">Lıfestyle</title>
-    <category lang="tr">Sanat ve Kültür</category>
+  <programme start="20200118103500 +0300" stop="20200118105500 +0300" channel="NTV HD">
+    <title lang="tr">Siz yokken</title>
+    <desc lang="tr">Uçuş öncesi pilotlar ve kabin ekibi neden defalarca toplanıyor uçağın teknik kontrolünde hangi noktalar hayati önem taşıyor ekiplerin en çok keyif aldıkları güzergah hangisi..# Tüm bu sorulara yanıt 'siz yokken' programında(n)</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200118105500 +0300" stop="20200118110000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
@@ -14014,6 +14221,7 @@
   </programme>
   <programme start="20200118122000 +0300" stop="20200118125000 +0300" channel="NTV HD">
     <title lang="tr">Hayat bir sanat</title>
+    <desc lang="tr">Edebiyat dünyasının büyülü kapısını aralıyorlar. "Hayat bir sanat" her cumartesi 12.20'de ntv'de(n)</desc>
     <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200118125000 +0300" stop="20200118125500 +0300" channel="NTV HD">
@@ -14024,12 +14232,13 @@
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118130000 +0300" stop="20200118134000 +0300" channel="NTV HD">
+  <programme start="20200118130000 +0300" stop="20200118134500 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118134000 +0300" stop="20200118135500 +0300" channel="NTV HD">
-    <title lang="tr">Kuş misali</title>
+  <programme start="20200118134500 +0300" stop="20200118135500 +0300" channel="NTV HD">
+    <title lang="tr">Zaman makinesi</title>
+    <desc lang="tr">26 yıllık gazeteci aynı zamanda ntv istanbul haber müdürü göktan bedük tarihin derinliklerinde kaybolmuş unutulmuş olayları ve kişileri yeniden gündeme getiriyor hafızalarımızı tazeliyor(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200118135500 +0300" stop="20200118140000 +0300" channel="NTV HD">
@@ -14058,6 +14267,7 @@
   </programme>
   <programme start="20200118152000 +0300" stop="20200118155500 +0300" channel="NTV HD">
     <title lang="tr">Avrupa'dan anadolu'ya</title>
+    <desc lang="tr">Avrupa'dan anadolu'ya yeniden başlıyor. Bu kez hedefte türkiye'nin 10 farklı ilinde her kesimden gelen soru ve talebi yanıtlamaya hazır avrupa birliği bilgi merkezleri ve avrupa'nın dört bir yanına dağılmış erasmus+ öğrencileri var(n)</desc>
     <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200118155500 +0300" stop="20200118160000 +0300" channel="NTV HD">
@@ -14069,7 +14279,7 @@
     <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200118161500 +0300" stop="20200118165500 +0300" channel="NTV HD">
-    <title lang="tr">Liman günlüğü</title>
+    <title lang="tr">Mete çubukçu ile pasaport</title>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200118165500 +0300" stop="20200118170000 +0300" channel="NTV HD">
@@ -14082,6 +14292,7 @@
   </programme>
   <programme start="20200118172500 +0300" stop="20200118175500 +0300" channel="NTV HD">
     <title lang="tr">İyi hikayeler</title>
+    <desc lang="tr">İyi hikayeler her pazar 18.25'te ntv'de(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200118175500 +0300" stop="20200118180000 +0300" channel="NTV HD">
@@ -14121,24 +14332,28 @@
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118200000 +0300" stop="20200118205500 +0300" channel="NTV HD">
+  <programme start="20200118200000 +0300" stop="20200118204000 +0300" channel="NTV HD">
     <title lang="tr">Ana haber</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118205500 +0300" stop="20200118215500 +0300" channel="NTV HD">
+  <programme start="20200118204000 +0300" stop="20200118204500 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118215500 +0300" stop="20200118220000 +0300" channel="NTV HD">
-    <title lang="tr">Hava durumu</title>
-    <category lang="tr">Haberler</category>
+  <programme start="20200118204500 +0300" stop="20200118210000 +0300" channel="NTV HD">
+    <title lang="tr">Yüzde yüz futbol devre arası</title>
+    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200118220000 +0300" stop="20200118225000 +0300" channel="NTV HD">
+  <programme start="20200118210000 +0300" stop="20200118210500 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118225000 +0300" stop="20200118225500 +0300" channel="NTV HD">
-    <title lang="tr">Nba günlüğü</title>
+  <programme start="20200118210500 +0300" stop="20200118215500 +0300" channel="NTV HD">
+    <title lang="tr">İnsan vücudunun sırları</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20200118215500 +0300" stop="20200118225500 +0300" channel="NTV HD">
+    <title lang="tr">Yüzde yüz futbol</title>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200118225500 +0300" stop="20200118230000 +0300" channel="NTV HD">
@@ -14153,13 +14368,9 @@
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200119000000 +0300" stop="20200119003000 +0300" channel="NTV HD">
-    <title lang="tr">Haber bülteni</title>
-    <category lang="tr">Haberler</category>
-  </programme>
-  <programme start="20200119003000 +0300" stop="20200119005000 +0300" channel="NTV HD">
-    <title lang="tr">Kuş misali</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20200119000000 +0300" stop="20200119005000 +0300" channel="NTV HD">
+    <title lang="tr">90+</title>
+    <category lang="tr">F1</category>
   </programme>
   <programme start="20200119005000 +0300" stop="20200119005500 +0300" channel="NTV HD">
     <title lang="tr">Nba en iyi hareket</title>
@@ -14194,8 +14405,8 @@
     <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200119021500 +0300" stop="20200119025500 +0300" channel="NTV HD">
-    <title lang="tr">İyi hikayeler</title>
-    <category lang="tr">Life Style</category>
+    <title lang="tr">Yüzde yüz futbol</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200119025500 +0300" stop="20200119030000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
@@ -14207,6 +14418,7 @@
   </programme>
   <programme start="20200119034000 +0300" stop="20200119035000 +0300" channel="NTV HD">
     <title lang="tr">Tekno hayat</title>
+    <desc lang="tr">Tekno hayat'ta haftanın en iyi icadı en iyi oyunu ve haftanın tüyosu gibi teknoloji meraklılarına ilham verecek trendleri yakalamalarına yardımcı olacak başlıklar da var.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200119035000 +0300" stop="20200119035500 +0300" channel="NTV HD">
@@ -14222,16 +14434,20 @@
     <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200119041500 +0300" stop="20200119045500 +0300" channel="NTV HD">
-    <title lang="tr">Mete çubukçu ile pasaport</title>
-    <category lang="tr">Diğer</category>
+    <title lang="tr">İyi hikayeler</title>
+    <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200119045500 +0300" stop="20200119050000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119050000 +0300" stop="20200119055000 +0300" channel="NTV HD">
+  <programme start="20200119050000 +0300" stop="20200119050500 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200119050500 +0300" stop="20200119055000 +0300" channel="NTV HD">
+    <title lang="tr">İnsan vücudunun sırları</title>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20200119055000 +0300" stop="20200119055500 +0300" channel="NTV HD">
     <title lang="tr">Lıfestyle</title>
@@ -14245,9 +14461,13 @@
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119061000 +0300" stop="20200119065500 +0300" channel="NTV HD">
+  <programme start="20200119061000 +0300" stop="20200119061500 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200119061500 +0300" stop="20200119065500 +0300" channel="NTV HD">
+    <title lang="tr">Mete çubukçu ile pasaport</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200119065500 +0300" stop="20200119070000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
@@ -14267,6 +14487,7 @@
   </programme>
   <programme start="20200119075000 +0300" stop="20200119075500 +0300" channel="NTV HD">
     <title lang="tr">Laf aramızda</title>
+    <desc lang="tr">Konuşma insanın aklını kullanma sanatıdır. Oyuncu diksiyon eğitmeni seslendirme sanatçısı ve spiker levent dönmez ne söylediğimizden çok nasıl söylememiz gerektiğini "Laf aramızda" programında anlatıyor.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200119075500 +0300" stop="20200119080000 +0300" channel="NTV HD">
@@ -14289,41 +14510,41 @@
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119090000 +0300" stop="20200119095500 +0300" channel="NTV HD">
+  <programme start="20200119090000 +0300" stop="20200119091500 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200119091500 +0300" stop="20200119095500 +0300" channel="NTV HD">
+    <title lang="tr">Avrupa'dan anadolu'ya</title>
+    <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200119095500 +0300" stop="20200119100000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119100000 +0300" stop="20200119104000 +0300" channel="NTV HD">
+  <programme start="20200119100000 +0300" stop="20200119101000 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119104000 +0300" stop="20200119105000 +0300" channel="NTV HD">
-    <title lang="tr">Spor</title>
-    <category lang="tr">F1</category>
-  </programme>
-  <programme start="20200119105000 +0300" stop="20200119105500 +0300" channel="NTV HD">
-    <title lang="tr">Lıfestyle</title>
-    <category lang="tr">Sanat ve Kültür</category>
+  <programme start="20200119101000 +0300" stop="20200119105500 +0300" channel="NTV HD">
+    <title lang="tr">Yüzde yüz futbol</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200119105500 +0300" stop="20200119110000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119110000 +0300" stop="20200119111000 +0300" channel="NTV HD">
+  <programme start="20200119110000 +0300" stop="20200119114000 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119111000 +0300" stop="20200119112000 +0300" channel="NTV HD">
+  <programme start="20200119114000 +0300" stop="20200119115000 +0300" channel="NTV HD">
     <title lang="tr">Spor</title>
     <category lang="tr">F1</category>
   </programme>
-  <programme start="20200119112000 +0300" stop="20200119115500 +0300" channel="NTV HD">
-    <title lang="tr">Mete çubukçu ile pasaport</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20200119115000 +0300" stop="20200119115500 +0300" channel="NTV HD">
+    <title lang="tr">Lıfestyle</title>
+    <category lang="tr">Sanat ve Kültür</category>
   </programme>
   <programme start="20200119115500 +0300" stop="20200119120000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
@@ -14390,73 +14611,83 @@
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119160000 +0300" stop="20200119161500 +0300" channel="NTV HD">
+  <programme start="20200119160000 +0300" stop="20200119160500 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119161500 +0300" stop="20200119165500 +0300" channel="NTV HD">
+  <programme start="20200119160500 +0300" stop="20200119164000 +0300" channel="NTV HD">
     <title lang="tr">Adım adım sağlık</title>
     <category lang="tr">Life Style</category>
   </programme>
-  <programme start="20200119165500 +0300" stop="20200119170000 +0300" channel="NTV HD">
+  <programme start="20200119164000 +0300" stop="20200119164500 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119170000 +0300" stop="20200119174000 +0300" channel="NTV HD">
+  <programme start="20200119164500 +0300" stop="20200119170000 +0300" channel="NTV HD">
+    <title lang="tr">Yüzde yüz futbol devre arası</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119170000 +0300" stop="20200119174500 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119174000 +0300" stop="20200119175000 +0300" channel="NTV HD">
-    <title lang="tr">Spor</title>
-    <category lang="tr">F1</category>
+  <programme start="20200119174500 +0300" stop="20200119175500 +0300" channel="NTV HD">
+    <title lang="tr">Tekno hayat</title>
+    <desc lang="tr">Tekno hayat'ta haftanın en iyi icadı en iyi oyunu ve haftanın tüyosu gibi teknoloji meraklılarına ilham verecek trendleri yakalamalarına yardımcı olacak başlıklar da var.(n)</desc>
+    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200119175000 +0300" stop="20200119175500 +0300" channel="NTV HD">
+  <programme start="20200119175500 +0300" stop="20200119185000 +0300" channel="NTV HD">
+    <title lang="tr">Yüzde yüz futbol</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119185000 +0300" stop="20200119185500 +0300" channel="NTV HD">
     <title lang="tr">Nba en iyi hareket</title>
     <category lang="tr">F1</category>
-  </programme>
-  <programme start="20200119175500 +0300" stop="20200119180000 +0300" channel="NTV HD">
-    <title lang="tr">Hava durumu</title>
-    <category lang="tr">Haberler</category>
-  </programme>
-  <programme start="20200119180000 +0300" stop="20200119181500 +0300" channel="NTV HD">
-    <title lang="tr">Haber bülteni</title>
-    <category lang="tr">Haberler</category>
-  </programme>
-  <programme start="20200119181500 +0300" stop="20200119182500 +0300" channel="NTV HD">
-    <title lang="tr">Spor</title>
-    <category lang="tr">F1</category>
-  </programme>
-  <programme start="20200119182500 +0300" stop="20200119185500 +0300" channel="NTV HD">
-    <title lang="tr">İyi hikayeler</title>
-    <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200119185500 +0300" stop="20200119190000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119190000 +0300" stop="20200119195500 +0300" channel="NTV HD">
+  <programme start="20200119190000 +0300" stop="20200119191000 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119195500 +0300" stop="20200119200000 +0300" channel="NTV HD">
+  <programme start="20200119191000 +0300" stop="20200119194000 +0300" channel="NTV HD">
+    <title lang="tr">En sağlıklı sohbetler</title>
+    <desc lang="tr">Burcu kaya ve dr. Talat muratoğlu her hafta farklı bir konuyu bilimsel araştırmalar ışığında uzmanlarla birlikte marlinplus yapımcılığında hazırlanan en sağlıklı sohbetler'de tartışıyor(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119194000 +0300" stop="20200119194500 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119200000 +0300" stop="20200119205500 +0300" channel="NTV HD">
+  <programme start="20200119194500 +0300" stop="20200119200000 +0300" channel="NTV HD">
+    <title lang="tr">Yüzde yüz futbol devre arası</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119200000 +0300" stop="20200119205000 +0300" channel="NTV HD">
     <title lang="tr">Ana haber</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119205500 +0300" stop="20200119215500 +0300" channel="NTV HD">
+  <programme start="20200119205000 +0300" stop="20200119205500 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200119205500 +0300" stop="20200119215500 +0300" channel="NTV HD">
+    <title lang="tr">Yüzde yüz futbol</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200119215500 +0300" stop="20200119220000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119220000 +0300" stop="20200119225500 +0300" channel="NTV HD">
+  <programme start="20200119220000 +0300" stop="20200119225000 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200119225000 +0300" stop="20200119225500 +0300" channel="NTV HD">
+    <title lang="tr">Nba günlüğü</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200119225500 +0300" stop="20200119230000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
@@ -14490,17 +14721,29 @@
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200120011000 +0300" stop="20200120015500 +0300" channel="NTV HD">
+  <programme start="20200120011000 +0300" stop="20200120011500 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200120011500 +0300" stop="20200120015500 +0300" channel="NTV HD">
+    <title lang="tr">İyi hikayeler</title>
+    <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200120015500 +0300" stop="20200120020000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200120020000 +0300" stop="20200120025500 +0300" channel="NTV HD">
+  <programme start="20200120020000 +0300" stop="20200120021000 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200120021000 +0300" stop="20200120021500 +0300" channel="NTV HD">
+    <title lang="tr">Hava durumu</title>
+    <category lang="tr">Haberler</category>
+  </programme>
+  <programme start="20200120021500 +0300" stop="20200120025500 +0300" channel="NTV HD">
+    <title lang="tr">Yüzde yüz futbol</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120025500 +0300" stop="20200120030000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
@@ -14512,23 +14755,21 @@
   </programme>
   <programme start="20200120031500 +0300" stop="20200120035500 +0300" channel="NTV HD">
     <title lang="tr">Adım adım sağlık</title>
+    <desc lang="tr">Sunuculuğunu genel cerrahi uzmanı prof. Dr. Murat aksoy'un üstlendiği adım adım sağlık ntv'de(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120035500 +0300" stop="20200120040000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200120040000 +0300" stop="20200120044500 +0300" channel="NTV HD">
+  <programme start="20200120040000 +0300" stop="20200120041500 +0300" channel="NTV HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200120044500 +0300" stop="20200120045000 +0300" channel="NTV HD">
-    <title lang="tr">Lıfestyle</title>
-    <category lang="tr">Sanat ve Kültür</category>
-  </programme>
-  <programme start="20200120045000 +0300" stop="20200120045500 +0300" channel="NTV HD">
-    <title lang="tr">Laf aramızda</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20200120041500 +0300" stop="20200120045500 +0300" channel="NTV HD">
+    <title lang="tr">0-&gt;100</title>
+    <title lang="xx">0&gt;100</title>
+    <category lang="tr">Life Style</category>
   </programme>
   <programme start="20200120045500 +0300" stop="20200120050000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
@@ -14588,6 +14829,7 @@
   </programme>
   <programme start="20200120075500 +0300" stop="20200120080000 +0300" channel="NTV HD">
     <title lang="tr">Laf aramızda</title>
+    <desc lang="tr">Konuşma insanın aklını kullanma sanatıdır. Oyuncu diksiyon eğitmeni seslendirme sanatçısı ve spiker levent dönmez ne söylediğimizden çok nasıl söylememiz gerektiğini "Laf aramızda" programında anlatıyor.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120080000 +0300" stop="20200120085000 +0300" channel="NTV HD">
@@ -14624,6 +14866,7 @@
   </programme>
   <programme start="20200120102500 +0300" stop="20200120104000 +0300" channel="NTV HD">
     <title lang="tr">Ortak gelecek</title>
+    <desc lang="tr">Gıdadan biyolojik çeşitliliğe doğal kaynaklardan yenilenebilir enerjiye kadar her alanda daha verimli ve sürdürülebilir bir gelecek için neler yapılabilir? Ortak geleceğimize katkı sağlayacak haberler ılgaz gürsoy'la her pazartesi ntv'de(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120104000 +0300" stop="20200120105000 +0300" channel="NTV HD">
@@ -14652,10 +14895,12 @@
   </programme>
   <programme start="20200120114000 +0300" stop="20200120115000 +0300" channel="NTV HD">
     <title lang="tr">Tekno hayat</title>
+    <desc lang="tr">Tekno hayat'ta haftanın en iyi icadı en iyi oyunu ve haftanın tüyosu gibi teknoloji meraklılarına ilham verecek trendleri yakalamalarına yardımcı olacak başlıklar da var.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120115000 +0300" stop="20200120115500 +0300" channel="NTV HD">
     <title lang="tr">Laf aramızda</title>
+    <desc lang="tr">Konuşma insanın aklını kullanma sanatıdır. Oyuncu diksiyon eğitmeni seslendirme sanatçısı ve spiker levent dönmez ne söylediğimizden çok nasıl söylememiz gerektiğini "Laf aramızda" programında anlatıyor.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120115500 +0300" stop="20200120120000 +0300" channel="NTV HD">
@@ -14736,23 +14981,28 @@
   </programme>
   <programme start="20200120155000 +0300" stop="20200120155500 +0300" channel="NTV HD">
     <title lang="tr">Laf aramızda</title>
+    <desc lang="tr">Konuşma insanın aklını kullanma sanatıdır. Oyuncu diksiyon eğitmeni seslendirme sanatçısı ve spiker levent dönmez ne söylediğimizden çok nasıl söylememiz gerektiğini "Laf aramızda" programında anlatıyor.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120155500 +0300" stop="20200120160000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200120160000 +0300" stop="20200120160500 +0300" channel="NTV HD">
+  <programme start="20200120160000 +0300" stop="20200120162500 +0300" channel="NTV HD">
     <title lang="tr">Günün içinden</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200120160500 +0300" stop="20200120161000 +0300" channel="NTV HD">
+  <programme start="20200120162500 +0300" stop="20200120163000 +0300" channel="NTV HD">
     <title lang="tr">Paranın nabzı</title>
     <category lang="tr">F3</category>
   </programme>
-  <programme start="20200120161000 +0300" stop="20200120165500 +0300" channel="NTV HD">
-    <title lang="tr">Oscar'a doğru</title>
-    <category lang="tr">Sanat ve Kültür</category>
+  <programme start="20200120163000 +0300" stop="20200120164000 +0300" channel="NTV HD">
+    <title lang="tr">Spor</title>
+    <category lang="tr">F1</category>
+  </programme>
+  <programme start="20200120164000 +0300" stop="20200120165500 +0300" channel="NTV HD">
+    <title lang="tr">Dünyanın haberi</title>
+    <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200120165500 +0300" stop="20200120170000 +0300" channel="NTV HD">
     <title lang="tr">Paranın nabzı</title>
@@ -14840,8 +15090,8 @@
     <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200120220000 +0300" stop="20200120225500 +0300" channel="NTV HD">
-    <title lang="tr">Haber bülteni</title>
-    <category lang="tr">Haberler</category>
+    <title lang="tr">Farklı bir konu</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120225500 +0300" stop="20200120230000 +0300" channel="NTV HD">
     <title lang="tr">Hava durumu</title>
@@ -15085,17 +15335,13 @@
     <title lang="tr">Airport</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118070000 +0300" stop="20200118084500 +0300" channel="HABERTURK HD">
+  <programme start="20200118070000 +0300" stop="20200118073000 +0300" channel="HABERTURK HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200118084500 +0300" stop="20200118090000 +0300" channel="HABERTURK HD">
-    <title lang="tr">Hayatın içinden</title>
+  <programme start="20200118073000 +0300" stop="20200118110000 +0300" channel="HABERTURK HD">
+    <title lang="tr">Türkiye'nin nabzı</title>
     <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20200118090000 +0300" stop="20200118110000 +0300" channel="HABERTURK HD">
-    <title lang="tr">Haber bülteni</title>
-    <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200118110000 +0300" stop="20200118120000 +0300" channel="HABERTURK HD">
     <title lang="tr">Burası haftasonu</title>
@@ -15181,19 +15427,15 @@
     <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200119061500 +0300" stop="20200119070000 +0300" channel="HABERTURK HD">
-    <title lang="tr">Tadında hikayeler</title>
+    <title lang="tr">Şehir hikayeleri</title>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200119070000 +0300" stop="20200119084500 +0300" channel="HABERTURK HD">
+  <programme start="20200119070000 +0300" stop="20200119073000 +0300" channel="HABERTURK HD">
     <title lang="tr">Haber bülteni</title>
     <category lang="tr">Haberler</category>
   </programme>
-  <programme start="20200119084500 +0300" stop="20200119090000 +0300" channel="HABERTURK HD">
-    <title lang="tr">Hayatın içinden</title>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20200119090000 +0300" stop="20200119110000 +0300" channel="HABERTURK HD">
-    <title lang="tr">Haber bülteni</title>
+  <programme start="20200119073000 +0300" stop="20200119110000 +0300" channel="HABERTURK HD">
+    <title lang="tr">Enine boyuna</title>
     <category lang="tr">Haberler</category>
   </programme>
   <programme start="20200119110000 +0300" stop="20200119120000 +0300" channel="HABERTURK HD">
@@ -15273,6 +15515,7 @@
   </programme>
   <programme start="20200120011500 +0300" stop="20200120030000 +0300" channel="HABERTURK HD">
     <title lang="tr">Teke tek bilim</title>
+    <desc lang="tr">Tekrar(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120030000 +0300" stop="20200120031500 +0300" channel="HABERTURK HD">
@@ -15305,6 +15548,7 @@
   </programme>
   <programme start="20200120124500 +0300" stop="20200120130000 +0300" channel="HABERTURK HD">
     <title lang="tr">Ekonomide görünüm</title>
+    <desc lang="tr">Piyasalar güne nasıl başlayacak? Piyasaların seyri ne olacak? Ekonomideki gelişmeler piyasaları nasıl etkiliyor?ekonomide görünüm ile ekonomiye hakim olun(n)</desc>
     <category lang="tr">F3</category>
   </programme>
   <programme start="20200120130000 +0300" stop="20200120134500 +0300" channel="HABERTURK HD">
@@ -15333,6 +15577,7 @@
   </programme>
   <programme start="20200120170000 +0300" stop="20200120190000 +0300" channel="HABERTURK HD">
     <title lang="tr">Akşam haberleri</title>
+    <desc lang="tr">Türkiye ve dünya gündemine ilişkin tüm gelişmeler satır araları ve çarpıcı noktalar akşam haberleri'yle ekrana geliyor.(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20200120190000 +0300" stop="20200120210000 +0300" channel="HABERTURK HD">
@@ -15510,12 +15755,12 @@
     <desc lang="tr">Din yaşam islam kuran ve hayata dair herşey ihsan eliaçık ile yorumlanıyor(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200118100000 +0300" stop="20200118102000 +0300" channel="KRT TV HD">
+  <programme start="20200118100000 +0300" stop="20200118101500 +0300" channel="KRT TV HD">
     <title lang="tr">10:00 haber bülteni</title>
     <desc lang="tr">Gündemdeki haberler ana başlıklar son dakika gelişmeleri(n)</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20200118102000 +0300" stop="20200118110000 +0300" channel="KRT TV HD">
+  <programme start="20200118101500 +0300" stop="20200118110000 +0300" channel="KRT TV HD">
     <title lang="tr">Harbi yiyorum</title>
     <desc lang="tr">Semt semt mekan mekan yemek kültürü(n)</desc>
     <category lang="tr">Diğer</category>
@@ -15594,5 +15839,650 @@
     <title lang="tr">Akademi politik</title>
     <desc lang="tr">Gündemdeki ana başlıklara bakışanaliz ve yorumlar(n)</desc>
     <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200118233000 +0300" stop="20200119000000 +0300" channel="KRT TV HD">
+    <title lang="tr">Kültür sanat</title>
+    <desc lang="tr">Sanat muzıklerı sergiler seyehatnameler muzık sanatcıları söz yazarları ve eserleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119000000 +0300" stop="20200119010000 +0300" channel="KRT TV HD">
+    <title lang="tr">Akşam haberleri</title>
+    <desc lang="tr">Haberler gelişmeler son dakika gelişmeleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119010000 +0300" stop="20200119043000 +0300" channel="KRT TV HD">
+    <title lang="tr">Müzik kuşağı</title>
+    <desc lang="tr">Sanatçılar müzik ve sanata dair herşey(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119043000 +0300" stop="20200119070000 +0300" channel="KRT TV HD">
+    <title lang="tr">Kültür sanat</title>
+    <desc lang="tr">Sanat muzıklerı sergiler seyehatnameler muzık sanatcıları söz yazarları ve eserleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119070000 +0300" stop="20200119080000 +0300" channel="KRT TV HD">
+    <title lang="tr">Müzik kuşağı</title>
+    <desc lang="tr">Sanatçılar müzik ve sanata dair herşey(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119080000 +0300" stop="20200119093000 +0300" channel="KRT TV HD">
+    <title lang="tr">Söz meclisi</title>
+    <desc lang="tr">Türkiye'nin ve dünyanın gündemini konuklarımızla ele alıyoruz.Farklı görüşleryorumlarortak noktalarhepsi için söz meclisini topluyoruz(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119093000 +0300" stop="20200119100000 +0300" channel="KRT TV HD">
+    <title lang="tr">Haftanın filmleri</title>
+    <desc lang="tr">Vizyondakiler(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119100000 +0300" stop="20200119101500 +0300" channel="KRT TV HD">
+    <title lang="tr">10:00 haber bülteni</title>
+    <desc lang="tr">Gündemdeki haberler ana başlıklar son dakika gelişmeleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119101500 +0300" stop="20200119110000 +0300" channel="KRT TV HD">
+    <title lang="tr">Beyaz perde</title>
+    <desc lang="tr">Sinema arkasısanatçılar ile söyleşi ve analizler(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119110000 +0300" stop="20200119123000 +0300" channel="KRT TV HD">
+    <title lang="tr">Gerçekten öylemi</title>
+    <desc lang="tr">Gündemdeki haberler ana başlıklar son dakika gelişmeleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119123000 +0300" stop="20200119130000 +0300" channel="KRT TV HD">
+    <title lang="tr">Vatandaş ne diyor</title>
+    <desc lang="tr">Vatandaşın siyaset ekonomi gündelik yaşamla ilgili görüşleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119130000 +0300" stop="20200119132000 +0300" channel="KRT TV HD">
+    <title lang="tr">13:00 haber</title>
+    <desc lang="tr">Gündemdeki haberler ana başlıklar son dakika gelişmeleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119132000 +0300" stop="20200119150000 +0300" channel="KRT TV HD">
+    <title lang="tr">Feminen adalet</title>
+    <desc lang="tr">Kadın hakları ve hukukta ki gelişmeler ve yenilikler(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119150000 +0300" stop="20200119151500 +0300" channel="KRT TV HD">
+    <title lang="tr">15:00 haber</title>
+    <desc lang="tr">Gündemdeki haberler ana başlıklar son dakika gelişmeleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119151500 +0300" stop="20200119160000 +0300" channel="KRT TV HD">
+    <title lang="tr">Aslı sevi ile renkli hayatlar</title>
+    <desc lang="tr">Sanat muzıklerı sergiler seyehatnameler muzık sanatcıları söz yazarları ve eserleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119160000 +0300" stop="20200119161500 +0300" channel="KRT TV HD">
+    <title lang="tr">16:00 haber</title>
+    <desc lang="tr">Gündemdeki haberler ana başlıklar son dakika gelişmeleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119161500 +0300" stop="20200119170000 +0300" channel="KRT TV HD">
+    <title lang="tr">Kültür sanat</title>
+    <desc lang="tr">Sanat muzıklerı sergiler seyehatnameler muzık sanatcıları söz yazarları ve eserleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119170000 +0300" stop="20200119180000 +0300" channel="KRT TV HD">
+    <title lang="tr">Piyasa gayrımenkul</title>
+    <desc lang="tr">Gayrımenkul piyasasıyatırım zamanlamasıfırsatların değerlendirilmesi için püf noktalar bu programda(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119180000 +0300" stop="20200119183000 +0300" channel="KRT TV HD">
+    <title lang="tr">Kültür sanat</title>
+    <desc lang="tr">Sanat muzıklerı sergiler seyehatnameler muzık sanatcıları söz yazarları ve eserleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119183000 +0300" stop="20200119193000 +0300" channel="KRT TV HD">
+    <title lang="tr">Akşam haberleri</title>
+    <desc lang="tr">Haberler gelişmeler son dakika gelişmeleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119193000 +0300" stop="20200119200000 +0300" channel="KRT TV HD">
+    <title lang="tr">Dr.Alp sirman ile işin doğrusu</title>
+    <desc lang="tr">Sağlıkla ve insan hayatıyla ilgili gündeme gelmeyen herşey bu programda(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119200000 +0300" stop="20200119213000 +0300" channel="KRT TV HD">
+    <title lang="tr">Kent ve yaşam</title>
+    <desc lang="tr">Kentçevresosyal yaşam ile ilgili gelişmeler(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119213000 +0300" stop="20200119230000 +0300" channel="KRT TV HD">
+    <title lang="tr">Gerçekten öylemi</title>
+    <desc lang="tr">Gündemdeki haberler ana başlıklar son dakika gelişmeleri(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200119230000 +0300" stop="20200120000000 +0300" channel="KRT TV HD">
+    <title lang="tr">Ne yaşadık şimdi biz</title>
+    <desc lang="tr">Ayşen şahin ve ümit alansosyal medya gündeminin baş döndürücü hızında gözden kaçanları tartışırkendoğru sosyal medya kullanımı içinde ipuçları veriyor(n)</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20200120000000 +0300" stop="20200120010000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120010000 +0300" stop="20200120020000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120020000 +0300" stop="20200120030000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120030000 +0300" stop="20200120040000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120040000 +0300" stop="20200120050000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120050000 +0300" stop="20200120060000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120060000 +0300" stop="20200120070000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120070000 +0300" stop="20200120080000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120080000 +0300" stop="20200120090000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120090000 +0300" stop="20200120100000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120100000 +0300" stop="20200120110000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120110000 +0300" stop="20200120120000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120120000 +0300" stop="20200120130000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120130000 +0300" stop="20200120140000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120140000 +0300" stop="20200120150000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120150000 +0300" stop="20200120160000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120160000 +0300" stop="20200120170000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120170000 +0300" stop="20200120180000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120180000 +0300" stop="20200120190000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120190000 +0300" stop="20200120200000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120200000 +0300" stop="20200120210000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120210000 +0300" stop="20200120220000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200120220000 +0300" stop="20200120230000 +0300" channel="KRT TV HD">
+    <title lang="tr">Krt tv</title>
+  </programme>
+  <programme start="20200117000000 +0300" stop="20200117010000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">mükemmeliyeti kovalamak</title>
+  </programme>
+  <programme start="20200117010000 +0300" stop="20200117020000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilim ve Ötesi</title>
+  </programme>
+  <programme start="20200117020000 +0300" stop="20200117030000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">mükemmeliyeti kovalamak</title>
+  </programme>
+  <programme start="20200117030000 +0300" stop="20200117033000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">e² Tasarım</title>
+  </programme>
+  <programme start="20200117033000 +0300" stop="20200117040000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Gezegen</title>
+  </programme>
+  <programme start="20200117040000 +0300" stop="20200117043000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Zorlu Bilim</title>
+  </programme>
+  <programme start="20200117043000 +0300" stop="20200117050000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Zorlu Bilim</title>
+  </programme>
+  <programme start="20200117050000 +0300" stop="20200117053000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Zorlu Bilim</title>
+  </programme>
+  <programme start="20200117053000 +0300" stop="20200117060000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Zorlu Bilim</title>
+  </programme>
+  <programme start="20200117060000 +0300" stop="20200117063000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">e² Tasarım</title>
+  </programme>
+  <programme start="20200117063000 +0300" stop="20200117070000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Gezegen</title>
+  </programme>
+  <programme start="20200117070000 +0300" stop="20200117080000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Büyük hayalciler</title>
+  </programme>
+  <programme start="20200117080000 +0300" stop="20200117081000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200117081000 +0300" stop="20200117083000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200117083000 +0300" stop="20200117084500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200117084500 +0300" stop="20200117090000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200117090000 +0300" stop="20200117093000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bunları biliyor muydun?</title>
+  </programme>
+  <programme start="20200117093000 +0300" stop="20200117100000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Geliştirmek</title>
+  </programme>
+  <programme start="20200117100000 +0300" stop="20200117103000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Snapshots</title>
+  </programme>
+  <programme start="20200117103000 +0300" stop="20200117104500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Yaratıklar</title>
+  </programme>
+  <programme start="20200117104500 +0300" stop="20200117110000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Yaratıklar</title>
+  </programme>
+  <programme start="20200117110000 +0300" stop="20200117111500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200117111500 +0300" stop="20200117113000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200117113000 +0300" stop="20200117120000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Görevimiz: İnsan Vücudu</title>
+  </programme>
+  <programme start="20200117120000 +0300" stop="20200117123000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Geliştirmek</title>
+  </programme>
+  <programme start="20200117123000 +0300" stop="20200117124000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Büyüyünce Ne Olsam?</title>
+  </programme>
+  <programme start="20200117124000 +0300" stop="20200117130000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Büyüyünce Ne Olsam?</title>
+  </programme>
+  <programme start="20200117130000 +0300" stop="20200117133000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bunları biliyor muydun?</title>
+  </programme>
+  <programme start="20200117133000 +0300" stop="20200117140000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Snapshots</title>
+  </programme>
+  <programme start="20200117140000 +0300" stop="20200117141500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200117141500 +0300" stop="20200117143000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200117143000 +0300" stop="20200117150000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Kool Görünenler</title>
+  </programme>
+  <programme start="20200117150000 +0300" stop="20200117151000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Spor Laboratuvarı</title>
+  </programme>
+  <programme start="20200117151000 +0300" stop="20200117153000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Spor Laboratuvarı</title>
+  </programme>
+  <programme start="20200117153000 +0300" stop="20200117154500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Siesta Z</title>
+  </programme>
+  <programme start="20200117154500 +0300" stop="20200117160000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Siesta Z</title>
+  </programme>
+  <programme start="20200117160000 +0300" stop="20200117163000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Geliştirmek</title>
+  </programme>
+  <programme start="20200117163000 +0300" stop="20200117170000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Geliştirmek</title>
+  </programme>
+  <programme start="20200117170000 +0300" stop="20200117173000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bunları biliyor muydun?</title>
+  </programme>
+  <programme start="20200117173000 +0300" stop="20200117180000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Süpergüçlerin Arkasındaki Bilim</title>
+  </programme>
+  <programme start="20200117180000 +0300" stop="20200117181500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200117181500 +0300" stop="20200117183000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200117183000 +0300" stop="20200117190000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Kool Görünenler</title>
+  </programme>
+  <programme start="20200117190000 +0300" stop="20200117191500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200117191500 +0300" stop="20200117193000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200117193000 +0300" stop="20200117200000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Görevimiz: İnsan Vücudu</title>
+  </programme>
+  <programme start="20200117200000 +0300" stop="20200117203000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Gezegen</title>
+  </programme>
+  <programme start="20200117203000 +0300" stop="20200117210000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">e</title>
+  </programme>
+  <programme start="20200117210000 +0300" stop="20200117220000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Vivaldi: Dört Mevsimin Sırrı</title>
+  </programme>
+  <programme start="20200117220000 +0300" stop="20200117230000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilim ya da Efsane</title>
+  </programme>
+  <programme start="20200117230000 +0300" stop="20200117233000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Büyük Fikir</title>
+  </programme>
+  <programme start="20200117233000 +0300" stop="20200118000000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Gezegen</title>
+  </programme>
+  <programme start="20200118000000 +0300" stop="20200118010000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilim ya da Efsane</title>
+  </programme>
+  <programme start="20200118010000 +0300" stop="20200118020000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Vivaldi: Dört Mevsimin Sırrı</title>
+  </programme>
+  <programme start="20200118020000 +0300" stop="20200118030000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">HUDUNİ'NİN SİHRİ</title>
+  </programme>
+  <programme start="20200118030000 +0300" stop="20200118033000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Büyük Fikir</title>
+  </programme>
+  <programme start="20200118033000 +0300" stop="20200118040000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Gezegen</title>
+  </programme>
+  <programme start="20200118040000 +0300" stop="20200118043000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Zorlu Bilim</title>
+  </programme>
+  <programme start="20200118043000 +0300" stop="20200118050000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Zorlu Bilim</title>
+  </programme>
+  <programme start="20200118050000 +0300" stop="20200118053000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Zorlu Bilim</title>
+  </programme>
+  <programme start="20200118053000 +0300" stop="20200118060000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Zorlu Bilim</title>
+  </programme>
+  <programme start="20200118060000 +0300" stop="20200118063000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">e² Tasarım</title>
+  </programme>
+  <programme start="20200118063000 +0300" stop="20200118070000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Gezegen</title>
+  </programme>
+  <programme start="20200118070000 +0300" stop="20200118080000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Matematiğin Öyküsü</title>
+  </programme>
+  <programme start="20200118080000 +0300" stop="20200118081000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200118081000 +0300" stop="20200118083000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200118083000 +0300" stop="20200118084500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200118084500 +0300" stop="20200118090000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200118090000 +0300" stop="20200118093000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bunları biliyor muydun?</title>
+  </programme>
+  <programme start="20200118093000 +0300" stop="20200118100000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Geliştirmek</title>
+  </programme>
+  <programme start="20200118100000 +0300" stop="20200118103000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Snapshots</title>
+  </programme>
+  <programme start="20200118103000 +0300" stop="20200118104500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Yaratıklar</title>
+  </programme>
+  <programme start="20200118104500 +0300" stop="20200118110000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Yaratıklar</title>
+  </programme>
+  <programme start="20200118110000 +0300" stop="20200118111500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200118111500 +0300" stop="20200118113000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200118113000 +0300" stop="20200118120000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Görevimiz: İnsan Vücudu</title>
+  </programme>
+  <programme start="20200118120000 +0300" stop="20200118123000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Geliştirmek</title>
+  </programme>
+  <programme start="20200118123000 +0300" stop="20200118130000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Geliştirmek</title>
+  </programme>
+  <programme start="20200118130000 +0300" stop="20200118133000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bunları biliyor muydun?</title>
+  </programme>
+  <programme start="20200118133000 +0300" stop="20200118140000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Süpergüçlerin Arkasındaki Bilim</title>
+  </programme>
+  <programme start="20200118140000 +0300" stop="20200118143000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Süpergüçlerin Arkasındaki Bilim</title>
+  </programme>
+  <programme start="20200118143000 +0300" stop="20200118150000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Dahilerin Peşinde</title>
+  </programme>
+  <programme start="20200118150000 +0300" stop="20200118153000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Sanat Tarihi</title>
+  </programme>
+  <programme start="20200118153000 +0300" stop="20200118160000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Dudak uçuklatan buluşlar</title>
+  </programme>
+  <programme start="20200118160000 +0300" stop="20200118163000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Kendin Yap</title>
+  </programme>
+  <programme start="20200118163000 +0300" stop="20200118170000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Geliştirmek</title>
+  </programme>
+  <programme start="20200118170000 +0300" stop="20200118173000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bunları biliyor muydun?</title>
+  </programme>
+  <programme start="20200118173000 +0300" stop="20200118180000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Süpergüçlerin Arkasındaki Bilim</title>
+  </programme>
+  <programme start="20200118180000 +0300" stop="20200118181500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200118181500 +0300" stop="20200118183000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200118183000 +0300" stop="20200118190000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Acayip Bilim</title>
+  </programme>
+  <programme start="20200118190000 +0300" stop="20200118191500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200118191500 +0300" stop="20200118193000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200118193000 +0300" stop="20200118200000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Görevimiz: İnsan Vücudu</title>
+  </programme>
+  <programme start="20200118200000 +0300" stop="20200118203000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Gezegen</title>
+  </programme>
+  <programme start="20200118203000 +0300" stop="20200118210000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">e</title>
+  </programme>
+  <programme start="20200118210000 +0300" stop="20200118220000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Robotların Yükselişi</title>
+  </programme>
+  <programme start="20200118220000 +0300" stop="20200118230000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Nasıl İnşa Edilir</title>
+  </programme>
+  <programme start="20200118230000 +0300" stop="20200118231500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Büyük Fikir</title>
+  </programme>
+  <programme start="20200118231500 +0300" stop="20200118233000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Futuris</title>
+  </programme>
+  <programme start="20200118233000 +0300" stop="20200119000000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Gezegen</title>
+  </programme>
+  <programme start="20200119000000 +0300" stop="20200119010000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Robotların Yükselişi</title>
+  </programme>
+  <programme start="20200119010000 +0300" stop="20200119020000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Nasıl İnşa Edilir</title>
+  </programme>
+  <programme start="20200119020000 +0300" stop="20200119030000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Robotların Yükselişi</title>
+  </programme>
+  <programme start="20200119030000 +0300" stop="20200119031500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Büyük Fikir</title>
+  </programme>
+  <programme start="20200119031500 +0300" stop="20200119033000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Futuris</title>
+  </programme>
+  <programme start="20200119033000 +0300" stop="20200119040000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Gezegen</title>
+  </programme>
+  <programme start="20200119040000 +0300" stop="20200119043000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Zorlu Bilim</title>
+  </programme>
+  <programme start="20200119043000 +0300" stop="20200119050000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Zorlu Bilim</title>
+  </programme>
+  <programme start="20200119050000 +0300" stop="20200119053000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Zorlu Bilim</title>
+  </programme>
+  <programme start="20200119053000 +0300" stop="20200119060000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Zorlu Bilim</title>
+  </programme>
+  <programme start="20200119060000 +0300" stop="20200119063000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Hubble's Canvas</title>
+  </programme>
+  <programme start="20200119063000 +0300" stop="20200119070000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Gezegen</title>
+  </programme>
+  <programme start="20200119070000 +0300" stop="20200119080000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Kadının yükselişi.</title>
+  </programme>
+  <programme start="20200119080000 +0300" stop="20200119081000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200119081000 +0300" stop="20200119083000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Gastroblast</title>
+  </programme>
+  <programme start="20200119083000 +0300" stop="20200119084500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200119084500 +0300" stop="20200119090000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200119090000 +0300" stop="20200119093000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bunları biliyor muydun?</title>
+  </programme>
+  <programme start="20200119093000 +0300" stop="20200119100000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Geliştirmek</title>
+  </programme>
+  <programme start="20200119100000 +0300" stop="20200119103000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Dudak uçuklatan buluşlar</title>
+  </programme>
+  <programme start="20200119103000 +0300" stop="20200119104500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Yaratıklar</title>
+  </programme>
+  <programme start="20200119104500 +0300" stop="20200119110000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Yaratıklar</title>
+  </programme>
+  <programme start="20200119110000 +0300" stop="20200119111500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Siesta Z</title>
+  </programme>
+  <programme start="20200119111500 +0300" stop="20200119113000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Siesta Z</title>
+  </programme>
+  <programme start="20200119113000 +0300" stop="20200119120000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Görevimiz: İnsan Vücudu</title>
+  </programme>
+  <programme start="20200119120000 +0300" stop="20200119123000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Kendin Yap</title>
+  </programme>
+  <programme start="20200119123000 +0300" stop="20200119130000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Geliştirmek</title>
+  </programme>
+  <programme start="20200119130000 +0300" stop="20200119133000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bunları biliyor muydun?</title>
+  </programme>
+  <programme start="20200119133000 +0300" stop="20200119140000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Süpergüçlerin Arkasındaki Bilim</title>
+  </programme>
+  <programme start="20200119140000 +0300" stop="20200119143000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Süpergüçlerin Arkasındaki Bilim</title>
+  </programme>
+  <programme start="20200119143000 +0300" stop="20200119150000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Dahilerin Peşinde</title>
+  </programme>
+  <programme start="20200119150000 +0300" stop="20200119151500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Yaratıklar</title>
+  </programme>
+  <programme start="20200119151500 +0300" stop="20200119153000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Yaratıklar</title>
+  </programme>
+  <programme start="20200119153000 +0300" stop="20200119154000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Büyüyünce Ne Olsam?</title>
+  </programme>
+  <programme start="20200119154000 +0300" stop="20200119160000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Büyüyünce Ne Olsam?</title>
+  </programme>
+  <programme start="20200119160000 +0300" stop="20200119163000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Bilimi Kendin Yap</title>
+  </programme>
+  <programme start="20200119163000 +0300" stop="20200119170000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Süpergüçlerin Arkasındaki Bilim</title>
+  </programme>
+  <programme start="20200119170000 +0300" stop="20200119173000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Eğlenceli Geri Dönüşüm</title>
+  </programme>
+  <programme start="20200119173000 +0300" stop="20200119180000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Dudak uçuklatan buluşlar</title>
+  </programme>
+  <programme start="20200119180000 +0300" stop="20200119181500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Siesta Z</title>
+  </programme>
+  <programme start="20200119181500 +0300" stop="20200119183000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Siesta Z</title>
+  </programme>
+  <programme start="20200119183000 +0300" stop="20200119190000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Snapshots</title>
+  </programme>
+  <programme start="20200119190000 +0300" stop="20200119191500 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200119191500 +0300" stop="20200119193000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">GEOlino</title>
+  </programme>
+  <programme start="20200119193000 +0300" stop="20200119200000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Görevimiz: İnsan Vücudu</title>
+  </programme>
+  <programme start="20200119200000 +0300" stop="20200119203000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Gezegen</title>
+  </programme>
+  <programme start="20200119203000 +0300" stop="20200119210000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">e</title>
+  </programme>
+  <programme start="20200119210000 +0300" stop="20200119220000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Ada'yı hesaplamak- bilgisayarın kontesi.</title>
+  </programme>
+  <programme start="20200119220000 +0300" stop="20200119230000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Yer Çekiminin Muhteşem Dünyası</title>
+  </programme>
+  <programme start="20200119230000 +0300" stop="20200119233000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Büyük Fikir</title>
+  </programme>
+  <programme start="20200119233000 +0300" stop="20200120000000 +0300" channel="DA VINCI LEARNING HD">
+    <title lang="tr">Harika Gezegen</title>
   </programme>
 </tv>
