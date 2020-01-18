@@ -1,691 +1,675 @@
 ﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mehmetkutup/kanallarim/master/guide.xml"
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="BELGESEL",TR075:DISCOVERY CHANNEL HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32994.m3u8
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="BELGESEL",TR222:Discovery Channel HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32847.m3u8
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" group-title="BELGESEL",TR323:NAT GEO HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32746.m3u8
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" group-title="BELGESEL",TR031:NATIONAL GEOGRAPHIC HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33038.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" group-title="BELGESEL",TR325:NAT GEO Wild HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32744.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" group-title="BELGESEL",TR032:NATINOAL GEO WILD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33037.m3u8
-#EXTINF:-1 tvg-id="Nat Geo People" tvg-name="Nat Geo People" group-title="BELGESEL",TR324:NAT GEO PEOPLE FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32745.m3u8
-#EXTINF:-1 tvg-id="İZ TV" tvg-name="İZ TV" group-title="BELGESEL",TR057:beIN IZ HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33012.m3u8
-#EXTINF:-1 tvg-id="İZ TV" tvg-name="İZ TV" group-title="BELGESEL",TR171:beIN IZ HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32898.m3u8
-#EXTINF:-1 tvg-id="BBC EARTH HD" tvg-name="BBC EARTH HD" group-title="BELGESEL",TR090:BBC Earth HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32979.m3u8
-#EXTINF:-1 tvg-id="BBC EARTH HD" tvg-name="BBC EARTH HD" group-title="BELGESEL",TR162:BBC Earth HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32907.m3u8
-#EXTINF:-1 tvg-id="Turkmax Gurme" tvg-name="Turkmax Gurme" group-title="BELGESEL",TR007:BeIN Gurme HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33062.m3u8
-#EXTINF:-1 tvg-id="Turkmax Gurme" tvg-name="Turkmax Gurme" group-title="BELGESEL",TR170:beIN GURME HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32899.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="BELGESEL",TR028:DMAX 1080P
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33041.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="BELGESEL",TR104:DMAX HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32965.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="BELGESEL",TR228:DMAX FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32841.m3u8
-#EXTINF:-1 tvg-id="TRT Belgesel HD" tvg-name="TRT Belgesel HD" group-title="BELGESEL",TR111:TRT BELGESEL HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32958.m3u8
-#EXTINF:-1 tvg-id="TRT Belgesel HD" tvg-name="TRT Belgesel HD" group-title="BELGESEL",TR133:TRT Belgesel
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32936.m3u8
-#EXTINF:-1 tvg-id="TGRT Belgesel HD" tvg-name="TGRT Belgesel HD" group-title="BELGESEL",TR385:TGRT Belgesel HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32684.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="BELGESEL",TR393:TLC HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32676.m3u8
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="24Kitchen" group-title="BELGESEL",TR138:24 Kitchen HD
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="24Kitchen" group-title="BELGESEL",24 Kitchen HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32931.m3u8
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" group-title="BELGESEL",TR223:Discovery Science HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32846.m3u8
-#EXTINF:-1 tvg-id="Discovery Showcase HD" tvg-name="Discovery Showcase HD" group-title="BELGESEL",TR224:Discovery SHOWCASE HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32845.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="BELGESEL",TR154:ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="BELGESEL",ANIMAL PLANET HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32915.m3u8
-#EXTINF:-1 tvg-id="ID X" tvg-name="ID X" group-title="BELGESEL",TR260:DISCOVERY ID
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32809.m3u8
-#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="BELGESEL",TR058:HISTORY HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33011.m3u8
-#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="BELGESEL",TR259:History Channel HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32810.m3u8
-#EXTINF:-1 tvg-id="DA VINCI LEARNING HD" tvg-name="DA VINCI LEARNING HD" group-title="BELGESEL",TR218:Da Vinci HD
+#EXTINF:-1 tvg-id="BBC EARTH HD" tvg-name="BBC EARTH HD" group-title="BELGESEL",BBC Earth HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32907.m3u8
+#EXTINF:-1 tvg-id="BBC EARTH HD" tvg-name="BBC EARTH HD" group-title="BELGESEL",BBC Earth HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32979.m3u8
+#EXTINF:-1 tvg-id="Turkmax Gurme" tvg-name="Turkmax Gurme" group-title="BELGESEL",BeIN Gurme HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33062.m3u8
+#EXTINF:-1 tvg-id="Turkmax Gurme" tvg-name="Turkmax Gurme" group-title="BELGESEL",beIN GURME HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32899.m3u8
+#EXTINF:-1 tvg-id="İZ TV" tvg-name="İZ TV" group-title="BELGESEL",beIN IZ HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33012.m3u8
+#EXTINF:-1 tvg-id="İZ TV" tvg-name="İZ TV" group-title="BELGESEL",beIN IZ HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32898.m3u8
+#EXTINF:-1 tvg-id="DA VINCI LEARNING HD" tvg-name="DA VINCI LEARNING HD" group-title="BELGESEL",Da Vinci HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32851.m3u8
-#EXTINF:-1 tvg-id="YABAN TV FHD" tvg-name="YABAN TV FHD" group-title="BELGESEL",TR391:YABAN TV FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32678.m3u8
-#EXTINF:-1 tvg-name="TR001:YABAN TV" group-title="BELGESEL",TR001:YABAN TV
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="BELGESEL",Discovery Channel HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32847.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="BELGESEL",DISCOVERY CHANNEL HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32994.m3u8
+#EXTINF:-1 tvg-id="ID X" tvg-name="ID X" group-title="BELGESEL",DISCOVERY ID
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32809.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" group-title="BELGESEL",Discovery Science HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32846.m3u8
+#EXTINF:-1 tvg-id="Discovery Showcase HD" tvg-name="Discovery Showcase HD" group-title="BELGESEL",Discovery SHOWCASE HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32845.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="BELGESEL",DMAX 1080P
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33041.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="BELGESEL",DMAX FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32841.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="BELGESEL",DMAX HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32965.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="BELGESEL",History Channel HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32810.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="BELGESEL",HISTORY HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33011.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" group-title="BELGESEL",NAT GEO HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32746.m3u8
+#EXTINF:-1 tvg-id="Nat Geo People" tvg-name="Nat Geo People" group-title="BELGESEL",NAT GEO PEOPLE FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32745.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" group-title="BELGESEL",NAT GEO Wild HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32744.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" group-title="BELGESEL",NATINOAL GEO WILD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33037.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" group-title="BELGESEL",NATIONAL GEOGRAPHIC HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33038.m3u8
+#EXTINF:-1 tvg-id="TGRT Belgesel HD" tvg-name="TGRT Belgesel HD" group-title="BELGESEL",TGRT Belgesel HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32684.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="BELGESEL",TLC HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32676.m3u8
+#EXTINF:-1 tvg-id="TRT Belgesel HD" tvg-name="TRT Belgesel HD" group-title="BELGESEL",TRT Belgesel
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32936.m3u8
+#EXTINF:-1 tvg-id="TRT Belgesel HD" tvg-name="TRT Belgesel HD" group-title="BELGESEL",TRT BELGESEL HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32958.m3u8
+#EXTINF:-1 tvg-name="YABAN TV" group-title="BELGESEL",YABAN TV
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33068.m3u8
-#EXTINF:-1 tvg-name="TR180:beIN Sports 1 FHD" group-title="SPOR",TR180:beIN Sports 1 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32889.m3u8
-#EXTINF:-1 tvg-name="TR183:beIN Sports 1 HD" group-title="SPOR",TR183:beIN Sports 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32886.m3u8
-#EXTINF:-1 tvg-name="TR184:beIN Sports 2 HD" group-title="SPOR",TR184:beIN Sports 2 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32885.m3u8
-#EXTINF:-1 tvg-name="TR181:beIN Sports 2 FHD" group-title="SPOR",TR181:beIN Sports 2 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32888.m3u8
-#EXTINF:-1 tvg-name="TR185:beIN Sports 3 HD" group-title="SPOR",TR185:beIN Sports 3 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32884.m3u8
-#EXTINF:-1 tvg-name="TR182:beIN Sports 4 FHD" group-title="SPOR",TR182:beIN Sports 4 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32887.m3u8
-#EXTINF:-1 tvg-name="TR186:beIN Sports 4 HD" group-title="SPOR",TR186:beIN Sports 4 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32883.m3u8
-#EXTINF:-1 tvg-name="TR052:Lig tv 2" group-title="SPOR",TR052:Lig tv 2
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33017.m3u8
-#EXTINF:-1 tvg-name="TR053:Lig tv 3" group-title="SPOR",TR053:Lig tv 3
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33016.m3u8
-#EXTINF:-1 tvg-name="TR370:LIG TV 4" group-title="SPOR",TR370:LIG TV 4
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32699.m3u8
-#EXTINF:-1 tvg-name="TR187:beIN Sports FHD" group-title="SPOR",TR187:beIN Sports FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32882.m3u8
-#EXTINF:-1 tvg-name="TR188:beIN Sports Max 1 FHD" group-title="SPOR",TR188:beIN Sports Max 1 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32881.m3u8
-#EXTINF:-1 tvg-name="TR189:beIN Sports Max 2 FHD" group-title="SPOR",TR189:beIN Sports Max 2 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32880.m3u8
-#EXTINF:-1 tvg-name="TR190:beIN Sports HABER HD" group-title="SPOR",TR190:beIN Sports HABER HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32879.m3u8
-#EXTINF:-1 tvg-name="TR191:beIN Sports IZ 1 HD" group-title="SPOR",TR191:beIN Sports IZ 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32878.m3u8
-#EXTINF:-1 tvg-name="TR011:TIVIBUSPOR 1 HD" group-title="SPOR",TR011:TIVIBUSPOR 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33058.m3u8
-#EXTINF:-1 tvg-name="TR012:TIVIBU SPOR 2 HD" group-title="SPOR",TR012:TIVIBU SPOR 2 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33057.m3u8
-#EXTINF:-1 tvg-name="TR010:TIVIBU SPOR 3 HD" group-title="SPOR",TR010:TIVIBU SPOR 3 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33059.m3u8
-#EXTINF:-1 tvg-name="TR389:tivibu spor 1 FHD" group-title="SPOR",TR389:tivibu spor 1 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32680.m3u8
-#EXTINF:-1 tvg-name="TR390:tivibu spor 2 FHD" group-title="SPOR",TR390:tivibu spor 2 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32679.m3u8
-#EXTINF:-1 tvg-name="TR380:TIVIBU SPOR 3 HD" group-title="SPOR",TR380:TIVIBU SPOR 3 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32689.m3u8
-#EXTINF:-1 tvg-name="TR388:TIVIBUSPOR 4 HD" group-title="SPOR",TR388:TIVIBUSPOR 4 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32681.m3u8
-#EXTINF:-1 tvg-name="TR008:TRT SPOR SD/HD" group-title="SPOR",TR008:TRT SPOR SD/HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33061.m3u8
-#EXTINF:-1 tvg-name="TR015:SPORTS TV  HD" group-title="SPOR",TR015:SPORTS TV  HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33054.m3u8
-#EXTINF:-1 tvg-name="TR016:SPOR SMART" group-title="SPOR",TR016:SPOR SMART
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33053.m3u8
-#EXTINF:-1 tvg-name="TR017:S SPORT HD(1)" group-title="SPOR",TR017:S SPORT HD(1)
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33052.m3u8
-#EXTINF:-1 tvg-name="TR067:EURO SPORT2 HD" group-title="SPOR",TR067:EURO SPORT2 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33002.m3u8
-#EXTINF:-1 tvg-name="TR068:EUROSPORT HD" group-title="SPOR",TR068:EUROSPORT HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33001.m3u8
-#EXTINF:-1 tvg-name="TR091:A SPOR HD ( 1080P )" group-title="SPOR",TR091:A SPOR HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32978.m3u8
-#EXTINF:-1 tvg-name="TR143:A SPORT FHD" group-title="SPOR",TR143:A SPORT FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32926.m3u8
-#EXTINF:-1 tvg-name="TR236:EUROSPORT 1 HD" group-title="SPOR",TR236:EUROSPORT 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32833.m3u8
-#EXTINF:-1 tvg-name="TR237:EUROSPORT 2 HD" group-title="SPOR",TR237:EUROSPORT 2 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32832.m3u8
-#EXTINF:-1 tvg-name="TR240:FB TV HD" group-title="SPOR",TR240:FB TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32829.m3u8
-#EXTINF:-1 tvg-name="TR061:GSTV HD" group-title="SPOR",TR061:GSTV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33008.m3u8
-#EXTINF:-1 tvg-name="TR326:NBA TV FHD" group-title="SPOR",TR326:NBA TV FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32743.m3u8
-#EXTINF:-1 tvg-name="TR342:S-Sports FHD" group-title="SPOR",TR342:S-Sports FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32727.m3u8
-#EXTINF:-1 tvg-name="TR392:TJK TV" group-title="SPOR",TR392:TJK TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32677.m3u8
-#EXTINF:-1 tvg-name="TR087:A SPOR HD" group-title="SPOR",TR087:A SPOR HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32982.m3u8
-#EXTINF:-1 tvg-name="TR113:TRT SPOR HD ( 1080P )" group-title="SPOR",TR113:TRT SPOR HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32956.m3u8
-#EXTINF:-1 tvg-name="TR123:SPORTS TV HD" group-title="SPOR",TR123:SPORTS TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32946.m3u8
-#EXTINF:-1 tvg-name="TR136:Turkish Bein Sports 1" group-title="SPOR",TR136:Turkish Bein Sports 1
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32933.m3u8
-#EXTINF:-1 tvg-name="TR284:A SPOR" group-title="SPOR",TR284:A SPOR
+#EXTINF:-1 tvg-id="YABAN TV FHD" tvg-name="YABAN TV FHD" group-title="BELGESEL",YABAN TV FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32678.m3u8
+#EXTINF:-1 tvg-name="A SPOR" group-title="SPOR",A SPOR
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32785.m3u8
-#EXTINF:-1 tvg-name="TR065:FB TV HD" group-title="SPOR",TR065:FB TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33004.m3u8
-#EXTINF:-1 tvg-name="TR346:SARAN SPORT HD" group-title="SPOR",TR346:SARAN SPORT HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32723.m3u8
-#EXTINF:-1 tvg-name="TR369:SMART SPOR 1 HD" group-title="SPOR",TR369:SMART SPOR 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32700.m3u8
-#EXTINF:-1 tvg-name="TR395:TRT 3 SPOR FHD" group-title="SPOR",TR395:TRT 3 SPOR FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32674.m3u8
-#EXTINF:-1 tvg-id="CNN TÜRK HD" tvg-name="CNN TÜRK HD" group-title="HABER",TR076:CNN TURK HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32993.m3u8
-#EXTINF:-1 tvg-id="CNN TÜRK HD" tvg-name="TR132:CNN" group-title="HABER",TR132:CNN
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32937.m3u8
-#EXTINF:-1 tvg-id="CNN TÜRK HD" tvg-name="TR216:CNN TURK FHD" group-title="HABER",TR216:CNN TURK FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32853.m3u8
-#EXTINF:-1 tvg-id="CNN TÜRK HD" tvg-name="TR097:CNN TüRK HD ( 1080P )" group-title="HABER",TR097:CNN TüRK HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32972.m3u8
-#EXTINF:-1 tvg-id="NTV HD" tvg-name="TR103:NTV HD ( 1080P )" group-title="HABER",TR103:NTV HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32966.m3u8
-#EXTINF:-1 tvg-name="TR088:A HABER HD" group-title="HABER",TR088:A HABER HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32981.m3u8
-#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="TR060:HABER TURK" group-title="HABER",TR060:HABER TURK
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33009.m3u8
-#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="TR099:HABER TüRK HD ( 1080P )" group-title="HABER",TR099:HABER TüRK HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32970.m3u8
-#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="TR256:HABER TURK FHD" group-title="HABER",TR256:HABER TURK FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32813.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERG HT HD" tvg-name="TR081:BLOOMBERG HD" group-title="HABER",TR081:BLOOMBERG HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32988.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERG HT HD" tvg-name="TR198:BLOOMBERG HT FHD" group-title="HABER",TR198:BLOOMBERG HT FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32871.m3u8
-#EXTINF:-1 tvg-name="TR255:HABER GLOBAL HD" group-title="HABER",TR255:HABER GLOBAL HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32814.m3u8
-#EXTINF:-1 tvg-name="TR140:A HABER FHD" group-title="HABER",TR140:A HABER FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32929.m3u8
-#EXTINF:-1 tvg-name="TR141:A News HD" group-title="HABER",TR141:A News HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32928.m3u8
-#EXTINF:-1 tvg-name="TR120:TRT WORLD" group-title="HABER",TR120:TRT WORLD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32949.m3u8
-#EXTINF:-1 tvg-id="TRT HABER HD" tvg-name="TR361:TRT Haber HD" group-title="HABER",TR361:TRT Haber HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32708.m3u8
-#EXTINF:-1 tvg-name="TR003:TV8 HD" group-title="ULUSAL",TR003:TV8 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33066.m3u8
-#EXTINF:-1 tvg-name="TR318:TV8 FHD" group-title="ULUSAL",TR318:TV8 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32751.m3u8
-#EXTINF:-1 tvg-name="TR115:TV 8 HD ( 1080P )" group-title="ULUSAL",TR115:TV 8 HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32954.m3u8
-#EXTINF:-1 tvg-name="TR014:STAR TV HD" group-title="ULUSAL",TR014:STAR TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33055.m3u8
-#EXTINF:-1 tvg-name="TR109:STAR HD ( 1080P )" group-title="ULUSAL",TR109:STAR HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32960.m3u8
-#EXTINF:-1 tvg-name="TR377:STAR TV FHD" group-title="ULUSAL",TR377:STAR TV FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32692.m3u8
-#EXTINF:-1 tvg-name="TR019:SHOW HD" group-title="ULUSAL",TR019:SHOW HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33050.m3u8
-#EXTINF:-1 tvg-name="TR108:SHOW HD ( 1080P )" group-title="ULUSAL",TR108:SHOW HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32961.m3u8
-#EXTINF:-1 tvg-name="TR353:SHOW TV FHD" group-title="ULUSAL",TR353:SHOW TV FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32716.m3u8
-#EXTINF:-1 tvg-name="TR059:HALK TV" group-title="ULUSAL",TR059:HALK TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33010.m3u8
-#EXTINF:-1 tvg-name="TR086:ATV HD" group-title="ULUSAL",TR086:ATV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32983.m3u8
-#EXTINF:-1 tvg-name="TR092:ATV HD ( 1080P )" group-title="ULUSAL",TR092:ATV HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32977.m3u8
-#EXTINF:-1 tvg-name="TR158:ATV FHD" group-title="ULUSAL",TR158:ATV FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32911.m3u8
-#EXTINF:-1 tvg-name="TR062:FOX TV HD" group-title="ULUSAL",TR062:FOX TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33007.m3u8
-#EXTINF:-1 tvg-name="TR098:FOX HD ( 1080P )" group-title="ULUSAL",TR098:FOX HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32971.m3u8
-#EXTINF:-1 tvg-name="TR249:FOX FHD" group-title="ULUSAL",TR249:FOX FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32820.m3u8
-#EXTINF:-1 tvg-name="TR101:KANAL D HD ( 1080P )" group-title="ULUSAL",TR101:KANAL D HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32968.m3u8
-#EXTINF:-1 tvg-name="TR351:SHOW MAX HD" group-title="ULUSAL",TR351:SHOW MAX HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32718.m3u8
-#EXTINF:-1 tvg-name="TR352:Show Turk TV" group-title="ULUSAL",TR352:Show Turk TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32717.m3u8
-#EXTINF:-1 tvg-name="TR116:TVNET HD ( 1080P )" group-title="ULUSAL",TR116:TVNET HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32953.m3u8
-#EXTINF:-1 tvg-name="TR394:TRT 1 FHD" group-title="ULUSAL",TR394:TRT 1 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32675.m3u8
-#EXTINF:-1 tvg-name="TR119:TRT 1 HD" group-title="ULUSAL",TR119:TRT 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32950.m3u8
-#EXTINF:-1 tvg-name="TR121:TRT TüRK" group-title="ULUSAL",TR121:TRT TüRK
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32948.m3u8
-#EXTINF:-1 tvg-name="TR122:TRT Turk" group-title="ULUSAL",TR122:TRT Turk
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32947.m3u8
-#EXTINF:-1 tvg-name="TR125:TRT OKUL" group-title="ULUSAL",TR125:TRT OKUL
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32944.m3u8
-#EXTINF:-1 tvg-name="TR004:TV5" group-title="ULUSAL",TR004:TV5
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33065.m3u8
-#EXTINF:-1 tvg-name="TR114:TV 2 HD ( 1080P )" group-title="ULUSAL",TR114:TV 2 HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32955.m3u8
-#EXTINF:-1 tvg-name="TR005:TV2 HD" group-title="ULUSAL",TR005:TV2 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33064.m3u8
-#EXTINF:-1 tvg-name="TR110:TEVE 2 HD ( 1080P )" group-title="ULUSAL",TR110:TEVE 2 HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32959.m3u8
-#EXTINF:-1 tvg-name="TR383:Teve 2 FHD" group-title="ULUSAL",TR383:Teve 2 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32686.m3u8
-#EXTINF:-1 tvg-name="TR006:TV NET" group-title="ULUSAL",TR006:TV NET
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33063.m3u8
-#EXTINF:-1 tvg-name="TR009:360 TV" group-title="ULUSAL",TR009:360 TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33060.m3u8
-#EXTINF:-1 tvg-name="TR018:SKY TURK 360" group-title="ULUSAL",TR018:SKY TURK 360
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33051.m3u8
-#EXTINF:-1 tvg-name="TR020:SEMERKAND" group-title="ULUSAL",TR020:SEMERKAND
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33049.m3u8
-#EXTINF:-1 tvg-name="TR248:FOX CRIME HD" group-title="ULUSAL",TR248:FOX CRIME HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32821.m3u8
-#EXTINF:-1 tvg-name="TR250:Fox Life HD" group-title="ULUSAL",TR250:Fox Life HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32819.m3u8
-#EXTINF:-1 tvg-name="TR251:FX HD" group-title="ULUSAL",TR251:FX HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32818.m3u8
-#EXTINF:-1 tvg-name="TR089:A2 TV" group-title="ULUSAL",TR089:A2 TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32980.m3u8
-#EXTINF:-1 tvg-name="TR367:Sky Turk 360" group-title="ULUSAL",TR367:Sky Turk 360
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32702.m3u8
-#EXTINF:-1 tvg-name="TR376:Star TV Euro" group-title="ULUSAL",TR376:Star TV Euro
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32693.m3u8
-#EXTINF:-1 tvg-name="TR382:TELE 1 HD TR" group-title="ULUSAL",TR382:TELE 1 HD TR
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32687.m3u8
-#EXTINF:-1 tvg-name="TR396:TRT 4K" group-title="ULUSAL",TR396:TRT 4K
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32673.m3u8
-#EXTINF:-1 tvg-name="TR021:bEIN BOX OFFICE 2 HD" group-title="CINEMA",TR021:bEIN BOX OFFICE 2 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33048.m3u8
-#EXTINF:-1 tvg-name="TR022:SALON 1 HD" group-title="CINEMA",TR022:SALON 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33047.m3u8
-#EXTINF:-1 tvg-name="TR033:Moviesmart Turk" group-title="CINEMA",TR033:Moviesmart Turk
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33036.m3u8
-#EXTINF:-1 tvg-name="TR034:Moviesmart Premium 2" group-title="CINEMA",TR034:Moviesmart Premium 2
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33035.m3u8
-#EXTINF:-1 tvg-name="TR035:Moviesmart Premium" group-title="CINEMA",TR035:Moviesmart Premium
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33034.m3u8
-#EXTINF:-1 tvg-name="TR036:Moviesmart Platin 2" group-title="CINEMA",TR036:Moviesmart Platin 2
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33033.m3u8
-#EXTINF:-1 tvg-name="TR037:Moviesmart Platin" group-title="CINEMA",TR037:Moviesmart Platin
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33032.m3u8
-#EXTINF:-1 tvg-name="TR038:Moviesmart Gold" group-title="CINEMA",TR038:Moviesmart Gold
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33031.m3u8
-#EXTINF:-1 tvg-name="TR039:Moviesmart Fest" group-title="CINEMA",TR039:Moviesmart Fest
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33030.m3u8
-#EXTINF:-1 tvg-name="TR040:Moviesmart Family" group-title="CINEMA",TR040:Moviesmart Family
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33029.m3u8
-#EXTINF:-1 tvg-name="TR041:Moviesmart Classic" group-title="CINEMA",TR041:Moviesmart Classic
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33028.m3u8
-#EXTINF:-1 tvg-name="TR042:Moviesmart Action" group-title="CINEMA",TR042:Moviesmart Action
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33027.m3u8
-#EXTINF:-1 tvg-name="TR043:MOVIEMAX TURK HD" group-title="CINEMA",TR043:MOVIEMAX TURK HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33026.m3u8
-#EXTINF:-1 tvg-name="TR044:Moviemax Stars" group-title="CINEMA",TR044:Moviemax Stars
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33025.m3u8
-#EXTINF:-1 tvg-name="TR045:beIN SERIES DRAMA" group-title="CINEMA",TR045:beIN SERIES DRAMA
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33024.m3u8
-#EXTINF:-1 tvg-name="TR046:Moviemax Fest" group-title="CINEMA",TR046:Moviemax Fest
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33023.m3u8
-#EXTINF:-1 tvg-name="TR049:LOCA 3HD" group-title="CINEMA",TR049:LOCA 3HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33020.m3u8
-#EXTINF:-1 tvg-name="TR050:LOCA 2HD" group-title="CINEMA",TR050:LOCA 2HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33019.m3u8
-#EXTINF:-1 tvg-name="TR051:LOCA 1HD" group-title="CINEMA",TR051:LOCA 1HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33018.m3u8
-#EXTINF:-1 tvg-name="TR077:CINESTAR VIZYON 3" group-title="CINEMA",TR077:CINESTAR VIZYON 3
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32992.m3u8
-#EXTINF:-1 tvg-name="TR078:CINESTAR VIZYON 2" group-title="CINEMA",TR078:CINESTAR VIZYON 2
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32991.m3u8
-#EXTINF:-1 tvg-name="TR079:CINESTAR VIZYON 1" group-title="CINEMA",TR079:CINESTAR VIZYON 1
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32990.m3u8
-#EXTINF:-1 tvg-name="TR064:FIL TV HD" group-title="CINEMA",TR064:FIL TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33005.m3u8
-#EXTINF:-1 tvg-name="TR093:beIN Movies Comedy HD" group-title="CINEMA",TR093:beIN Movies Comedy HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32976.m3u8
-#EXTINF:-1 tvg-name="TR094:beIN Movies Stars HD" group-title="CINEMA",TR094:beIN Movies Stars HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32975.m3u8
-#EXTINF:-1 tvg-name="TR095:beIN Movies Turk" group-title="CINEMA",TR095:beIN Movies Turk
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32974.m3u8
-#EXTINF:-1 tvg-name="TR145:beIN MOVIES FAMILY" group-title="CINEMA",TR145:beIN MOVIES FAMILY
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32924.m3u8
-#EXTINF:-1 tvg-name="TR164:beIN MOVIES ACTION 2" group-title="CINEMA",TR164:beIN MOVIES ACTION 2
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32905.m3u8
-#EXTINF:-1 tvg-name="TR165:beIN 3 FHD" group-title="CINEMA",TR165:beIN 3 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32904.m3u8
-#EXTINF:-1 tvg-name="TR166:beIN Box Office 1 HD" group-title="CINEMA",TR166:beIN Box Office 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32903.m3u8
-#EXTINF:-1 tvg-name="TR167:beIN Box Office 2 HD" group-title="CINEMA",TR167:beIN Box Office 2 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32902.m3u8
-#EXTINF:-1 tvg-name="TR168:beIN BOX Office 3 HD" group-title="CINEMA",TR168:beIN BOX Office 3 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32901.m3u8
-#EXTINF:-1 tvg-name="TR169:beIN BOX OFFICE Turk HD" group-title="CINEMA",TR169:beIN BOX OFFICE Turk HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32900.m3u8
-#EXTINF:-1 tvg-name="TR172:beIN Movies Action FHD" group-title="CINEMA",TR172:beIN Movies Action FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32897.m3u8
-#EXTINF:-1 tvg-name="TR173:beIN Movies HD Stars FHD" group-title="CINEMA",TR173:beIN Movies HD Stars FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32896.m3u8
-#EXTINF:-1 tvg-name="TR174:beIN Movies Premiere 2 FHD" group-title="CINEMA",TR174:beIN Movies Premiere 2 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32895.m3u8
-#EXTINF:-1 tvg-name="TR175:beIN Movies Premiere FHD" group-title="CINEMA",TR175:beIN Movies Premiere FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32894.m3u8
-#EXTINF:-1 tvg-name="TR176:beIN Movies Turk FHD" group-title="CINEMA",TR176:beIN Movies Turk FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32893.m3u8
-#EXTINF:-1 tvg-name="TR177:beIN Series Comedy FHD" group-title="CINEMA",TR177:beIN Series Comedy FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32892.m3u8
-#EXTINF:-1 tvg-name="TR178:beIN Series Sci-Fi FHD" group-title="CINEMA",TR178:beIN Series Sci-Fi FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32891.m3u8
-#EXTINF:-1 tvg-name="TR179:beIN Series Vice FHD" group-title="CINEMA",TR179:beIN Series Vice FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32890.m3u8
-#EXTINF:-1 tvg-name="TR209:SINEMA TV AILE" group-title="CINEMA",TR209:SINEMA TV AILE
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32860.m3u8
-#EXTINF:-1 tvg-name="TR210:NEXTBOX GERILIM" group-title="CINEMA",TR210:NEXTBOX GERILIM
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32859.m3u8
-#EXTINF:-1 tvg-name="TR211:SiNEMA TV KOMEDi" group-title="CINEMA",TR211:SiNEMA TV KOMEDi
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32858.m3u8
-#EXTINF:-1 tvg-name="TR212:NEXTBOX  ViZYON" group-title="CINEMA",TR212:NEXTBOX  ViZYON
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32857.m3u8
-#EXTINF:-1 tvg-name="TR213:NEXTBOX PREMiER" group-title="CINEMA",TR213:NEXTBOX PREMiER
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32856.m3u8
-#EXTINF:-1 tvg-name="TR214:NEXTBOX  STARS" group-title="CINEMA",TR214:NEXTBOX  STARS
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32855.m3u8
-#EXTINF:-1 tvg-name="TR215:SLTV YESILCAM 2" group-title="CINEMA",TR215:SLTV YESILCAM 2
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32854.m3u8
-#EXTINF:-1 tvg-name="TR203:Captain Movies 2" group-title="CINEMA",TR203:Captain Movies 2
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32866.m3u8
-#EXTINF:-1 tvg-name="TR204:Captain Movies 3" group-title="CINEMA",TR204:Captain Movies 3
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32865.m3u8
-#EXTINF:-1 tvg-name="TR296:SINEMA AKSiYON" group-title="CINEMA",TR296:SINEMA AKSiYON
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32773.m3u8
-#EXTINF:-1 tvg-name="TR297:NEXTBOX CINEMA ANIMASYON" group-title="CINEMA",TR297:NEXTBOX CINEMA ANIMASYON
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32772.m3u8
-#EXTINF:-1 tvg-name="TR298:SiNEMA KOMEDi HD" group-title="CINEMA",TR298:SiNEMA KOMEDi HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32771.m3u8
-#EXTINF:-1 tvg-name="TR299:SLTV KOMEDI HD" group-title="CINEMA",TR299:SLTV KOMEDI HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32770.m3u8
-#EXTINF:-1 tvg-name="TR300:SLTV GOLD HD" group-title="CINEMA",TR300:SLTV GOLD HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32769.m3u8
-#EXTINF:-1 tvg-name="TR310:Movie Smart Family HD" group-title="CINEMA",TR310:Movie Smart Family HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32759.m3u8
-#EXTINF:-1 tvg-name="TR311:Movie Smart Fest FHD" group-title="CINEMA",TR311:Movie Smart Fest FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32758.m3u8
-#EXTINF:-1 tvg-name="TR312:Movie smart Gold HD" group-title="CINEMA",TR312:Movie smart Gold HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32757.m3u8
-#EXTINF:-1 tvg-name="TR313:Movie smart Platin 2 FHD" group-title="CINEMA",TR313:Movie smart Platin 2 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32756.m3u8
-#EXTINF:-1 tvg-name="TR314:Movie smart Platin HD" group-title="CINEMA",TR314:Movie smart Platin HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32755.m3u8
-#EXTINF:-1 tvg-name="TR315:MOVIE SMART PREMIUM 1 HD" group-title="CINEMA",TR315:MOVIE SMART PREMIUM 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32754.m3u8
-#EXTINF:-1 tvg-name="TR316:Movie Smart Premium 2 HD" group-title="CINEMA",TR316:Movie Smart Premium 2 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32753.m3u8
-#EXTINF:-1 tvg-name="TR322:MOVIESMART ACT" group-title="CINEMA",TR322:MOVIESMART ACT
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32747.m3u8
-#EXTINF:-1 tvg-name="TR327:YESiLCAM TV HD" group-title="CINEMA",TR327:YESiLCAM TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32742.m3u8
-#EXTINF:-1 tvg-name="TR343:Salon 1 HD" group-title="CINEMA",TR343:Salon 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32726.m3u8
-#EXTINF:-1 tvg-name="TR344:Salon 2 HD" group-title="CINEMA",TR344:Salon 2 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32725.m3u8
-#EXTINF:-1 tvg-name="TR345:Salon 3 HD" group-title="CINEMA",TR345:Salon 3 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32724.m3u8
-#EXTINF:-1 tvg-name="TR348:Science & VIE TV" group-title="CINEMA",TR348:Science & VIE TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32721.m3u8
-#EXTINF:-1 tvg-name="TR349:Science et Vie HD" group-title="CINEMA",TR349:Science et Vie HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32720.m3u8
-#EXTINF:-1 tvg-name="TR354:SINEMA 1001 HD" group-title="CINEMA",TR354:SINEMA 1001 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32715.m3u8
-#EXTINF:-1 tvg-name="TR355:SINEMA AILE HD" group-title="CINEMA",TR355:SINEMA AILE HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32714.m3u8
-#EXTINF:-1 tvg-name="TR356:SINEMA AKSIYON HD" group-title="CINEMA",TR356:SINEMA AKSIYON HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32713.m3u8
-#EXTINF:-1 tvg-name="TR357:SINEMA HD" group-title="CINEMA",TR357:SINEMA HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32712.m3u8
-#EXTINF:-1 tvg-name="TR358:Sinema Komedi HD" group-title="CINEMA",TR358:Sinema Komedi HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32711.m3u8
-#EXTINF:-1 tvg-name="TR359:SINEMA TV 1 HD" group-title="CINEMA",TR359:SINEMA TV 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32710.m3u8
-#EXTINF:-1 tvg-name="TR360:Sinema Yerli HD" group-title="CINEMA",TR360:Sinema Yerli HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32709.m3u8
-#EXTINF:-1 tvg-name="TR320:MOVIESINEMA AKSIYON HD" group-title="CINEMA",TR320:MOVIESINEMA AKSIYON HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32749.m3u8
-#EXTINF:-1 tvg-name="TR362:SINEMATV YERLI HD" group-title="CINEMA",TR362:SINEMATV YERLI HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32707.m3u8
-#EXTINF:-1 tvg-name="TR363:SINEMA DRAMA 1 HD" group-title="CINEMA",TR363:SINEMA DRAMA 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32706.m3u8
-#EXTINF:-1 tvg-name="TR364:SINEMA DRAMA 2 HD" group-title="CINEMA",TR364:SINEMA DRAMA 2 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32705.m3u8
-#EXTINF:-1 tvg-name="TR365:SiNEMAX TURK HD" group-title="CINEMA",TR365:SiNEMAX TURK HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32704.m3u8
-#EXTINF:-1 tvg-name="TR366:SINEMA TURK 2" group-title="CINEMA",TR366:SINEMA TURK 2
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32703.m3u8
-#EXTINF:-1 tvg-name="TR238:SLTV KEMAL SUNAL 1" group-title="CINEMA",TR238:SLTV KEMAL SUNAL 1
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32831.m3u8
-#EXTINF:-1 tvg-name="TR239:SLTV KEMAL SUNAL 2" group-title="CINEMA",TR239:SLTV KEMAL SUNAL 2
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32830.m3u8
-#EXTINF:-1 tvg-name="TR241:SLTV PREMIUM HD" group-title="CINEMA",TR241:SLTV PREMIUM HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32828.m3u8
-#EXTINF:-1 tvg-name="TR242:NEXTBOX NOSTALJI" group-title="CINEMA",TR242:NEXTBOX NOSTALJI
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32827.m3u8
-#EXTINF:-1 tvg-name="TR244:MOVIEMAX PREMIER" group-title="CINEMA",TR244:MOVIEMAX PREMIER
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32825.m3u8
-#EXTINF:-1 tvg-name="TR245:MOVIEMAX YESILCAM" group-title="CINEMA",TR245:MOVIEMAX YESILCAM
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32824.m3u8
-#EXTINF:-1 tvg-name="TR246:MOVIEMAX HORROR" group-title="CINEMA",TR246:MOVIEMAX HORROR
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32823.m3u8
-#EXTINF:-1 tvg-name="TR247:MOVIEMAX KOMEDI FHD" group-title="CINEMA",TR247:MOVIEMAX KOMEDI FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32822.m3u8
-#EXTINF:-1 tvg-name="TR272:KEMAL SUNAL HD" group-title="CINEMA",TR272:KEMAL SUNAL HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32797.m3u8
-#EXTINF:-1 tvg-name="TR274:NEXTBOX ANIMASYON" group-title="CINEMA",TR274:NEXTBOX ANIMASYON
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32795.m3u8
-#EXTINF:-1 tvg-name="TR221:FIBERBOX  ANIMASYON" group-title="CINEMA",TR221:FIBERBOX  ANIMASYON
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32848.m3u8
-#EXTINF:-1 tvg-name="TR227:DIZI SMART PREMIUM HD" group-title="CINEMA",TR227:DIZI SMART PREMIUM HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32842.m3u8
-#EXTINF:-1 tvg-name="TR023:CARTOON NETWORK HD" group-title="Turkey",TR023:CARTOON NETWORK HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33046.m3u8
-#EXTINF:-1 tvg-name="TR024:POWER TURK HD" group-title="Turkey",TR024:POWER TURK HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33045.m3u8
-#EXTINF:-1 tvg-name="TR025:PLANET TURK" group-title="Turkey",TR025:PLANET TURK
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33044.m3u8
-#EXTINF:-1 tvg-name="TR026:PLANET COCUK" group-title="Turkey",TR026:PLANET COCUK
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33043.m3u8
-#EXTINF:-1 tvg-name="TR027:NUMBER 1 HD" group-title="Turkey",TR027:NUMBER 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33042.m3u8
-#EXTINF:-1 tvg-name="TR029:NICKELODEON" group-title="Turkey",TR029:NICKELODEON
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33040.m3u8
-#EXTINF:-1 tvg-name="TR030:NICKELODEON HD" group-title="Turkey",TR030:NICKELODEON HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33039.m3u8
-#EXTINF:-1 tvg-name="TR047:MINIKA GO" group-title="Turkey",TR047:MINIKA GO
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33022.m3u8
-#EXTINF:-1 tvg-name="TR054:KRAL POP TV" group-title="Turkey",TR054:KRAL POP TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33015.m3u8
-#EXTINF:-1 tvg-name="TR055:KRAL" group-title="Turkey",TR055:KRAL
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33014.m3u8
-#EXTINF:-1 tvg-name="TR069:DREAM TV" group-title="Turkey",TR069:DREAM TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33000.m3u8
-#EXTINF:-1 tvg-name="TR070:DREAM TURK TV" group-title="Turkey",TR070:DREAM TURK TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32999.m3u8
-#EXTINF:-1 tvg-name="TR072:DISNEY XD / DUCK" group-title="Turkey",TR072:DISNEY XD / DUCK
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32997.m3u8
-#EXTINF:-1 tvg-name="TR073:DISNEY JR" group-title="Turkey",TR073:DISNEY JR
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32996.m3u8
-#EXTINF:-1 tvg-name="TR074:DISNEY CHANNEL" group-title="Turkey",TR074:DISNEY CHANNEL
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32995.m3u8
-#EXTINF:-1 tvg-name="TR085:BABY TV" group-title="Turkey",TR085:BABY TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32984.m3u8
-#EXTINF:-1 tvg-name="TR102:NR 1 HD ( 1080P )" group-title="Turkey",TR102:NR 1 HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32967.m3u8
-#EXTINF:-1 tvg-name="TR105:POWER HD ( 1080P )" group-title="Turkey",TR105:POWER HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32964.m3u8
-#EXTINF:-1 tvg-name="TR106:POWER TüRK HD ( 1080P )" group-title="Turkey",TR106:POWER TüRK HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32963.m3u8
-#EXTINF:-1 tvg-name="TR107:SEMERKAND TV HD ( 1080P )" group-title="Turkey",TR107:SEMERKAND TV HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32962.m3u8
-#EXTINF:-1 tvg-name="TR112:TRT HABER HD ( 1080P )" group-title="Turkey",TR112:TRT HABER HD ( 1080P )
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32957.m3u8
-#EXTINF:-1 tvg-name="TR118:TRT COCUKHD" group-title="Turkey",TR118:TRT COCUKHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32951.m3u8
-#EXTINF:-1 tvg-name="TR124:Power Turk" group-title="Turkey",TR124:Power Turk
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32945.m3u8
-#EXTINF:-1 tvg-name="TR126:TRT MUZIK" group-title="Turkey",TR126:TRT MUZIK
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32943.m3u8
-#EXTINF:-1 tvg-name="TR127:Haber Turk" group-title="Turkey",TR127:Haber Turk
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32942.m3u8
-#EXTINF:-1 tvg-name="TR128:TRT HABER HD" group-title="Turkey",TR128:TRT HABER HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32941.m3u8
-#EXTINF:-1 tvg-name="TR129:TGRT Haber" group-title="Turkey",TR129:TGRT Haber
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32940.m3u8
-#EXTINF:-1 tvg-name="TR130:TRT DIYANET" group-title="Turkey",TR130:TRT DIYANET
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32939.m3u8
-#EXTINF:-1 tvg-name="TR131:Minika Cocuk(1)" group-title="Turkey",TR131:Minika Cocuk(1)
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32938.m3u8
-#EXTINF:-1 tvg-name="TR134:TRT AVAZ" group-title="Turkey",TR134:TRT AVAZ
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32935.m3u8
-#EXTINF:-1 tvg-name="TR135:TRT ARAPCA" group-title="Turkey",TR135:TRT ARAPCA
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32934.m3u8
-#EXTINF:-1 tvg-name="TR137:24 HABER" group-title="Turkey",TR137:24 HABER
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32932.m3u8
-#EXTINF:-1 tvg-name="TR139:360 HD" group-title="Turkey",TR139:360 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32930.m3u8
-#EXTINF:-1 tvg-name="TR144:A2 FHD" group-title="Turkey",TR144:A2 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32925.m3u8
-#EXTINF:-1 tvg-name="TR146:AKILLI TAVSAN MOMO TV" group-title="Turkey",TR146:AKILLI TAVSAN MOMO TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32923.m3u8
-#EXTINF:-1 tvg-name="TR160:Baby TV HD" group-title="Turkey",TR160:Baby TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32909.m3u8
-#EXTINF:-1 tvg-name="TR161:Ballkan TV" group-title="Turkey",TR161:Ballkan TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32908.m3u8
-#EXTINF:-1 tvg-name="TR163:TV 8,5" group-title="Turkey",5
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32906.m3u8
-#EXTINF:-1 tvg-name="TR192:A PARA HD" group-title="Turkey",TR192:A PARA HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32877.m3u8
-#EXTINF:-1 tvg-name="TR193:TV 5 HD" group-title="Turkey",TR193:TV 5 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32876.m3u8
-#EXTINF:-1 tvg-name="TR195:BEiN BOX OFF" group-title="Turkey",TR195:BEiN BOX OFF
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32874.m3u8
-#EXTINF:-1 tvg-name="TR196:BEYAZ FHD" group-title="Turkey",TR196:BEYAZ FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32873.m3u8
-#EXTINF:-1 tvg-name="TR197:ASPOR HD" group-title="Turkey",TR197:ASPOR HD
+#EXTINF:-1 tvg-name="A SPOR HD" group-title="SPOR",A SPOR HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32978.m3u8
+#EXTINF:-1 tvg-name="A SPOR HD" group-title="SPOR",A SPOR HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32982.m3u8
+#EXTINF:-1 tvg-name="A SPORT FHD" group-title="SPOR",A SPORT FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32926.m3u8
+#EXTINF:-1 tvg-name="ASPOR HD" group-title="SPOR",ASPOR HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32872.m3u8
-#EXTINF:-1 tvg-name="TR199:BABYF" group-title="Turkey",TR199:BABYF
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32870.m3u8
-#EXTINF:-1 tvg-name="TR200:BRUKSEL TURK TV" group-title="Turkey",TR200:BRUKSEL TURK TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32869.m3u8
-#EXTINF:-1 tvg-name="TR201:BURSA TV HD" group-title="Turkey",TR201:BURSA TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32868.m3u8
-#EXTINF:-1 tvg-name="TR202:MERKEZ TV(Bolu)" group-title="Turkey",TR202:MERKEZ TV(Bolu)
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32867.m3u8
-#EXTINF:-1 tvg-name="TR205:Cartoon Network HD" group-title="Turkey",TR205:Cartoon Network HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32864.m3u8
-#EXTINF:-1 tvg-name="TR206:Diyar tv" group-title="Turkey",TR206:Diyar tv
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32863.m3u8
-#EXTINF:-1 tvg-name="TR207:Cem TV" group-title="Turkey",TR207:Cem TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32862.m3u8
-#EXTINF:-1 tvg-name="TR208:Ciftci TV" group-title="Turkey",TR208:Ciftci TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32861.m3u8
-#EXTINF:-1 tvg-name="TR217:TV 4 HD" group-title="Turkey",TR217:TV 4 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32852.m3u8
-#EXTINF:-1 tvg-name="TR219:SL Kukuli TV" group-title="Turkey",TR219:SL Kukuli TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32850.m3u8
-#EXTINF:-1 tvg-name="TR220:SL Niloya TV" group-title="Turkey",TR220:SL Niloya TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32849.m3u8
-#EXTINF:-1 tvg-name="TR225:Disney Channel HD" group-title="Turkey",TR225:Disney Channel HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32844.m3u8
-#EXTINF:-1 tvg-name="TR226:DISNEY JR HD" group-title="Turkey",TR226:DISNEY JR HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32843.m3u8
-#EXTINF:-1 tvg-name="TR229:SL Pepee TV" group-title="Turkey",TR229:SL Pepee TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32840.m3u8
-#EXTINF:-1 tvg-name="TR230:Dost TV" group-title="Turkey",TR230:Dost TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32839.m3u8
-#EXTINF:-1 tvg-name="TR231:DREAM TV HD" group-title="Turkey",TR231:DREAM TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32838.m3u8
-#EXTINF:-1 tvg-name="TR232:Edessa TV" group-title="Turkey",TR232:Edessa TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32837.m3u8
-#EXTINF:-1 tvg-name="TR233:Ege Turk TV" group-title="Turkey",TR233:Ege Turk TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32836.m3u8
-#EXTINF:-1 tvg-name="TR234:Euro D HD TR" group-title="Turkey",TR234:Euro D HD TR
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32835.m3u8
-#EXTINF:-1 tvg-name="TR235:Euro Star" group-title="Turkey",TR235:Euro Star
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32834.m3u8
-#EXTINF:-1 tvg-name="TR243:TV8.5 HD" group-title="Turkey",TR243:TV8.5 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32826.m3u8
-#EXTINF:-1 tvg-name="TR252:GS TV HD" group-title="Turkey",TR252:GS TV HD
+#EXTINF:-1 tvg-name="beIN Sports 1 FHD" group-title="SPOR",beIN Sports 1 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32889.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1 HD" group-title="SPOR",beIN Sports 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32886.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 2 FHD" group-title="SPOR",beIN Sports 2 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32888.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 2 HD" group-title="SPOR",beIN Sports 2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32885.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 3 HD" group-title="SPOR",beIN Sports 3 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32884.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 4 FHD" group-title="SPOR",beIN Sports 4 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32887.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 4 HD" group-title="SPOR",beIN Sports 4 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32883.m3u8
+#EXTINF:-1 tvg-name="beIN Sports FHD" group-title="SPOR",beIN Sports FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32882.m3u8
+#EXTINF:-1 tvg-name="beIN Sports HABER HD" group-title="SPOR",beIN Sports HABER HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32879.m3u8
+#EXTINF:-1 tvg-name="beIN Sports IZ 1 HD" group-title="SPOR",beIN Sports IZ 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32878.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Max 1 FHD" group-title="SPOR",beIN Sports Max 1 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32881.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Max 2 FHD" group-title="SPOR",beIN Sports Max 2 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32880.m3u8
+#EXTINF:-1 tvg-name="EURO SPORT2 HD" group-title="SPOR",EURO SPORT2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33002.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" group-title="SPOR",EUROSPORT 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32833.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" group-title="SPOR",EUROSPORT 2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32832.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT HD" group-title="SPOR",EUROSPORT HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33001.m3u8
+#EXTINF:-1 tvg-name="FB TV HD" group-title="SPOR",FB TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33004.m3u8
+#EXTINF:-1 tvg-name="FB TV HD" group-title="SPOR",FB TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32829.m3u8
+#EXTINF:-1 tvg-name="GS TV HD" group-title="SPOR",GS TV HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32817.m3u8
-#EXTINF:-1 tvg-name="TR253:Deniz Haber" group-title="Turkey",TR253:Deniz Haber
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32816.m3u8
-#EXTINF:-1 tvg-name="TR254:TV 4" group-title="Turkey",TR254:TV 4
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32815.m3u8
-#EXTINF:-1 tvg-name="TR257:HALK TV HD" group-title="Turkey",TR257:HALK TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32812.m3u8
-#EXTINF:-1 tvg-name="TR273:BEYKENT TV" group-title="Turkey",TR273:BEYKENT TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32796.m3u8
-#EXTINF:-1 tvg-name="TR275:Kon TV HD" group-title="Turkey",TR275:Kon TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32794.m3u8
-#EXTINF:-1 tvg-name="TR276:VATAN TV HD" group-title="Turkey",TR276:VATAN TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32793.m3u8
-#EXTINF:-1 tvg-name="TR277:KRAL POP HD" group-title="Turkey",TR277:KRAL POP HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32792.m3u8
-#EXTINF:-1 tvg-name="TR278:Kral World HD" group-title="Turkey",TR278:Kral World HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32791.m3u8
-#EXTINF:-1 tvg-name="TR279:KRAL TV WORLD" group-title="Turkey",TR279:KRAL TV WORLD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32790.m3u8
-#EXTINF:-1 tvg-name="TR280:KRT TV HD" group-title="Turkey",TR280:KRT TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32789.m3u8
-#EXTINF:-1 tvg-name="TR281:KUDUS TV" group-title="Turkey",TR281:KUDUS TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32788.m3u8
-#EXTINF:-1 tvg-name="TR282:ON4" group-title="Turkey",TR282:ON4
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32787.m3u8
-#EXTINF:-1 tvg-name="TR283:LALEGUL TV" group-title="Turkey",TR283:LALEGUL TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32786.m3u8
-#EXTINF:-1 tvg-name="TR285:Uzay Haber" group-title="Turkey",TR285:Uzay Haber
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32784.m3u8
-#EXTINF:-1 tvg-name="TR286:ULUSAL TV" group-title="Turkey",TR286:ULUSAL TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32783.m3u8
-#EXTINF:-1 tvg-name="TR287:ULKE FHD" group-title="Turkey",TR287:ULKE FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32782.m3u8
-#EXTINF:-1 tvg-name="TR288:Ucan Kus Tv HD" group-title="Turkey",TR288:Ucan Kus Tv HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32781.m3u8
-#EXTINF:-1 tvg-name="TR289:LOCA 1 HD" group-title="Turkey",TR289:LOCA 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32780.m3u8
-#EXTINF:-1 tvg-name="TR290:LOCA 2 HD" group-title="Turkey",TR290:LOCA 2 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32779.m3u8
-#EXTINF:-1 tvg-name="TR291:LOCA 3 FHD" group-title="Turkey",TR291:LOCA 3 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32778.m3u8
-#EXTINF:-1 tvg-name="TR292:TV 2 HD" group-title="Turkey",TR292:TV 2 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32777.m3u8
-#EXTINF:-1 tvg-name="TR293:TEMPO TV" group-title="Turkey",TR293:TEMPO TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32776.m3u8
-#EXTINF:-1 tvg-name="TR294:TRT2 FHD" group-title="Turkey",TR294:TRT2 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32775.m3u8
-#EXTINF:-1 tvg-name="TR295:DIYALOG TV" group-title="Turkey",TR295:DIYALOG TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32774.m3u8
-#EXTINF:-1 tvg-name="TR301:Mavi Karadeniz TV" group-title="Turkey",TR301:Mavi Karadeniz TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32768.m3u8
-#EXTINF:-1 tvg-name="TR302:MC EU US" group-title="Turkey",TR302:MC EU US
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32767.m3u8
-#EXTINF:-1 tvg-name="TR303:Medine TV" group-title="Turkey",TR303:Medine TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32766.m3u8
-#EXTINF:-1 tvg-name="TR304:NTV HABER HD" group-title="Turkey",TR304:NTV HABER HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32765.m3u8
-#EXTINF:-1 tvg-name="TR305:MELTEM TV" group-title="Turkey",TR305:MELTEM TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32764.m3u8
-#EXTINF:-1 tvg-name="TR306:Fenomen Radyo" group-title="Turkey",TR306:Fenomen Radyo
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32763.m3u8
-#EXTINF:-1 tvg-name="TR307:MILYON TV" group-title="Turkey",TR307:MILYON TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32762.m3u8
-#EXTINF:-1 tvg-name="TR308:minika COCUK HD" group-title="Turkey",TR308:minika COCUK HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32761.m3u8
-#EXTINF:-1 tvg-name="TR309:MINIKA GO HD" group-title="Turkey",TR309:MINIKA GO HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32760.m3u8
-#EXTINF:-1 tvg-name="TR317:TVnet HD" group-title="Turkey",TR317:TVnet HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32752.m3u8
-#EXTINF:-1 tvg-name="TR319:TRT World HD" group-title="Turkey",TR319:TRT World HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32750.m3u8
-#EXTINF:-1 tvg-name="TR321:TRT Turk HD" group-title="Turkey",TR321:TRT Turk HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32748.m3u8
-#EXTINF:-1 tvg-name="TR328:NR1 HD" group-title="Turkey",TR328:NR1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32741.m3u8
-#EXTINF:-1 tvg-name="TR329:NR1 TURK HD" group-title="Turkey",TR329:NR1 TURK HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32740.m3u8
-#EXTINF:-1 tvg-name="TR330:NTV FHD" group-title="Turkey",TR330:NTV FHD
+#EXTINF:-1 tvg-name="GSTV HD" group-title="SPOR",GSTV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33008.m3u8
+#EXTINF:-1 tvg-name="Lig tv 2" group-title="SPOR",Lig tv 2
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33017.m3u8
+#EXTINF:-1 tvg-name="Lig tv 3" group-title="SPOR",Lig tv 3
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33016.m3u8
+#EXTINF:-1 tvg-name="LIG TV 4" group-title="SPOR",LIG TV 4
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32699.m3u8
+#EXTINF:-1 tvg-name="NBA TV FHD" group-title="SPOR",NBA TV FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32743.m3u8
+#EXTINF:-1 tvg-name="S SPORT HD(1)" group-title="SPOR",S SPORT HD(1)
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33052.m3u8
+#EXTINF:-1 tvg-name="S-Sports FHD" group-title="SPOR",S-Sports FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32727.m3u8
+#EXTINF:-1 tvg-name="SARAN SPORT HD" group-title="SPOR",SARAN SPORT HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32723.m3u8
+#EXTINF:-1 tvg-name="SMART SPOR 1 HD" group-title="SPOR",SMART SPOR 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32700.m3u8
+#EXTINF:-1 tvg-name="SPOR SMART" group-title="SPOR",SPOR SMART
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33053.m3u8
+#EXTINF:-1 tvg-name="SPORTS TV  HD" group-title="SPOR",SPORTS TV  HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33054.m3u8
+#EXTINF:-1 tvg-name="SPORTS TV HD" group-title="SPOR",SPORTS TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32946.m3u8
+#EXTINF:-1 tvg-name="tivibu spor 1 FHD" group-title="SPOR",tivibu spor 1 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32680.m3u8
+#EXTINF:-1 tvg-name="tivibu spor 2 FHD" group-title="SPOR",tivibu spor 2 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32679.m3u8
+#EXTINF:-1 tvg-name="TIVIBU SPOR 2 HD" group-title="SPOR",TIVIBU SPOR 2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33057.m3u8
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3 HD" group-title="SPOR",TIVIBU SPOR 3 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32689.m3u8
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3 HD" group-title="SPOR",TIVIBU SPOR 3 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33059.m3u8
+#EXTINF:-1 tvg-name="TIVIBUSPOR 1 HD" group-title="SPOR",TIVIBUSPOR 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33058.m3u8
+#EXTINF:-1 tvg-name="TIVIBUSPOR 4 HD" group-title="SPOR",TIVIBUSPOR 4 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32681.m3u8
+#EXTINF:-1 tvg-name="TJK TV" group-title="SPOR",TJK TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32677.m3u8
+#EXTINF:-1 tvg-name="TRT 3 SPOR FHD" group-title="SPOR",TRT 3 SPOR FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32674.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR HD" group-title="SPOR",TRT SPOR HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32956.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR SD/HD" group-title="SPOR",TRT SPOR SD/HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33061.m3u8
+#EXTINF:-1 tvg-name="Turkish Bein Sports 1" group-title="SPOR",Turkish Bein Sports 1
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32933.m3u8
+#EXTINF:-1 tvg-name="24 HABER" group-title="HABER",24 HABER
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32932.m3u8
+#EXTINF:-1 tvg-name="360 HD" group-title="HABER",360 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32930.m3u8
+#EXTINF:-1 tvg-name="A HABER FHD" group-title="HABER",A HABER FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32929.m3u8
+#EXTINF:-1 tvg-name="A HABER HD" group-title="HABER",A HABER HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32981.m3u8
+#EXTINF:-1 tvg-name="A News HD" group-title="HABER",A News HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32928.m3u8
+#EXTINF:-1 tvg-name="A PARA HD" group-title="HABER",A PARA HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32877.m3u8
+#EXTINF:-1 tvg-id="BLOOMBERG HT HD" tvg-name="BLOOMBERG HD" group-title="HABER",BLOOMBERG HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32988.m3u8
+#EXTINF:-1 tvg-id="BLOOMBERG HT HD" tvg-name="BLOOMBERG HT FHD" group-title="HABER",BLOOMBERG HT FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32871.m3u8
+#EXTINF:-1 tvg-id="CNN TÜRK HD" tvg-name="CNN" group-title="HABER",CNN
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32937.m3u8
+#EXTINF:-1 tvg-id="CNN TÜRK HD" tvg-name="CNN TURK FHD" group-title="HABER",CNN TURK FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32853.m3u8
+#EXTINF:-1 tvg-id="CNN TÜRK HD" tvg-name="CNN TÜRK HD" group-title="HABER",CNN TURK HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32993.m3u8
+#EXTINF:-1 tvg-id="CNN TÜRK HD" tvg-name="CNN TüRK HD" group-title="HABER",CNN TüRK HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32972.m3u8
+#EXTINF:-1 tvg-name="HABER GLOBAL HD" group-title="HABER",HABER GLOBAL HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32814.m3u8
+#EXTINF:-1 tvg-name="Haber Turk" group-title="HABER",Haber Turk
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32942.m3u8
+#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="HABER TURK" group-title="HABER",HABER TURK
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33009.m3u8
+#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="HABER TURK FHD" group-title="HABER",HABER TURK FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32813.m3u8
+#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="HABER TüRK HD" group-title="HABER",HABER TüRK HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32970.m3u8
+#EXTINF:-1 tvg-name="NTV FHD" group-title="HABER",NTV FHD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32739.m3u8
-#EXTINF:-1 tvg-name="TR331:TRT WORLD" group-title="Turkey",TR331:TRT WORLD
+#EXTINF:-1 tvg-name="NTV HABER HD" group-title="HABER",NTV HABER HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32765.m3u8
+#EXTINF:-1 tvg-id="NTV HD" tvg-name="NTV HD" group-title="HABER",NTV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32966.m3u8
+#EXTINF:-1 tvg-name="TRT HABER HD" group-title="HABER",TRT HABER HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32941.m3u8
+#EXTINF:-1 tvg-name="TRT HABER HD" group-title="HABER",TRT HABER HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32957.m3u8
+#EXTINF:-1 tvg-id="TRT HABER HD" tvg-name="TRT Haber HD" group-title="HABER",TRT Haber HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32708.m3u8
+#EXTINF:-1 tvg-name="TRT WORLD" group-title="HABER",TRT WORLD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32738.m3u8
-#EXTINF:-1 tvg-name="TR332:Olay TV" group-title="Turkey",TR332:Olay TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32737.m3u8
-#EXTINF:-1 tvg-name="TR333:ALTAS TV" group-title="Turkey",TR333:ALTAS TV
+#EXTINF:-1 tvg-name="TRT WORLD" group-title="HABER",TRT WORLD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32949.m3u8
+#EXTINF:-1 tvg-name="TRT World HD" group-title="HABER",TRT World HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32750.m3u8
+#EXTINF:-1 tvg-name="360 TV" group-title="ULUSAL",360 TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33060.m3u8
+#EXTINF:-1 tvg-name="A2 FHD" group-title="ULUSAL",A2 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32925.m3u8
+#EXTINF:-1 tvg-name="A2 TV" group-title="ULUSAL",A2 TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32980.m3u8
+#EXTINF:-1 tvg-name="ATV FHD" group-title="ULUSAL",ATV FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32911.m3u8
+#EXTINF:-1 tvg-name="ATV HD" group-title="ULUSAL",ATV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32977.m3u8
+#EXTINF:-1 tvg-name="ATV HD" group-title="ULUSAL",ATV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32983.m3u8
+#EXTINF:-1 tvg-name="FOX CRIME HD" group-title="ULUSAL",FOX CRIME HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32821.m3u8
+#EXTINF:-1 tvg-name="FOX FHD" group-title="ULUSAL",FOX FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32820.m3u8
+#EXTINF:-1 tvg-name="FOX HD" group-title="ULUSAL",FOX HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32971.m3u8
+#EXTINF:-1 tvg-name="Fox Life HD" group-title="ULUSAL",Fox Life HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32819.m3u8
+#EXTINF:-1 tvg-name="FOX TV HD" group-title="ULUSAL",FOX TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33007.m3u8
+#EXTINF:-1 tvg-name="FX HD" group-title="ULUSAL",FX HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32818.m3u8
+#EXTINF:-1 tvg-name="HALK TV" group-title="ULUSAL",HALK TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33010.m3u8
+#EXTINF:-1 tvg-name="HALK TV HD" group-title="ULUSAL",HALK TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32812.m3u8
+#EXTINF:-1 tvg-name="KANAL D HD" group-title="ULUSAL",KANAL D HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32968.m3u8
+#EXTINF:-1 tvg-name="KRT TV HD" group-title="ULUSAL",KRT TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32789.m3u8
+#EXTINF:-1 tvg-name="SEMERKAND" group-title="ULUSAL",SEMERKAND
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33049.m3u8
+#EXTINF:-1 tvg-name="SHOW HD" group-title="ULUSAL",SHOW HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33050.m3u8
+#EXTINF:-1 tvg-name="SHOW HD" group-title="ULUSAL",SHOW HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32961.m3u8
+#EXTINF:-1 tvg-name="SHOW MAX HD" group-title="ULUSAL",SHOW MAX HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32718.m3u8
+#EXTINF:-1 tvg-name="Show Turk TV" group-title="ULUSAL",Show Turk TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32717.m3u8
+#EXTINF:-1 tvg-name="SHOW TV FHD" group-title="ULUSAL",SHOW TV FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32716.m3u8
+#EXTINF:-1 tvg-name="Sky Turk 360" group-title="ULUSAL",Sky Turk 360
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32702.m3u8
+#EXTINF:-1 tvg-name="SKY TURK 360" group-title="ULUSAL",SKY TURK 360
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33051.m3u8
+#EXTINF:-1 tvg-name="STAR HD" group-title="ULUSAL",STAR HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32960.m3u8
+#EXTINF:-1 tvg-name="Star TV Euro" group-title="ULUSAL",Star TV Euro
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32693.m3u8
+#EXTINF:-1 tvg-name="STAR TV FHD" group-title="ULUSAL",STAR TV FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32692.m3u8
+#EXTINF:-1 tvg-name="STAR TV HD" group-title="ULUSAL",STAR TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33055.m3u8
+#EXTINF:-1 tvg-name="TELE 1 HD TR" group-title="ULUSAL",TELE 1 HD TR
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32687.m3u8
+#EXTINF:-1 tvg-name="Teve 2 FHD" group-title="ULUSAL",Teve 2 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32686.m3u8
+#EXTINF:-1 tvg-name="TEVE 2 HD" group-title="ULUSAL",TEVE 2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32959.m3u8
+#EXTINF:-1 tvg-name="TRT 1 FHD" group-title="ULUSAL",TRT 1 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32675.m3u8
+#EXTINF:-1 tvg-name="TRT 1 HD" group-title="ULUSAL",TRT 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32950.m3u8
+#EXTINF:-1 tvg-name="TRT 4K" group-title="ULUSAL",TRT 4K
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32673.m3u8
+#EXTINF:-1 tvg-name="TRT OKUL" group-title="ULUSAL",TRT OKUL
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32944.m3u8
+#EXTINF:-1 tvg-name="TRT Turk" group-title="ULUSAL",TRT Turk
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32947.m3u8
+#EXTINF:-1 tvg-name="TRT TüRK" group-title="ULUSAL",TRT TüRK
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32948.m3u8
+#EXTINF:-1 tvg-name="TV 2 HD" group-title="ULUSAL",TV 2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32955.m3u8
+#EXTINF:-1 tvg-name="TV 8 HD" group-title="ULUSAL",TV 8 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32954.m3u8
+#EXTINF:-1 tvg-name="TV 8,5" group-title="ULUSAL",TV 8,5
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32906.m3u8
+#EXTINF:-1 tvg-name="TV NET" group-title="ULUSAL",TV NET
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33063.m3u8
+#EXTINF:-1 tvg-name="TV2 HD" group-title="ULUSAL",TV2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33064.m3u8
+#EXTINF:-1 tvg-name="TV5" group-title="ULUSAL",TV5
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33065.m3u8
+#EXTINF:-1 tvg-name="TV8 FHD" group-title="ULUSAL",TV8 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32751.m3u8
+#EXTINF:-1 tvg-name="TV8 HD" group-title="ULUSAL",TV8 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33066.m3u8
+#EXTINF:-1 tvg-name="TV8.5 HD" group-title="ULUSAL",TV8.5 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32826.m3u8
+#EXTINF:-1 tvg-name="TVNET HD" group-title="ULUSAL",TVNET HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32953.m3u8
+#EXTINF:-1 tvg-name="ULUSAL TV" group-title="ULUSAL",ULUSAL TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32783.m3u8
+#EXTINF:-1 tvg-name="beIN 3 FHD" group-title="CINEMA",beIN 3 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32904.m3u8
+#EXTINF:-1 tvg-name="beIN Box Office 1 HD" group-title="CINEMA",beIN Box Office 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32903.m3u8
+#EXTINF:-1 tvg-name="bEIN BOX OFFICE 2 HD" group-title="CINEMA",bEIN BOX OFFICE 2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33048.m3u8
+#EXTINF:-1 tvg-name="beIN Box Office 2 HD" group-title="CINEMA",beIN Box Office 2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32902.m3u8
+#EXTINF:-1 tvg-name="beIN BOX Office 3 HD" group-title="CINEMA",beIN BOX Office 3 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32901.m3u8
+#EXTINF:-1 tvg-name="beIN BOX OFFICE Turk HD" group-title="CINEMA",beIN BOX OFFICE Turk HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32900.m3u8
+#EXTINF:-1 tvg-name="beIN MOVIES ACTION 2" group-title="CINEMA",beIN MOVIES ACTION 2
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32905.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Action FHD" group-title="CINEMA",beIN Movies Action FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32897.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Comedy HD" group-title="CINEMA",beIN Movies Comedy HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32976.m3u8
+#EXTINF:-1 tvg-name="beIN MOVIES FAMILY" group-title="CINEMA",beIN MOVIES FAMILY
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32924.m3u8
+#EXTINF:-1 tvg-name="beIN Movies HD Stars FHD" group-title="CINEMA",beIN Movies HD Stars FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32896.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Premiere 2 FHD" group-title="CINEMA",beIN Movies Premiere 2 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32895.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Premiere FHD" group-title="CINEMA",beIN Movies Premiere FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32894.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Stars HD" group-title="CINEMA",beIN Movies Stars HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32975.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Turk" group-title="CINEMA",beIN Movies Turk
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32974.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Turk FHD" group-title="CINEMA",beIN Movies Turk FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32893.m3u8
+#EXTINF:-1 tvg-name="beIN Series Comedy FHD" group-title="CINEMA",beIN Series Comedy FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32892.m3u8
+#EXTINF:-1 tvg-name="beIN SERIES DRAMA" group-title="CINEMA",beIN SERIES DRAMA
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33024.m3u8
+#EXTINF:-1 tvg-name="beIN Series Sci-Fi FHD" group-title="CINEMA",beIN Series Sci-Fi FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32891.m3u8
+#EXTINF:-1 tvg-name="beIN Series Vice FHD" group-title="CINEMA",beIN Series Vice FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32890.m3u8
+#EXTINF:-1 tvg-name="Captain Movies 2" group-title="CINEMA",Captain Movies 2
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32866.m3u8
+#EXTINF:-1 tvg-name="Captain Movies 3" group-title="CINEMA",Captain Movies 3
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32865.m3u8
+#EXTINF:-1 tvg-name="CINESTAR VIZYON 1" group-title="CINEMA",CINESTAR VIZYON 1
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32990.m3u8
+#EXTINF:-1 tvg-name="CINESTAR VIZYON 2" group-title="CINEMA",CINESTAR VIZYON 2
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32991.m3u8
+#EXTINF:-1 tvg-name="CINESTAR VIZYON 3" group-title="CINEMA",CINESTAR VIZYON 3
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32992.m3u8
+#EXTINF:-1 tvg-name="DIZI SMART PREMIUM HD" group-title="CINEMA",DIZI SMART PREMIUM HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32842.m3u8
+#EXTINF:-1 tvg-name="FIBERBOX  ANIMASYON" group-title="CINEMA",FIBERBOX  ANIMASYON
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32848.m3u8
+#EXTINF:-1 tvg-name="FIL TV HD" group-title="CINEMA",FIL TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33005.m3u8
+#EXTINF:-1 tvg-name="KEMAL SUNAL HD" group-title="CINEMA",KEMAL SUNAL HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32797.m3u8
+#EXTINF:-1 tvg-name="LOCA 1 HD" group-title="CINEMA",LOCA 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32780.m3u8
+#EXTINF:-1 tvg-name="LOCA 1HD" group-title="CINEMA",LOCA 1HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33018.m3u8
+#EXTINF:-1 tvg-name="LOCA 2 HD" group-title="CINEMA",LOCA 2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32779.m3u8
+#EXTINF:-1 tvg-name="LOCA 2HD" group-title="CINEMA",LOCA 2HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33019.m3u8
+#EXTINF:-1 tvg-name="LOCA 3 FHD" group-title="CINEMA",LOCA 3 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32778.m3u8
+#EXTINF:-1 tvg-name="LOCA 3HD" group-title="CINEMA",LOCA 3HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33020.m3u8
+#EXTINF:-1 tvg-name="Movie Smart Family HD" group-title="CINEMA",Movie Smart Family HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32759.m3u8
+#EXTINF:-1 tvg-name="Movie Smart Fest FHD" group-title="CINEMA",Movie Smart Fest FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32758.m3u8
+#EXTINF:-1 tvg-name="Movie smart Gold HD" group-title="CINEMA",Movie smart Gold HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32757.m3u8
+#EXTINF:-1 tvg-name="Movie smart Platin 2 FHD" group-title="CINEMA",Movie smart Platin 2 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32756.m3u8
+#EXTINF:-1 tvg-name="Movie smart Platin HD" group-title="CINEMA",Movie smart Platin HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32755.m3u8
+#EXTINF:-1 tvg-name="MOVIE SMART PREMIUM 1 HD" group-title="CINEMA",MOVIE SMART PREMIUM 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32754.m3u8
+#EXTINF:-1 tvg-name="Movie Smart Premium 2 HD" group-title="CINEMA",Movie Smart Premium 2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32753.m3u8
+#EXTINF:-1 tvg-name="Moviemax Fest" group-title="CINEMA",Moviemax Fest
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33023.m3u8
+#EXTINF:-1 tvg-name="MOVIEMAX HORROR" group-title="CINEMA",MOVIEMAX HORROR
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32823.m3u8
+#EXTINF:-1 tvg-name="MOVIEMAX KOMEDI FHD" group-title="CINEMA",MOVIEMAX KOMEDI FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32822.m3u8
+#EXTINF:-1 tvg-name="MOVIEMAX PREMIER" group-title="CINEMA",MOVIEMAX PREMIER
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32825.m3u8
+#EXTINF:-1 tvg-name="Moviemax Stars" group-title="CINEMA",Moviemax Stars
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33025.m3u8
+#EXTINF:-1 tvg-name="MOVIEMAX TURK HD" group-title="CINEMA",MOVIEMAX TURK HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33026.m3u8
+#EXTINF:-1 tvg-name="MOVIEMAX YESILCAM" group-title="CINEMA",MOVIEMAX YESILCAM
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32824.m3u8
+#EXTINF:-1 tvg-name="MOVIESINEMA AKSIYON HD" group-title="CINEMA",MOVIESINEMA AKSIYON HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32749.m3u8
+#EXTINF:-1 tvg-name="MOVIESMART ACT" group-title="CINEMA",MOVIESMART ACT
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32747.m3u8
+#EXTINF:-1 tvg-name="Moviesmart Action" group-title="CINEMA",Moviesmart Action
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33027.m3u8
+#EXTINF:-1 tvg-name="Moviesmart Classic" group-title="CINEMA",Moviesmart Classic
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33028.m3u8
+#EXTINF:-1 tvg-name="Moviesmart Family" group-title="CINEMA",Moviesmart Family
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33029.m3u8
+#EXTINF:-1 tvg-name="Moviesmart Fest" group-title="CINEMA",Moviesmart Fest
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33030.m3u8
+#EXTINF:-1 tvg-name="Moviesmart Gold" group-title="CINEMA",Moviesmart Gold
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33031.m3u8
+#EXTINF:-1 tvg-name="Moviesmart Platin" group-title="CINEMA",Moviesmart Platin
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33032.m3u8
+#EXTINF:-1 tvg-name="Moviesmart Platin 2" group-title="CINEMA",Moviesmart Platin 2
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33033.m3u8
+#EXTINF:-1 tvg-name="Moviesmart Premium" group-title="CINEMA",Moviesmart Premium
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33034.m3u8
+#EXTINF:-1 tvg-name="Moviesmart Premium 2" group-title="CINEMA",Moviesmart Premium 2
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33035.m3u8
+#EXTINF:-1 tvg-name="Moviesmart Turk" group-title="CINEMA",Moviesmart Turk
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33036.m3u8
+#EXTINF:-1 tvg-name="NEXTBOX  STARS" group-title="CINEMA",NEXTBOX  STARS
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32855.m3u8
+#EXTINF:-1 tvg-name="NEXTBOX  ViZYON" group-title="CINEMA",NEXTBOX  ViZYON
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32857.m3u8
+#EXTINF:-1 tvg-name="NEXTBOX ANIMASYON" group-title="CINEMA",NEXTBOX ANIMASYON
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32795.m3u8
+#EXTINF:-1 tvg-name="NEXTBOX CINEMA ANIMASYON" group-title="CINEMA",NEXTBOX CINEMA ANIMASYON
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32772.m3u8
+#EXTINF:-1 tvg-name="NEXTBOX GERILIM" group-title="CINEMA",NEXTBOX GERILIM
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32859.m3u8
+#EXTINF:-1 tvg-name="NEXTBOX NOSTALJI" group-title="CINEMA",NEXTBOX NOSTALJI
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32827.m3u8
+#EXTINF:-1 tvg-name="NEXTBOX PREMiER" group-title="CINEMA",NEXTBOX PREMiER
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32856.m3u8
+#EXTINF:-1 tvg-name="SALON 1 HD" group-title="CINEMA",SALON 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33047.m3u8
+#EXTINF:-1 tvg-name="Salon 1 HD" group-title="CINEMA",Salon 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32726.m3u8
+#EXTINF:-1 tvg-name="Salon 2 HD" group-title="CINEMA",Salon 2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32725.m3u8
+#EXTINF:-1 tvg-name="Salon 3 HD" group-title="CINEMA",Salon 3 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32724.m3u8
+#EXTINF:-1 tvg-name="Science & VIE TV" group-title="CINEMA",Science & VIE TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32721.m3u8
+#EXTINF:-1 tvg-name="Science et Vie HD" group-title="CINEMA",Science et Vie HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32720.m3u8
+#EXTINF:-1 tvg-name="SINEMA 1001 HD" group-title="CINEMA",SINEMA 1001 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32715.m3u8
+#EXTINF:-1 tvg-name="SINEMA AILE HD" group-title="CINEMA",SINEMA AILE HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32714.m3u8
+#EXTINF:-1 tvg-name="SINEMA AKSiYON" group-title="CINEMA",SINEMA AKSiYON
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32773.m3u8
+#EXTINF:-1 tvg-name="SINEMA AKSIYON HD" group-title="CINEMA",SINEMA AKSIYON HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32713.m3u8
+#EXTINF:-1 tvg-name="SINEMA DRAMA 1 HD" group-title="CINEMA",SINEMA DRAMA 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32706.m3u8
+#EXTINF:-1 tvg-name="SINEMA DRAMA 2 HD" group-title="CINEMA",SINEMA DRAMA 2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32705.m3u8
+#EXTINF:-1 tvg-name="SINEMA HD" group-title="CINEMA",SINEMA HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32712.m3u8
+#EXTINF:-1 tvg-name="Sinema Komedi HD" group-title="CINEMA",Sinema Komedi HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32711.m3u8
+#EXTINF:-1 tvg-name="SiNEMA KOMEDi HD" group-title="CINEMA",SiNEMA KOMEDi HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32771.m3u8
+#EXTINF:-1 tvg-name="SINEMA TURK 2" group-title="CINEMA",SINEMA TURK 2
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32703.m3u8
+#EXTINF:-1 tvg-name="SINEMA TV 1 HD" group-title="CINEMA",SINEMA TV 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32710.m3u8
+#EXTINF:-1 tvg-name="SINEMA TV AILE" group-title="CINEMA",SINEMA TV AILE
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32860.m3u8
+#EXTINF:-1 tvg-name="SiNEMA TV KOMEDi" group-title="CINEMA",SiNEMA TV KOMEDi
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32858.m3u8
+#EXTINF:-1 tvg-name="Sinema Yerli HD" group-title="CINEMA",Sinema Yerli HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32709.m3u8
+#EXTINF:-1 tvg-name="SINEMATV YERLI HD" group-title="CINEMA",SINEMATV YERLI HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32707.m3u8
+#EXTINF:-1 tvg-name="SiNEMAX TURK HD" group-title="CINEMA",SiNEMAX TURK HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32704.m3u8
+#EXTINF:-1 tvg-name="SLTV GOLD HD" group-title="CINEMA",SLTV GOLD HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32769.m3u8
+#EXTINF:-1 tvg-name="SLTV KEMAL SUNAL 1" group-title="CINEMA",SLTV KEMAL SUNAL 1
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32831.m3u8
+#EXTINF:-1 tvg-name="SLTV KEMAL SUNAL 2" group-title="CINEMA",SLTV KEMAL SUNAL 2
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32830.m3u8
+#EXTINF:-1 tvg-name="SLTV KOMEDI HD" group-title="CINEMA",SLTV KOMEDI HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32770.m3u8
+#EXTINF:-1 tvg-name="SLTV PREMIUM HD" group-title="CINEMA",SLTV PREMIUM HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32828.m3u8
+#EXTINF:-1 tvg-name="SLTV YESILCAM 2" group-title="CINEMA",SLTV YESILCAM 2
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32854.m3u8
+#EXTINF:-1 tvg-name="YESiLCAM TV HD" group-title="CINEMA",YESiLCAM TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32742.m3u8
+#EXTINF:-1 tvg-name="AKILLI TAVSAN MOMO TV" group-title="Turkey",AKILLI TAVSAN MOMO TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32923.m3u8
+#EXTINF:-1 tvg-name="ALTAS TV" group-title="Turkey",ALTAS TV
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32736.m3u8
-#EXTINF:-1 tvg-name="TR334:PEPE TV" group-title="Turkey",TR334:PEPE TV
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32735.m3u8
-#EXTINF:-1 tvg-name="TR335:LINE TV (Bursa)" group-title="Turkey",TR335:LINE TV (Bursa)
+#EXTINF:-1 tvg-name="BABY TV" group-title="Turkey",BABY TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32984.m3u8
+#EXTINF:-1 tvg-name="Baby TV HD" group-title="Turkey",Baby TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32909.m3u8
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD" group-title="Turkey",CARTOON NETWORK HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33046.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network HD" group-title="Turkey",Cartoon Network HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32864.m3u8
+#EXTINF:-1 tvg-name="Cem TV" group-title="Turkey",Cem TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32862.m3u8
+#EXTINF:-1 tvg-name="Ciftci TV" group-title="Turkey",Ciftci TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32861.m3u8
+#EXTINF:-1 tvg-name="Deniz Haber" group-title="Turkey",Deniz Haber
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32816.m3u8
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" group-title="Turkey",DISNEY CHANNEL
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32995.m3u8
+#EXTINF:-1 tvg-name="Disney Channel HD" group-title="Turkey",Disney Channel HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32844.m3u8
+#EXTINF:-1 tvg-name="DISNEY JR" group-title="Turkey",DISNEY JR
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32996.m3u8
+#EXTINF:-1 tvg-name="DISNEY JR HD" group-title="Turkey",DISNEY JR HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32843.m3u8
+#EXTINF:-1 tvg-name="DISNEY XD / DUCK" group-title="Turkey",DISNEY XD / DUCK
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32997.m3u8
+#EXTINF:-1 tvg-name="DIYALOG TV" group-title="Turkey",DIYALOG TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32774.m3u8
+#EXTINF:-1 tvg-name="Diyar tv" group-title="Turkey",Diyar tv
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32863.m3u8
+#EXTINF:-1 tvg-name="Dost TV" group-title="Turkey",Dost TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32839.m3u8
+#EXTINF:-1 tvg-name="Edessa TV" group-title="Turkey",Edessa TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32837.m3u8
+#EXTINF:-1 tvg-name="Ege Turk TV" group-title="Turkey",Ege Turk TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32836.m3u8
+#EXTINF:-1 tvg-name="Euro D HD TR" group-title="Turkey",Euro D HD TR
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32835.m3u8
+#EXTINF:-1 tvg-name="Euro Star" group-title="Turkey",Euro Star
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32834.m3u8
+#EXTINF:-1 tvg-name="Kon TV HD" group-title="Turkey",Kon TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32794.m3u8
+#EXTINF:-1 tvg-name="KUDUS TV" group-title="Turkey",KUDUS TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32788.m3u8
+#EXTINF:-1 tvg-name="LALEGUL TV" group-title="Turkey",LALEGUL TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32786.m3u8
+#EXTINF:-1 tvg-name="LINE TV (Bursa)" group-title="Turkey",LINE TV (Bursa)
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32734.m3u8
-#EXTINF:-1 tvg-name="TR336:PLANET TURK" group-title="Turkey",TR336:PLANET TURK
+#EXTINF:-1 tvg-name="Mavi Karadeniz TV" group-title="Turkey",Mavi Karadeniz TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32768.m3u8
+#EXTINF:-1 tvg-name="MC EU US" group-title="Turkey",MC EU US
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32767.m3u8
+#EXTINF:-1 tvg-name="Medine TV" group-title="Turkey",Medine TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32766.m3u8
+#EXTINF:-1 tvg-name="MELTEM TV" group-title="Turkey",MELTEM TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32764.m3u8
+#EXTINF:-1 tvg-name="MERKEZ TV(Bolu)" group-title="Turkey",MERKEZ TV(Bolu)
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32867.m3u8
+#EXTINF:-1 tvg-name="MILYON TV" group-title="Turkey",MILYON TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32762.m3u8
+#EXTINF:-1 tvg-name="minika COCUK HD" group-title="Turkey",minika COCUK HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32761.m3u8
+#EXTINF:-1 tvg-name="Minika Cocuk(1)" group-title="Turkey",Minika Cocuk(1)
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32938.m3u8
+#EXTINF:-1 tvg-name="MINIKA GO" group-title="Turkey",MINIKA GO
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33022.m3u8
+#EXTINF:-1 tvg-name="MINIKA GO HD" group-title="Turkey",MINIKA GO HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32760.m3u8
+#EXTINF:-1 tvg-name="NICKELODEON" group-title="Turkey",NICKELODEON
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33040.m3u8
+#EXTINF:-1 tvg-name="NICKELODEON HD" group-title="Turkey",NICKELODEON HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33039.m3u8
+#EXTINF:-1 tvg-name="Olay TV" group-title="Turkey",Olay TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32737.m3u8
+#EXTINF:-1 tvg-name="ON4" group-title="Turkey",ON4
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32787.m3u8
+#EXTINF:-1 tvg-name="PEPE TV" group-title="Turkey",PEPE TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32735.m3u8
+#EXTINF:-1 tvg-name="PLANET COCUK" group-title="Turkey",PLANET COCUK
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33043.m3u8
+#EXTINF:-1 tvg-name="PLANET TURK" group-title="Turkey",PLANET TURK
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33044.m3u8
+#EXTINF:-1 tvg-name="PLANET TURK" group-title="Turkey",PLANET TURK
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32733.m3u8
-#EXTINF:-1 tvg-name="TR337:POWER HD" group-title="Turkey",TR337:POWER HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32732.m3u8
-#EXTINF:-1 tvg-name="TR338:POWER TURK HD" group-title="Turkey",TR338:POWER TURK HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32731.m3u8
-#EXTINF:-1 tvg-name="TR339:TMB" group-title="Turkey",TR339:TMB
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32730.m3u8
-#EXTINF:-1 tvg-name="TR340:ROMAN TV" group-title="Turkey",TR340:ROMAN TV
+#EXTINF:-1 tvg-name="ROMAN TV" group-title="Turkey",ROMAN TV
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32729.m3u8
-#EXTINF:-1 tvg-name="TR341:TRT Kurdi HD" group-title="Turkey",TR341:TRT Kurdi HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32728.m3u8
-#EXTINF:-1 tvg-name="TR347:SAT7 TURK" group-title="Turkey",TR347:SAT7 TURK
+#EXTINF:-1 tvg-name="SAT7 TURK" group-title="Turkey",SAT7 TURK
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32722.m3u8
-#EXTINF:-1 tvg-name="TR350:Semerkand HD" group-title="Turkey",TR350:Semerkand HD
+#EXTINF:-1 tvg-name="Semerkand HD" group-title="Turkey",Semerkand HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32719.m3u8
+#EXTINF:-1 tvg-name="SEMERKAND TV HD" group-title="Turkey",SEMERKAND TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32962.m3u8
+#EXTINF:-1 tvg-name="SL Kukuli TV" group-title="Turkey",SL Kukuli TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32850.m3u8
+#EXTINF:-1 tvg-name="SL Niloya TV" group-title="Turkey",SL Niloya TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32849.m3u8
+#EXTINF:-1 tvg-name="SL Pepee TV" group-title="Turkey",SL Pepee TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32840.m3u8
+#EXTINF:-1 tvg-name="TEMPO TV" group-title="Turkey",TEMPO TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32776.m3u8
+#EXTINF:-1 tvg-name="TGRT Haber" group-title="Turkey",TGRT Haber
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32940.m3u8
+#EXTINF:-1 tvg-name="TMB" group-title="Turkey",TMB
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32730.m3u8
+#EXTINF:-1 tvg-name="TRT ARAPCA" group-title="Turkey",TRT ARAPCA
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32934.m3u8
+#EXTINF:-1 tvg-name="TRT AVAZ" group-title="Turkey",TRT AVAZ
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32935.m3u8
+#EXTINF:-1 tvg-name="TRT COCUKHD" group-title="Turkey",TRT COCUKHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32951.m3u8
+#EXTINF:-1 tvg-name="TRT DIYANET" group-title="Turkey",TRT DIYANET
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32939.m3u8
+#EXTINF:-1 tvg-name="TRT Kurdi HD" group-title="Turkey",TRT Kurdi HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32728.m3u8
+#EXTINF:-1 tvg-name="TRT Turk HD" group-title="Turkey",TRT Turk HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32748.m3u8
+#EXTINF:-1 tvg-name="TRT2 FHD" group-title="Turkey",TRT2 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32775.m3u8
+#EXTINF:-1 tvg-name="TV 2 HD" group-title="Turkey",TV 2 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32777.m3u8
+#EXTINF:-1 tvg-name="TV 4" group-title="Turkey",TV 4
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32815.m3u8
+#EXTINF:-1 tvg-name="TV 4 HD" group-title="Turkey",TV 4 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32852.m3u8
+#EXTINF:-1 tvg-name="TV 5 HD" group-title="Turkey",TV 5 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32876.m3u8
+#EXTINF:-1 tvg-name="TVnet HD" group-title="Turkey",TVnet HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32752.m3u8
+#EXTINF:-1 tvg-name="Ucan Kus Tv HD" group-title="Turkey",Ucan Kus Tv HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32781.m3u8
+#EXTINF:-1 tvg-name="ULKE FHD" group-title="Turkey",ULKE FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32782.m3u8
+#EXTINF:-1 tvg-name="Uzay Haber" group-title="Turkey",Uzay Haber
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32784.m3u8
+#EXTINF:-1 tvg-name="VATAN TV HD" group-title="Turkey",VATAN TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32793.m3u8
+#EXTINF:-1 tvg-name="DREAM TURK TV" group-title="MUSIC",DREAM TURK TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32999.m3u8
+#EXTINF:-1 tvg-name="DREAM TV" group-title="MUSIC",DREAM TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33000.m3u8
+#EXTINF:-1 tvg-name="DREAM TV HD" group-title="MUSIC",DREAM TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32838.m3u8
+#EXTINF:-1 tvg-name="KRAL" group-title="MUSIC",KRAL
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33014.m3u8
+#EXTINF:-1 tvg-name="KRAL POP HD" group-title="MUSIC",KRAL POP HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32792.m3u8
+#EXTINF:-1 tvg-name="KRAL POP TV" group-title="MUSIC",KRAL POP TV
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33015.m3u8
+#EXTINF:-1 tvg-name="KRAL TV WORLD" group-title="MUSIC",KRAL TV WORLD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32790.m3u8
+#EXTINF:-1 tvg-name="Kral World HD" group-title="MUSIC",Kral World HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32791.m3u8
+#EXTINF:-1 tvg-name="NR 1 HD" group-title="MUSIC",NR 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32967.m3u8
+#EXTINF:-1 tvg-name="NR1 HD" group-title="MUSIC",NR1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32741.m3u8
+#EXTINF:-1 tvg-name="NR1 TURK HD" group-title="MUSIC",NR1 TURK HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32740.m3u8
+#EXTINF:-1 tvg-name="NUMBER 1 HD" group-title="MUSIC",NUMBER 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33042.m3u8
+#EXTINF:-1 tvg-name="POWER HD" group-title="MUSIC",POWER HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32964.m3u8
+#EXTINF:-1 tvg-name="POWER HD" group-title="MUSIC",POWER HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32732.m3u8
+#EXTINF:-1 tvg-name="Power Turk" group-title="MUSIC",Power Turk
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32945.m3u8
+#EXTINF:-1 tvg-name="POWER TURK HD" group-title="MUSIC",POWER TURK HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33045.m3u8
+#EXTINF:-1 tvg-name="POWER TURK HD" group-title="MUSIC",POWER TURK HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32731.m3u8
+#EXTINF:-1 tvg-name="POWER TüRK HD" group-title="MUSIC",POWER TüRK HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32963.m3u8
+#EXTINF:-1 tvg-name="TRT MUZIK" group-title="MUSIC",TRT MUZIK
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32943.m3u8
