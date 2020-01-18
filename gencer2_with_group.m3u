@@ -57,29 +57,29 @@ http://yayin12.bunusanasoracagim.best:80/priv/b1111/chunks.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/994.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1(Play)
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14873.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="LaLigaTV.es" tvg-logo="http://static.iptv-epg.com/es/LaLigaTV.es.png" group-title="SPOR",TR:LIG1TVSD
+#EXTINF:-1 tvg-chno="4" tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1" tvg-logo="http://static.iptv-epg.com/es/LaLigaTV.es.png" group-title="SPOR",TR:LIG1TVSD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/230.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TVHD
+#EXTINF:-1 tvg-chno="5" tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TVHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/227.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="LİG TV" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TV_4K
+#EXTINF:-1 tvg-chno="6" tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" group-title="SPOR",TR:LIG1TV_4K
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/5944.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="LİG TV 2" tvg-name="beIN Sports 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports2.tr.png" group-title="SPOR",TR:LIG2TVHD
+#EXTINF:-1 tvg-chno="7" tvg-id="beIN SPORTS 2" tvg-name="beIN SPORTS 2" tvg-logo="http://static.iptv-epg.com/tr/beINSports2.tr.png" group-title="SPOR",TR:LIG2TVHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/228.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="LİG TV 2" tvg-name="beIN Sports 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports2.tr.png" group-title="SPOR",TR:LIG2TVHD_YEDEK
+#EXTINF:-1 tvg-chno="8" tvg-id="beIN SPORTS 2" tvg-name="beIN SPORTS 2" tvg-logo="http://static.iptv-epg.com/tr/beINSports2.tr.png" group-title="SPOR",TR:LIG2TVHD_YEDEK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1153.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="LİG TV 2" group-title="SPOR",TR:LIG2(Play)
+#EXTINF:-1 tvg-chno="9" tvg-id="beIN SPORTS 2" tvg-name="beIN SPORTS 2" group-title="SPOR",TR:LIG2(Play)
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14872.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="LİG TV 3" group-title="SPOR",TR:LIG3TVHD
+#EXTINF:-1 tvg-chno="10" tvg-id="beIN SPORTS 3" tvg-name="beIN SPORTS 3" group-title="SPOR",TR:LIG3TVHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/229.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="LİG TV 3" group-title="SPOR",TR:LIG3TVHD_YEDEK
+#EXTINF:-1 tvg-chno="11" tvg-id="beIN SPORTS 3" tvg-name="beIN SPORTS 3" group-title="SPOR",TR:LIG3TVHD_YEDEK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1152.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="LİG TV 3" group-title="SPOR",TR:LIG3(Play)
+#EXTINF:-1 tvg-chno="12" tvg-id="beIN SPORTS 3" tvg-name="beIN SPORTS 3" group-title="SPOR",TR:LIG3(Play)
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14871.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="LİG TV 4" group-title="SPOR",TR:LIG4TVHD
+#EXTINF:-1 tvg-chno="13" tvg-id="beIN SPORTS 4" tvg-name="beIN SPORTS 4" group-title="SPOR",TR:LIG4TVHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/993.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="LİG TV 4" group-title="SPOR",TR:LIG4TVHD_YEDEK
+#EXTINF:-1 tvg-chno="14" tvg-id="beIN SPORTS 4" tvg-name="beIN SPORTS 4" group-title="SPOR",TR:LIG4TVHD_YEDEK
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1151.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="LİG TV 4" group-title="SPOR",TR:LIG4(Play)
+#EXTINF:-1 tvg-chno="15" tvg-id="beIN SPORTS 4" tvg-name="beIN SPORTS 4" group-title="SPOR",TR:LIG4(Play)
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14870.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="beINMax1.qa" tvg-name="beIN Max 1 QA" tvg-logo="http://static.iptv-epg.com/qa/beINMax1.qa.png" group-title="SPOR",TR:beIN.MAX1.HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/2687.m3u8
