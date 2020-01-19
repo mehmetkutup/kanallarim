@@ -1,5 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A2 HD">
+    <display-name lang="tr">A2 HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="TEVE2 HD">
+    <display-name lang="tr">TEVE2 HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="360 HD">
+    <display-name lang="tr">360 HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
   <channel id="TV 8,5 HD">
     <display-name lang="tr">TV 8,5 HD</display-name>
     <url>http://www.digiturk.com.tr</url>
@@ -84,18 +96,6 @@
     <display-name lang="tr">TRT Belgesel HD</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
-  <channel id="LİG TV 2">
-    <display-name lang="tr">LİG TV 2</display-name>
-    <url>http://www.digiturk.com.tr</url>
-  </channel>
-  <channel id="LİG TV 3">
-    <display-name lang="tr">LİG TV 3</display-name>
-    <url>http://www.digiturk.com.tr</url>
-  </channel>
-  <channel id="LIG TV 4">
-    <display-name lang="tr">LIG TV 4</display-name>
-    <url>http://www.digiturk.com.tr</url>
-  </channel>
   <channel id="Show TV HD">
     <display-name lang="tr">Show TV HD</display-name>
     <url>http://www.digiturk.com.tr</url>
@@ -156,6 +156,231 @@
     <display-name lang="tr">KRT TV HD</display-name>
     <url>http://www.digiturk.com.tr</url>
   </channel>
+  <programme start="20200119013000 +0300" stop="20200119022000 +0300" channel="A2 HD">
+    <title lang="tr">Getaway Car</title>
+  </programme>
+  <programme start="20200119022000 +0300" stop="20200119041000 +0300" channel="A2 HD">
+    <title lang="tr">Beyaz Gelincik</title>
+  </programme>
+  <programme start="20200119041000 +0300" stop="20200119050000 +0300" channel="A2 HD">
+    <title lang="tr">Getaway Car</title>
+  </programme>
+  <programme start="20200119050000 +0300" stop="20200119063000 +0300" channel="A2 HD">
+    <title lang="tr">Kızlar ve Anneleri</title>
+  </programme>
+  <programme start="20200119063000 +0300" stop="20200119083000 +0300" channel="A2 HD">
+    <title lang="tr">Gönülçelen</title>
+  </programme>
+  <programme start="20200119083000 +0300" stop="20200119101000 +0300" channel="A2 HD">
+    <title lang="tr">Yahşi Cazibe</title>
+  </programme>
+  <programme start="20200119101000 +0300" stop="20200119114000 +0300" channel="A2 HD">
+    <title lang="tr">Bez Bebek</title>
+  </programme>
+  <programme start="20200119114000 +0300" stop="20200119130000 +0300" channel="A2 HD">
+    <title lang="tr">Selena</title>
+  </programme>
+  <programme start="20200119130000 +0300" stop="20200119143500 +0300" channel="A2 HD">
+    <title lang="tr">Aşk Oyunu</title>
+  </programme>
+  <programme start="20200119143500 +0300" stop="20200119162000 +0300" channel="A2 HD">
+    <title lang="tr">Kertenkele</title>
+  </programme>
+  <programme start="20200119162000 +0300" stop="20200119180000 +0300" channel="A2 HD">
+    <title lang="tr">Kırgın Çiçekler</title>
+  </programme>
+  <programme start="20200119180000 +0300" stop="20200119192500 +0300" channel="A2 HD">
+    <title lang="tr">Bez Bebek</title>
+  </programme>
+  <programme start="20200119192500 +0300" stop="20200119210000 +0300" channel="A2 HD">
+    <title lang="tr">Selena</title>
+  </programme>
+  <programme start="20200119210000 +0300" stop="20200120012000 +0300" channel="A2 HD">
+    <title lang="tr">Başkan Erdoğan ile Gündem Özel</title>
+  </programme>
+  <programme start="20200120012000 +0300" stop="20200120021000 +0300" channel="A2 HD">
+    <title lang="tr">Getaway Car</title>
+  </programme>
+  <programme start="20200120021000 +0300" stop="20200120041000 +0300" channel="A2 HD">
+    <title lang="tr">Beyaz Gelincik</title>
+  </programme>
+  <programme start="20200120210000 +0300" stop="20200120231500 +0300" channel="A2 HD">
+    <title lang="tr">Yahşi Cazibe</title>
+  </programme>
+  <programme start="20200120231500 +0300" stop="20200121013000 +0300" channel="A2 HD">
+    <title lang="tr">Sıla</title>
+  </programme>
+  <programme start="20200121231500 +0300" stop="20200122013000 +0300" channel="A2 HD">
+    <title lang="tr">Sıla</title>
+  </programme>
+  <programme start="20200119010000 +0300" stop="20200119021000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Kelime Oyunu</title>
+  </programme>
+  <programme start="20200119021000 +0300" stop="20200119033000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Yaprak Dökümü</title>
+  </programme>
+  <programme start="20200119033000 +0300" stop="20200119043000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Kanıt</title>
+  </programme>
+  <programme start="20200119043000 +0300" stop="20200119055000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Serseri</title>
+  </programme>
+  <programme start="20200119055000 +0300" stop="20200119060000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Çürük Ali ve Mikrop Necati</title>
+  </programme>
+  <programme start="20200119060000 +0300" stop="20200119064500 +0300" channel="TEVE2 HD">
+    <title lang="tr">Geniş Aile</title>
+  </programme>
+  <programme start="20200119064500 +0300" stop="20200119090000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Çalıkuşu</title>
+  </programme>
+  <programme start="20200119090000 +0300" stop="20200119110000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Geçmişin Gölgesinde</title>
+  </programme>
+  <programme start="20200119110000 +0300" stop="20200119131500 +0300" channel="TEVE2 HD">
+    <title lang="tr">Medcezir</title>
+  </programme>
+  <programme start="20200119131500 +0300" stop="20200119151500 +0300" channel="TEVE2 HD">
+    <title lang="tr">Bir Bulut Olsam</title>
+  </programme>
+  <programme start="20200119151500 +0300" stop="20200119170000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Yaprak Dökümü</title>
+  </programme>
+  <programme start="20200119170000 +0300" stop="20200119190000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Akasya Durağı</title>
+  </programme>
+  <programme start="20200119190000 +0300" stop="20200119210000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Kelime Oyunu</title>
+  </programme>
+  <programme start="20200119210000 +0300" stop="20200119233000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Yalan Dünya</title>
+  </programme>
+  <programme start="20200119233000 +0300" stop="20200120010000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Kanıt</title>
+  </programme>
+  <programme start="20200120010000 +0300" stop="20200120021000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Kelime Oyunu</title>
+  </programme>
+  <programme start="20200120110000 +0300" stop="20200120131500 +0300" channel="TEVE2 HD">
+    <title lang="tr">Medcezir</title>
+  </programme>
+  <programme start="20200120190000 +0300" stop="20200120210000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Kelime Oyunu</title>
+  </programme>
+  <programme start="20200121010000 +0300" stop="20200121021000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Kelime Oyunu</title>
+  </programme>
+  <programme start="20200121090000 +0300" stop="20200121110000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Şöhretin Bedeli</title>
+  </programme>
+  <programme start="20200121110000 +0300" stop="20200121130000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Medcezir</title>
+  </programme>
+  <programme start="20200121130000 +0300" stop="20200121151500 +0300" channel="TEVE2 HD">
+    <title lang="tr">Şeref Meselesi</title>
+  </programme>
+  <programme start="20200121170000 +0300" stop="20200121190000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Geçmişin Gölgesinde</title>
+  </programme>
+  <programme start="20200121190000 +0300" stop="20200121210000 +0300" channel="TEVE2 HD">
+    <title lang="tr">Kelime Oyunu</title>
+  </programme>
+  <programme start="20200119000000 +0300" stop="20200119001500 +0300" channel="360 HD">
+    <title lang="tr">Gelecek Geliyor</title>
+  </programme>
+  <programme start="20200119001500 +0300" stop="20200119003000 +0300" channel="360 HD">
+    <title lang="tr">Gökyüzünden</title>
+  </programme>
+  <programme start="20200119003000 +0300" stop="20200119010000 +0300" channel="360 HD">
+    <title lang="tr">Maksat Yarışmak Olsun</title>
+  </programme>
+  <programme start="20200119010000 +0300" stop="20200119020000 +0300" channel="360 HD">
+    <title lang="tr">Spor Gecesi</title>
+  </programme>
+  <programme start="20200119020000 +0300" stop="20200119030000 +0300" channel="360 HD">
+    <title lang="tr">Pazardayız</title>
+  </programme>
+  <programme start="20200119030000 +0300" stop="20200119040000 +0300" channel="360 HD">
+    <title lang="tr">Gezmek Olsun</title>
+  </programme>
+  <programme start="20200119040000 +0300" stop="20200119050000 +0300" channel="360 HD">
+    <title lang="tr">Açelya ile Gülümse Hayata</title>
+  </programme>
+  <programme start="20200119050000 +0300" stop="20200119083000 +0300" channel="360 HD">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20200119083000 +0300" stop="20200119090000 +0300" channel="360 HD">
+    <title lang="tr">Maksat Yarışmak Olsun</title>
+  </programme>
+  <programme start="20200119090000 +0300" stop="20200119091500 +0300" channel="360 HD">
+    <title lang="tr">İlk Yardım</title>
+  </programme>
+  <programme start="20200119091500 +0300" stop="20200119093000 +0300" channel="360 HD">
+    <title lang="tr">Mutlu Kahvaltılar</title>
+  </programme>
+  <programme start="20200119093000 +0300" stop="20200119094500 +0300" channel="360 HD">
+    <title lang="tr">Beslenme Saati</title>
+  </programme>
+  <programme start="20200119094500 +0300" stop="20200119104500 +0300" channel="360 HD">
+    <title lang="tr">Ben Anneyim</title>
+  </programme>
+  <programme start="20200119104500 +0300" stop="20200119110000 +0300" channel="360 HD">
+    <title lang="tr">Diyet Günlüğü</title>
+  </programme>
+  <programme start="20200119110000 +0300" stop="20200119120000 +0300" channel="360 HD">
+    <title lang="tr">Evde Yap</title>
+  </programme>
+  <programme start="20200119120000 +0300" stop="20200119130000 +0300" channel="360 HD">
+    <title lang="tr">Açelya ile Gülümse Hayata</title>
+  </programme>
+  <programme start="20200119130000 +0300" stop="20200119140000 +0300" channel="360 HD">
+    <title lang="tr">Pazardayız</title>
+  </programme>
+  <programme start="20200119140000 +0300" stop="20200119150000 +0300" channel="360 HD">
+    <title lang="tr">Tuğçe'nin Mutfağı</title>
+  </programme>
+  <programme start="20200119150000 +0300" stop="20200119160000 +0300" channel="360 HD">
+    <title lang="tr">Gezmek Olsun</title>
+  </programme>
+  <programme start="20200119160000 +0300" stop="20200119161500 +0300" channel="360 HD">
+    <title lang="tr">Doğala Dönüş</title>
+  </programme>
+  <programme start="20200119161500 +0300" stop="20200119164500 +0300" channel="360 HD">
+    <title lang="tr">Tatlı Tuzlu</title>
+  </programme>
+  <programme start="20200119164500 +0300" stop="20200119170000 +0300" channel="360 HD">
+    <title lang="tr">Kolay Mı Sandın ?</title>
+  </programme>
+  <programme start="20200119170000 +0300" stop="20200119174500 +0300" channel="360 HD">
+    <title lang="tr">Evde Yap</title>
+  </programme>
+  <programme start="20200119174500 +0300" stop="20200119180000 +0300" channel="360 HD">
+    <title lang="tr">Doktor Murat Anlatıyor</title>
+  </programme>
+  <programme start="20200119180000 +0300" stop="20200119181500 +0300" channel="360 HD">
+    <title lang="tr">Gökyüzünden</title>
+  </programme>
+  <programme start="20200119181500 +0300" stop="20200119190000 +0300" channel="360 HD">
+    <title lang="tr">Gökyüzünden</title>
+  </programme>
+  <programme start="20200119190000 +0300" stop="20200119193000 +0300" channel="360 HD">
+    <title lang="tr">Maksat Yarışmak Olsun</title>
+  </programme>
+  <programme start="20200119193000 +0300" stop="20200119233000 +0300" channel="360 HD">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20200119233000 +0300" stop="20200119234500 +0300" channel="360 HD">
+    <title lang="tr">Mesut Yar ile Laf Çok</title>
+  </programme>
+  <programme start="20200119234500 +0300" stop="20200120000000 +0300" channel="360 HD">
+    <title lang="tr">Kolay Mı Sandın ?</title>
+  </programme>
+  <programme start="20200120094500 +0300" stop="20200120101500 +0300" channel="360 HD">
+    <title lang="tr">Mustafa Akgül ile Cuma Sohbetleri</title>
+  </programme>
+  <programme start="20200120101500 +0300" stop="20200120104500 +0300" channel="360 HD">
+    <title lang="tr">Gezmek Olsun</title>
+  </programme>
   <programme start="20200119011500 +0300" stop="20200119031500 +0300" channel="TV 8,5 HD">
     <title lang="tr">Magazin 8,5</title>
     <desc lang="tr">Ünlüler dünyasının merak edilenleri ve en sıcak magazin haberleri "Magazin 85" ile tv85 ekranlarında(n)</desc>
