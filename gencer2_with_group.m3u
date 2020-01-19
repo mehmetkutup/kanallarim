@@ -373,7 +373,7 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14874.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15998.m3u8
 #EXTINF:-1 tvg-chno="180" tvg-id="Star TV HD" tvg-name="Star TV HD" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" group-title="TURKISH",TR:STARTV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6018.m3u8
-#EXTINF:-1 tvg-chno="173" tvg-name="TRT Okul TR" tvg-logo="http://static.iptv-epg.com/tr/TRTOkul.tr.png" group-title="TURKISH",TR:TRT2HD
+#EXTINF:-1 tvg-chno="173" tvg-id="TRT 2 HD" tvg-name="TRT 2 HD" tvg-logo="http://static.iptv-epg.com/tr/TRTOkul.tr.png" group-title="TURKISH",TR:TRT2HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/14875.m3u8
 #EXTINF:-1 tvg-chno="174" tvg-id="ATV HD" tvg-name="ATV HD" tvg-logo="http://static.iptv-epg.com/tr/ATV.tr.png" group-title="TURKISH",TR:ATV
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6015.m3u8
@@ -393,11 +393,11 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6017.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/217.m3u8
 #EXTINF:-1 tvg-chno="188" tvg-id="TV 8,5 HD" tvg-name="TV 8,5 HD" tvg-logo="http://static.iptv-epg.com/tr/TV85.tr.png" group-title="TURKISH",TV 8,5 HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/996.m3u8
-#EXTINF:-1 tvg-chno="189" tvg-logo="http://turkvod.com/wp-content/uploads/2019/05/246x0w.jpg" group-title="TURKISH",TR:A2
+#EXTINF:-1 tvg-chno="189" tvg-id="A2 HD" tvg-name="A2 HD" tvg-logo="http://turkvod.com/wp-content/uploads/2019/05/246x0w.jpg" group-title="TURKISH",TR:A2 HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1023.m3u8
-#EXTINF:-1 tvg-chno="190" tvg-logo="https://www.digiturkburada.com/kanal/kanal-buyuk/teve-2-hd-buyuk.png" group-title="TURKISH",TR:TEVE2
+#EXTINF:-1 tvg-chno="190" tvg-id="TEVE2 HD" tvg-name="TEVE2 HD" tvg-logo="https://www.digiturkburada.com/kanal/kanal-buyuk/teve-2-hd-buyuk.png" group-title="TURKISH",TEVE2 HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/223.m3u8
-#EXTINF:-1 tvg-chno="191" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/png/360tv.png" group-title="TURKISH",TR:360
+#EXTINF:-1 tvg-chno="191" tvg-id="360 HD" tvg-name="360 HD" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/png/360tv.png" group-title="TURKISH",360 HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/624.m3u8
 #EXTINF:-1 tvg-chno="192" tvg-logo="https://tele1.com.tr/wp-content/uploads/2019/01/tele1.jpg" group-title="TURKISH",TR:TELE1
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/10335.m3u8
