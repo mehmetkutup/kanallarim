@@ -1,0 +1,1131 @@
+#EXTM3U url-tvg="http://iptv-epg.com/12d29-fcw0yx.xml" x-tvg-url="http://iptv-epg.com/12d29-fcw0yx.xml"
+#EXTINF:-1 tvg-id="24Kitchen.tr" tvg-name="24 Kitchen TR" tvg-logo="http://static.iptv-epg.com/tr/24Kitchen.tr.png" tvg-chno="1" channel-id="1" group-title="BELGESEL",24 Kitchen HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/249
+#EXTINF:-1 tvg-id="AnimalPlanet.nl" tvg-name="Animal Planet NL" tvg-logo="http://static.iptv-epg.com/nl/AnimalPlanet.nl.png" tvg-chno="2" channel-id="2" group-title="BELGESEL",Animal Planet HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/236
+#EXTINF:-1 tvg-id="AnimalPlanet.nl" tvg-name="Animal Planet NL" tvg-logo="http://static.iptv-epg.com/nl/AnimalPlanet.nl.png" tvg-chno="3" channel-id="3" group-title="BELGESEL",ANIMALPLANET
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/223
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux FR" tvg-logo="http://static.iptv-epg.com/fr/Animaux.fr.png" tvg-chno="4" channel-id="4" group-title="BELGESEL",Animaux
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/238
+#EXTINF:-1 tvg-id="AutomotoTV.it" tvg-name="Automoto TV IT" tvg-logo="http://static.iptv-epg.com/it/AutomotoTV.it.png" tvg-chno="5" channel-id="5" group-title="BELGESEL",AUTOMOTO LA CHAINE
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/237
+#EXTINF:-1 tvg-id="BBCEarth.tr" tvg-name="BBC Earth TR" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" tvg-chno="6" channel-id="6" group-title="BELGESEL",BBC Earth HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/247
+#EXTINF:-1 tvg-id="BBCEarth.tr" tvg-name="BBC Earth TR" tvg-logo="http://static.iptv-epg.com/tr/BBCEarth.tr.png" tvg-chno="7" channel-id="7" group-title="BELGESEL",BBCEARTH
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/219
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="beIN Gurme TR" tvg-logo="http://static.iptv-epg.com/tr/beINGurme.tr.png" tvg-chno="8" channel-id="8" group-title="BELGESEL",BEIN GURME HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/234
+#EXTINF:-1 tvg-id="beINiz.tr" tvg-name="beIN İZ TR" tvg-logo="http://static.iptv-epg.com/tr/beINiz.tr.png" tvg-chno="9" channel-id="9" group-title="BELGESEL",BEIN IZ HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/235
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="beIN Gurme TR" tvg-logo="http://static.iptv-epg.com/tr/beINGurme.tr.png" tvg-chno="10" channel-id="10" group-title="BELGESEL",BEINGURME
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/227
+#EXTINF:-1 tvg-id="beINiz.tr" tvg-name="beIN İZ TR" tvg-logo="http://static.iptv-epg.com/tr/beINiz.tr.png" tvg-chno="11" channel-id="11" group-title="BELGESEL",BEINIZ
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/225
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse et pêche FR" tvg-logo="http://static.iptv-epg.com/fr/ChassePeche.fr.png" tvg-chno="12" channel-id="12" group-title="BELGESEL",Chasse et Peche
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/248
+#EXTINF:-1 tvg-id="Davinci.id" tvg-name="Davinci ID" tvg-logo="http://static.iptv-epg.com/id/Davinci.id.png" tvg-chno="13" channel-id="13" group-title="BELGESEL",DA Vinci
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/251
+#EXTINF:-1 tvg-id="DiscoveryChannel.sa" tvg-name="Discovery SA" tvg-logo="http://static.iptv-epg.com/sa/DiscoveryChannel.sa.png" tvg-chno="14" channel-id="14" group-title="BELGESEL",DISCOVERY
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/220
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel IT" tvg-logo="http://static.iptv-epg.com/it/DiscoveryChannel.it.png" tvg-chno="15" channel-id="15" group-title="BELGESEL",DISCOVERY CHANNEL
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/239
+#EXTINF:-1 tvg-id="Discovery.th" tvg-name="Discovery TH" tvg-logo="http://static.iptv-epg.com/th/Discovery.th.png" tvg-chno="16" channel-id="16" group-title="BELGESEL",Discovery DTX
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/243
+#EXTINF:-1 tvg-id="DiscoveryID.ro" tvg-name="Discovery ID RO" tvg-logo="http://static.iptv-epg.com/ro/DiscoveryID.ro.png" tvg-chno="17" channel-id="17" group-title="BELGESEL",DISCOVERY ID
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/242
+#EXTINF:-1 tvg-id="DiscoveryScience.cz" tvg-name="Discovery Science CZ" tvg-logo="http://static.iptv-epg.com/cz/DiscoveryScience.cz.png" tvg-chno="18" channel-id="18" group-title="BELGESEL",DISCOVERY SCIENCE
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/241
+#EXTINF:-1 tvg-id="DiscoveryShowcase.nl" tvg-name="Discovery Showcase NL" tvg-logo="http://static.iptv-epg.com/nl/DiscoveryShowcase.nl.png" tvg-chno="19" channel-id="19" group-title="BELGESEL",DISCOVERY SHOWCASE
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/240
+#EXTINF:-1 tvg-id="DiscoveryScience.il" tvg-name="Discovery Science IL" tvg-logo="http://static.iptv-epg.com/il/DiscoveryScience.il.png" tvg-chno="20" channel-id="20" group-title="BELGESEL",DISCOVERYSCEINCE
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/221
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax DE" tvg-logo="http://static.iptv-epg.com/de/DMax.de.png" tvg-chno="21" channel-id="21" group-title="BELGESEL",DMAX FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/233
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="http://static.iptv-epg.com/it/DMAX.it.png" tvg-chno="22" channel-id="22" group-title="BELGESEL",DMAX HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/232
+#EXTINF:-1 tvg-id="Docubox.tr" tvg-name="Docubox TR" tvg-logo="http://static.iptv-epg.com/tr/Docubox.tr.png" tvg-chno="23" channel-id="23" group-title="BELGESEL",DOCUBOX
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/253
+#EXTINF:-1 tvg-id="FastandFun.pl" tvg-name="Fast and Fun HD PL" tvg-logo="http://static.iptv-epg.com/pl/FastandFun.pl.png" tvg-chno="24" channel-id="24" group-title="BELGESEL",FAST&FUNBOX HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/255
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="History UK" tvg-logo="http://static.iptv-epg.com/uk/HistoryChannel.uk.png" tvg-chno="25" channel-id="25" group-title="BELGESEL",HISTORY
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/224
+#EXTINF:-1 tvg-id="HistoryChannel.tr" tvg-name="History Channel TR" tvg-logo="http://static.iptv-epg.com/tr/HistoryChannel.tr.png" tvg-chno="26" channel-id="26" group-title="BELGESEL",HISTORY CHANNEL
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/231
+#EXTINF:-1 tvg-id="DiscoveryID.ro" tvg-name="Discovery ID RO" tvg-logo="http://static.iptv-epg.com/ro/DiscoveryID.ro.png" tvg-chno="27" channel-id="27" group-title="BELGESEL",ID DISCOVERY
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/222
+#EXTINF:-1 tvg-id="NatGeoPeople.tr" tvg-name="Nat Geo People TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeoPeople.tr.png" tvg-chno="28" channel-id="28" group-title="BELGESEL",NAT GEO PEOPLE
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/230
+#EXTINF:-1 tvg-id="NatGeoWild.in" tvg-name="Nat Geo Wild IN" tvg-logo="http://static.iptv-epg.com/in/NatGeoWild.in.png" tvg-chno="29" channel-id="29" group-title="BELGESEL",NAT GEO WILD HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/229
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="Nat Geo FR" tvg-logo="http://static.iptv-epg.com/fr/NationalGeographic.fr.png" tvg-chno="30" channel-id="30" group-title="BELGESEL",NATGEO
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/216
+#EXTINF:-1 tvg-id="NatGeoPeople.tr" tvg-name="Nat Geo People TR" tvg-logo="http://static.iptv-epg.com/tr/NatGeoPeople.tr.png" tvg-chno="31" channel-id="31" group-title="BELGESEL",NATGEOPEOPLE
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/217
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="Nat Geo Wild IT" tvg-logo="http://static.iptv-epg.com/it/NatGeoWild.it.png" tvg-chno="32" channel-id="32" group-title="BELGESEL",NATGEOWILD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/218
+#EXTINF:-1 tvg-id="NationalGeographic.nz" tvg-name="National Geographic NZ" tvg-logo="http://static.iptv-epg.com/nz/NationalGeographic.nz.png" tvg-chno="33" channel-id="33" group-title="BELGESEL",NATIONAL GEOGRAPHIC HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/228
+#EXTINF:-1 tvg-id="OutdoorChannel.gr" tvg-name="Outdoor Channel GR" tvg-logo="http://static.iptv-epg.com/gr/OutdoorChannel.gr.png" tvg-chno="34" channel-id="34" group-title="BELGESEL",OUTDOOR
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/252
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="Science & Vie TV FR" tvg-logo="http://static.iptv-epg.com/fr/ScienceAndVie.fr.png" tvg-chno="35" channel-id="35" group-title="BELGESEL",Science et Vie HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/250
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="Trek FR" tvg-logo="http://static.iptv-epg.com/fr/Trek.fr.png" tvg-chno="36" channel-id="36" group-title="BELGESEL",TREK
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/244
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel TR" tvg-logo="http://static.iptv-epg.com/tr/TRTBelgesel.tr.png" tvg-chno="37" channel-id="37" group-title="BELGESEL",TRT BELGESEL HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/246
+#EXTINF:-1 tvg-id="ViasatHistory.pl" tvg-name="Viasat History PL" tvg-logo="http://static.iptv-epg.com/pl/ViasatHistory.pl.png" tvg-chno="38" channel-id="38" group-title="BELGESEL",VIASAT HISTORY
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/226
+#EXTINF:-1 tvg-id="ViasatNatureHistory.bg" tvg-name="Viasat Nature/History BG" tvg-logo="http://static.iptv-epg.com/bg/ViasatNatureHistory.bg.png" tvg-chno="39" channel-id="39" group-title="BELGESEL",VIASAT NATURE&HISTORY
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/254
+#EXTINF:-1 tvg-id="YabanTV.tr" tvg-name="Yaban TV TR" tvg-logo="http://static.iptv-epg.com/tr/YabanTV.tr.png" tvg-chno="40" channel-id="40" group-title="BELGESEL",YABAN TV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/245
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" tvg-chno="41" channel-id="41" group-title="ULUSAL",TRT 1 (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" tvg-chno="42" channel-id="42" group-title="ULUSAL",TRT 1 (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/2
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" tvg-chno="43" channel-id="43" group-title="ULUSAL",TRT 1 (3)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/3
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" tvg-chno="44" channel-id="44" group-title="ULUSAL",TRT 1 (4)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/4
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV TR" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" tvg-chno="45" channel-id="45" group-title="ULUSAL",STAR TV (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/5
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV TR" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" tvg-chno="46" channel-id="46" group-title="ULUSAL",STAR TV (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/6
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV TR" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" tvg-chno="47" channel-id="47" group-title="ULUSAL",STAR TV (3)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/7
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="http://static.iptv-epg.com/tr/ATV.tr.png" tvg-chno="48" channel-id="48" group-title="ULUSAL",ATV (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/8
+#EXTINF:-1 tvg-id="ATV2.at" tvg-name="ATV 2 AT" tvg-logo="http://static.iptv-epg.com/at/ATV2.at.png" tvg-chno="49" channel-id="49" group-title="ULUSAL",ATV (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/9
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D TR" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" tvg-chno="50" channel-id="50" group-title="ULUSAL",KANAL D (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/10
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D TR" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" tvg-chno="51" channel-id="51" group-title="ULUSAL",KANAL D (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/11
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV TR" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" tvg-chno="52" channel-id="52" group-title="ULUSAL",SHOW TV (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/12
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV TR" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" tvg-chno="53" channel-id="53" group-title="ULUSAL",SHOW TV (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/13
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox TR" tvg-logo="http://static.iptv-epg.com/tr/Fox.tr.png" tvg-chno="54" channel-id="54" group-title="ULUSAL",FOX TV (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/14
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox TR" tvg-logo="http://static.iptv-epg.com/tr/Fox.tr.png" tvg-chno="55" channel-id="55" group-title="ULUSAL",FOX TV (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/15
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7 TR" tvg-logo="http://static.iptv-epg.com/tr/Kanal7.tr.png" tvg-chno="56" channel-id="56" group-title="ULUSAL",KANAL 7 (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/16
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7 TR" tvg-logo="http://static.iptv-epg.com/tr/Kanal7.tr.png" tvg-chno="57" channel-id="57" group-title="ULUSAL",KANAL 7 (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/17
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 TR" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" tvg-chno="58" channel-id="58" group-title="ULUSAL",TV 8 (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/18
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 TR" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" tvg-chno="59" channel-id="59" group-title="ULUSAL",TV 8 (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/19
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8,5 TR" tvg-logo="http://static.iptv-epg.com/tr/TV85.tr.png" tvg-chno="60" channel-id="60" group-title="ULUSAL",TV 8.5
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/20
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV TR" tvg-logo="http://static.iptv-epg.com/tr/BeyazTV.tr.png" tvg-chno="61" channel-id="61" group-title="ULUSAL",BEYAZ TV (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/21
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV TR" tvg-logo="http://static.iptv-epg.com/tr/BeyazTV.tr.png" tvg-chno="62" channel-id="62" group-title="ULUSAL",BEYAZ TV (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/22
+#EXTINF:-1 tvg-id="Cine.ar" tvg-name="Cine AR" tvg-logo="http://static.iptv-epg.com/ar/Cine.ar.png" tvg-chno="63" channel-id="63" group-title="ULUSAL",CINE 5
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="64" channel-id="64" group-title="ULUSAL",TEVE 2 (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="65" channel-id="65" group-title="ULUSAL",TEVE 2 (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/25
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC TR" tvg-logo="http://static.iptv-epg.com/tr/TLC.tr.png" tvg-chno="66" channel-id="66" group-title="ULUSAL",TLC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/26
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" tvg-chno="67" channel-id="67" group-title="ULUSAL",TRT 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="68" channel-id="68" group-title="ULUSAL",A 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="69" channel-id="69" group-title="ULUSAL",AKILLI TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/29
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTTurk.tr.png" tvg-chno="70" channel-id="70" group-title="ULUSAL",TRT TURK
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/30
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz TR" tvg-logo="http://static.iptv-epg.com/tr/TRTAvaz.tr.png" tvg-chno="71" channel-id="71" group-title="ULUSAL",TRT AVAZ
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/31
+#EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-name="TRT Al Arabiya TR" tvg-logo="http://static.iptv-epg.com/tr/TRTAlArabiya.tr.png" tvg-chno="72" channel-id="72" group-title="ULUSAL",TRT ARAB
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/32
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdî TR" tvg-logo="http://static.iptv-epg.com/tr/TRTKurdi.tr.png" tvg-chno="73" channel-id="73" group-title="ULUSAL",TRT KURDI
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="74" channel-id="74" group-title="ULUSAL",MECLIS TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/34
+#EXTINF:-1 tvg-id="Vision.ca" tvg-name="Vision TV CA" tvg-logo="http://static.iptv-epg.com/ca/Vision.ca.png" tvg-chno="75" channel-id="75" group-title="ULUSAL",VIZYON TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/35
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="76" channel-id="76" group-title="ULUSAL",UCANKUS TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/36
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="http://static.iptv-epg.com/it/DMAX.it.png" tvg-chno="77" channel-id="77" group-title="ULUSAL",D MAX
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/37
+#EXTINF:-1 tvg-id="TruTV.uk" tvg-name="truTV UK" tvg-logo="http://static.iptv-epg.com/uk/TruTV.uk.png" tvg-chno="78" channel-id="78" group-title="ULUSAL",TRT 4K
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/38
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" tvg-chno="79" channel-id="79" group-title="ULUSAL",TRT 1 FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/39
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" tvg-chno="80" channel-id="80" group-title="ULUSAL",TRT 1 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/40
+#EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV HU" tvg-logo="http://static.iptv-epg.com/hu/ATV.hu.png" tvg-chno="81" channel-id="81" group-title="ULUSAL",ATV FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/41
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="http://static.iptv-epg.com/tr/ATV.tr.png" tvg-chno="82" channel-id="82" group-title="ULUSAL",ATV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/42
+#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="TVP HD PL" tvg-logo="http://static.iptv-epg.com/pl/TVPHD.pl.png" tvg-chno="83" channel-id="83" group-title="ULUSAL",TV 8 FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/43
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 TR" tvg-logo="http://static.iptv-epg.com/tr/TV8.tr.png" tvg-chno="84" channel-id="84" group-title="ULUSAL",TV 8 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/44
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV TR" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" tvg-chno="85" channel-id="85" group-title="ULUSAL",SHOW TV FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/45
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV TR" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" tvg-chno="86" channel-id="86" group-title="ULUSAL",SHOW TV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/46
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D TR" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" tvg-chno="87" channel-id="87" group-title="ULUSAL",KANAL D FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/47
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D TR" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" tvg-chno="88" channel-id="88" group-title="ULUSAL",KANAL D HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/48
+#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="http://static.iptv-epg.com/ch/StarTV.ch.png" tvg-chno="89" channel-id="89" group-title="ULUSAL",STAR TV FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/49
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV TR" tvg-logo="http://static.iptv-epg.com/tr/StarTV.tr.png" tvg-chno="90" channel-id="90" group-title="ULUSAL",STAR TV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/50
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox TR" tvg-logo="http://static.iptv-epg.com/tr/Fox.tr.png" tvg-chno="91" channel-id="91" group-title="ULUSAL",FOX TV FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/51
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox TR" tvg-logo="http://static.iptv-epg.com/tr/Fox.tr.png" tvg-chno="92" channel-id="92" group-title="ULUSAL",FOX TV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/52
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8,5 TR" tvg-logo="http://static.iptv-epg.com/tr/TV85.tr.png" tvg-chno="93" channel-id="93" group-title="ULUSAL",TV 8.5 FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/53
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8,5 TR" tvg-logo="http://static.iptv-epg.com/tr/TV85.tr.png" tvg-chno="94" channel-id="94" group-title="ULUSAL",TV 8.5 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/54
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV TR" tvg-logo="http://static.iptv-epg.com/tr/BeyazTV.tr.png" tvg-chno="95" channel-id="95" group-title="ULUSAL",BEYAZ TV FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/55
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV TR" tvg-logo="http://static.iptv-epg.com/tr/BeyazTV.tr.png" tvg-chno="96" channel-id="96" group-title="ULUSAL",BEYAZ TV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/56
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7 TR" tvg-logo="http://static.iptv-epg.com/tr/Kanal7.tr.png" tvg-chno="97" channel-id="97" group-title="ULUSAL",KANAL 7 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/57
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="98" channel-id="98" group-title="ULUSAL",TEVE 2 FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/58
+#EXTINF:-1 tvg-id="Ten.es" tvg-name="Ten ES" tvg-logo="http://static.iptv-epg.com/es/Ten.es.png" tvg-chno="99" channel-id="99" group-title="ULUSAL",TEVE 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/59
+#EXTINF:-1 tvg-id="SkyTurk360.tr" tvg-name="Sky Turk 360 TR" tvg-logo="http://static.iptv-epg.com/tr/SkyTurk360.tr.png" tvg-chno="100" channel-id="100" group-title="ULUSAL",SKY TURK 360 FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/60
+#EXTINF:-1 tvg-id="360TV.lv" tvg-name="360 TV LV" tvg-logo="http://static.iptv-epg.com/lv/360TV.lv.png" tvg-chno="101" channel-id="101" group-title="ULUSAL",360 TV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/61
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC TR" tvg-logo="http://static.iptv-epg.com/tr/TLC.tr.png" tvg-chno="102" channel-id="102" group-title="ULUSAL",TLC HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/62
+#EXTINF:-1 tvg-id="FXHD.qa" tvg-name="FX HD QA" tvg-logo="http://static.iptv-epg.com/qa/FXHD.qa.png" tvg-chno="103" channel-id="103" group-title="ULUSAL",FX FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/63
+#EXTINF:-1 tvg-id="FoxLife.tr" tvg-name="Fox Life TR" tvg-logo="http://static.iptv-epg.com/tr/FoxLife.tr.png" tvg-chno="104" channel-id="104" group-title="ULUSAL",Fox Life FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/64
+#EXTINF:-1 tvg-id="FoxCrime.tr" tvg-name="Fox Crime TR" tvg-logo="http://static.iptv-epg.com/tr/FoxCrime.tr.png" tvg-chno="105" channel-id="105" group-title="ULUSAL",FOX CRIME FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/65
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" tvg-chno="106" channel-id="106" group-title="ULUSAL",TRT 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/66
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="107" channel-id="107" group-title="ULUSAL",A2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/67
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="108" channel-id="108" group-title="ULUSAL",APARA
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/68
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-logo="http://static.iptv-epg.com/tr/TRT1.tr.png" tvg-chno="109" channel-id="109" group-title="ULUSAL",TRT 1 HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/69
+#EXTINF:-1 tvg-id="TRTOkul.tr" tvg-name="TRT Okul TR" tvg-logo="http://static.iptv-epg.com/tr/TRTOkul.tr.png" tvg-chno="110" channel-id="110" group-title="ULUSAL",TRT 2 HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/70
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="http://static.iptv-epg.com/tr/ATV.tr.png" tvg-chno="111" channel-id="111" group-title="ULUSAL",ATV HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/71
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV TR" tvg-logo="http://static.iptv-epg.com/tr/ShowTV.tr.png" tvg-chno="112" channel-id="112" group-title="ULUSAL",SHOW TV HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/72
+#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="Star TV CH" tvg-logo="http://static.iptv-epg.com/ch/StarTV.ch.png" tvg-chno="113" channel-id="113" group-title="ULUSAL",STAR TV HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/73
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D TR" tvg-logo="http://static.iptv-epg.com/tr/KanalD.tr.png" tvg-chno="114" channel-id="114" group-title="ULUSAL",KANAL D HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/74
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox TR" tvg-logo="http://static.iptv-epg.com/tr/Fox.tr.png" tvg-chno="115" channel-id="115" group-title="ULUSAL",FOX TV HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/75
+#EXTINF:-1 tvg-id="TV8.se" tvg-name="TV 8 SE" tvg-logo="http://static.iptv-epg.com/se/TV8.se.png" tvg-chno="116" channel-id="116" group-title="ULUSAL",TV8 HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/76
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8,5 TR" tvg-logo="http://static.iptv-epg.com/tr/TV85.tr.png" tvg-chno="117" channel-id="117" group-title="ULUSAL",TV8.5 HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/77
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="118" channel-id="118" group-title="ULUSAL",UCANKUS
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/78
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7 TR" tvg-logo="http://static.iptv-epg.com/tr/Kanal7.tr.png" tvg-chno="119" channel-id="119" group-title="ULUSAL",KANAL 7 HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/79
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber TR" tvg-logo="http://static.iptv-epg.com/tr/TRTHaber.tr.png" tvg-chno="120" channel-id="120" group-title="HABER",TRT HABER
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/80
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="121" channel-id="121" group-title="HABER",HALK TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/81
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="http://static.iptv-epg.com/tr/NTV.tr.png" tvg-chno="122" channel-id="122" group-title="HABER",NTV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/82
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="http://static.iptv-epg.com/tr/AHaber.tr.png" tvg-chno="123" channel-id="123" group-title="HABER",A HABER (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/83
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="http://static.iptv-epg.com/tr/AHaber.tr.png" tvg-chno="124" channel-id="124" group-title="HABER",A HABER (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/84
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="125" channel-id="125" group-title="HABER",A PARA
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/85
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV TR" tvg-logo="http://static.iptv-epg.com/tr/UlkeTV.tr.png" tvg-chno="126" channel-id="126" group-title="HABER",ULKE TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/86
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="127" channel-id="127" group-title="HABER",AKIT TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/87
+#EXTINF:-1 tvg-id="KanalB.tr" tvg-name="Kanal B TR" tvg-logo="http://static.iptv-epg.com/tr/KanalB.tr.png" tvg-chno="128" channel-id="128" group-title="HABER",KANAL B
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/88
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="129" channel-id="129" group-title="HABER",A2 HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/89
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="Beyaz TV TR" tvg-logo="http://static.iptv-epg.com/tr/BeyazTV.tr.png" tvg-chno="130" channel-id="130" group-title="HABER",BEYAZ TV HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/90
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="http://static.iptv-epg.com/tr/AHaber.tr.png" tvg-chno="131" channel-id="131" group-title="HABER",A HABER HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/91
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Turk TR" tvg-logo="http://static.iptv-epg.com/tr/CNNTurk.tr.png" tvg-chno="132" channel-id="132" group-title="HABER",CNN TURK HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/92
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber TR" tvg-logo="http://static.iptv-epg.com/tr/TRTHaber.tr.png" tvg-chno="133" channel-id="133" group-title="HABER",TRT HABER HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/93
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="134" channel-id="134" group-title="HABER",ULKE TV HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/94
+#EXTINF:-1 tvg-id="TV100.gr" tvg-name="TV 100 GR" tvg-logo="http://static.iptv-epg.com/gr/TV100.gr.png" tvg-chno="135" channel-id="135" group-title="HABER",TV100 HD HEVC
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/95
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="http://static.iptv-epg.com/tr/AHaber.tr.png" tvg-chno="136" channel-id="136" group-title="HABER",A HABER FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/96
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="http://static.iptv-epg.com/tr/AHaber.tr.png" tvg-chno="137" channel-id="137" group-title="HABER",A HABER HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/97
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Turk TR" tvg-logo="http://static.iptv-epg.com/tr/CNNTurk.tr.png" tvg-chno="138" channel-id="138" group-title="HABER",CNN TURK FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/98
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Turk TR" tvg-logo="http://static.iptv-epg.com/tr/CNNTurk.tr.png" tvg-chno="139" channel-id="139" group-title="HABER",CNN TURK HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/99
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Turk TR" tvg-logo="http://static.iptv-epg.com/tr/Haberturk.tr.png" tvg-chno="140" channel-id="140" group-title="HABER",HABER TURK FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/100
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="Haber Turk TR" tvg-logo="http://static.iptv-epg.com/tr/Haberturk.tr.png" tvg-chno="141" channel-id="141" group-title="HABER",HABER TURK HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/101
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="http://static.iptv-epg.com/tr/NTV.tr.png" tvg-chno="142" channel-id="142" group-title="HABER",NTV FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/102
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="http://static.iptv-epg.com/tr/NTV.tr.png" tvg-chno="143" channel-id="143" group-title="HABER",NTV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="144" channel-id="144" group-title="HABER",HABER GLOBAL
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/104
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber TR" tvg-logo="http://static.iptv-epg.com/tr/TRTHaber.tr.png" tvg-chno="145" channel-id="145" group-title="HABER",TRT HABER FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/105
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber TR" tvg-logo="http://static.iptv-epg.com/tr/TRTHaber.tr.png" tvg-chno="146" channel-id="146" group-title="HABER",TRT HABER HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/106
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="147" channel-id="147" group-title="HABER",KANAL 24 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/107
+#EXTINF:-1 tvg-id="Bloomberg.it" tvg-name="Bloomberg IT" tvg-logo="http://static.iptv-epg.com/it/Bloomberg.it.png" tvg-chno="148" channel-id="148" group-title="HABER",BLOOMBERGHT HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/108
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TVNET TR" tvg-logo="http://static.iptv-epg.com/tr/TVNET.tr.png" tvg-chno="149" channel-id="149" group-title="HABER",TVNET HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/109
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ülke TV TR" tvg-logo="http://static.iptv-epg.com/tr/UlkeTV.tr.png" tvg-chno="150" channel-id="150" group-title="HABER",ULKE TV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="151" channel-id="151" group-title="HABER",ULKE TV FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/111
+#EXTINF:-1 tvg-id="TV100.gr" tvg-name="TV 100 GR" tvg-logo="http://static.iptv-epg.com/gr/TV100.gr.png" tvg-chno="152" channel-id="152" group-title="HABER",TV100 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/112
+#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="Ulusal Kanal TR" tvg-logo="http://static.iptv-epg.com/tr/UlusalKanal.tr.png" tvg-chno="153" channel-id="153" group-title="HABER",ULUSAL KANAL HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/113
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="154" channel-id="154" group-title="HABER",HALK TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/114
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="155" channel-id="155" group-title="HABER",TGRT HABER FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/115
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="156" channel-id="156" group-title="HABER",TGRT HABER HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/116
+#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV KR" tvg-logo="http://static.iptv-epg.com/kr/KTV.kr.png" tvg-chno="157" channel-id="157" group-title="HABER",KRT TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/117
+#EXTINF:-1 tvg-id="Tele1.ch" tvg-name="Tele1 CH" tvg-logo="http://static.iptv-epg.com/ch/Tele1.ch.png" tvg-chno="158" channel-id="158" group-title="HABER",TELE 1
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/118
+#EXTINF:-1 tvg-id="Tele1.ch" tvg-name="Tele1 CH" tvg-logo="http://static.iptv-epg.com/ch/Tele1.ch.png" tvg-chno="159" channel-id="159" group-title="HABER",TELE1 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/119
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="160" channel-id="160" group-title="VIP SPOR",BEIN SPORTS 1 (Mobil)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="161" channel-id="161" group-title="VIP SPOR",BEIN SPORTS 1 SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/121
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="162" channel-id="162" group-title="VIP SPOR",BEIN SPORTS 1 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/122
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="163" channel-id="163" group-title="VIP SPOR",BEIN SPORTS 1 HD (H265)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/123
+#EXTINF:-1 tvg-id="beINSports1.au" tvg-name="beIN Sports 1 AU" tvg-logo="http://static.iptv-epg.com/au/beINSports1.au.png" tvg-chno="164" channel-id="164" group-title="VIP SPOR",BEIN SPORTS 1 BACKUP
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/124
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="165" channel-id="165" group-title="VIP SPOR",BEIN SPORTS 2 SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/125
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="166" channel-id="166" group-title="VIP SPOR",BEIN SPORTS 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/126
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="167" channel-id="167" group-title="VIP SPOR",BEIN SPORTS 3 SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/127
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="168" channel-id="168" group-title="VIP SPOR",BEIN SPORTS 3 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/128
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="169" channel-id="169" group-title="VIP SPOR",BEIN SPORTS 4 SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/129
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="170" channel-id="170" group-title="VIP SPOR",BEIN SPORTS 4 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/130
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="beIN Sports Max 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSportsMax1.tr.png" tvg-chno="171" channel-id="171" group-title="VIP SPOR",BEIN SPORTS MAX 1 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/131
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="beIN Sports Max 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSportsMax1.tr.png" tvg-chno="172" channel-id="172" group-title="VIP SPOR",BEIN SPORTS MAX 1 HD (H
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/132
+#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="beIN Sports Max 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSportsMax2.tr.png" tvg-chno="173" channel-id="173" group-title="VIP SPOR",BEIN SPORTS MAX 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/133
+#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="beIN Sports Max 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSportsMax2.tr.png" tvg-chno="174" channel-id="174" group-title="VIP SPOR",BEIN SPORTS MAX 2 HD (H
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/134
+#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="beIN Sports QA" tvg-logo="http://static.iptv-epg.com/qa/beINSportsGlobal.qa.png" tvg-chno="175" channel-id="175" group-title="VIP SPOR",BEIN SPORTS HABER HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/135
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="176" channel-id="176" group-title="VIP SPOR",TIVIBU SPOR SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/136
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="177" channel-id="177" group-title="VIP SPOR",TIVIBU SPOR HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/137
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="178" channel-id="178" group-title="VIP SPOR",TIVIBU SPOR 2 SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/138
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="179" channel-id="179" group-title="VIP SPOR",TIVIBU SPOR 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/139
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="180" channel-id="180" group-title="VIP SPOR",TIVIBU SPOR 3 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="181" channel-id="181" group-title="VIP SPOR",SPOR SMART SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/141
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="182" channel-id="182" group-title="VIP SPOR",SPOR SMART HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/142
+#EXTINF:-1 tvg-id="SportsMax2.jm" tvg-name="SportsMax 2 JM" tvg-logo="http://static.iptv-epg.com/jm/SportsMax2.jm.png" tvg-chno="183" channel-id="183" group-title="VIP SPOR",SPOR SMART 2 SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/143
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="184" channel-id="184" group-title="VIP SPOR",S SPORT SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/144
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="185" channel-id="185" group-title="VIP SPOR",S SPORT HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/145
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="186" channel-id="186" group-title="VIP SPOR",S SPORT 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/146
+#EXTINF:-1 tvg-id="beINSports1.hk" tvg-name="beIN Sports 1 HK" tvg-logo="http://static.iptv-epg.com/hk/beINSports1.hk.png" tvg-chno="187" channel-id="187" group-title="MAC ZAMANI AKTIF",BEINSPORTS 1 4K
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/147
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="188" channel-id="188" group-title="MAC ZAMANI AKTIF",BEINSPORTS 1 UHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/148
+#EXTINF:-1 tvg-id="beINSports2.hk" tvg-name="beIN Sports 2 HK" tvg-logo="http://static.iptv-epg.com/hk/beINSports2.hk.png" tvg-chno="189" channel-id="189" group-title="MAC ZAMANI AKTIF",BEINSPORTS 2 4K
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="190" channel-id="190" group-title="MAC ZAMANI AKTIF",BEINSPORTS 2 UHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/150
+#EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="beIN Sports 4K QA" tvg-logo="http://static.iptv-epg.com/qa/beINSports4K.qa.png" tvg-chno="191" channel-id="191" group-title="MAC ZAMANI AKTIF",BEINSPORTS 3 4K
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/151
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="192" channel-id="192" group-title="MAC ZAMANI AKTIF",BEINSPORTS 3 UHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/152
+#EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="beIN Sports 4K QA" tvg-logo="http://static.iptv-epg.com/qa/beINSports4K.qa.png" tvg-chno="193" channel-id="193" group-title="MAC ZAMANI AKTIF",BEINSPORTS 4 4K
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/153
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="194" channel-id="194" group-title="MAC ZAMANI AKTIF",BEINSPORTS 4 UHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/154
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="beIN Sports Max 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSportsMax1.tr.png" tvg-chno="195" channel-id="195" group-title="MAC ZAMANI AKTIF",BEINSPORTS MAX 1
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/155
+#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="beIN Sports Max 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSportsMax2.tr.png" tvg-chno="196" channel-id="196" group-title="MAC ZAMANI AKTIF",BEINSPORTS MAX 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="197" channel-id="197" group-title="MAC ZAMANI AKTIF",TIVIBUSPOR 1 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="198" channel-id="198" group-title="MAC ZAMANI AKTIF",TIVIBUSPOR 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/158
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="199" channel-id="199" group-title="MAC ZAMANI AKTIF",TIVIBUSPOR 3 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/159
+#EXTINF:-1 tvg-id="CosmoteSport4.gr" tvg-name="Cosmote Sport 4 GR" tvg-logo="http://static.iptv-epg.com/gr/CosmoteSport4.gr.png" tvg-chno="200" channel-id="200" group-title="MAC ZAMANI AKTIF",SMART SPORT 4K
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/160
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="201" channel-id="201" group-title="MAC ZAMANI AKTIF",SSPORT 2 4K
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/161
+#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="beIN Sports QA" tvg-logo="http://static.iptv-epg.com/qa/beINSportsGlobal.qa.png" tvg-chno="202" channel-id="202" group-title="SPOR EXTRA",beIN SPORTS HABER FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/162
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="203" channel-id="203" group-title="SPOR EXTRA",beIN SPORTS 1 FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/163
+#EXTINF:-1 tvg-id="beINSports1.hk" tvg-name="beIN Sports 1 HK" tvg-logo="http://static.iptv-epg.com/hk/beINSports1.hk.png" tvg-chno="204" channel-id="204" group-title="SPOR EXTRA",beIN SPORTS 1 FHD Yüks
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/164
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="205" channel-id="205" group-title="SPOR EXTRA",beIN SPORTS 1 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/165
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="206" channel-id="206" group-title="SPOR EXTRA",beIN SPORTS 1 SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/166
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="207" channel-id="207" group-title="SPOR EXTRA",beIN SPORTS 1 Telefon/
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/167
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="208" channel-id="208" group-title="SPOR EXTRA",beIN SPORTS 1 (480p)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/168
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="209" channel-id="209" group-title="SPOR EXTRA",beIN SPORTS YEDEK-1
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/169
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="210" channel-id="210" group-title="SPOR EXTRA",beIN SPORTS YEDEK-2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/170
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="211" channel-id="211" group-title="SPOR EXTRA",beIN SPORTS YEDEK-3
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/171
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="212" channel-id="212" group-title="SPOR EXTRA",beIN SPORTS YEDEK-4
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/172
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="213" channel-id="213" group-title="SPOR EXTRA",beIN SPORTS 1 HD VODAF
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/173
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="214" channel-id="214" group-title="SPOR EXTRA",beIN SPORTS 1 HD SUPER
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/174
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="215" channel-id="215" group-title="SPOR EXTRA",beIN SPORTS 1 HD Deuts
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/175
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN Sports 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSports1.tr.png" tvg-chno="216" channel-id="216" group-title="SPOR EXTRA",beIN SPORTS 1 HD TURK
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/176
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="217" channel-id="217" group-title="SPOR EXTRA",beIN SPORTS 2 FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/177
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="218" channel-id="218" group-title="SPOR EXTRA",BEIN SPORTS 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="219" channel-id="219" group-title="SPOR EXTRA",beIN SPORTS 2 SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/179
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="220" channel-id="220" group-title="SPOR EXTRA",beIN SPORTS 3 FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/180
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="221" channel-id="221" group-title="SPOR EXTRA",BEIN SPORTS 3 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/181
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="222" channel-id="222" group-title="SPOR EXTRA",beIN SPORTS 3 SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/182
+#EXTINF:-1 tvg-id="beINSports4.th" tvg-name="beIN Sports 4 TH" tvg-logo="http://static.iptv-epg.com/th/beINSports4.th.png" tvg-chno="223" channel-id="223" group-title="SPOR EXTRA",beIN SPORTS 4 FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/183
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="224" channel-id="224" group-title="SPOR EXTRA",beIN SPORTS 4 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/184
+#EXTINF:-1 tvg-id="beINSports10.us" tvg-name="beIN Sports 10 US" tvg-logo="http://static.iptv-epg.com/us/beINSports10.us.png" tvg-chno="225" channel-id="225" group-title="SPOR EXTRA",beIN SPORTS 1 (50FPS)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/185
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="226" channel-id="226" group-title="SPOR EXTRA",beIN SPORTS 2 (50FPS)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="227" channel-id="227" group-title="SPOR EXTRA",beIN SPORTS 3 (50FPS)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/187
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="228" channel-id="228" group-title="SPOR EXTRA",beIN SPORTS 4 (50FPS)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/188
+#EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="beIN Sports 4K QA" tvg-logo="http://static.iptv-epg.com/qa/beINSports4K.qa.png" tvg-chno="229" channel-id="229" group-title="SPOR EXTRA",beIN SPORTS 4K
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/189
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="beIN Sports Max 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSportsMax1.tr.png" tvg-chno="230" channel-id="230" group-title="SPOR EXTRA",beIN SPORTS MAX 1 FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/190
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="beIN Sports Max 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSportsMax1.tr.png" tvg-chno="231" channel-id="231" group-title="SPOR EXTRA",beIN SPORTS MAX 1 SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/191
+#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="beIN Sports Max 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSportsMax2.tr.png" tvg-chno="232" channel-id="232" group-title="SPOR EXTRA",beIN SPORTS MAX 2 FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/192
+#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="beIN Sports Max 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINSportsMax2.tr.png" tvg-chno="233" channel-id="233" group-title="SPOR EXTRA",beIN SPORTS MAX 2 SD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/193
+#EXTINF:-1 tvg-id="beINSportsGlobal.qa" tvg-name="beIN Sports QA" tvg-logo="http://static.iptv-epg.com/qa/beINSportsGlobal.qa.png" tvg-chno="234" channel-id="234" group-title="SPOR EXTRA",beIN SPORTS HABER HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/194
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="235" channel-id="235" group-title="SPOR EXTRA",TIVIBUSPOR 1 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="236" channel-id="236" group-title="SPOR EXTRA",TIVIBUSPOR 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/196
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="237" channel-id="237" group-title="SPOR EXTRA",TIVIBUSPOR 3 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/197
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="238" channel-id="238" group-title="SPOR EXTRA",S Sport FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/198
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="239" channel-id="239" group-title="SPOR EXTRA",S Sport HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/199
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="240" channel-id="240" group-title="SPOR EXTRA",S Sport 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="241" channel-id="241" group-title="SPOR EXTRA",SPORSMART HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/201
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="242" channel-id="242" group-title="SPOR EXTRA",SPORSMART HD (BACKUP)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/202
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="243" channel-id="243" group-title="SPOR EXTRA",Eurosport 1 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="244" channel-id="244" group-title="SPOR EXTRA",Eurosport 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/204
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="245" channel-id="245" group-title="SPOR EXTRA",ASPOR FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="246" channel-id="246" group-title="SPOR EXTRA",ASPOR HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/206
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor TR" tvg-logo="http://static.iptv-epg.com/tr/TRTSpor.tr.png" tvg-chno="247" channel-id="247" group-title="SPOR EXTRA",TRT SPOR FHD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/207
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor TR" tvg-logo="http://static.iptv-epg.com/tr/TRTSpor.tr.png" tvg-chno="248" channel-id="248" group-title="SPOR EXTRA",TRT SPOR HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/208
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor TR" tvg-logo="http://static.iptv-epg.com/tr/TRTSpor.tr.png" tvg-chno="249" channel-id="249" group-title="SPOR EXTRA",TRT SPOR 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/209
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="Sports TV TR" tvg-logo="http://static.iptv-epg.com/tr/SportsTV.tr.png" tvg-chno="250" channel-id="250" group-title="SPOR EXTRA",SPORTSTV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/210
+#EXTINF:-1 tvg-id="GSTV.in" tvg-name="GSTV IN" tvg-logo="http://static.iptv-epg.com/in/GSTV.in.png" tvg-chno="251" channel-id="251" group-title="SPOR EXTRA",GSTV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/211
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV TR" tvg-logo="http://static.iptv-epg.com/tr/FBTV.tr.png" tvg-chno="252" channel-id="252" group-title="SPOR EXTRA",FBTV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/212
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="253" channel-id="253" group-title="SPOR EXTRA",NBA TV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/213
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="254" channel-id="254" group-title="SPOR EXTRA",TAY TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/214
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TJK TV TR" tvg-logo="http://static.iptv-epg.com/tr/TJKTV.tr.png" tvg-chno="255" channel-id="255" group-title="SPOR EXTRA",TJK
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/215
+#EXTINF:-1 tvg-id="beINMoviesAction.tr" tvg-name="beIN Movies Action TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesAction.tr.png" tvg-chno="256" channel-id="256" group-title="VIP SINEMA",BEIN MOVIES ACTION HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/256
+#EXTINF:-1 tvg-id="beINMoviesAction2.tr" tvg-name="beIN Movies Action 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesAction2.tr.png" tvg-chno="257" channel-id="257" group-title="VIP SINEMA",BEIN MOVIES ACTION 2 H
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/257
+#EXTINF:-1 tvg-id="beINMoviesFamily.tr" tvg-name="beIN Movies Family TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesFamily.tr.png" tvg-chno="258" channel-id="258" group-title="VIP SINEMA",BEIN MOVIES FAMILY HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/258
+#EXTINF:-1 tvg-id="beINMoviesPremiere2.tr" tvg-name="beIN Movies Premiere 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesPremiere2.tr.png" tvg-chno="259" channel-id="259" group-title="VIP SINEMA",BEIN MOVIES PREMIER 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/259
+#EXTINF:-1 tvg-id="beINMoviesPremier.tr" tvg-name="beIN Movies Premier TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesPremier.tr.png" tvg-chno="260" channel-id="260" group-title="VIP SINEMA",BEIN MOVIES PREMIER HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/260
+#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="beIN Movies Stars TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesStars.tr.png" tvg-chno="261" channel-id="261" group-title="VIP SINEMA",BEIN MOVIES STARS HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/261
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="beIN Movies Turk TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesTurk.tr.png" tvg-chno="262" channel-id="262" group-title="VIP SINEMA",BEIN MOVIES TURK HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/262
+#EXTINF:-1 tvg-id="beINSeriesComedy.tr" tvg-name="beIN Series Comedy TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesComedy.tr.png" tvg-chno="263" channel-id="263" group-title="VIP SINEMA",BEIN SERIES COMEDY HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/263
+#EXTINF:-1 tvg-id="beINSeriesDrama.tr" tvg-name="beIN Series Drama TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesDrama.tr.png" tvg-chno="264" channel-id="264" group-title="VIP SINEMA",BEIN SERIES DRAMA HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/264
+#EXTINF:-1 tvg-id="beINSeriesSciFi.tr" tvg-name="beIN Series Sci Fi TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesSciFi.tr.png" tvg-chno="265" channel-id="265" group-title="VIP SINEMA",BEIN SERIES SCI-FI HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/265
+#EXTINF:-1 tvg-id="beINSeriesVice.tr" tvg-name="beIN Series Vice TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesVice.tr.png" tvg-chno="266" channel-id="266" group-title="VIP SINEMA",BEIN SERIES VICE HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/266
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice1.tr.png" tvg-chno="267" channel-id="267" group-title="VIP SINEMA",BEIN BOX OFFICE 1
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/267
+#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="beIN Box Office 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice2.tr.png" tvg-chno="268" channel-id="268" group-title="VIP SINEMA",BEIN BOX OFFICE 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/268
+#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-name="beIN Box Office 3 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice3.tr.png" tvg-chno="269" channel-id="269" group-title="VIP SINEMA",BEIN BOX OFFICE 3
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/269
+#EXTINF:-1 tvg-id="MoviesAction.au" tvg-name="Movies Action AU" tvg-logo="http://static.iptv-epg.com/au/MoviesAction.au.png" tvg-chno="270" channel-id="270" group-title="VIP SINEMA",MOVIE SMART ACTION HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/270
+#EXTINF:-1 tvg-id="SkyMoviesClassics.nz" tvg-name="SKY Movies Classics NZ" tvg-logo="http://static.iptv-epg.com/nz/SkyMoviesClassics.nz.png" tvg-chno="271" channel-id="271" group-title="VIP SINEMA",MOVIE SMART CLASSIC HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/271
+#EXTINF:-1 tvg-id="MoviesFamily.au" tvg-name="Movies Family AU" tvg-logo="http://static.iptv-epg.com/au/MoviesFamily.au.png" tvg-chno="272" channel-id="272" group-title="VIP SINEMA",MOVIE SMART FAMILY HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/272
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="Movistar Golf ES" tvg-logo="http://static.iptv-epg.com/es/MovistarGolf.es.png" tvg-chno="273" channel-id="273" group-title="VIP SINEMA",MOVIE SMART FEST HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/273
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="Movistar Golf ES" tvg-logo="http://static.iptv-epg.com/es/MovistarGolf.es.png" tvg-chno="274" channel-id="274" group-title="VIP SINEMA",MOVIE SMART GOLD HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/274
+#EXTINF:-1 tvg-id="MoviesAction.au" tvg-name="Movies Action AU" tvg-logo="http://static.iptv-epg.com/au/MoviesAction.au.png" tvg-chno="275" channel-id="275" group-title="VIP SINEMA",MOVIE SMART PLATIN 2 H
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/275
+#EXTINF:-1 tvg-id="MoviesAction.au" tvg-name="Movies Action AU" tvg-logo="http://static.iptv-epg.com/au/MoviesAction.au.png" tvg-chno="276" channel-id="276" group-title="VIP SINEMA",MOVIE SMART PLATIN HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/276
+#EXTINF:-1 tvg-id="FOXMoviesPremium.id" tvg-name="FOX Movies Premium ID" tvg-logo="http://static.iptv-epg.com/id/FOXMoviesPremium.id.png" tvg-chno="277" channel-id="277" group-title="VIP SINEMA",MOVIE SMART PREMIUM 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/277
+#EXTINF:-1 tvg-id="FOXMoviesPremium.id" tvg-name="FOX Movies Premium ID" tvg-logo="http://static.iptv-epg.com/id/FOXMoviesPremium.id.png" tvg-chno="278" channel-id="278" group-title="VIP SINEMA",MOVIE SMART PREMIUM HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/278
+#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="Movies4Men UK" tvg-logo="http://static.iptv-epg.com/uk/Movies4Men.uk.png" tvg-chno="279" channel-id="279" group-title="VIP SINEMA",MOVIE SMART TURK HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/279
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="280" channel-id="280" group-title="VIP SINEMA",GULDUR GULDUR SHOW HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/280
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-name="Amedia Premium RU" tvg-logo="http://static.iptv-epg.com/ru/AmediaPremium.ru.png" tvg-chno="281" channel-id="281" group-title="VIP SINEMA",DIZI SMART PREMIUM HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/281
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="282" channel-id="282" group-title="VIP SINEMA",DiZi SMART MAX HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/282
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="283" channel-id="283" group-title="VIP SINEMA",FOX CRIME HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/283
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="284" channel-id="284" group-title="VIP SINEMA",FOX life
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/284
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="285" channel-id="285" group-title="VIP SINEMA",FX HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/285
+#EXTINF:-1 tvg-id="FilmBoxArtHouse.pl" tvg-name="FilmBox ArtHouse PL" tvg-logo="http://static.iptv-epg.com/pl/FilmBoxArtHouse.pl.png" tvg-chno="286" channel-id="286" group-title="VIP SINEMA",TR | Filmbox Arthouse
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/286
+#EXTINF:-1 tvg-id="Filmbox.tr" tvg-name="Filmbox TR" tvg-logo="http://static.iptv-epg.com/tr/Filmbox.tr.png" tvg-chno="287" channel-id="287" group-title="VIP SINEMA",TR | FILMBOX HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/287
+#EXTINF:-1 tvg-id="SinemaTV1001.tr" tvg-name="SinemaTV 1001 TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTV1001.tr.png" tvg-chno="288" channel-id="288" group-title="VIP SINEMA",SiNEMA TV 1001 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/288
+#EXTINF:-1 tvg-id="SinemaTVAile.tr" tvg-name="SinemaTV Aile TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAile.tr.png" tvg-chno="289" channel-id="289" group-title="VIP SINEMA",SiNEMA TV AiLE HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/289
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" tvg-chno="290" channel-id="290" group-title="VIP SINEMA",SiNEMA TV AKSiYON HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/290
+#EXTINF:-1 tvg-id="SinemaTV.tr" tvg-name="SinemaTV TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTV.tr.png" tvg-chno="291" channel-id="291" group-title="VIP SINEMA",SiNEMA TV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/291
+#EXTINF:-1 tvg-id="SinemaTVComedy.tr" tvg-name="SinemaTV Comedy TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVComedy.tr.png" tvg-chno="292" channel-id="292" group-title="VIP SINEMA",SiNEMA TV KOMEDi HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/292
+#EXTINF:-1 tvg-id="SinemaTVYerly.tr" tvg-name="Sinema TV Yerli TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVYerly.tr.png" tvg-chno="293" channel-id="293" group-title="VIP SINEMA",SiNEMA TV YERLi HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/293
+#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="Showmax TR" tvg-logo="http://static.iptv-epg.com/tr/Showmax.tr.png" tvg-chno="294" channel-id="294" group-title="VIP SINEMA",SHOW MAX HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/294
+#EXTINF:-1 tvg-id="LokSabhaTV.in" tvg-name="Lok Sabha TV IN" tvg-logo="http://static.iptv-epg.com/in/LokSabhaTV.in.png" tvg-chno="295" channel-id="295" group-title="VIP SINEMA",TR: LOCA ACTION HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/295
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="296" channel-id="296" group-title="VIP SINEMA",TR: LOCA GOLD HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/296
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="297" channel-id="297" group-title="VIP SINEMA",TR: LOCA KOMEDI HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/297
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="298" channel-id="298" group-title="VIP SINEMA",TR: LOCA PREMIUM HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/298
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="299" channel-id="299" group-title="VIP SINEMA",TR: LOCA SINEMA TURK H
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/299
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="300" channel-id="300" group-title="VIP SINEMA",TR: KEMAL SUNAL
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/300
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="301" channel-id="301" group-title="VIP SINEMA",TR: KEMAL SUNAL 1
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/301
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="302" channel-id="302" group-title="VIP SINEMA",TR: KEMAL SUNAL 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/302
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="303" channel-id="303" group-title="VIP SINEMA",TR: YESILCAM 1
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/303
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="304" channel-id="304" group-title="VIP SINEMA",TR: YESILCAM 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/304
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="305" channel-id="305" group-title="VIP SINEMA",TR: YESILCAM 3
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/305
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="306" channel-id="306" group-title="VIP SINEMA",TR.FilmBOX KemalSunal
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/306
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="307" channel-id="307" group-title="VIP SINEMA",TR.FilmBOX Nostalgil H
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/307
+#EXTINF:-1 tvg-id="Filmbox.tr" tvg-name="Filmbox TR" tvg-logo="http://static.iptv-epg.com/tr/Filmbox.tr.png" tvg-chno="308" channel-id="308" group-title="VIP SINEMA",TR.FilmBOX Premier HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/308
+#EXTINF:-1 tvg-id="Filmbox.tr" tvg-name="Filmbox TR" tvg-logo="http://static.iptv-epg.com/tr/Filmbox.tr.png" tvg-chno="309" channel-id="309" group-title="VIP SINEMA",TR.FilmBOX Stars  HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/309
+#EXTINF:-1 tvg-id="Filmbox.tr" tvg-name="Filmbox TR" tvg-logo="http://static.iptv-epg.com/tr/Filmbox.tr.png" tvg-chno="310" channel-id="310" group-title="VIP SINEMA",TR.FilmBOX Turk HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/310
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="311" channel-id="311" group-title="VIP SINEMA",TR.FilmBOX Yesilcam
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/311
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="312" channel-id="312" group-title="VIP SINEMA",TR.NEXTBOX  CINEMA PRE
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/312
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="313" channel-id="313" group-title="VIP SINEMA",TR.NEXTBOX CINEMA  NOS
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/313
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="314" channel-id="314" group-title="VIP SINEMA",TR.NEXTBOX CINEMA ANIM
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/314
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="315" channel-id="315" group-title="VIP SINEMA",TR.NEXTBOX CINEMA GERI
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/315
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="316" channel-id="316" group-title="VIP SINEMA",TR.NEXTBOX CINEMA TURK
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/316
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="317" channel-id="317" group-title="VIP SINEMA",TR.NEXTBOX KEMAL SUNAL
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/317
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="318" channel-id="318" group-title="VIP SINEMA",TR.NEXTBOX LOCA 3
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/318
+#EXTINF:-1 tvg-id="TraceToca.fr" tvg-name="Trace Toca FR" tvg-logo="http://static.iptv-epg.com/fr/TraceToca.fr.png" tvg-chno="319" channel-id="319" group-title="VIP SINEMA",TR.NEXTBOX SCARY
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/319
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="320" channel-id="320" group-title="VIP SINEMA",TR.NEXTBOX SUBTITLE
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/320
+#EXTINF:-1 tvg-id="beINSeriesSciFi.tr" tvg-name="beIN Series Sci Fi TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesSciFi.tr.png" tvg-chno="321" channel-id="321" group-title="SINEMA",BEINSERIES SCI-FI HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/321
+#EXTINF:-1 tvg-id="beINSeriesSciFi.tr" tvg-name="beIN Series Sci Fi TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesSciFi.tr.png" tvg-chno="322" channel-id="322" group-title="SINEMA",BEINSERIES SCI-FI HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/322
+#EXTINF:-1 tvg-id="beINSeriesComedy.tr" tvg-name="beIN Series Comedy TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesComedy.tr.png" tvg-chno="323" channel-id="323" group-title="SINEMA",BEINSERIES COMEDY HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/323
+#EXTINF:-1 tvg-id="beINSeriesComedy.tr" tvg-name="beIN Series Comedy TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesComedy.tr.png" tvg-chno="324" channel-id="324" group-title="SINEMA",BEINSERIES COMEDY HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/324
+#EXTINF:-1 tvg-id="beINSeriesDrama.tr" tvg-name="beIN Series Drama TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesDrama.tr.png" tvg-chno="325" channel-id="325" group-title="SINEMA",BEINSERIES DRAMA HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/325
+#EXTINF:-1 tvg-id="beINSeriesDrama.tr" tvg-name="beIN Series Drama TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesDrama.tr.png" tvg-chno="326" channel-id="326" group-title="SINEMA",BEINSERIES DRAMA HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/326
+#EXTINF:-1 tvg-id="beINSeriesVice.tr" tvg-name="beIN Series Vice TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesVice.tr.png" tvg-chno="327" channel-id="327" group-title="SINEMA",BEINSERIES VICE HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/327
+#EXTINF:-1 tvg-id="beINSeriesVice.tr" tvg-name="beIN Series Vice TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesVice.tr.png" tvg-chno="328" channel-id="328" group-title="SINEMA",BEINSERIES VICE HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/328
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice1.tr.png" tvg-chno="329" channel-id="329" group-title="SINEMA",BEIN BOX OFFICE 1
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/329
+#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="beIN Box Office 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice2.tr.png" tvg-chno="330" channel-id="330" group-title="SINEMA",BEIN BOX OFFICE 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/330
+#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-name="beIN Box Office 3 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice3.tr.png" tvg-chno="331" channel-id="331" group-title="SINEMA",BEIN BOX OFFICE 3
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/331
+#EXTINF:-1 tvg-id="beINMoviesAction.tr" tvg-name="beIN Movies Action TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesAction.tr.png" tvg-chno="332" channel-id="332" group-title="SINEMA",BEINMOVIES ACTION HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/332
+#EXTINF:-1 tvg-id="beINMoviesAction2.tr" tvg-name="beIN Movies Action 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesAction2.tr.png" tvg-chno="333" channel-id="333" group-title="SINEMA",BEINMOVIES ACTION HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/333
+#EXTINF:-1 tvg-id="beINMoviesAction2.tr" tvg-name="beIN Movies Action 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesAction2.tr.png" tvg-chno="334" channel-id="334" group-title="SINEMA",BEINMOVIES ACTION 2 HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/334
+#EXTINF:-1 tvg-id="beINMoviesAction2.tr" tvg-name="beIN Movies Action 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesAction2.tr.png" tvg-chno="335" channel-id="335" group-title="SINEMA",BEINMOVIES ACTION 2 HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/335
+#EXTINF:-1 tvg-id="beINMoviesFamily.tr" tvg-name="beIN Movies Family TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesFamily.tr.png" tvg-chno="336" channel-id="336" group-title="SINEMA",BEINMOVIES FAMILIY HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/336
+#EXTINF:-1 tvg-id="beINMoviesFamily.tr" tvg-name="beIN Movies Family TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesFamily.tr.png" tvg-chno="337" channel-id="337" group-title="SINEMA",BEINMOVIES FAMILIY HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="338" channel-id="338" group-title="SINEMA",BEINMOVIES PREMIERE HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/338
+#EXTINF:-1 tvg-id="beINMoviesPremiere2.tr" tvg-name="beIN Movies Premiere 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesPremiere2.tr.png" tvg-chno="339" channel-id="339" group-title="SINEMA",BEINMOVIES PREMIERE HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/339
+#EXTINF:-1 tvg-id="beINMoviesPremiere2.tr" tvg-name="beIN Movies Premiere 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesPremiere2.tr.png" tvg-chno="340" channel-id="340" group-title="SINEMA",BEINMOVIES PREMIERE 2 HD (
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/340
+#EXTINF:-1 tvg-id="beINMoviesPremiere2.tr" tvg-name="beIN Movies Premiere 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesPremiere2.tr.png" tvg-chno="341" channel-id="341" group-title="SINEMA",BEINMOVIES PREMIERE 2 HD (
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/341
+#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="beIN Movies Stars TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesStars.tr.png" tvg-chno="342" channel-id="342" group-title="SINEMA",BEINMOVIES STAR HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/342
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="beIN Movies Turk TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesTurk.tr.png" tvg-chno="343" channel-id="343" group-title="SINEMA",BEINMOVIES TURK HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/343
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="beIN Movies Turk TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesTurk.tr.png" tvg-chno="344" channel-id="344" group-title="SINEMA",BEINMOVIES TURK HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/344
+#EXTINF:-1 tvg-id="MoviesAction.au" tvg-name="Movies Action AU" tvg-logo="http://static.iptv-epg.com/au/MoviesAction.au.png" tvg-chno="345" channel-id="345" group-title="SINEMA",MOVIE SMART ACTION HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/345
+#EXTINF:-1 tvg-id="MoviesAction.au" tvg-name="Movies Action AU" tvg-logo="http://static.iptv-epg.com/au/MoviesAction.au.png" tvg-chno="346" channel-id="346" group-title="SINEMA",MOVIE SMART ACTION HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/346
+#EXTINF:-1 tvg-id="MoviesFamily.au" tvg-name="Movies Family AU" tvg-logo="http://static.iptv-epg.com/au/MoviesFamily.au.png" tvg-chno="347" channel-id="347" group-title="SINEMA",MOVIE SMART FAMILY HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/347
+#EXTINF:-1 tvg-id="MoviesFamily.au" tvg-name="Movies Family AU" tvg-logo="http://static.iptv-epg.com/au/MoviesFamily.au.png" tvg-chno="348" channel-id="348" group-title="SINEMA",MOVIE SMART FAMILY HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/348
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="Movistar Golf ES" tvg-logo="http://static.iptv-epg.com/es/MovistarGolf.es.png" tvg-chno="349" channel-id="349" group-title="SINEMA",MOVIE SMART FEST HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/349
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="Movistar Golf ES" tvg-logo="http://static.iptv-epg.com/es/MovistarGolf.es.png" tvg-chno="350" channel-id="350" group-title="SINEMA",MOVIE SMART GOLD HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/350
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="Movistar Golf ES" tvg-logo="http://static.iptv-epg.com/es/MovistarGolf.es.png" tvg-chno="351" channel-id="351" group-title="SINEMA",MOVIE SMART GOLD HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/351
+#EXTINF:-1 tvg-id="MoviesAction.au" tvg-name="Movies Action AU" tvg-logo="http://static.iptv-epg.com/au/MoviesAction.au.png" tvg-chno="352" channel-id="352" group-title="SINEMA",MOVIE SMART PLATIN HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/352
+#EXTINF:-1 tvg-id="FOXMoviesPremium.id" tvg-name="FOX Movies Premium ID" tvg-logo="http://static.iptv-epg.com/id/FOXMoviesPremium.id.png" tvg-chno="353" channel-id="353" group-title="SINEMA",MOVIE SMART PREMIUM HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/353
+#EXTINF:-1 tvg-id="FOXMoviesPremium.id" tvg-name="FOX Movies Premium ID" tvg-logo="http://static.iptv-epg.com/id/FOXMoviesPremium.id.png" tvg-chno="354" channel-id="354" group-title="SINEMA",MOVIE SMART PREMIUM HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/354
+#EXTINF:-1 tvg-id="FOXMoviesPremium.id" tvg-name="FOX Movies Premium ID" tvg-logo="http://static.iptv-epg.com/id/FOXMoviesPremium.id.png" tvg-chno="355" channel-id="355" group-title="SINEMA",MOVIE SMART PREMIUM 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/355
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="356" channel-id="356" group-title="SINEMA",MOVIE SMART TURK HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/356
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="357" channel-id="357" group-title="SINEMA",MOVIE SMART TURK HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/357
+#EXTINF:-1 tvg-id="SkyMoviesClassics.nz" tvg-name="SKY Movies Classics NZ" tvg-logo="http://static.iptv-epg.com/nz/SkyMoviesClassics.nz.png" tvg-chno="358" channel-id="358" group-title="SINEMA",MOVIE SMART CLASSIC HD (1)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/358
+#EXTINF:-1 tvg-id="SkyMoviesClassics.nz" tvg-name="SKY Movies Classics NZ" tvg-logo="http://static.iptv-epg.com/nz/SkyMoviesClassics.nz.png" tvg-chno="359" channel-id="359" group-title="SINEMA",MOVIE SMART CLASSIC HD (2)
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/359
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="360" channel-id="360" group-title="SINEMA",MOVIE SMART FESTIVAL HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/360
+#EXTINF:-1 tvg-id="SinemaTV1001.tr" tvg-name="SinemaTV 1001 TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTV1001.tr.png" tvg-chno="361" channel-id="361" group-title="SINEMA",SINEMA TV 1001 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/361
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-name="Amedia Premium RU" tvg-logo="http://static.iptv-epg.com/ru/AmediaPremium.ru.png" tvg-chno="362" channel-id="362" group-title="SINEMA",DIZI SMART PREMIUM HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/362
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="363" channel-id="363" group-title="SINEMA",IMDB 100 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/363
+#EXTINF:-1 tvg-id="GyanaYogi.in" tvg-name="Gyana Yogi IN" tvg-logo="http://static.iptv-epg.com/in/GyanaYogi.in.png" tvg-chno="364" channel-id="364" group-title="SINEMA",ANIMASYON HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/364
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="365" channel-id="365" group-title="SINEMA",KORKU HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/365
+#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion AL" tvg-logo="http://static.iptv-epg.com/al/FilmAksion.al.png" tvg-chno="366" channel-id="366" group-title="SINEMA",AKSIYON HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/366
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="367" channel-id="367" group-title="SINEMA",BILIM KURGU HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/367
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="368" channel-id="368" group-title="SINEMA",3D HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/368
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="369" channel-id="369" group-title="SINEMA",beIN Box Office INFO
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/369
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice1.tr.png" tvg-chno="370" channel-id="370" group-title="SINEMA",beIN Box Office 1
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/370
+#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="beIN Box Office 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice2.tr.png" tvg-chno="371" channel-id="371" group-title="SINEMA",beIN Box Office 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/371
+#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-name="beIN Box Office 3 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice3.tr.png" tvg-chno="372" channel-id="372" group-title="SINEMA",beIN Box Office 3
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/372
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="373" channel-id="373" group-title="SINEMA",beIN Box Office 4
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="374" channel-id="374" group-title="SINEMA",beIN Box Office 5
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/374
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="375" channel-id="375" group-title="SINEMA",beIN Box Office 6
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="376" channel-id="376" group-title="SINEMA",beIN Box Office 7
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/376
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="377" channel-id="377" group-title="SINEMA",beIN Box Office 8
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/377
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="378" channel-id="378" group-title="SINEMA",beIN Box Office 9
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/378
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice1.tr.png" tvg-chno="379" channel-id="379" group-title="SINEMA",beIN Box Office 10
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/379
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice1.tr.png" tvg-chno="380" channel-id="380" group-title="SINEMA",beIN Box Office 11
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/380
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="381" channel-id="381" group-title="SINEMA",beIN Box Office 12
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/381
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="382" channel-id="382" group-title="SINEMA",beIN Box Office 13
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/382
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice1.tr.png" tvg-chno="383" channel-id="383" group-title="SINEMA",beIN Box Office 14
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/383
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice1.tr.png" tvg-chno="384" channel-id="384" group-title="SINEMA",beIN Box Office 15
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/384
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice1.tr.png" tvg-chno="385" channel-id="385" group-title="SINEMA",beIN Box Office 16
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/385
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice1.tr.png" tvg-chno="386" channel-id="386" group-title="SINEMA",beIN Box Office 17
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/386
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice1.tr.png" tvg-chno="387" channel-id="387" group-title="SINEMA",beIN Box Office 18
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/387
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice1.tr.png" tvg-chno="388" channel-id="388" group-title="SINEMA",beIN Box Office 19
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/388
+#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="beIN Box Office 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINBoxOffice2.tr.png" tvg-chno="389" channel-id="389" group-title="SINEMA",beIN Box Office 20
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/389
+#EXTINF:-1 tvg-id="beINMoviesAction.tr" tvg-name="beIN Movies Action TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesAction.tr.png" tvg-chno="390" channel-id="390" group-title="SINEMA",beIN Movies Action HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/390
+#EXTINF:-1 tvg-id="beINMoviesAction2.tr" tvg-name="beIN Movies Action 2 TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesAction2.tr.png" tvg-chno="391" channel-id="391" group-title="SINEMA",beIN Movies Action 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/391
+#EXTINF:-1 tvg-id="beINMoviesFamily.tr" tvg-name="beIN Movies Family TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesFamily.tr.png" tvg-chno="392" channel-id="392" group-title="SINEMA",beIN Movies Family HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/392
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="393" channel-id="393" group-title="SINEMA",beIN Movies Premiere HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/393
+#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="beIN Movies Stars TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesStars.tr.png" tvg-chno="394" channel-id="394" group-title="SINEMA",beIN Movies Stars HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/394
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="beIN Movies Turk TR" tvg-logo="http://static.iptv-epg.com/tr/beINMoviesTurk.tr.png" tvg-chno="395" channel-id="395" group-title="SINEMA",beIN Movies Turk HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/395
+#EXTINF:-1 tvg-id="beINSeriesComedy.tr" tvg-name="beIN Series Comedy TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesComedy.tr.png" tvg-chno="396" channel-id="396" group-title="SINEMA",beIN Series Comedy HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/396
+#EXTINF:-1 tvg-id="beINSeriesDrama.tr" tvg-name="beIN Series Drama TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesDrama.tr.png" tvg-chno="397" channel-id="397" group-title="SINEMA",beIN Series Drama HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/397
+#EXTINF:-1 tvg-id="beINSeriesSciFi.tr" tvg-name="beIN Series Sci Fi TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesSciFi.tr.png" tvg-chno="398" channel-id="398" group-title="SINEMA",beIN Series Sci-Fi HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/398
+#EXTINF:-1 tvg-id="beINSeriesVice.tr" tvg-name="beIN Series Vice TR" tvg-logo="http://static.iptv-epg.com/tr/beINSeriesVice.tr.png" tvg-chno="399" channel-id="399" group-title="SINEMA",beIN Series Vice HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/399
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="400" channel-id="400" group-title="SINEMA",Marvel Studios INFO
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="401" channel-id="401" group-title="SINEMA",Marvel Studios 1
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="402" channel-id="402" group-title="SINEMA",Marvel Studios 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="403" channel-id="403" group-title="SINEMA",Marvel Studios 3
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/403
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="404" channel-id="404" group-title="SINEMA",Marvel Studios 4
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/404
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="405" channel-id="405" group-title="SINEMA",Marvel Studios 5
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/405
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="406" channel-id="406" group-title="SINEMA",Marvel Studios 6
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/406
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="407" channel-id="407" group-title="SINEMA",Marvel Studios 7
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/407
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="408" channel-id="408" group-title="SINEMA",Marvel Studios 8
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="409" channel-id="409" group-title="SINEMA",Marvel Studios 9
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="410" channel-id="410" group-title="SINEMA",Marvel Studios 10
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="411" channel-id="411" group-title="SINEMA",FILMBOXHD Kemal Sunal
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/411
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="412" channel-id="412" group-title="SINEMA",FILMBOXHD Aksiyon
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/412
+#EXTINF:-1 tvg-id="Filmbox.hu" tvg-name="Filmbox HU" tvg-logo="http://static.iptv-epg.com/hu/Filmbox.hu.png" tvg-chno="413" channel-id="413" group-title="SINEMA",FILMBOXHD Korku
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/413
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="414" channel-id="414" group-title="SINEMA",FILMBOXHD Bilimkurgu
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/414
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="415" channel-id="415" group-title="SINEMA",FILMBOXHD Komedi
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/415
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="416" channel-id="416" group-title="SINEMA",FILMBOXHD Fantastik
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/416
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="417" channel-id="417" group-title="SINEMA",FILMBOXHD Dram
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/417
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="418" channel-id="418" group-title="SINEMA",FILMBOXHD Turk
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/418
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="419" channel-id="419" group-title="SINEMA",FILMBOXHD Yesilcam
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/419
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="420" channel-id="420" group-title="SINEMA",FILMBOXHD Aile
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/420
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-name="Amedia Premium RU" tvg-logo="http://static.iptv-epg.com/ru/AmediaPremium.ru.png" tvg-chno="421" channel-id="421" group-title="SINEMA",Dizismart Premium HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/421
+#EXTINF:-1 tvg-id="MoviesAction.au" tvg-name="Movies Action AU" tvg-logo="http://static.iptv-epg.com/au/MoviesAction.au.png" tvg-chno="422" channel-id="422" group-title="SINEMA",MOVIESMART Action HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/422
+#EXTINF:-1 tvg-id="SkyMoviesClassics.nz" tvg-name="SKY Movies Classics NZ" tvg-logo="http://static.iptv-epg.com/nz/SkyMoviesClassics.nz.png" tvg-chno="423" channel-id="423" group-title="SINEMA",MOVIESMART Classic HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/423
+#EXTINF:-1 tvg-id="MoviesFamily.au" tvg-name="Movies Family AU" tvg-logo="http://static.iptv-epg.com/au/MoviesFamily.au.png" tvg-chno="424" channel-id="424" group-title="SINEMA",MOVIESMART Family HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/424
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="Movistar Golf ES" tvg-logo="http://static.iptv-epg.com/es/MovistarGolf.es.png" tvg-chno="425" channel-id="425" group-title="SINEMA",MOVIESMART Fest HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/425
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="Movistar Golf ES" tvg-logo="http://static.iptv-epg.com/es/MovistarGolf.es.png" tvg-chno="426" channel-id="426" group-title="SINEMA",MOVIESMART Gold HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/426
+#EXTINF:-1 tvg-id="MoviesAction.au" tvg-name="Movies Action AU" tvg-logo="http://static.iptv-epg.com/au/MoviesAction.au.png" tvg-chno="427" channel-id="427" group-title="SINEMA",MOVIESMART Platin 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/427
+#EXTINF:-1 tvg-id="MoviesAction.au" tvg-name="Movies Action AU" tvg-logo="http://static.iptv-epg.com/au/MoviesAction.au.png" tvg-chno="428" channel-id="428" group-title="SINEMA",MOVIESMART Platin HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/428
+#EXTINF:-1 tvg-id="FOXMoviesPremium.id" tvg-name="FOX Movies Premium ID" tvg-logo="http://static.iptv-epg.com/id/FOXMoviesPremium.id.png" tvg-chno="429" channel-id="429" group-title="SINEMA",MOVIESMART Premium 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/429
+#EXTINF:-1 tvg-id="FOXMoviesPremium.id" tvg-name="FOX Movies Premium ID" tvg-logo="http://static.iptv-epg.com/id/FOXMoviesPremium.id.png" tvg-chno="430" channel-id="430" group-title="SINEMA",MOVIESMART Premium HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/430
+#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="Movies4Men UK" tvg-logo="http://static.iptv-epg.com/uk/Movies4Men.uk.png" tvg-chno="431" channel-id="431" group-title="SINEMA",MOVIESMART Turk HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/431
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="432" channel-id="432" group-title="SINEMA",SINEVIZYONLAR DA NE VAR
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/432
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" tvg-chno="433" channel-id="433" group-title="SINEMA",SINEVIZYON 1 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/433
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" tvg-chno="434" channel-id="434" group-title="SINEMA",SINEVIZYON 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/434
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" tvg-chno="435" channel-id="435" group-title="SINEMA",SINEVIZYON 3 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/435
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" tvg-chno="436" channel-id="436" group-title="SINEMA",SINEVIZYON 4 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/436
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" tvg-chno="437" channel-id="437" group-title="SINEMA",SINEVIZYON 5 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/437
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" tvg-chno="438" channel-id="438" group-title="SINEMA",SINEVIZYON 6 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/438
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" tvg-chno="439" channel-id="439" group-title="SINEMA",SINEVIZYON 7 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/439
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" tvg-chno="440" channel-id="440" group-title="SINEMA",SINEVIZYON 8 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/440
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" tvg-chno="441" channel-id="441" group-title="SINEMA",SINEVIZYON 9 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/441
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" tvg-chno="442" channel-id="442" group-title="SINEMA",SINEVIZYON 10 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/442
+#EXTINF:-1 tvg-id="SinemaTVComedy.tr" tvg-name="SinemaTV Comedy TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVComedy.tr.png" tvg-chno="443" channel-id="443" group-title="SINEMA",SINEMA TV KOMEDI
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/443
+#EXTINF:-1 tvg-id="SinemaTVAksiyon.tr" tvg-name="Sinema TV Aksiyon TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAksiyon.tr.png" tvg-chno="444" channel-id="444" group-title="SINEMA",SINEMA TV AKSIYON
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/444
+#EXTINF:-1 tvg-id="SinemaTVAile.tr" tvg-name="SinemaTV Aile TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVAile.tr.png" tvg-chno="445" channel-id="445" group-title="SINEMA",SINEMA TV AILE
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/445
+#EXTINF:-1 tvg-id="SinemaTVYerly.tr" tvg-name="Sinema TV Yerli TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTVYerly.tr.png" tvg-chno="446" channel-id="446" group-title="SINEMA",SINEMA TV YERLI
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/446
+#EXTINF:-1 tvg-id="SinemaTV1001.tr" tvg-name="SinemaTV 1001 TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTV1001.tr.png" tvg-chno="447" channel-id="447" group-title="SINEMA",SINEMA TV 1001
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/447
+#EXTINF:-1 tvg-id="SinemaTV.tr" tvg-name="SinemaTV TR" tvg-logo="http://static.iptv-epg.com/tr/SinemaTV.tr.png" tvg-chno="448" channel-id="448" group-title="SINEMA",SINEMA TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/448
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="Cine Sony MX" tvg-logo="http://static.iptv-epg.com/mx/CineSony.mx.png" tvg-chno="449" channel-id="449" group-title="SINEMA",CINE BOX HD TR
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/449
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="Cine Sony MX" tvg-logo="http://static.iptv-epg.com/mx/CineSony.mx.png" tvg-chno="450" channel-id="450" group-title="SINEMA",CINE BOX HD DE
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/450
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="Cine Sony MX" tvg-logo="http://static.iptv-epg.com/mx/CineSony.mx.png" tvg-chno="451" channel-id="451" group-title="SINEMA",CINE BOX HD 1
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/451
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="452" channel-id="452" group-title="SINEMA",CINE BOX HD 2
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/452
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="Cine Sony MX" tvg-logo="http://static.iptv-epg.com/mx/CineSony.mx.png" tvg-chno="453" channel-id="453" group-title="SINEMA",CINE BOX HD 3
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/453
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="Cine Sony MX" tvg-logo="http://static.iptv-epg.com/mx/CineSony.mx.png" tvg-chno="454" channel-id="454" group-title="SINEMA",CINE BOX HD 4
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/454
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="Cine Sony MX" tvg-logo="http://static.iptv-epg.com/mx/CineSony.mx.png" tvg-chno="455" channel-id="455" group-title="SINEMA",CINE BOX HD 5
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/455
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="Cine Sony MX" tvg-logo="http://static.iptv-epg.com/mx/CineSony.mx.png" tvg-chno="456" channel-id="456" group-title="SINEMA",CINE BOX HD 6
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/456
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="Cine Sony MX" tvg-logo="http://static.iptv-epg.com/mx/CineSony.mx.png" tvg-chno="457" channel-id="457" group-title="SINEMA",CINE BOX HD 7
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/457
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="458" channel-id="458" group-title="COCUK",NICK JR
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/458
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="459" channel-id="459" group-title="COCUK",DISNEY JUNIOR
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/459
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="460" channel-id="460" group-title="COCUK",DISNEY XD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/476
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="461" channel-id="461" group-title="COCUK",BOOMERANG
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/477
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="462" channel-id="462" group-title="COCUK",CBEEBIES
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/478
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="463" channel-id="463" group-title="COCUK",SMART COCUK
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/479
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk TR" tvg-logo="http://static.iptv-epg.com/tr/TRTCocuk.tr.png" tvg-chno="464" channel-id="464" group-title="COCUK",TRT COCUK
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/480
+#EXTINF:-1 tvg-id="minikaCocuk.tr" tvg-name="minika Cocuk TR" tvg-logo="http://static.iptv-epg.com/tr/minikaCocuk.tr.png" tvg-chno="465" channel-id="465" group-title="COCUK",MINIKA COCUK
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/481
+#EXTINF:-1 tvg-id="minikaGO.tr" tvg-name="minikaGO TR" tvg-logo="http://static.iptv-epg.com/tr/minikaGO.tr.png" tvg-chno="466" channel-id="466" group-title="COCUK",MINIKA GO
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/482
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="467" channel-id="467" group-title="COCUK",DISNEY CHANNEL
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/483
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="468" channel-id="468" group-title="COCUK",CARTOON NETWORK HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/484
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="469" channel-id="469" group-title="COCUK",NICKELODEON
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/485
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="470" channel-id="470" group-title="COCUK",NICK JR
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/486
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="471" channel-id="471" group-title="COCUK",BABY TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/487
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="472" channel-id="472" group-title="COCUK",DISNEY JR HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/488
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="473" channel-id="473" group-title="MUZIK",KRAL TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/492
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="474" channel-id="474" group-title="MUZIK",KRAL TV POP
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/493
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="475" channel-id="475" group-title="MUZIK",KRAL TV WORLD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/494
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="476" channel-id="476" group-title="MUZIK",DREAM TV 1
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/495
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="477" channel-id="477" group-title="KEMAL SUNAL FİLMLERİ",uc kagitci
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/497
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="478" channel-id="478" group-title="KEMAL SUNAL FİLMLERİ",inatci
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/498
+#EXTINF:-1 tvg-id="NationalGeographic.sa" tvg-name="Nat Geo SA" tvg-logo="http://static.iptv-epg.com/sa/NationalGeographic.sa.png" tvg-chno="479" channel-id="479" group-title="KEMAL SUNAL FİLMLERİ",ATLA GEL SAB
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/499
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="480" channel-id="480" group-title="KEMAL SUNAL FİLMLERİ",Saygılar Biz
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/500
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="481" channel-id="481" group-title="KEMAL SUNAL FİLMLERİ",Saskın Damat
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/501
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="482" channel-id="482" group-title="KEMAL SUNAL FİLMLERİ",En Buyuk Sab
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/502
+#EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu IN" tvg-logo="http://static.iptv-epg.com/in/DDUrdu.in.png" tvg-chno="483" channel-id="483" group-title="KEMAL SUNAL FİLMLERİ",Dutturu duny
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/503
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="484" channel-id="484" group-title="KEMAL SUNAL FİLMLERİ",Dokunmayın Ş
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/504
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="485" channel-id="485" group-title="KEMAL SUNAL FİLMLERİ",Doktor Civan
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/505
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="486" channel-id="486" group-title="KEMAL SUNAL FİLMLERİ",Devlet KuÅŸu
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/506
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="487" channel-id="487" group-title="KEMAL SUNAL FİLMLERİ",Deli Deli Kü
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/507
+#EXTINF:-1 tvg-id="IDATV.ro" tvg-name="IDA TV RO" tvg-logo="http://static.iptv-epg.com/ro/IDATV.ro.png" tvg-chno="488" channel-id="488" group-title="KEMAL SUNAL FİLMLERİ",Davaro HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/508
+#EXTINF:-1 tvg-id="Davinci.id" tvg-name="Davinci ID" tvg-logo="http://static.iptv-epg.com/id/Davinci.id.png" tvg-chno="489" channel-id="489" group-title="KEMAL SUNAL FİLMLERİ",Davaci
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/509
+#EXTINF:-1 tvg-id="9colors.kr" tvg-name="9colors KR" tvg-logo="http://static.iptv-epg.com/kr/9colors.kr.png" tvg-chno="490" channel-id="490" group-title="KEMAL SUNAL FİLMLERİ",copculer Kra
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/510
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="491" channel-id="491" group-title="KEMAL SUNAL FİLMLERİ",Carikli Mily
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/511
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="492" channel-id="492" group-title="KEMAL SUNAL FİLMLERİ",Boynu bukuk
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/512
+#EXTINF:-1 tvg-id="BiBi.vn" tvg-name="BiBi VN" tvg-logo="http://static.iptv-epg.com/vn/BiBi.vn.png" tvg-chno="493" channel-id="493" group-title="KEMAL SUNAL FİLMLERİ",Bickin
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/513
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="494" channel-id="494" group-title="KEMAL SUNAL FİLMLERİ",Bekçiler Kra
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/514
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="495" channel-id="495" group-title="KEMAL SUNAL FİLMLERİ",Avanak abdi
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/515
+#EXTINF:-1 tvg-id="ABC Kids" tvg-name="ABC Kids AU" tvg-logo="" tvg-chno="496" channel-id="496" group-title="KEMAL SUNAL FİLMLERİ",Abuk Sabuk B
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/516
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="497" channel-id="497" group-title="KEMAL SUNAL FİLMLERİ",Sevimli Hirs
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="498" channel-id="498" group-title="KEMAL SUNAL FİLMLERİ",Sendul Saban
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="499" channel-id="499" group-title="KEMAL SUNAL FİLMLERİ",Zubuk
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="500" channel-id="500" group-title="KEMAL SUNAL FİLMLERİ",Zehir Hafiye
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="501" channel-id="501" group-title="KEMAL SUNAL FİLMLERİ",Yuz Numarali
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/521
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="503" channel-id="503" group-title="KEMAL SUNAL FİLMLERİ",Yedi Bela Hs
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="504" channel-id="504" group-title="KEMAL SUNAL FİLMLERİ",Yakisikli.FU
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/524
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="505" channel-id="505" group-title="KEMAL SUNAL FİLMLERİ",Varyemez .
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/525
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="506" channel-id="506" group-title="KEMAL SUNAL FİLMLERİ",Umudumuz Sab
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="507" channel-id="507" group-title="KEMAL SUNAL FİLMLERİ",Tosun Pasa _
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/527
+#EXTINF:-1 tvg-id="OKTO.at" tvg-name="Okto AT" tvg-logo="http://static.iptv-epg.com/at/OKTO.at.png" tvg-chno="508" channel-id="508" group-title="KEMAL SUNAL FİLMLERİ",Tokatci
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/528
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="509" channel-id="509" group-title="KEMAL SUNAL FİLMLERİ",Tarzan Rifki
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/529
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="510" channel-id="510" group-title="KEMAL SUNAL FİLMLERİ",Talih Kusu .
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/530
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="511" channel-id="511" group-title="KEMAL SUNAL FİLMLERİ",Sut Kardesle
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/531
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB IN" tvg-logo="http://static.iptv-epg.com/in/SonySAB.in.png" tvg-chno="512" channel-id="512" group-title="KEMAL SUNAL FİLMLERİ",Sosyete Saba
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/532
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="513" channel-id="513" group-title="KEMAL SUNAL FİLMLERİ",sark bulbulu
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="514" channel-id="514" group-title="KEMAL SUNAL FİLMLERİ",Salako _ FUL
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="515" channel-id="515" group-title="KEMAL SUNAL FİLMLERİ",Salak Milyon
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="516" channel-id="516" group-title="KEMAL SUNAL FİLMLERİ",Sakar Sakir
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/536
+#EXTINF:-1 tvg-id="Hekayat.sa" tvg-name="Hekayat SA" tvg-logo="http://static.iptv-epg.com/sa/Hekayat.sa.png" tvg-chno="517" channel-id="517" group-title="KEMAL SUNAL FİLMLERİ",Sahte Kabada
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="518" channel-id="518" group-title="KEMAL SUNAL FİLMLERİ",Saban Pabucu
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/538
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="519" channel-id="519" group-title="KEMAL SUNAL FİLMLERİ",Sabaniye
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/539
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="520" channel-id="520" group-title="KEMAL SUNAL FİLMLERİ",Saban Oglu S
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="521" channel-id="521" group-title="KEMAL SUNAL FİLMLERİ",Propaganda (
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="522" channel-id="522" group-title="KEMAL SUNAL FİLMLERİ",Postaci
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/542
+#EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimer TV IN" tvg-logo="http://static.iptv-epg.com/in/PolimerTV.in.png" tvg-chno="523" channel-id="523" group-title="KEMAL SUNAL FİLMLERİ",Polizei
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/543
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="524" channel-id="524" group-title="KEMAL SUNAL FİLMLERİ",Ortadirek Sa
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/544
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="525" channel-id="525" group-title="KEMAL SUNAL FİLMLERİ",Ogretmen -(R
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/545
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="526" channel-id="526" group-title="KEMAL SUNAL FİLMLERİ",Meraklı Köft
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/546
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="527" channel-id="527" group-title="KEMAL SUNAL FİLMLERİ",Mavi Boncuk
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/547
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="528" channel-id="528" group-title="KEMAL SUNAL FİLMLERİ",Koseyi Donen
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="529" channel-id="529" group-title="KEMAL SUNAL FİLMLERİ",korkusuz kor
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="530" channel-id="530" group-title="KEMAL SUNAL FİLMLERİ",Koltuk Belas
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="531" channel-id="531" group-title="KEMAL SUNAL FİLMLERİ",Kiraci - FUL
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/551
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="532" channel-id="532" group-title="KEMAL SUNAL FİLMLERİ",Kilibik (198
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/552
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="533" channel-id="533" group-title="KEMAL SUNAL FİLMLERİ",Kibar Feyzo
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/553
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="534" channel-id="534" group-title="KEMAL SUNAL FİLMLERİ",KERIZ
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="535" channel-id="535" group-title="KEMAL SUNAL FİLMLERİ",Köyden İndim
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="536" channel-id="536" group-title="KEMAL SUNAL FİLMLERİ",Katma Deger
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/556
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="537" channel-id="537" group-title="KEMAL SUNAL FİLMLERİ",Kapicilar kr
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/557
+#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV IN" tvg-logo="http://static.iptv-epg.com/in/KalingaTV.in.png" tvg-chno="538" channel-id="538" group-title="KEMAL SUNAL FİLMLERİ",Kanli Nigar
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/558
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="539" channel-id="539" group-title="KEMAL SUNAL FİLMLERİ",Japon isi iz
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/559
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="540" channel-id="540" group-title="KEMAL SUNAL FİLMLERİ",Iyi Aile Coc
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="541" channel-id="541" group-title="KEMAL SUNAL FİLMLERİ",inek Şaban (
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/561
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="542" channel-id="542" group-title="KEMAL SUNAL FİLMLERİ",ibo ile gull
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/562
+#EXTINF:-1 tvg-id="TChannel.al" tvg-name="T Channel AL" tvg-logo="http://static.iptv-epg.com/al/TChannel.al.png" tvg-chno="543" channel-id="543" group-title="KEMAL SUNAL FİLMLERİ",Hanzo kemal
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="544" channel-id="544" group-title="KEMAL SUNAL FİLMLERİ",Hababam Sını
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="545" channel-id="545" group-title="KEMAL SUNAL FİLMLERİ",Hababam Sını
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/565
+#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas IN" tvg-logo="http://static.iptv-epg.com/in/9XJhakaas.in.png" tvg-chno="546" channel-id="546" group-title="KEMAL SUNAL FİLMLERİ",Hababam Sini
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/566
+#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas IN" tvg-logo="http://static.iptv-epg.com/in/9XJhakaas.in.png" tvg-chno="547" channel-id="547" group-title="KEMAL SUNAL FİLMLERİ",Hababam Sini
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/567
+#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas IN" tvg-logo="http://static.iptv-epg.com/in/9XJhakaas.in.png" tvg-chno="548" channel-id="548" group-title="KEMAL SUNAL FİLMLERİ",Hababam SINI
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/568
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="549" channel-id="549" group-title="KEMAL SUNAL FİLMLERİ",Gurbetbetci
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="550" channel-id="550" group-title="KEMAL SUNAL FİLMLERİ",Gol Krali- H
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/570
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="551" channel-id="551" group-title="KEMAL SUNAL FİLMLERİ",Garip
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/571
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="552" channel-id="552" group-title="KEMAL SUNAL FİLMLERİ",Gerzek Şaban
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/572
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="553" channel-id="553" group-title="KEMAL SUNAL FİLMLERİ",Gulen adam
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/573
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="502" channel-id="502" group-title="KEMAL SUNAL FİLMLERİ",YOKSUL (1986
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/522
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="554" channel-id="554" group-title=" 18 ADULT",XXX-VIP: EViL ANGEL
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/886
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="555" channel-id="555" group-title=" 18 ADULT",XXX-VIP: HOT
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/887
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="556" channel-id="556" group-title=" 18 ADULT",XXX-VIP: HUSTLER HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="557" channel-id="557" group-title=" 18 ADULT",XXX-VIP: PASSIONXXX
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/889
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="558" channel-id="558" group-title=" 18 ADULT",XXX-VIP: PENTHOUSE HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/890
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="559" channel-id="559" group-title=" 18 ADULT",XXX-VIP: PENTHOUSE 2 HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/891
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="560" channel-id="560" group-title=" 18 ADULT",XXX-VIP: PINK O TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/892
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="561" channel-id="561" group-title=" 18 ADULT",XXX-VIP: Private TV HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/893
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="562" channel-id="562" group-title=" 18 ADULT",XXX-VIP: REDLiGHT HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/894
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="563" channel-id="563" group-title=" 18 ADULT",XXX-VIP: SCT
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/895
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="564" channel-id="564" group-title=" 18 ADULT",XXX-VIP: BRAZZER TV
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/896
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="565" channel-id="565" group-title=" 18 ADULT",XXX-VIP: DORCEL HD
+http://iptvhit.live/engin06baskan/ENGIN/BASKAN/897
