@@ -351,7 +351,7 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/12182.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/12183.m3u8
 #EXTINF:-1 tvg-chno="151" tvg-id="FXNetwork.tr" tvg-name="FX TR" tvg-logo="http://static.iptv-epg.com/tr/FXNetwork.tr.png" group-title="SINEMA",TR:FX
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1177.m3u8
-#EXTINF:-1 tvg-chno="183" tvg-id="Fox" tvg-name="Fox" tvg-logo="http://static.iptv-epg.com/tr/Fox.tr.png" group-title="TURKISH",TR:FOXTVHD
+#EXTINF:-1 tvg-chno="183" tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="http://static.iptv-epg.com/tr/Fox.tr.png" group-title="TURKISH",TR:FOXTVHD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/216.m3u8
 #EXTINF:-1 tvg-chno="169" tvg-id="TRT 4K" tvg-name="TRT 4K" tvg-logo="http://www.tvizle.net/logo/trt4k.png" group-title="TURKISH",TR:TRT 4K
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/15996.m3u8
@@ -391,7 +391,7 @@ http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6014.m3u8
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/6017.m3u8
 #EXTINF:-1 tvg-chno="185" tvg-id="KANAL 7 HD" tvg-name="KANAL 7 HD" tvg-logo="http://static.iptv-epg.com/tr/Kanal7.tr.png" group-title="TURKISH",TR:KANAL7HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/217.m3u8
-#EXTINF:-1 tvg-chno="188" tvg-id="TV 8,5 HD" tvg-name="TV 8,5 HD" tvg-logo="http://static.iptv-epg.com/tr/TV85.tr.png" group-title="TURKISH",TV 8,5 HD
+#EXTINF:-1 tvg-chno="188" tvg-id="TV 8,5 HD" tvg-name="TV 8,5 HD" tvg-logo="http://static.iptv-epg.com/tr/TV85.tr.png" group-title="TURKISH",5 HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/996.m3u8
 #EXTINF:-1 tvg-chno="189" tvg-id="A2 HD" tvg-name="A2 HD" tvg-logo="http://turkvod.com/wp-content/uploads/2019/05/246x0w.jpg" group-title="TURKISH",TR:A2 HD
 http://ip50.dyndns.tv:8000/live/mehmet78/celik78/1023.m3u8
