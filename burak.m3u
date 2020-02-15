@@ -1,12 +1,18 @@
 ﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mehmetkutup/kanallarim/master/guide.xml"
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="24Kitchen" group-title="BELGESEL",24 Kitchen HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32931.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="BELGESEL",ANIMAL PLANET HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32915.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="BELGESEL",TLC HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32676.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="BELGESEL",DMAX 1080P
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33041.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="BELGESEL",DMAX FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32841.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="BELGESEL",DMAX HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32965.m3u8
 #EXTINF:-1 tvg-id="BBC EARTH HD" tvg-name="BBC EARTH HD" group-title="BELGESEL",BBC Earth HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32907.m3u8
 #EXTINF:-1 tvg-id="BBC EARTH HD" tvg-name="BBC EARTH HD" group-title="BELGESEL",BBC Earth HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32979.m3u8
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="24Kitchen" group-title="BELGESEL",24 Kitchen HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32931.m3u8
 #EXTINF:-1 tvg-id="Turkmax Gurme" tvg-name="Turkmax Gurme" group-title="BELGESEL",BeIN Gurme HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33062.m3u8
 #EXTINF:-1 tvg-id="Turkmax Gurme" tvg-name="Turkmax Gurme" group-title="BELGESEL",beIN GURME HD
@@ -17,6 +23,8 @@ http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33012.m3u8
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32898.m3u8
 #EXTINF:-1 tvg-id="DA VINCI LEARNING HD" tvg-name="DA VINCI LEARNING HD" group-title="BELGESEL",Da Vinci HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32851.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="BELGESEL",ANIMAL PLANET HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32915.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="BELGESEL",Discovery Channel HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32847.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="BELGESEL",DISCOVERY CHANNEL HD
@@ -27,12 +35,6 @@ http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32809.m3u8
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32846.m3u8
 #EXTINF:-1 tvg-id="Discovery Showcase HD" tvg-name="Discovery Showcase HD" group-title="BELGESEL",Discovery SHOWCASE HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32845.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="BELGESEL",DMAX 1080P
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33041.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="BELGESEL",DMAX FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32841.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="BELGESEL",DMAX HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32965.m3u8
 #EXTINF:-1 tvg-id="History" tvg-name="History" group-title="BELGESEL",History Channel HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32810.m3u8
 #EXTINF:-1 tvg-id="History" tvg-name="History" group-title="BELGESEL",HISTORY HD
@@ -49,8 +51,6 @@ http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33037.m3u8
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33038.m3u8
 #EXTINF:-1 tvg-id="TGRT Belgesel HD" tvg-name="TGRT Belgesel HD" group-title="BELGESEL",TGRT Belgesel HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32684.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="BELGESEL",TLC HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32676.m3u8
 #EXTINF:-1 tvg-id="TRT Belgesel HD" tvg-name="TRT Belgesel HD" group-title="BELGESEL",TRT Belgesel
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32936.m3u8
 #EXTINF:-1 tvg-id="TRT Belgesel HD" tvg-name="TRT Belgesel HD" group-title="BELGESEL",TRT BELGESEL HD
@@ -181,23 +181,23 @@ http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32993.m3u8
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32972.m3u8
 #EXTINF:-1 tvg-name="HABER GLOBAL HD" group-title="HABER",HABER GLOBAL HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32814.m3u8
-#EXTINF:-1 tvg-name="Haber Turk" group-title="HABER",Haber Turk
+#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="HABERTURK HD" group-title="HABER",Haber Turk
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32942.m3u8
-#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="HABER TURK" group-title="HABER",HABER TURK
+#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="HABERTURK HD" group-title="HABER",HABER TURK
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33009.m3u8
-#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="HABER TURK FHD" group-title="HABER",HABER TURK FHD
+#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="HABERTURK HD" group-title="HABER",HABER TURK FHD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32813.m3u8
-#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="HABER TüRK HD" group-title="HABER",HABER TüRK HD
+#EXTINF:-1 tvg-id="HABERTURK HD" tvg-name="HABERTURK HD" group-title="HABER",HABER TüRK HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32970.m3u8
-#EXTINF:-1 tvg-name="NTV FHD" group-title="HABER",NTV FHD
+#EXTINF:-1 tvg-id="NTV HD" tvg-name="NTV HD" group-title="HABER",NTV FHD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32739.m3u8
-#EXTINF:-1 tvg-name="NTV HABER HD" group-title="HABER",NTV HABER HD
+#EXTINF:-1 tvg-id="NTV HD" tvg-name="NTV HD" group-title="HABER",NTV HABER HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32765.m3u8
 #EXTINF:-1 tvg-id="NTV HD" tvg-name="NTV HD" group-title="HABER",NTV HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32966.m3u8
-#EXTINF:-1 tvg-name="TRT HABER HD" group-title="HABER",TRT HABER HD
+#EXTINF:-1 tvg-id="TRT HABER HD" tvg-name="TRT HABER HD" group-title="HABER",TRT HABER HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32941.m3u8
-#EXTINF:-1 tvg-name="TRT HABER HD" group-title="HABER",TRT HABER HD
+#EXTINF:-1 tvg-id="TRT HABER HD" tvg-name="TRT HABER HD" group-title="HABER",TRT HABER HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32957.m3u8
 #EXTINF:-1 tvg-id="TRT HABER HD" tvg-name="TRT Haber HD" group-title="HABER",TRT Haber HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32708.m3u8
@@ -207,72 +207,78 @@ http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32738.m3u8
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32949.m3u8
 #EXTINF:-1 tvg-name="TRT World HD" group-title="HABER",TRT World HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32750.m3u8
+#EXTINF:-1 tvg-name="Sky Turk 360" group-title="HABER",Sky Turk 360
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32702.m3u8
+#EXTINF:-1 tvg-name="SKY TURK 360" group-title="HABER",SKY TURK 360
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33051.m3u8
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1 FHD" group-title="ULUSAL",TRT 1 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32675.m3u8
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1 HD" group-title="ULUSAL",TRT 1 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32950.m3u8
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="ATV FHD" group-title="ULUSAL",ATV FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32911.m3u8
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="ATV HD" group-title="ULUSAL",ATV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32977.m3u8
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="ATV HD" group-title="ULUSAL",ATV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32983.m3u8
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX FHD" group-title="ULUSAL",FOX FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32820.m3u8
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" group-title="ULUSAL",FOX HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32971.m3u8
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX TV HD" group-title="ULUSAL",FOX TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33007.m3u8
+#EXTINF:-1 tvg-id="Show TV HD" tvg-name="SHOW HD" group-title="ULUSAL",SHOW HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33050.m3u8
+#EXTINF:-1 tvg-id="Show TV HD" tvg-name="SHOW HD" group-title="ULUSAL",SHOW HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32961.m3u8
+#EXTINF:-1 tvg-id="Show TV HD" tvg-name="SHOW TV FHD" group-title="ULUSAL",SHOW TV FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32716.m3u8
+#EXTINF:-1 tvg-id="KANAL D HD" tvg-name="KANAL D HD" group-title="ULUSAL",KANAL D HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32968.m3u8
+#EXTINF:-1 tvg-id="Star TV HD" tvg-name="STAR TV FHD" group-title="ULUSAL",STAR TV FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32692.m3u8
+#EXTINF:-1 tvg-id="Star TV HD" tvg-name="STAR TV HD" group-title="ULUSAL",STAR TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33055.m3u8
+#EXTINF:-1 tvg-id="Star TV HD" tvg-name="STAR HD" group-title="ULUSAL",STAR HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32960.m3u8
+#EXTINF:-1 tvg-id="TV8 HD" tvg-name="TV 8 HD" group-title="ULUSAL",TV 8 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32954.m3u8
+#EXTINF:-1 tvg-id="TV8 HD" tvg-name="TV8 FHD" group-title="ULUSAL",TV8 FHD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32751.m3u8
+#EXTINF:-1 tvg-id="TV8 HD" tvg-name="TV8 HD" group-title="ULUSAL",TV8 HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33066.m3u8
+#EXTINF:-1 tvg-id="KRT TV HD" tvg-name="KRT TV HD" group-title="ULUSAL",KRT TV HD
+http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32789.m3u8
 #EXTINF:-1 tvg-name="360 TV" group-title="ULUSAL",360 TV
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33060.m3u8
 #EXTINF:-1 tvg-name="A2 FHD" group-title="ULUSAL",A2 FHD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32925.m3u8
 #EXTINF:-1 tvg-name="A2 TV" group-title="ULUSAL",A2 TV
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32980.m3u8
-#EXTINF:-1 tvg-name="ATV FHD" group-title="ULUSAL",ATV FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32911.m3u8
-#EXTINF:-1 tvg-name="ATV HD" group-title="ULUSAL",ATV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32977.m3u8
-#EXTINF:-1 tvg-name="ATV HD" group-title="ULUSAL",ATV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32983.m3u8
 #EXTINF:-1 tvg-name="FOX CRIME HD" group-title="ULUSAL",FOX CRIME HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32821.m3u8
-#EXTINF:-1 tvg-name="FOX FHD" group-title="ULUSAL",FOX FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32820.m3u8
-#EXTINF:-1 tvg-name="FOX HD" group-title="ULUSAL",FOX HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32971.m3u8
 #EXTINF:-1 tvg-name="Fox Life HD" group-title="ULUSAL",Fox Life HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32819.m3u8
-#EXTINF:-1 tvg-name="FOX TV HD" group-title="ULUSAL",FOX TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33007.m3u8
 #EXTINF:-1 tvg-name="FX HD" group-title="ULUSAL",FX HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32818.m3u8
 #EXTINF:-1 tvg-name="HALK TV" group-title="ULUSAL",HALK TV
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33010.m3u8
 #EXTINF:-1 tvg-name="HALK TV HD" group-title="ULUSAL",HALK TV HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32812.m3u8
-#EXTINF:-1 tvg-name="KANAL D HD" group-title="ULUSAL",KANAL D HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32968.m3u8
-#EXTINF:-1 tvg-name="KRT TV HD" group-title="ULUSAL",KRT TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32789.m3u8
 #EXTINF:-1 tvg-name="SEMERKAND" group-title="ULUSAL",SEMERKAND
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33049.m3u8
-#EXTINF:-1 tvg-name="SHOW HD" group-title="ULUSAL",SHOW HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33050.m3u8
-#EXTINF:-1 tvg-name="SHOW HD" group-title="ULUSAL",SHOW HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32961.m3u8
 #EXTINF:-1 tvg-name="SHOW MAX HD" group-title="ULUSAL",SHOW MAX HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32718.m3u8
 #EXTINF:-1 tvg-name="Show Turk TV" group-title="ULUSAL",Show Turk TV
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32717.m3u8
-#EXTINF:-1 tvg-name="SHOW TV FHD" group-title="ULUSAL",SHOW TV FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32716.m3u8
-#EXTINF:-1 tvg-name="Sky Turk 360" group-title="ULUSAL",Sky Turk 360
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32702.m3u8
-#EXTINF:-1 tvg-name="SKY TURK 360" group-title="ULUSAL",SKY TURK 360
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33051.m3u8
-#EXTINF:-1 tvg-name="STAR HD" group-title="ULUSAL",STAR HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32960.m3u8
 #EXTINF:-1 tvg-name="Star TV Euro" group-title="ULUSAL",Star TV Euro
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32693.m3u8
-#EXTINF:-1 tvg-name="STAR TV FHD" group-title="ULUSAL",STAR TV FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32692.m3u8
-#EXTINF:-1 tvg-name="STAR TV HD" group-title="ULUSAL",STAR TV HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33055.m3u8
 #EXTINF:-1 tvg-name="TELE 1 HD TR" group-title="ULUSAL",TELE 1 HD TR
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32687.m3u8
 #EXTINF:-1 tvg-name="Teve 2 FHD" group-title="ULUSAL",Teve 2 FHD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32686.m3u8
 #EXTINF:-1 tvg-name="TEVE 2 HD" group-title="ULUSAL",TEVE 2 HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32959.m3u8
-#EXTINF:-1 tvg-name="TRT 1 FHD" group-title="ULUSAL",TRT 1 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32675.m3u8
-#EXTINF:-1 tvg-name="TRT 1 HD" group-title="ULUSAL",TRT 1 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32950.m3u8
 #EXTINF:-1 tvg-name="TRT 4K" group-title="ULUSAL",TRT 4K
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32673.m3u8
 #EXTINF:-1 tvg-name="TRT OKUL" group-title="ULUSAL",TRT OKUL
@@ -283,9 +289,7 @@ http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32947.m3u8
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32948.m3u8
 #EXTINF:-1 tvg-name="TV 2 HD" group-title="ULUSAL",TV 2 HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32955.m3u8
-#EXTINF:-1 tvg-name="TV 8 HD" group-title="ULUSAL",TV 8 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32954.m3u8
-#EXTINF:-1 tvg-name="TV 8,5" group-title="ULUSAL",TV 8,5
+#EXTINF:-1 tvg-name="TV 8,5" group-title="ULUSAL",5
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32906.m3u8
 #EXTINF:-1 tvg-name="TV NET" group-title="ULUSAL",TV NET
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33063.m3u8
@@ -293,10 +297,6 @@ http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33063.m3u8
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33064.m3u8
 #EXTINF:-1 tvg-name="TV5" group-title="ULUSAL",TV5
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33065.m3u8
-#EXTINF:-1 tvg-name="TV8 FHD" group-title="ULUSAL",TV8 FHD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32751.m3u8
-#EXTINF:-1 tvg-name="TV8 HD" group-title="ULUSAL",TV8 HD
-http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/33066.m3u8
 #EXTINF:-1 tvg-name="TV8.5 HD" group-title="ULUSAL",TV8.5 HD
 http://mu02.v2iptv.com:8880/live/YKNM1081/uE0Qg3dmOK/32826.m3u8
 #EXTINF:-1 tvg-name="TVNET HD" group-title="ULUSAL",TVNET HD
